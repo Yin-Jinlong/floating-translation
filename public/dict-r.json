@@ -1,0 +1,2503 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "rabbit": {
+    "n": {
+      "translation": ["兔子", "兔", "野兔", "兔肉"],
+      "plural": ["rabbits"]
+    },
+    "vi": {
+      "translation": ["猎兔", "捕兔"],
+      "singular": ["rabbits"],
+      "present": ["rabbiting"],
+      "past": ["rabbited"]
+    }
+  },
+  "race": {
+    "n": {
+      "translation": [
+        "比赛，竞争，角逐", "种族，人种，种", "民族", "赛跑", "<机>（滚珠轴承的）座圈，滚道", "血统", "（动植物的）属", "赛马会",
+        "<古>（日、月的）行程，历程，命数", "（水、潮的）急流，冲势，势头", "水道，沟渠", "速度竞赛", "<空>滑流，螺桨尾流",
+        "同道，同流", "<旧>（植）根茎", "（酒等的）独特风味"
+      ],
+      "plural": ["races"]
+    },
+    "v": {
+      "translation": [
+        "（和…）比赛", "使比赛", "参加比赛", "急速跳动，快速转动，运转过快", "（使）快速移动，快速运转", "（发动机）猛转",
+        "让…参加速度比赛"
+      ],
+      "singular": ["races"],
+      "present": ["racing"],
+      "past": ["raced"]
+    }
+  },
+  "racial": {
+    "adj": {
+      "translation": ["种族的", "人种的", "种族间的"]
+    }
+  },
+  "rack": {
+    "n": {
+      "translation": ["支架", "架子", "(旧时的)拉肢刑具", "(羊、猪等带前肋的)颈脊肉", "（机器的）齿条，齿轨"],
+      "plural": ["racks"]
+    },
+    "vt": {
+      "translation": ["使痛苦不堪", "使受折磨"],
+      "singular": ["racks"],
+      "present": ["racking"],
+      "past": ["racked"]
+    }
+  },
+  "racket": {
+    "n": {
+      "translation": ["(网球、羽毛球等的)球拍", "诈骗", "勒索", "喧哗", "吵闹", "墙网球"],
+      "plural": ["rackets"]
+    }
+  },
+  "radar": {
+    "n": {
+      "translation": ["雷达"],
+      "plural": ["radars"]
+    }
+  },
+  "radiate": {
+    "v": {
+      "translation": ["辐射", "(使热、光、能量)放射", "发散", "流露", "(使品质或情感)显出", "自中心辐射出", "向周围伸展"],
+      "singular": ["radiates"],
+      "present": ["radiating"],
+      "past": ["radiated"]
+    },
+    "adj": {
+      "translation": ["辐射状的", "辐射形的"]
+    }
+  },
+  "radiation": {
+    "n": {
+      "translation": ["辐射", "放射线", "放射疗法", "辐射的热(或能量等)"],
+      "plural": ["radiations"]
+    }
+  },
+  "radio": {
+    "n": {
+      "translation": ["收音机", "无线电通信", "无线电广播", "无线电传送", "无线电广播节目", "无线电收发报机"],
+      "plural": ["radios"]
+    },
+    "v": {
+      "translation": ["(用无线电)发送，传送"],
+      "singular": ["radios"],
+      "present": ["radioing"],
+      "past": ["radioed"]
+    }
+  },
+  "radioactive": {
+    "adj": {
+      "translation": ["放射性的", "有辐射的"]
+    }
+  },
+  "radioactivity": {
+    "n": {
+      "translation": ["放射性", "放射(现象)"]
+    }
+  },
+  "radish": {
+    "n": {
+      "translation": ["萝卜"],
+      "plural": ["radishes"]
+    }
+  },
+  "radium": {
+    "n": {
+      "translation": ["镭"]
+    }
+  },
+  "radius": {
+    "n": {
+      "translation": ["半径(长度)", "桡骨", "周围"],
+      "plural": ["radii"]
+    }
+  },
+  "rag": {
+    "n": {
+      "translation": ["抹布", "破布", "小报", "雷格泰姆乐曲", "慈善募捐活动", "质量低劣的报纸"],
+      "plural": ["rags"]
+    },
+    "vt": {
+      "translation": ["嘲笑", "捉弄"],
+      "singular": ["rags"],
+      "present": ["ragging"],
+      "past": ["ragged"]
+    }
+  },
+  "rage": {
+    "n": {
+      "translation": ["愤怒", "狂怒", "暴怒", "(某情况引起的)暴力行为"],
+      "plural": ["rages"]
+    },
+    "v": {
+      "translation": ["发怒", "激烈进行", "怒斥", "迅速蔓延", "猛烈地继续", "快速扩散", "外出玩个痛快"],
+      "singular": ["rages"],
+      "present": ["raging"],
+      "past": ["raged"]
+    }
+  },
+  "raid": {
+    "n": {
+      "translation": ["突袭", "抢劫", "突击检查", "突然搜查", "突然袭击", "打劫"],
+      "plural": ["raids"]
+    },
+    "vt": {
+      "translation": ["突袭", "突然搜查", "偷袭", "劫掠", "打劫", "突击搜捕"],
+      "singular": ["raids"],
+      "present": ["raiding"],
+      "past": ["raided"]
+    }
+  },
+  "rail": {
+    "n": {
+      "translation": ["栏杆", "铁路", "轨道", "扶手", "铁轨", "围栏", "(固定在墙上用以挂物品的)横杆"],
+      "plural": ["rails"]
+    },
+    "v": {
+      "translation": ["抱怨", "责骂", "怒斥"],
+      "singular": ["rails"],
+      "present": ["railing"],
+      "past": ["railed"]
+    }
+  },
+  "railroad": {
+    "n": {
+      "translation": ["铁路", "铁路公司"],
+      "plural": ["railroads"]
+    },
+    "vt": {
+      "translation": ["迫使…仓促行事", "强迫…做", "强使…草率(或草草)通过", "轻率判处"],
+      "singular": ["railroads"],
+      "present": ["railroading"],
+      "past": ["railroaded"]
+    }
+  },
+  "railway": {
+    "n": {
+      "translation": ["铁路", "铁路公司", "铁道", "铁路系统", "铁道部门"],
+      "plural": ["railways"]
+    }
+  },
+  "rain": {
+    "n": {
+      "translation": ["雨", "雨水", "(热带地区的)雨季", "雨点般降落的东西"],
+      "plural": ["rains"]
+    },
+    "v": {
+      "translation": ["下雨", "(使)大量降落，雨点般落下"],
+      "singular": ["rains"],
+      "present": ["raining"],
+      "past": ["rained"]
+    }
+  },
+  "rainbow": {
+    "n": {
+      "translation": ["虹，彩虹", "幻想", "月虹，雾虹", "五彩缤纷的排列，五花八门的聚合"],
+      "plural": ["rainbows"]
+    },
+    "adj": {
+      "translation": ["彩虹（状）的", "五彩缤纷的"]
+    },
+    "v": {
+      "translation": ["（使）呈彩虹状", "如彩虹般装饰"]
+    }
+  },
+  "rainy": {
+    "adj": {
+      "translation": ["多雨的", "阴雨的", "含雨的，带雨的", "被雨打湿的"],
+      "comparative": ["rainier"],
+      "superlative": ["rainiest"]
+    }
+  },
+  "raise": {
+    "vt": {
+      "translation": [
+        "增加，提高(数量、水平等)", "提升", "引起", "抚养", "举起", "筹款", "饲养", "提起", "提及", "终止，解除（约束）",
+        "(使)直立，站立", "使起死回生", "使自乘（若干次）", "与…取得联系，和…通话", "在（另一玩牌人）基础上加注"
+      ],
+      "singular": ["raises"],
+      "present": ["raising"],
+      "past": ["raised"]
+    },
+    "n": {
+      "translation": ["上升", "加薪", "高地"]
+    }
+  },
+  "rake": {
+    "v": {
+      "translation": [
+        "耙，粑平", "（使）倾斜", "搜寻，搜索", "扫射", "梳理", "擦", "扫视，掠过", "拨开", "用手指拢（某物）",
+        "<方>疾行，漫游", "（鹰）跟在猎物后面追飞", "成倾角", "（猎犬）鼻子貼地循臭迹追猎"
+      ],
+      "singular": ["rakes"],
+      "present": ["raking"],
+      "past": ["raked"]
+    },
+    "n": {
+      "translation": [
+        "<机>前刀面，前倾面", "耙子，耙状工具", "放荡的男人，浪子", "倾斜度（尤指剧院舞台）", "耙集，搂草，耙松", "<俚>梳子",
+        "<矿>倾伏，斜脉", "瘦骨嶙峋的马", "骨瘦如柴的人"
+      ],
+      "plural": ["rakes"]
+    }
+  },
+  "range": {
+    "n": {
+      "translation": [
+        "范围", "广泛（性）", "一系列，成套产品", "领域", "（变动或浮动的）界限，区间", "类，种", "射程", "山脉",
+        "级别，等级，阶层", "靶场", "<数>值域", "音域", "<统>极差", "牧场", "闲逛，漫游", "<美>电灶，煤气灶",
+        "生长区，分布区", "有效时段", "（车辆）加一次油可行的路程"
+      ],
+      "plural": ["ranges"]
+    },
+    "v": {
+      "translation": [
+        "(在一定的范围内)变化", "变动", "把…分类", "(按一定位置或顺序)排列", "漫游于，行遍", "徘徊",
+        "（成行或成排）绵亘，廷伸", "测定（目标）的距离", "使成平直", "用（目光）扫过", "（枪、炮、无线电、激光器等）具有特定射程",
+        "以试射修正距离", "包括(从…到…)之间的各类事物", "使跻身于行列中"
+      ],
+      "singular": ["ranges"],
+      "present": ["ranging"],
+      "past": ["ranged"]
+    },
+    "adj": {
+      "translation": ["变动", "(按一定位置或顺序)排列", "<美>牧场的", "徘徊", "包括(从…到…)之间的各类事物"]
+    }
+  },
+  "rank": {
+    "n": {
+      "translation": [
+        "等级", "(尤指较高的)地位，级别", "排", "队列，行列", "军衔", "（团体或组织的）成员", "军阶", "警衔", "普通士兵"
+      ],
+      "plural": ["ranks"]
+    },
+    "v": {
+      "translation": ["排列", "把…分等级", "使排成行", "属于某等级"],
+      "singular": ["ranks"],
+      "present": ["ranking"],
+      "past": ["ranked"]
+    },
+    "adj": {
+      "translation": ["(强调质量、状况等)极端的，糟糕的", "难闻的", "恶臭的", "疯长的"],
+      "comparative": ["ranker"],
+      "superlative": ["rankest"]
+    }
+  },
+  "rapid": {
+    "adj": {
+      "translation": ["快速的", "迅速的", "快捷的", "瞬间的", "短时间内发生的"],
+      "comparative": ["rapider"],
+      "superlative": ["rapidest"]
+    },
+    "n": {
+      "translation": ["急流", "湍流", "滩"]
+    }
+  },
+  "rapidly": {
+    "adv": {
+      "translation": ["迅速", "迅速地", "高速", "急速地", "急促"]
+    }
+  },
+  "rare": {
+    "adj": {
+      "translation": ["稀有的", "珍贵的", "稀少的", "稀罕的", "半熟的", "半生的"],
+      "comparative": ["rarer"],
+      "superlative": ["rarest"]
+    },
+    "adv": {
+      "translation": ["极"]
+    }
+  },
+  "rarely": {
+    "adv": {
+      "translation": ["很少", "罕有", "不常", "很少地"]
+    }
+  },
+  "rat": {
+    "n": {
+      "translation": [
+        "老鼠，耗子", "讨厌的人，卑鄙小人，骗子", "<口>常客", "<俚>军校新生", "不检点的女人", "<美>女用发垫"
+      ],
+      "plural": ["rats"]
+    },
+    "v": {
+      "translation": ["捕鼠", "<俚>偷", "背叛，告密，告发", "食言，背信弃义", "<美>用发垫使头发蓬松隆起"],
+      "singular": ["rats"],
+      "present": ["ratting"],
+      "past": ["ratted"]
+    }
+  },
+  "rate": {
+    "n": {
+      "translation": ["率", "速度", "价格", "比率", "费用", "进度", "房地产税，房产税"],
+      "plural": ["rates"]
+    },
+    "v": {
+      "translation": [
+        "评价", "评估", "分等", "对（电影或录像片）分级", "估价", "值得，配得上（某种对待）", "看好", "划分等级", "认为…是好的"
+      ],
+      "singular": ["rates"],
+      "present": ["rating"],
+      "past": ["rated"]
+    }
+  },
+  "rather": {
+    "adv": {
+      "translation": [
+        "相当地", "(常用于表示轻微的批评、失望或惊讶)相当，在某种程度上", "(与动词连用以减弱语气)有点儿，稍微",
+        "(纠正所说的话或提供更确切的信息)更确切地讲，更准确地说", "相反，反而，而是"
+      ]
+    },
+    "int": {
+      "translation": ["表示同意某人的提议"]
+    }
+  },
+  "ratio": {
+    "n": {
+      "translation": ["比率", "比例"],
+      "plural": ["ratios"]
+    }
+  },
+  "rational": {
+    "adj": {
+      "translation": ["合理的", "理性的", "理智的", "明智的", "清醒的"]
+    },
+    "n": {
+      "translation": ["人类", "[数]有理数", "〈英〉合理的服装", "懂道理的人", "合理的事物"],
+      "plural": ["rationals"]
+    }
+  },
+  "raw": {
+    "adj": {
+      "translation": [
+        "未经加工的", "生的", "未经处理的", "真实的", "原始的", "寒冷的", "自然状态的", "未经训练的", "未经分析的",
+        "工作生疏的", "未烹制的", "未煮的", "红肿疼痛的"
+      ],
+      "comparative": ["rawer"],
+      "superlative": ["rawest"]
+    },
+    "n": {
+      "translation": ["擦伤处"]
+    }
+  },
+  "ray": {
+    "n": {
+      "translation": [
+        "(热或其他能量的)射线", "光线", "(好事或所希望事物的)一点，少量", "魟，鳐(扁体长尾，可食用)", "大调音阶的第2音"
+      ],
+      "plural": ["rays"]
+    },
+    "vt": {
+      "translation": ["照射", "放射", "发光", "希望等）闪现", "（思想"],
+      "singular": ["rays"],
+      "present": ["raying"],
+      "past": ["rayed"]
+    }
+  },
+  "razor": {
+    "n": {
+      "translation": ["剃须刀", "刮脸刀"],
+      "plural": ["razors"]
+    }
+  },
+  "reach": {
+    "v": {
+      "translation": [
+        "达到", "到达", "实现", "抵达", "（尤指用电话）联系，与…取得联系", "被…看到（或听到）", "伸",
+        "增加到，提升到(某一水平、速度等)", "引起…的注意", "能伸到", "为某人伸手取（物）"
+      ],
+      "singular": ["reaches"],
+      "present": ["reaching"],
+      "past": ["reached"]
+    },
+    "n": {
+      "translation": ["领域，部门", "河段", "影响范围", "臂展", "波及范围", "边缘地带", "直水道"]
+    }
+  },
+  "react": {
+    "vi": {
+      "translation": ["反应", "回应", "起反应", "过敏", "起化学反应", "(对食物等)有不良反应", "发生化学变化"],
+      "singular": ["reacts"],
+      "present": ["reacting"],
+      "past": ["reacted"]
+    }
+  },
+  "reaction": {
+    "n": {
+      "translation": [
+        "反应", "化学反应", "反作用力", "回应", "副作用", "反对", "反应能力", "生理反应", "(对旧观念等的)抗拒"
+      ],
+      "plural": ["reactions"]
+    }
+  },
+  "read": {
+    "v": {
+      "translation": [
+        "阅读", "读", "写着", "学习", "朗读", "听到，听明白", "识字", "读数为", "替换", "懂得", "猜测", "读盘", "查阅到",
+        "看读数", "观唇辨意"
+      ],
+      "singular": ["reads"],
+      "present": ["reading"],
+      "past": ["read"]
+    },
+    "n": {
+      "translation": ["阅读", "读书", "好书(或文章等)"]
+    },
+    "adj": {
+      "translation": ["博学的", "熟知的", "精通的"]
+    }
+  },
+  "reader": {
+    "n": {
+      "translation": [
+        "(报刊杂志等的)读者", "电子阅读器", "读本", "读书…的人", "准教授", "阅读量大的人", "缩微软片阅读机", "简易读物"
+      ],
+      "plural": ["readers"]
+    }
+  },
+  "readily": {
+    "adv": {
+      "translation": ["轻而易举地", "乐意地", "欣然地", "便利地", "快捷地"]
+    }
+  },
+  "reading": {
+    "n": {
+      "translation": [
+        "阅读", "（仪表的）读数", "理解", "宣读", "读物", "阅读材料", "读本", "读书会", "读书活动", "议案宣读", "《圣经》章节"
+      ],
+      "plural": ["readings"]
+    },
+    "v": {
+      "translation": ["阅读", "读", "读到", "朗读", "读懂", "识字", "查阅到"]
+    }
+  },
+  "ready": {
+    "adj": {
+      "translation": [
+        "准备好的", "现成的", "准备完毕", "已完成", "聪明的", "急需", "可利用", "马上要，很可能即将（做某事）",
+        "方便使用的", "愿意迅速做某事（或给某物）"
+      ],
+      "comparative": ["readier"],
+      "superlative": ["readiest"]
+    },
+    "v": {
+      "translation": ["作好…的准备", "(为…)作好准备"],
+      "singular": ["readies"],
+      "present": ["readying"],
+      "past": ["readied"]
+    },
+    "adv": {
+      "translation": ["已做完", "已完成"]
+    },
+    "n": {
+      "translation": ["现钱"],
+      "plural": ["readies"]
+    }
+  },
+  "real": {
+    "adj": {
+      "translation": [
+        "真实的", "真正的", "实际的", "真的", "确实的", "实际存在的", "正宗的", "非人工的", "非凭空想象的", "非假冒的"
+      ]
+    },
+    "adv": {
+      "translation": ["非常", "很"]
+    },
+    "n": {
+      "translation": ["现实", "实数", "实在"],
+      "plural": ["reals"]
+    }
+  },
+  "reality": {
+    "n": {
+      "translation": [
+        "现实，实际，事实", "〈哲〉实在，实在性", "真人秀节目", "真实感，逼真感", "（尤指不愉快的或困难的）真实情况，实际情形",
+        "现实存在，真实发生的事", "实际经历，见到的事物"
+      ],
+      "plural": ["realities"]
+    }
+  },
+  "realize": {
+    "v": {
+      "translation": [
+        "实现", "认识到", "意识到", "(所担心的事)发生，产生", "理解", "把（财产等）变卖，变现", "领会", "将…变为现实",
+        "以…价格卖出", "把（概念等）具体表现出来"
+      ],
+      "singular": ["realizes"],
+      "present": ["realizing"],
+      "past": ["realized"]
+    }
+  },
+  "really": {
+    "adv": {
+      "translation": [
+        "真正地, 确实地", " (在问句或否定句中引出否定回答)真的", "很, 非常, 十分, 全然", "(强调观点等)确实, 的确",
+        "（加强形容词或副词的语气）其实, 实在", "(表明事实或真相)事实上, 实际上",
+        "（答话时表示感兴趣或惊讶）真的, 是吗, 真是的, 还真是", "真实地", "说实在的"
+      ]
+    },
+    "int": {
+      "translation": ["是的, 是啊", "真是的"]
+    },
+    "n": {
+      "translation": ["〈美俚〉正牌嬉皮士"]
+    }
+  },
+  "realm": {
+    "n": {
+      "translation": ["领域", "王国", "场所"],
+      "plural": ["realms"]
+    }
+  },
+  "reap": {
+    "v": {
+      "translation": ["收获", "收割(庄稼)", "取得(成果)"],
+      "singular": ["reaps"],
+      "present": ["reaping"],
+      "past": ["reaped"]
+    }
+  },
+  "rear": {
+    "adj": {
+      "translation": ["后面的，后部的，背部的", "（与前线相对而言的）后方的，〈军〉后尾（部队）的，殿后的"]
+    },
+    "n": {
+      "translation": [
+        "（建筑物或车辆的）后部，后面，背部", "后方", "（队列的）尾部，最后一个", "屁股，臀部", "〈军〉后卫，后尾部队（或舰队）",
+        "〈英口〉（大学男生用语）公共厕所"
+      ],
+      "plural": ["rears"]
+    },
+    "v": {
+      "translation": [
+        "饲养", "〈方〉出现", "抚养，养育，培养", "竖起，举起，抬高", "树立，建造", "（尤指可怖地）巍然耸立，高耸",
+        "（动物）用后腿直立", "培植", "发火，暴跳", "栽种"
+      ],
+      "singular": ["rears"],
+      "present": ["rearing"],
+      "past": ["reared"]
+    },
+    "adv": {
+      "translation": ["从后面，向后面，在后面"]
+    }
+  },
+  "reason": {
+    "n": {
+      "translation": ["原因", "理由", "解释", "理性", "道理", "正当理由", "情理", "理解力", "思考力"],
+      "plural": ["reasons"]
+    },
+    "v": {
+      "translation": ["推理", "理解", "思考", "推断", "推论"],
+      "singular": ["reasons"],
+      "present": ["reasoning"],
+      "past": ["reasoned"]
+    }
+  },
+  "reasonable": {
+    "adj": {
+      "translation": [
+        "合理的", "有理由的", "公平的", "不错的", "公道的", "明智的", "可以接受的", "合乎情理的", "不太贵的"
+      ]
+    }
+  },
+  "rebel": {
+    "vi": {
+      "translation": ["反抗", "背叛", "造反"],
+      "singular": ["rebels"],
+      "present": ["rebelling"],
+      "past": ["rebelled"]
+    },
+    "n": {
+      "translation": ["叛乱者", "叛逆者", "造反者", "反抗权威者", "反政府的人", "不守规矩者"],
+      "plural": ["rebels"]
+    },
+    "v": {
+      "translation": ["反抗", "背叛", "造反"],
+      "singular": ["rebels"],
+      "present": ["rebelling"],
+      "past": ["rebelled"]
+    },
+    "adj": {
+      "translation": ["反叛的"]
+    }
+  },
+  "rebellion": {
+    "n": {
+      "translation": ["叛乱", "反叛", "(对权威的)反抗，不服从", "叛逆", "谋反", "不顺从"],
+      "plural": ["rebellions"]
+    }
+  },
+  "recall": {
+    "v": {
+      "translation": ["回忆起", "召回", "使想起", "收回，召回（残损货品等）", "回想起", "使想到", "记起", "勾起"],
+      "singular": ["recalls"],
+      "present": ["recalling"],
+      "past": ["recalled"]
+    },
+    "n": {
+      "translation": ["记忆力", "召回令", "记性", "回收令", "回归请求"],
+      "plural": ["recalls"]
+    }
+  },
+  "receipt": {
+    "n": {
+      "translation": ["收据", "接收", "收到", "(企业、银行、政府等)收到的款项，收入", "收条"],
+      "plural": ["receipts"]
+    },
+    "v": {
+      "translation": ["开收据"]
+    }
+  },
+  "receive": {
+    "v": {
+      "translation": [
+        "接收", "接收到，收听到（无线电讯号）", "购买，接受（赃物）", "受到(某种待遇或伤害)", "接纳", "接（发球）", "接待",
+        "拿到", "体验", "对…作出反应"
+      ],
+      "singular": ["receives"],
+      "present": ["receiving"],
+      "past": ["received"]
+    }
+  },
+  "receiver": {
+    "n": {
+      "translation": [
+        "接受者", "电视机", "无线电接收机", "收音机", "接收者", "听筒", "受话器", "(破产公司的)财产管理人，官方接管人",
+        "购买（或接受）赃物的人", "前传球接球手"
+      ],
+      "plural": ["receivers"]
+    }
+  },
+  "recent": {
+    "adj": {
+      "translation": ["最近的", "近来的", "新近的"]
+    }
+  },
+  "recently": {
+    "adv": {
+      "translation": ["最近", "不久前"]
+    }
+  },
+  "reception": {
+    "n": {
+      "translation": [
+        "接待", "招待会", "接待处", "欢迎", "接纳", "接待区", "反应", "接收效果", "欢迎会", "反响", "接待仪式"
+      ],
+      "plural": ["receptions"]
+    }
+  },
+  "recite": {
+    "v": {
+      "translation": ["背诵", "朗诵", "(口头)列举", "(尤指对听众)吟诵", "逐一讲述"],
+      "singular": ["recites"],
+      "present": ["reciting"],
+      "past": ["recited"]
+    }
+  },
+  "recognition": {
+    "n": {
+      "translation": ["识别", "承认", "认识", "认可", "赞誉", "赏识", "认出", "奖赏"],
+      "plural": ["recognitions"]
+    }
+  },
+  "recognize": {
+    "vt": {
+      "translation": ["认识", "承认", "(正式)认可，接受，赞成", "认出", "意识到", "赞赏", "辨别出", "正式向…致谢"],
+      "singular": ["recognizes"],
+      "present": ["recognizing"],
+      "past": ["recognized"]
+    }
+  },
+  "recollect": {
+    "v": {
+      "translation": ["想起", "记得", "回忆起", "记起"],
+      "singular": ["recollects"],
+      "present": ["recollecting"],
+      "past": ["recollected"]
+    }
+  },
+  "recommend": {
+    "v": {
+      "translation": ["推荐", "建议", "介绍", "劝告", "使受欢迎", "举荐", "使显得吸引人"],
+      "singular": ["recommends"],
+      "present": ["recommending"],
+      "past": ["recommended"]
+    }
+  },
+  "recommendation": {
+    "n": {
+      "translation": ["推荐", "介绍", "提议", "推荐信", "正式建议", "求职介绍信"],
+      "plural": ["recommendations"]
+    }
+  },
+  "record": {
+    "n": {
+      "translation": [
+        "记录，记载", "〈计〉记录（指作为一个单位来处理的一组相连的数据）", "〈报刊〉纪事，纪录", "履历，历史，成绩", "案卷，档案",
+        "唱片，录制品", "（有关过去的）事实", "（尤指体育运动中）最高纪录，最佳成绩", "审判记录，议事录，记录凭证",
+        "明证，纪念品", "前科记录", "公文书"
+      ],
+      "plural": ["records"]
+    },
+    "v": {
+      "translation": [
+        "记录，记载", "标志，显示，表明，记明", "录制，录(音)，录(像)", "（尤指体育上）获得（好成绩）",
+        "登录，登记，提交（契据等）备案", "（自动仪器、仪表等）自动记录表明，标示", "演奏音乐供录制，灌（唱片）",
+        "〈古〉吟唱，（鸟）啭鸣", "发表正式（或法律方面的）声明"
+      ],
+      "singular": ["records"],
+      "present": ["recording"],
+      "past": ["recorded"]
+    },
+    "adj": {
+      "translation": ["创纪录的，空前的"]
+    }
+  },
+  "recorder": {
+    "n": {
+      "translation": ["录音机", "录像机", "(英国和美国某些地区的)刑事法院法官，法官", "记录员", "直笛", "竖笛"],
+      "plural": ["recorders"]
+    }
+  },
+  "recover": {
+    "v": {
+      "translation": ["恢复", "康复", "复原", "追回", "痊愈", "找回", "全额收回", "赢回"],
+      "singular": ["recovers"],
+      "present": ["recovering"],
+      "past": ["recovered"]
+    },
+    "n": {
+      "translation": ["恢复开始时姿势"]
+    }
+  },
+  "recovery": {
+    "n": {
+      "translation": ["恢复", "复苏", "收回", "改善", "回升", "痊愈", "取回", "复得", "监护室"],
+      "plural": ["recoveries"]
+    }
+  },
+  "red": {
+    "n": {
+      "translation": ["红色", "红葡萄酒", "激进分子", "左翼人士"],
+      "plural": ["reds"]
+    },
+    "adj": {
+      "translation": ["红色的", "红的", "通红的", "红肿的", "红褐色的", "涨红的", "充血的", "激进的", "布满血丝的"],
+      "comparative": ["redder"],
+      "superlative": ["reddest"]
+    }
+  },
+  "reduce": {
+    "v": {
+      "translation": ["减少", "使还原", "缩小(尺寸、数量、价格等)", "(使)蒸发", "减轻体重", "节食"],
+      "singular": ["reduces"],
+      "present": ["reducing"],
+      "past": ["reduced"]
+    }
+  },
+  "reduction": {
+    "n": {
+      "translation": ["减少", "降低", "还原", "缩小", "减价", "折扣", "(照片、地图、图片等的)缩图，缩版"],
+      "plural": ["reductions"]
+    }
+  },
+  "reed": {
+    "n": {
+      "translation": ["芦苇", "簧舌，簧片(金属或塑料制成，用于双簧管、单簧管等吹奏乐器)"],
+      "plural": ["reeds"]
+    }
+  },
+  "reel": {
+    "n": {
+      "translation": [
+        "卷轴", "卷筒", "卷盘", "里尔舞曲", "一卷胶卷(或金属丝、线等)", "里尔舞(流行于苏格兰、爱尔兰或美国的一种轻快舞蹈，通常由两对或四对表演)"
+      ],
+      "plural": ["reels"]
+    },
+    "vi": {
+      "translation": ["蹒跚", "踉跄", "感到震惊", "感觉心烦意乱", "摇摇晃晃地挪动", "似乎在不停旋转", "仿佛天旋地转"],
+      "singular": ["reels"],
+      "present": ["reeling"],
+      "past": ["reeled"]
+    }
+  },
+  "refer": {
+    "v": {
+      "translation": ["参考", "指", "描述", "谈及", "提到", "提及", "涉及", "称…(为)"],
+      "singular": ["refers"],
+      "present": ["referring"],
+      "past": ["referred"]
+    }
+  },
+  "reference": {
+    "n": {
+      "translation": [
+        "参考，参照，查阅", "（方便查询的）编号，标记，索引", "关系，关联", "（关于入学、谋职、信贷申请人品行、能力等情况的）查询",
+        "谈到，论及", "提交仲裁，委托处理", "（帮助或意见的）征求，征询", "参考书目", "（求职等时的）推荐人，介绍人，证明人",
+        "介绍信，推荐信", "引文，引用的观点，参考章节，引证", "（词与其所指对象之间的）相互关系，（词的）所指意义"
+      ],
+      "plural": ["references"]
+    },
+    "vt": {
+      "translation": ["提及", "附（图表、资料等）以供参考", "在（著作）末尾附加参考资料", "提出或引用……作参考"],
+      "singular": ["references"],
+      "present": ["referencing"],
+      "past": ["referenced"]
+    },
+    "adj": {
+      "translation": ["参考的，参考用的", "基准的，可作基准的"]
+    }
+  },
+  "refine": {
+    "vt": {
+      "translation": ["精炼", "改进", "改善", "提纯", "使精练", "去除杂质"],
+      "singular": ["refines"],
+      "present": ["refining"],
+      "past": ["refined"]
+    }
+  },
+  "reflect": {
+    "v": {
+      "translation": [
+        "反映", "反射(声、光、热等)", "显示，表明，表达(事物的自然属性或人们的态度、情感等)", "映出(影像)", "认真思考"
+      ],
+      "singular": ["reflects"],
+      "present": ["reflecting"],
+      "past": ["reflected"]
+    }
+  },
+  "reflection": {
+    "n": {
+      "translation": [
+        "反映", "(声、光、热等的)反射", "（关于某课题的）思考，回忆", "显示", "记录", "表达", "沉思", "映像", "映照出的影像"
+      ],
+      "plural": ["reflections"]
+    }
+  },
+  "reflexion": {
+    "n": {
+      "translation": ["反射", "反思", "思考", "反映"]
+    }
+  },
+  "reform": {
+    "v": {
+      "translation": [
+        "改革，改进，改良", "（使）改正，改造（行为），改过自新", "〈化学〉重整（油、气）", "〈美〉修订（法律等）", "改制",
+        "重新形成，重新塑造", "革除（弊病、陋习等），革除……内的弊病（或陋习）"
+      ],
+      "singular": ["reforms"],
+      "present": ["reforming"],
+      "past": ["reformed"]
+    },
+    "n": {
+      "translation": [
+        "（社会、政治等的）改造，改革，改良", "改造，改过自新", "〈美〉（法律等的）修订", "（弊病、陋习等的）革除，废除"
+      ],
+      "plural": ["reforms"]
+    },
+    "adj": {
+      "translation": ["改革的", "（犹太教）改革派的", "拥护改革的"]
+    }
+  },
+  "refresh": {
+    "v": {
+      "translation": [
+        "（使）恢复精力", "给（蓄电池）充电", "提醒，提示", "〈计〉刷新", "吃点心，喝饮料", "（使）振作精神", "使感到凉爽",
+        "使记起", "补充给养，贮入补给品", "再斟满", "使变得新鲜", "使得到补充", "（添加燃料）使（火）旺烧", "更新技能、知识",
+        "（用油漆等）将……装饰一新", "使（脱水蔬菜等）吸水返鲜", "〈烹〉（焯过的蔬菜）浸入冷水保鲜，把（食物）放在冷水里冰镇或保鲜"
+      ],
+      "singular": ["refreshes"],
+      "present": ["refreshing"],
+      "past": ["refreshed"]
+    },
+    "n": {
+      "translation": ["〈计〉刷新（网页）"]
+    }
+  },
+  "refreshment": {
+    "n": {
+      "translation": ["(在公共活动场所供应或销售的)饮料，小食", "点心", "恢复活力", "食物和饮料", "焕发精神"],
+      "plural": ["refreshments"]
+    }
+  },
+  "refrigerator": {
+    "n": {
+      "translation": ["(电)冰箱"],
+      "plural": ["refrigerators"]
+    }
+  },
+  "refuge": {
+    "n": {
+      "translation": ["避难", "避难所", "庇护", "收容所", "庇护者", "慰藉"],
+      "plural": ["refuges"]
+    },
+    "vi": {
+      "translation": ["避难", "给予…庇护", "接纳…避难躲避"],
+      "singular": ["refuges"],
+      "present": ["refuging"],
+      "past": ["refuged"]
+    }
+  },
+  "refusal": {
+    "n": {
+      "translation": ["拒绝", "回绝"],
+      "plural": ["refusals"]
+    }
+  },
+  "refuse": {
+    "v": {
+      "translation": ["拒绝", "拒绝给(所需之物)", "回绝", "推却"],
+      "singular": ["refuses"],
+      "present": ["refusing"],
+      "past": ["refused"]
+    },
+    "n": {
+      "translation": ["废弃物", "垃圾"]
+    },
+    "adj": {
+      "translation": ["无价值的"]
+    }
+  },
+  "refute": {
+    "vt": {
+      "translation": ["驳斥", "反驳", "批驳", "否认"],
+      "singular": ["refutes"],
+      "present": ["refuting"],
+      "past": ["refuted"]
+    }
+  },
+  "regard": {
+    "vt": {
+      "translation": ["将…认为", "看待", "(尤指以某种方式)注视，凝视", "把…视为"],
+      "singular": ["regards"],
+      "present": ["regarding"],
+      "past": ["regarded"]
+    },
+    "n": {
+      "translation": ["注意", "关注", "尊重", "关心", "(用于信函结尾或转达问候)致意，问候", "尊敬", "敬佩"],
+      "plural": ["regards"]
+    }
+  },
+  "regarding": {
+    "prep": {
+      "translation": ["关于", "至于"]
+    },
+    "v": {
+      "translation": ["把…视为", "看待", "(尤指以某种方式)注视，凝视", "将…认为"]
+    }
+  },
+  "regardless": {
+    "adv": {
+      "translation": ["不管", "不顾", "不加理会"]
+    },
+    "adj": {
+      "translation": ["不留心的", "毫无价值的", "不尊敬的", "不受注意的"]
+    }
+  },
+  "region": {
+    "n": {
+      "translation": [
+        "区域", "(通常界限不明的)地区", "地方", "行政区", "所有区域", "身体部位", "(一国除首都以外的)全部地区"
+      ],
+      "plural": ["regions"]
+    }
+  },
+  "register": {
+    "v": {
+      "translation": [
+        "登记", "注册", "记录", "显示(读数)", "注意到", "把…挂号邮寄", "(正式地或公开地)发表意见，提出主张", "流露出"
+      ],
+      "singular": ["registers"],
+      "present": ["registering"],
+      "past": ["registered"]
+    },
+    "n": {
+      "translation": [
+        "登记簿", "登记表", "(适合特定场合使用的)语体风格，语域", "注册簿", "调风口，节气门", "音区", "声区"
+      ],
+      "plural": ["registers"]
+    }
+  },
+  "regret": {
+    "n": {
+      "translation": ["后悔", "遗憾", "懊悔", "失望", "痛惜"]
+    },
+    "v": {
+      "translation": ["感到遗憾", "懊悔", "惋惜", "有礼貌地或正式地表示抱歉、痛惜或悲伤"],
+      "singular": ["regrets"],
+      "present": ["regretting"],
+      "past": ["regretted"]
+    }
+  },
+  "regular": {
+    "adj": {
+      "translation": [
+        "定时的，定期的", "经常的", "恒常的，常规的，循常例的", "〈天〉（卫星）规则的", "有规律的，规则的", "正常的",
+        "寻常的，普通的，一般的", "〈数〉正的，正则的", "〈军〉正规的，常备的", "固定的", "定时的", "均匀的", "频繁的",
+        "（晶体）等轴的，立方（晶）系的", "〈植〉整齐的", "〈美〉（球队等）校队第一队的，（球员等）属校队第一队的，主力的",
+        "〈口〉十足的，彻底的", "正当的", "端正的，齐整的", "符合规定的，符合手续的", "经常做（或发生）的", "匀称的",
+        "〈口〉（小儿、病人）大便正常的，一日一次排便的", "（女子）月经正常的", "靠得住的", "间隙均匀的",
+        "〈宗〉受宗教约束的，属于修道会的", "〈美〉挺不错的", "正式合格的"
+      ]
+    },
+    "n": {
+      "translation": [
+        "常客，老主顾", "普通汽油", "正式成员，固定成员，正式职工", "主力（或正式）队员", "〈宗〉（天主教修道会的）修士，修女",
+        "〈军〉正规兵，常备兵，职业军人", "一般尺寸，普通尺寸", "（电视节目的）老主持人", "经常投稿人", "一贯到场的人"
+      ],
+      "plural": ["regulars"]
+    },
+    "adv": {
+      "translation": ["经常", "非常", "完全", "按时地，定期地"]
+    }
+  },
+  "regularly": {
+    "adv": {
+      "translation": ["经常", "有规律地", "均匀地", "匀称地", "间隙均匀地"]
+    }
+  },
+  "regulate": {
+    "v": {
+      "translation": ["规定", "调节，控制(速度、压力、温度等)", "(用规则条例)约束，控制，管理"],
+      "singular": ["regulates"],
+      "present": ["regulating"],
+      "past": ["regulated"]
+    }
+  },
+  "regulation": {
+    "n": {
+      "translation": ["法规", "(运用规则条例的)管理，控制", "规则", "规章制度", "章程"],
+      "plural": ["regulations"]
+    },
+    "adj": {
+      "translation": ["规定的", "必须使用的", "必须穿戴的"]
+    }
+  },
+  "rehearsal": {
+    "n": {
+      "translation": ["排练", "排演", "预演", "演习", "复述", "重复", "叙述"],
+      "plural": ["rehearsals"]
+    }
+  },
+  "reign": {
+    "vi": {
+      "translation": ["统治", "盛行", "为王", "当政", "为君", "成为最佳", "成为最重要的", "成为最显著的"],
+      "singular": ["reigns"],
+      "present": ["reigning"],
+      "past": ["reigned"]
+    },
+    "n": {
+      "translation": ["君主统治时期", "任期", "当政期"],
+      "plural": ["reigns"]
+    }
+  },
+  "rein": {
+    "n": {
+      "translation": ["控制", "缰绳", "掌管", "主宰", "(幼儿佩戴以防走失的)保护带"],
+      "plural": ["reins"]
+    },
+    "v": {
+      "translation": ["控制", "驾驭", "勒住"],
+      "singular": ["reins"],
+      "present": ["reining"],
+      "past": ["reined"]
+    }
+  },
+  "reinforce": {
+    "vt": {
+      "translation": ["加强", "加固", "充实", "使更强大", "使更结实", "使更强烈", "给…加强力量(或装备)"],
+      "singular": ["reinforces"],
+      "present": ["reinforcing"],
+      "past": ["reinforced"]
+    },
+    "n": {
+      "translation": ["加固物"]
+    }
+  },
+  "reject": {
+    "vt": {
+      "translation": [
+        "拒绝", "排斥，排异（移植的器官）", "拒收", "拒绝接纳", "不予考虑", "不够关心", "不录用", "(因质量差)不出售", "不出版"
+      ],
+      "singular": ["rejects"],
+      "present": ["rejecting"],
+      "past": ["rejected"]
+    },
+    "n": {
+      "translation": ["废品", "次品", "不合格者", "被拒收者", "被剔除者"],
+      "plural": ["rejects"]
+    }
+  },
+  "rejoice": {
+    "v": {
+      "translation": ["高兴", "深感欣喜"],
+      "singular": ["rejoices"],
+      "present": ["rejoicing"],
+      "past": ["rejoiced"]
+    }
+  },
+  "relate": {
+    "vt": {
+      "translation": ["联系", "讲(故事)", "把…联系起来", "叙述", "使有联系", "讲述"],
+      "singular": ["relates"],
+      "present": ["relating"],
+      "past": ["related"]
+    }
+  },
+  "relation": {
+    "n": {
+      "translation": ["关系", "(事物之间的)关联", "(人、团体、国家之间的)联系", "交往", "亲属", "亲戚"],
+      "plural": ["relations"]
+    }
+  },
+  "relationship": {
+    "n": {
+      "translation": ["关系", "(人、团体、国家之间的)联系", "(事物之间的)关联", "血缘关系", "情爱关系", "性爱关系"],
+      "plural": ["relationships"]
+    }
+  },
+  "relative": {
+    "adj": {
+      "translation": ["相对的", "比较的", "关于（或涉及到）…的", "相关联的", "相比较而言的", "相比之下存在(或有)的"]
+    },
+    "n": {
+      "translation": ["亲戚", "亲属", "同类事物"],
+      "plural": ["relatives"]
+    }
+  },
+  "relatively": {
+    "adv": {
+      "translation": ["相对地", "相当地", "相当程度上"]
+    }
+  },
+  "relativity": {
+    "n": {
+      "translation": ["相对论", "相对性"]
+    }
+  },
+  "relax": {
+    "v": {
+      "translation": [
+        "放松", "(使)放松，松懈", "放宽（限制等）", "休息", "(使)冷静，放心，镇定", "松开", "放松精神（或思想）", "宽慰"
+      ],
+      "singular": ["relaxes"],
+      "present": ["relaxing"],
+      "past": ["relaxed"]
+    }
+  },
+  "release": {
+    "vt": {
+      "translation": [
+        "释放", "松开", "免除，解除", "公开", "放出", "开放", "放开", "发泄", "放走", "宣泄",
+        "使自由移动(或飞翔、降落等)", "使不紧张"
+      ],
+      "singular": ["releases"],
+      "present": ["releasing"],
+      "past": ["released"]
+    },
+    "n": {
+      "translation": ["释放", "发布", "发行", "排放", "获释", "公开", "解脱", "(尤指)新激光唱片，新电影", "新发行的东西"]
+    }
+  },
+  "relevant": {
+    "adj": {
+      "translation": ["相关的", "有意义的", "有价值的", "切题的"]
+    }
+  },
+  "reliability": {
+    "n": {
+      "translation": ["可靠性"],
+      "plural": ["reliabilities"]
+    }
+  },
+  "reliable": {
+    "adj": {
+      "translation": ["可信赖的，可依靠的", "（信息）真实可信的，确凿的", "可靠度高的", "（经反复试验）可得出相同结果的"]
+    },
+    "n": {
+      "translation": ["可靠的人（或物）"]
+    }
+  },
+  "reliance": {
+    "n": {
+      "translation": ["依赖", "依靠", "信任"],
+      "plural": ["reliances"]
+    }
+  },
+  "relief": {
+    "n": {
+      "translation": [
+        "救济", "浮雕", "消除", "(焦虑、痛苦等的)减轻", "解脱", "宽慰", "轻松", "缓和", "救济金", "调剂，轻松场面",
+        "（被困城镇等的）解困，解围", "救援物品", "替班者", "醒目效果"
+      ],
+      "plural": ["reliefs"]
+    }
+  },
+  "relieve": {
+    "vt": {
+      "translation": [
+        "解除，减轻，缓和(不快或痛苦)", "减轻(问题的严重性)", "缓解", "缓和", "方便，解手", "接替", "使有趣", "调剂", "将解围"
+      ],
+      "singular": ["relieves"],
+      "present": ["relieving"],
+      "past": ["relieved"]
+    }
+  },
+  "religion": {
+    "n": {
+      "translation": ["宗教", "宗教信仰", "教派", "重大的影响", "特别的兴趣"],
+      "plural": ["religions"]
+    }
+  },
+  "religious": {
+    "adj": {
+      "translation": ["宗教的", "宗教信仰的", "虔诚的", "笃信宗教的"]
+    },
+    "n": {
+      "translation": ["修士", "修女", "出家人"],
+      "plural": ["religious"]
+    }
+  },
+  "reluctant": {
+    "adj": {
+      "translation": ["不情愿的", "勉强的"]
+    }
+  },
+  "rely": {
+    "v": {
+      "translation": ["依赖", "依靠", "信赖"],
+      "singular": ["relies"],
+      "present": ["relying"],
+      "past": ["relied"]
+    }
+  },
+  "remain": {
+    "v": {
+      "translation": [
+        "留下，逗留，停留", "剩余，余留", "保留，坚持（观点、态度或信念）", "保持不变", "仍然存在，继续存在",
+        "（事实、问题等）仍然是（表示强调）", "（最后）属于", "（最后）取决于", "尚待，留待", "仍需去做（或说、处理）"
+      ],
+      "singular": ["remains"],
+      "present": ["remaining"],
+      "past": ["remained"]
+    },
+    "n": {
+      "translation": ["剩余物，残余（物）", "遗体，残骸", "（历史）遗迹，残迹"]
+    }
+  },
+  "remains": {
+    "n": {
+      "translation": ["残余", "遗骸", "遗体", "遗迹", "遗址", "残留物", "古迹", "剩余物", "古代遗物", "剩饭菜"]
+    },
+    "v": {
+      "translation": ["仍然是", "剩余", "保持不变", "遗留", "继续存在", "仍需去做(或说、处理)"]
+    }
+  },
+  "remark": {
+    "n": {
+      "translation": ["言论", "评论", "引人注目", "谈论", "评述", "显耀"],
+      "plural": ["remarks"]
+    },
+    "v": {
+      "translation": ["评论", "谈论", "说起"],
+      "singular": ["remarks"],
+      "present": ["remarking"],
+      "past": ["remarked"]
+    }
+  },
+  "remarkable": {
+    "adj": {
+      "translation": ["非凡的", "显著的", "引人注目的", "奇异的"]
+    }
+  },
+  "remedy": {
+    "n": {
+      "translation": ["救济", "治疗", "补偿", "疗法", "药品", "(通过法律程序的)解决方法", "处理方法", "改进措施"],
+      "plural": ["remedies"]
+    },
+    "vt": {
+      "translation": ["纠正", "改进", "改正"],
+      "singular": ["remedies"],
+      "present": ["remedying"],
+      "past": ["remedied"]
+    }
+  },
+  "remember": {
+    "v": {
+      "translation": [
+        "记得", "记住", "记着，不忘（去做）", "想起", "记起", "纪念", "回想起", "把…牢记在心", "给…送钱（或礼品等）"
+      ],
+      "singular": ["remembers"],
+      "present": ["remembering"],
+      "past": ["remembered"]
+    }
+  },
+  "remind": {
+    "vt": {
+      "translation": ["提醒", "使想起"],
+      "singular": ["reminds"],
+      "present": ["reminding"],
+      "past": ["reminded"]
+    }
+  },
+  "remote": {
+    "adj": {
+      "translation": [
+        "遥远的", "偏远的", "远程的", "偏僻的", "久远的", "细微的", "远亲的", "相差很大的", "关系较远的", "不很友好的"
+      ],
+      "comparative": ["remoter"],
+      "superlative": ["remotest"]
+    },
+    "n": {
+      "translation": ["远程"]
+    }
+  },
+  "removal": {
+    "n": {
+      "translation": ["去除", "除去", "清除", "消除", "移动", "免职", "搬迁", "调动", "解职"],
+      "plural": ["removals"]
+    }
+  },
+  "remove": {
+    "vt": {
+      "translation": [
+        "去除", "去掉", "排除(污渍、不愉快的事物等)", "免除，解除（职务等）", "移开", "使消失", "脱去(衣服等)", "摘下",
+        "拿开", "从…机构开除"
+      ],
+      "singular": ["removes"],
+      "present": ["removing"],
+      "past": ["removed"]
+    },
+    "n": {
+      "translation": ["距离", "间距", "差距"]
+    }
+  },
+  "render": {
+    "vt": {
+      "translation": ["提供", "使成为", "使变得", "提交", "给予", "递交", "回报", "呈献", "使处于某状态"],
+      "singular": ["renders"],
+      "present": ["rendering"],
+      "past": ["rendered"]
+    },
+    "v": {
+      "translation": ["提供", "提交", "给予", "翻译", "表达", "（用不同的语言）表达", "粉刷", "将（脂肪）熬成油"],
+      "singular": ["renders"],
+      "present": ["rendering"],
+      "past": ["rendered"]
+    },
+    "n": {
+      "translation": ["抹灰", "粉刷", "(墙壁的)初涂", "精制油"]
+    }
+  },
+  "renew": {
+    "vt": {
+      "translation": ["更新", "重申", "重新开始", "延长…的期限", "使继续有效", "重复强调", "中止后继续"],
+      "singular": ["renews"],
+      "present": ["renewing"],
+      "past": ["renewed"]
+    }
+  },
+  "rent": {
+    "n": {
+      "translation": [
+        "租金，租费", "房租", "收入，收益", "地租", "撕裂", "（设备、机器等的）租（用）费", "〈经〉经济收益，经济租金",
+        "出租的房屋（或土地）", "（政党、组织等的）分裂，破裂", "〈俚〉（犯罪活动或在男子同性关系中出卖肉体所得的）酬金",
+        "裂缝，缝隙", "峡谷", "房地产收益", "破裂处", "（布、衣服等上的）破洞，裂处"
+      ],
+      "plural": ["rents"]
+    },
+    "v": {
+      "translation": ["租用，租借（房屋、土地、机器等）", "出租，出借", "〈俚〉从……处得到非法酬金"],
+      "singular": ["rents"],
+      "present": ["renting"],
+      "past": ["rented"]
+    },
+    "adj": {
+      "translation": ["撕裂的", "分裂的，破裂的"]
+    }
+  },
+  "repair": {
+    "vt": {
+      "translation": ["修理", "修补", "修缮", "补救", "纠正", "弥补"],
+      "singular": ["repairs"],
+      "present": ["repairing"],
+      "past": ["repaired"]
+    },
+    "n": {
+      "translation": ["修理", "修补", "修缮"],
+      "plural": ["repairs"]
+    }
+  },
+  "repeat": {
+    "v": {
+      "translation": [
+        "重复", "复述，跟读（尤指为学习）", "（强调说过的话）再说一遍", "重复发生", "再次发生", "重做", "重写", "转述",
+        "重说", "留有余味", "重新推出"
+      ],
+      "singular": ["repeats"],
+      "present": ["repeating"],
+      "past": ["repeated"]
+    },
+    "n": {
+      "translation": ["重复的事件", "重复段", "反复部分", "重播的电视(或广播)节目", "重演的事物"],
+      "plural": ["repeats"]
+    }
+  },
+  "repeatedly": {
+    "adv": {
+      "translation": ["重复地", "反复地", "再三地"]
+    }
+  },
+  "repent": {
+    "v": {
+      "translation": ["后悔", "忏悔", "悔过"],
+      "singular": ["repents"],
+      "present": ["repenting"],
+      "past": ["repented"]
+    },
+    "adj": {
+      "translation": ["匍匐生根的", "爬行的"]
+    }
+  },
+  "repetition": {
+    "n": {
+      "translation": ["重复", "重做", "重说的话", "重说", "重做的事"],
+      "plural": ["repetitions"]
+    }
+  },
+  "replace": {
+    "vt": {
+      "translation": ["更换", "(用…)替换", "取代", "代替", "更新", "(以…)接替", "把…放回原处"],
+      "singular": ["replaces"],
+      "present": ["replacing"],
+      "past": ["replaced"]
+    }
+  },
+  "reply": {
+    "v": {
+      "translation": ["回复", "回答", "答复", "回应", "作出反应"],
+      "singular": ["replies"],
+      "present": ["replying"],
+      "past": ["replied"]
+    },
+    "n": {
+      "translation": ["答复", "回答"],
+      "plural": ["replies"]
+    }
+  },
+  "report": {
+    "v": {
+      "translation": [
+        "汇报", "报道", "报告", "发表", "公布", "举报", "通报", "宣布", "报到", "(不知传言是否确凿)据说，传闻"
+      ],
+      "singular": ["reports"],
+      "present": ["reporting"],
+      "past": ["reported"]
+    },
+    "n": {
+      "translation": ["报告", "报道", "汇报", "调查报告", "传闻", "记述", "成绩报告单", "爆炸声"],
+      "plural": ["reports"]
+    }
+  },
+  "reporter": {
+    "n": {
+      "translation": ["记者", "通讯员"],
+      "plural": ["reporters"]
+    }
+  },
+  "represent": {
+    "v": {
+      "translation": [
+        "代表，表示", "（在竞赛或体育赛事中）代表（国家或地区）", "（标志或符号）意味着，代表着，标志着",
+        "描绘，（形象地）表现，描写", "代理（个人或团体）", "代表（个人或团体）出席", "使有代表性，使有代表作", "使呈现",
+        "陈述，诉说", "象征", "展示", "相当于，相等于", "作为……的代表（代言人）", "表述", "想象，设想", "演出，扮演",
+        "提出异议，提出抗议", "维护……的利益", "回想", "再提出", "作为……的象征", "典型地反映", "成为……实例，成为典型",
+        "再呈现", "抗议说", "再递交", "再上演，再演出", "集中地体现", "再赠送"
+      ],
+      "singular": ["represents"],
+      "present": ["representing"],
+      "past": ["represented"]
+    }
+  },
+  "representative": {
+    "n": {
+      "translation": ["代表", "销售代表", "（美国）众议院议员", "销售代理", "典型人物", "代表他人者", "代销人"],
+      "plural": ["representatives"]
+    },
+    "adj": {
+      "translation": ["典型的", "有代表性的", "由代表组成的", "可作为典型(或示例)的", "代表各类人(或事物)的"]
+    }
+  },
+  "reproach": {
+    "n": {
+      "translation": ["责备", "批评", "羞耻", "丢脸", "没面子", "（给…）带来羞辱的人（或事）", "责备的话语", "批评的言辞"],
+      "plural": ["reproaches"]
+    },
+    "v": {
+      "translation": ["责备", "指责", "自责", "批评", "(为…)感到内疚"],
+      "singular": ["reproaches"],
+      "present": ["reproaching"],
+      "past": ["reproached"]
+    }
+  },
+  "reproduce": {
+    "v": {
+      "translation": ["复制", "再现", "繁殖", "再生产", "生育", "再制造", "使再次发生"],
+      "singular": ["reproduces"],
+      "present": ["reproducing"],
+      "past": ["reproduced"]
+    }
+  },
+  "republic": {
+    "n": {
+      "translation": ["共和国", "共和政体"],
+      "plural": ["republics"]
+    }
+  },
+  "republican": {
+    "adj": {
+      "translation": [
+        "共和国的", "共和党的", "共和政体的", "北爱尔兰共和主义者的", "拥护共和政体的", "支持北爱尔兰共和主义者的"
+      ]
+    },
+    "n": {
+      "translation": [
+        "共和主义者", "共和党党员", "共和党的支持者", "北爱尔兰共和主义者(认为北爱尔兰应脱离英国回归爱尔兰共和国)",
+        "拥护共和政体的人"
+      ],
+      "plural": ["republicans"]
+    }
+  },
+  "reputation": {
+    "n": {
+      "translation": ["名誉", "名声"],
+      "plural": ["reputations"]
+    }
+  },
+  "reverse": {
+    "v": {
+      "translation": [
+        "颠倒", "使反转", "撤销，废除(决定、法律等)", "交换（位置或功能）", "使完全相反", "（使）倒退行驶", "使次序颠倒",
+        "彻底转变", "承认错误", "打对方付费的电话"
+      ],
+      "singular": ["reverses"],
+      "present": ["reversing"],
+      "past": ["reversed"]
+    },
+    "n": {
+      "translation": ["背面", "反面", "损失", "倒挡", "后面", "相反的情况(或事物)"],
+      "plural": ["reverses"]
+    },
+    "adj": {
+      "translation": ["反向的", "相反的", "背面的", "反面的", "后面的"]
+    }
+  },
+  "review": {
+    "n": {
+      "translation": [
+        "回顾", "报告", "评审，审查，检查，检讨(以进行必要的修改)", "(对书籍、戏剧、电影等的)评介，评论", "述评", "汇报",
+        "温习课，复习课", "阅兵式"
+      ],
+      "plural": ["reviews"]
+    },
+    "vt": {
+      "translation": [
+        "回顾", "温习，复习", "复查", "反思", "检阅（部队）", "评介", "重新考虑", "写(关于书籍、戏剧、电影等的)评论", "校阅"
+      ],
+      "singular": ["reviews"],
+      "present": ["reviewing"],
+      "past": ["reviewed"]
+    }
+  },
+  "revise": {
+    "v": {
+      "translation": ["修改", "修订(书刊、估算等)", "改变(意见或计划)", "复习", "温习"],
+      "singular": ["revises"],
+      "present": ["revising"],
+      "past": ["revised"]
+    },
+    "n": {
+      "translation": ["校订", "再校样"]
+    }
+  },
+  "revolt": {
+    "n": {
+      "translation": ["反抗", "起义", "叛乱", "(尤指针对政府的)违抗"],
+      "plural": ["revolts"]
+    },
+    "v": {
+      "translation": ["反抗", "反叛(当权者)", "叛逆", "令人厌恶", "使惊骇", "违抗"],
+      "singular": ["revolts"],
+      "present": ["revolting"],
+      "past": ["revolted"]
+    }
+  },
+  "revolution": {
+    "n": {
+      "translation": ["革命", "(环绕中心点的)旋转", "大变革", "巨变", "(尤指)天体运行"],
+      "plural": ["revolutions"]
+    }
+  },
+  "revolutionary": {
+    "adj": {
+      "translation": ["革命的", "革命性的", "巨变的", "彻底变革的"]
+    },
+    "n": {
+      "translation": ["(支持)改革者", "(尤指)革命者，革命支持者"],
+      "plural": ["revolutionaries"]
+    }
+  },
+  "reward": {
+    "n": {
+      "translation": ["奖励", "回报", "报酬", "悬赏金", "赏格"],
+      "plural": ["rewards"]
+    },
+    "vt": {
+      "translation": ["奖励", "奖赏", "给以报酬"],
+      "singular": ["rewards"],
+      "present": ["rewarding"],
+      "past": ["rewarded"]
+    }
+  },
+  "rhythm": {
+    "n": {
+      "translation": ["节奏", "节律", "韵律", "规律", "律动", "规则变化"],
+      "plural": ["rhythms"]
+    }
+  },
+  "rib": {
+    "n": {
+      "translation": ["肋骨", "（织物的）凸条花纹，罗纹", "排骨", "(船或屋顶等的)肋拱，肋材"],
+      "plural": ["ribs"]
+    },
+    "vt": {
+      "translation": ["开(某人的)玩笑", "嘲笑", "逗弄"],
+      "singular": ["ribs"],
+      "present": ["ribbing"],
+      "past": ["ribbed"]
+    }
+  },
+  "ribbon": {
+    "n": {
+      "translation": ["丝带", "色带", "(用于捆绑或装饰的)带子", "带状物", "绶带", "勋带", "狭长的东西"],
+      "plural": ["ribbons"]
+    },
+    "v": {
+      "translation": ["装上丝带", "加上带状条纹", "把…撕成长带", "形成带状"]
+    }
+  },
+  "rice": {
+    "n": {
+      "translation": ["大米", "稻米", "稻"]
+    },
+    "vt": {
+      "translation": ["筛选"],
+      "singular": ["rices"],
+      "present": ["ricing"],
+      "past": ["riced"]
+    }
+  },
+  "rich": {
+    "adj": {
+      "translation": [
+        "富有的", "富饶的", "肥沃的", "强烈的", "油腻的", "非常有趣的", "大量含有（或提供）", "华丽而昂贵的"
+      ],
+      "comparative": ["richer"],
+      "superlative": ["richest"]
+    },
+    "n": {
+      "translation": ["富人", "有钱人"]
+    }
+  },
+  "rid": {
+    "v": {
+      "translation": ["摆脱", "消除", "去掉"],
+      "singular": ["rids"],
+      "present": ["ridding"],
+      "past": ["rid"]
+    },
+    "adj": {
+      "translation": ["得到解脱的", "摆脱…的"]
+    }
+  },
+  "riddle": {
+    "n": {
+      "translation": ["谜", "谜语", "神秘事件", "无法解释的情况"],
+      "plural": ["riddles"]
+    },
+    "vt": {
+      "translation": ["使布满窟窿"],
+      "singular": ["riddles"],
+      "present": ["riddling"],
+      "past": ["riddled"]
+    }
+  },
+  "ride": {
+    "v": {
+      "translation": ["骑", "骑马(消遣)", "驾驶", "搭乘", "穿越，翻越", "漂浮", "数落", "驾驭马匹"],
+      "singular": ["rides"],
+      "present": ["riding"],
+      "past": ["rode", "ridden"]
+    },
+    "n": {
+      "translation": ["(乘车或骑车的)短途旅程", "(乘坐汽车等的)旅行", "供乘骑的游乐设施"]
+    }
+  },
+  "rider": {
+    "n": {
+      "translation": ["骑手", "骑马(或自行车、摩托车)的人", "附文", "公文的附加材料"],
+      "plural": ["riders"]
+    }
+  },
+  "ridge": {
+    "n": {
+      "translation": ["山脊", "脊", "隆起", "山脉", "垄", "(大气层的)高压脊，高压带"],
+      "plural": ["ridges"]
+    },
+    "vt": {
+      "translation": ["使隆起", "使形成脊状"]
+    }
+  },
+  "ridiculous": {
+    "adj": {
+      "translation": ["荒谬的", "荒唐的", "愚蠢的"]
+    }
+  },
+  "rifle": {
+    "n": {
+      "translation": ["步枪", "来复枪"],
+      "plural": ["rifles"]
+    },
+    "v": {
+      "translation": ["偷窃", "盗取", "快速搜寻", "匆忙翻找", "猛踢(足球)"],
+      "singular": ["rifles"],
+      "present": ["rifling"],
+      "past": ["rifled"]
+    }
+  },
+  "right": {
+    "adj": {
+      "translation": [
+        "正确的", "适当的", "右边的", "（强调坏事）真正的，完全的", "真正的", "正常", "正当", "恰当的",
+        "（意见或判断）准确，确切，恰当", "正好的", "真实的", "妥当"
+      ]
+    },
+    "adv": {
+      "translation": [
+        "在右边", "一直", "立即", "马上", "正好", "顺利", "正确地", "恰好", "径直", "直接地", "完全地", "毫不耽搁"
+      ]
+    },
+    "n": {
+      "translation": [
+        "权利", "正确", "右边", "版权", "公正", "正当", "正义", "右派", "右拐", "发行权", "正当的要求", "右手拳", "右边的路"
+      ],
+      "plural": ["rights"]
+    },
+    "vt": {
+      "translation": ["向右", "纠正", "改正", "使…直立", "使恢复正常", "把…扶正", "使回到正常位置"],
+      "singular": ["rights"],
+      "present": ["righting"],
+      "past": ["righted"]
+    },
+    "int": {
+      "translation": ["对不", "是的，好的", "是吗，好哇", "(引起注意，表示已作好准备或让别人做某事)嗨，喂"]
+    }
+  },
+  "rigid": {
+    "adj": {
+      "translation": [
+        "（不弯曲、不拉伸而）具刚性的，刚硬的，坚硬的，坚固的，僵硬的", "（法律、制度或体系）严格的，刻板的，不可变更的", "精确的",
+        "精确的", "严密的", "〈空〉硬式的（指有坚固定形外壳容纳容气器的）", "固执的，顽固的", "严格死板的，苛严的",
+        "（常因震惊或害怕）身体僵直的，不能动弹的，呆住的", "固执僵化的", "严厉而不通融的"
+      ]
+    },
+    "n": {
+      "translation": ["〈空〉硬式飞艇"]
+    }
+  },
+  "ring": {
+    "n": {
+      "translation": [
+        "戒指", "铃声", "圆形", "(言语、声音等的)特性", "指环", "团伙，帮派，集团", "钟声", "环状物", "敲钟", "摇铃",
+        "圆形标记", "炉口", "圆形表演场（或竞技场）", "圈形的东西", "清晰的响声"
+      ],
+      "plural": ["rings"]
+    },
+    "v": {
+      "translation": [
+        "环绕", "给…打电话", "包围", "充满", "回响", "嗡嗡作响", "把…圈起来", "(使)发出钟声，响起铃声", "绕…画圆",
+        "给…戴上金属环(以便将来辨认)"
+      ],
+      "singular": ["rings"],
+      "present": ["ringing"],
+      "past": ["rang", "rung"]
+    }
+  },
+  "ripe": {
+    "adj": {
+      "translation": ["成熟的", "时机成熟的", "强烈的", "口味浓郁的", "难闻的", "醇美可口的"],
+      "comparative": ["riper"],
+      "superlative": ["ripest"]
+    }
+  },
+  "ripen": {
+    "v": {
+      "translation": ["(使)成熟"],
+      "singular": ["ripens"],
+      "present": ["ripening"],
+      "past": ["ripened"]
+    }
+  },
+  "rise": {
+    "vi": {
+      "translation": [
+        "上升", "（数量）增加，增长，提高", "提高", "升起", "攀升", "增强", "站起来", "起床", "复活", "起立", "耸立",
+        "发酵", "起义", "凸起", "竖起", "起源", "休会", "脸红", "刮起来", "达到较高水平(或位置)", "变得更加成功"
+      ],
+      "singular": ["rises"],
+      "present": ["rising"],
+      "past": ["rose", "risen"]
+    },
+    "n": {
+      "translation": ["上升", "(数量或水平的)增加，提高", "增强", "加薪", "斜坡", "工资增长"]
+    }
+  },
+  "risk": {
+    "n": {
+      "translation": ["风险", "危险", "(风险很小或很大的)借款人，保险对象", "危险人物", "会带来风险的事物"],
+      "plural": ["risks"]
+    },
+    "vt": {
+      "translation": ["冒…的风险(或危险)", "使…冒风险(或面临危险)", "冒险做", "(明知结果而)大胆做"],
+      "singular": ["risks"],
+      "present": ["risking"],
+      "past": ["risked"]
+    }
+  },
+  "rival": {
+    "n": {
+      "translation": ["竞争对手"],
+      "plural": ["rivals"]
+    },
+    "vt": {
+      "translation": ["与…相匹敌", "比得上"],
+      "singular": ["rivals"],
+      "present": ["rivalling"],
+      "past": ["rivalled"]
+    },
+    "adj": {
+      "translation": ["竞争的"]
+    }
+  },
+  "river": {
+    "n": {
+      "translation": ["河", "江", "(液体)涌流"],
+      "plural": ["rivers"]
+    }
+  },
+  "road": {
+    "n": {
+      "translation": ["道路", "公路", "方法", "途径", "路子", "(用于道路名称，尤指城镇的)路"],
+      "plural": ["roads"]
+    }
+  },
+  "roar": {
+    "v": {
+      "translation": ["咆哮", "吼叫", "熊熊燃烧", "放声大笑", "叫喊", "呼啸而行", "大声地说"],
+      "singular": ["roars"],
+      "present": ["roaring"],
+      "past": ["roared"]
+    },
+    "n": {
+      "translation": ["咆哮", "吼叫", "(风或海的)呼啸声", "(机器的)隆隆声"]
+    }
+  },
+  "roast": {
+    "v": {
+      "translation": ["烤", "烘烤", "炒(坚果、豆子等)", "焙(肉等)", "烘", "(对某人)严厉批评", "曝晒"],
+      "singular": ["roasts"],
+      "present": ["roasting"],
+      "past": ["roasted"]
+    },
+    "n": {
+      "translation": ["烤肉", "户外烧烤野餐", "耍笑庆祝会(常为宴会，讲述主角的滑稽事)"],
+      "plural": ["roasts"]
+    },
+    "adj": {
+      "translation": ["烤的", "焙的"]
+    }
+  },
+  "rob": {
+    "v": {
+      "translation": [
+        "抢，盗窃……的财物", "〈足〉抢（对手的）球", "使丧失", "行劫", "〈口〉敲诈，向……漫天要价", "非法剥夺",
+        "抢劫（银行、店铺等）", "盗窃（容器）里的东西"
+      ],
+      "singular": ["robs"],
+      "present": ["robbing"],
+      "past": ["robbed"]
+    }
+  },
+  "robber": {
+    "n": {
+      "translation": ["强盗", "抢劫犯", "盗贼"],
+      "plural": ["robbers"]
+    }
+  },
+  "robbery": {
+    "n": {
+      "translation": ["抢劫", "盗窃", "掠夺"],
+      "plural": ["robberies"]
+    }
+  },
+  "robe": {
+    "n": {
+      "translation": ["长袍", "袍服，礼袍(常于典礼中穿着以显示身份)"],
+      "plural": ["robes"]
+    },
+    "vt": {
+      "translation": ["(给某人)穿上礼袍"]
+    }
+  },
+  "robot": {
+    "n": {
+      "translation": ["(尤指故事中的)机器人", "交通信号灯"],
+      "plural": ["robots"]
+    }
+  },
+  "rock": {
+    "n": {
+      "translation": ["岩石", "摇滚乐", "碎石", "礁石", "岩块", "宝石", "石山", "棒棒糖", "巨石块", "可信赖的人"],
+      "plural": ["rocks"]
+    },
+    "v": {
+      "translation": [
+        "很好", "使震惊", "使害怕", "惊吓", "(使)轻轻摇晃，缓缓摆动", "(使)剧烈摇摆，猛烈晃动", "随摇滚乐跳舞"
+      ],
+      "singular": ["rocks"],
+      "present": ["rocking"],
+      "past": ["rocked"]
+    }
+  },
+  "rocket": {
+    "n": {
+      "translation": ["火箭(弹)", "火箭武器", "烟花", "焰火", "大蒜芥"],
+      "plural": ["rockets"]
+    },
+    "v": {
+      "translation": ["猛增", "快速增长", "用火箭弹攻击", "(使)迅速成功，迅速提高地位", "迅速移动"],
+      "singular": ["rockets"],
+      "present": ["rocketing"],
+      "past": ["rocketed"]
+    }
+  },
+  "rod": {
+    "n": {
+      "translation": [
+        "（木质、金属或塑料）杆，竿", "〈机〉连杆", "手柄", "避雷针", "钓竿", "〈测〉标尺，标杆", "棒条", "（货车车厢下的）牵引杆",
+        "（责打人用的）棍棒，笞鞭", "手杖", "鞭笞，杖责，惩罚", "〈美口〉手枪", "（君王等手执的）权杖", "权力，权威", "枝条把",
+        "杆（或竿、棒）状物", "柳条", "〈解〉视网膜杆", "钓鱼人", "专制统治", "〈美口〉改装成的高速汽车（或赛车）", "树枝条",
+        "牧羊杖"
+      ],
+      "plural": ["rods"]
+    },
+    "vt": {
+      "translation": [
+        "用杆捅清（容器）", "用杆夯平（或夯实、捣碎）（混凝土等）", "给……装置避雷针", "〈美俚〉把（汽车）改装成高速汽车（或赛车）"
+      ]
+    }
+  },
+  "role": {
+    "n": {
+      "translation": ["(演员的)角色", "作用", "地位", "职能", "影响程度"],
+      "plural": ["roles"]
+    }
+  },
+  "roll": {
+    "n": {
+      "translation": [
+        "卷", "翻滚", "卷轴", "摇晃", "掷骰子", "小圆面包", "花名册", "隆隆声", "一管",
+        "脂肪堆积的部位，肥胖的部位（尤指腰部）", "小面包条"
+      ],
+      "plural": ["rolls"]
+    },
+    "v": {
+      "translation": [
+        "(使)翻滚，滚动", "启动", "（用某物）包裹，覆盖", "(使)翻身，翻转", "把（衣服的边）卷起来", "（使）摇摆，摇晃", "使平坦",
+        "使…成球状（或管状）", "(使)原地转圈，原地打转", "发出持续的声音"
+      ],
+      "singular": ["rolls"],
+      "present": ["rolling"],
+      "past": ["rolled"]
+    }
+  },
+  "roller": {
+    "n": {
+      "translation": [
+        "滚子，碾子", "滚轮", "滚筒", "滚柱", "压路机，路碾", "滚轴", "轧辊", "〈印〉墨辊", "卷发筒", "〈美〉警察", "绷带卷",
+        "滚轧机，碾轧机", "涂料（或墙纸）辊", "金丝雀", "卷浪，长涌", "〈鸟〉佛法僧（一种飞时打滚的鸟）", "滚动物",
+        "左右摇晃的船", "盗窃醉酒人财物的贼", "〈美〉偷儿", "〈英〉劳斯莱斯车", "滚动（或碾压）东西的人", "轧钢工",
+        "轧制工作者", "地滚球"
+      ],
+      "plural": ["rollers"]
+    }
+  },
+  "roman": {
+    "adj": {
+      "translation": ["罗马的", "古罗马的", "天主教的", "罗马城的", "古罗马帝国的", "罗马体的"]
+    },
+    "n": {
+      "translation": ["(现代的)罗马人，罗马市民", "古罗马人", "罗马体", "西文白正体"],
+      "plural": ["Romans"]
+    }
+  },
+  "romantic": {
+    "adj": {
+      "translation": [
+        "浪漫的", "爱情的", "浪漫主义的，浪漫主义风格的", "美妙的", "多情的", "情爱的", "表达爱情的", "富有情调的",
+        "富于幻想而不切实际的"
+      ]
+    },
+    "n": {
+      "translation": ["浪漫的人", "浪漫主义作家(或音乐家、艺术家)", "耽于幻想的人"],
+      "plural": ["romantics"]
+    }
+  },
+  "roof": {
+    "n": {
+      "translation": ["屋顶", "车顶", "顶部", "有…顶的", "洞顶", "口腔顶部", "隧道顶"],
+      "plural": ["roofs"]
+    },
+    "vt": {
+      "translation": ["给…盖顶", "盖上屋顶"],
+      "singular": ["roofs"],
+      "present": ["roofing"],
+      "past": ["roofed"]
+    }
+  },
+  "room": {
+    "n": {
+      "translation": [
+        "房间", "客房", "室", "空间", "（租用的）住所，寓所", "可能性", "有…个房间的", "有…室的", "房间里所有的人"
+      ],
+      "plural": ["rooms"]
+    },
+    "vi": {
+      "translation": ["租房", "合住"],
+      "singular": ["rooms"],
+      "present": ["rooming"],
+      "past": ["roomed"]
+    }
+  },
+  "root": {
+    "n": {
+      "translation": [
+        "根", "根源，根由，原因", "根部", "根本", "基础", "方根", "根茎，地下茎", "词根", "核心", "块根", "底部，基部",
+        "起源", "须根", "祖先", "实质", "根苗，苗裔（基督教《圣经》用语）", "〈俚〉阴茎", "〈粗〉性交", "根状物", "〈英〉根用作物",
+        "作为性交对象的女人", "（常春藤等的）攀缘茎", "子孙多的人（或家庭）"
+      ],
+      "plural": ["roots"]
+    },
+    "v": {
+      "translation": [
+        "(使)生根，扎根", "使（思想、信仰、感情等）扎根，使牢固树立", "声援，支持", "根除，铲除，根绝", "起源于，起因于",
+        "〈诗〉（从某处）拔掉（眼中钉等）", "发掘", "连根拔，连根挖", "翻寻，翻找，搜寻", "〈美〉（为参赛者）鼓气，捧场，欢呼，喝彩",
+        "〈美〉（为生计等）努力工作，苦干", "使受挫", "（与某人）性交", "使精疲力竭", "（猪等）用鼻（或嘴）拱土（觅食）",
+        "使像生了根似地固定不动"
+      ],
+      "singular": ["roots"],
+      "present": ["rooting"],
+      "past": ["rooted"]
+    }
+  },
+  "rope": {
+    "n": {
+      "translation": ["绳", "绳索", "粗绳", "线缆", "(拳击或摔跤场四周的)围绳", "串在一起的相似的东西"],
+      "plural": ["ropes"]
+    },
+    "vt": {
+      "translation": ["套", "用绳子捆(或绑、系)", "捆紧", "用套索抓捕(动物)"],
+      "singular": ["ropes"],
+      "present": ["roping"],
+      "past": ["roped"]
+    }
+  },
+  "rose": {
+    "n": {
+      "translation": ["玫瑰(花)", "蔷薇(花)", "粉红色", "(水管或喷壶的)莲蓬式喷嘴"],
+      "plural": ["roses"]
+    },
+    "adj": {
+      "translation": ["粉红色的"]
+    },
+    "v": {
+      "translation": ["上升", "提高", "站起来", "攀升", "起立", "起床", "达到较高水平(或位置)"]
+    }
+  },
+  "rot": {
+    "v": {
+      "translation": [
+        "（由于细菌或霉菌作用而）（使）腐烂，（使）腐坏", "（因使用日久或受腐蚀等而）（使）腐朽，（使）破损", "（使）腐败，腐化，堕落",
+        "(使)腐败变质", "打趣，开玩笑", "（因被幽禁、缺乏活动等而）变得憔悴，失去活力",
+        "（尤指人在狱中）身心状况越来越糟，萎靡不振，颓废下去", "走向毁灭", "（社会、制度等因缺乏活力等而）逐渐衰败", "〈俚〉搞糟"
+      ],
+      "singular": ["rots"],
+      "present": ["rotting"],
+      "past": ["rotted"]
+    },
+    "n": {
+      "translation": [
+        "腐烂，腐坏", "腐朽，破损", "腐败，腐化，堕落", "蠢话，胡说，废话", "（植物的）枯死", "腐蹄病", "腐烂物", "蠢事，荒唐事",
+        "形势恶化", "肝（双盘）吸虫病", "消耗性病", "羊肝蛭病 ", "一连串的失败", "腐朽的事物"
+      ],
+      "plural": ["rots"]
+    }
+  },
+  "rotary": {
+    "adj": {
+      "translation": ["旋转的", "转动的", "绕轴转动的"]
+    },
+    "n": {
+      "translation": ["旋转式机器", "环行交叉路"],
+      "plural": ["rotaries"]
+    }
+  },
+  "rotate": {
+    "v": {
+      "translation": [
+        "(使)旋转，（使）转动", "循环，交替", "(人员)轮换，轮值", "轮流，轮换", "〈军〉轮换调防", "（工作）由…轮值"
+      ],
+      "singular": ["rotates"],
+      "present": ["rotating"],
+      "past": ["rotated"]
+    },
+    "adj": {
+      "translation": ["〈植〉辐状的"]
+    }
+  },
+  "rotation": {
+    "n": {
+      "translation": ["旋转", "转动", "轮换", "交替", "(旋转的)一周，一圈", "换班"],
+      "plural": ["rotations"]
+    }
+  },
+  "rotten": {
+    "adj": {
+      "translation": [
+        "腐烂的", "腐败的", "腐朽的", "倒霉的，破烂的", "恶劣的", "不舒服", "非常糟糕的", "感到内疚（或惭愧）", "不诚实的"
+      ],
+      "comparative": ["rottener"],
+      "superlative": ["rottenest"]
+    },
+    "adv": {
+      "translation": ["很大程度上", "非常"]
+    }
+  },
+  "rough": {
+    "adj": {
+      "translation": [
+        "粗糙的", "粗略的", "大致的", "粗暴的", "艰难的", "恶劣的", "粗野的", "汹涌的", "高低不平的", "不舒服的",
+        "猛烈的", "不平滑的", "不确切的", "犯罪盛行的", "味道差的"
+      ],
+      "comparative": ["rougher"],
+      "superlative": ["roughest"]
+    },
+    "n": {
+      "translation": ["草图", "草稿", "暴徒", "(高尔夫球场的)长草区", "粗野的人"]
+    },
+    "v": {
+      "translation": ["粗暴地对待", "使粗糙", "草拟"],
+      "singular": ["roughs"],
+      "present": ["roughing"],
+      "past": ["roughed"]
+    },
+    "adv": {
+      "translation": ["粗鲁地", "粗野地"]
+    }
+  },
+  "roughly": {
+    "adv": {
+      "translation": ["大致", "大约", "粗略地", "差不多", "粗暴地", "粗鲁地", "粗糙地", "凹凸不平地"]
+    }
+  },
+  "round": {
+    "adj": {
+      "translation": ["圆形的", "整数的", "环形的", "圆弧的", "球形的", "弧形的", "尾数是0(或5)的"],
+      "comparative": ["rounder"],
+      "superlative": ["roundest"]
+    },
+    "adv": {
+      "translation": [
+        "周围", "在周围", "旋转", "围绕", "环绕", "到处", "依次", "周长", "兜圈子", "到某地，在某地（尤指居住地）", "绕弯",
+        "调转方向", "绕一整圈"
+      ]
+    },
+    "prep": {
+      "translation": ["在…周围", "围绕", "环绕", "绕过", "适应", "包围", "在…各处", "在另一侧"]
+    },
+    "n": {
+      "translation": [
+        "(拳击或摔跤比赛的)回合", "阶段", "场", "轮次", "局", "一阵", "一轮比赛，一局", "圆形物体", "轮唱曲",
+        "（收发信函等的）固定路线", "一巡饮料", "一次射击", "一整片面包", "一系列常规活动", "比赛阶段"
+      ],
+      "plural": ["rounds"]
+    },
+    "v": {
+      "translation": ["把(数字)四舍五入", "绕过", "变圆", "(使)成圆形", "绕行", "(将数字调高或调低)使成为整数"],
+      "singular": ["rounds"],
+      "present": ["rounding"],
+      "past": ["rounded"]
+    }
+  },
+  "rouse": {
+    "vt": {
+      "translation": ["唤醒", "激起(某种情感)", "使醒来", "激怒", "使活跃起来", "使产生兴趣"],
+      "singular": ["rouses"],
+      "present": ["rousing"],
+      "past": ["roused"]
+    },
+    "n": {
+      "translation": ["觉醒", "奋起", "干杯", "满杯"]
+    }
+  },
+  "route": {
+    "n": {
+      "translation": [
+        "路线", "途径", "渠道", "路途", "(公共汽车和列车等的)常规路线，固定线路", "（用于美国干线公路号码前）"
+      ],
+      "plural": ["routes"]
+    },
+    "vt": {
+      "translation": ["按某路线发送"],
+      "singular": ["routes"],
+      "present": ["routing"],
+      "past": ["routed"]
+    }
+  },
+  "routine": {
+    "n": {
+      "translation": ["常规", "例行程序", "无聊", "(演出中的)一套动作，一系列笑话(等)", "正常顺序", "生活乏味"],
+      "plural": ["routines"]
+    },
+    "adj": {
+      "translation": ["常规的", "日常的", "正常的", "例行公事的", "平常的", "乏味的", "平淡的", "毫不特别的"]
+    }
+  },
+  "row": {
+    "n": {
+      "translation": [
+        "一行", "一排", "一列", "划船（时间）", "争吵", "吵架", "纠纷", "(编织中的)针行，一整行",
+        "(剧院、电影院等的)一排座位", "严重分歧", "大的噪音"
+      ],
+      "plural": ["rows"]
+    },
+    "v": {
+      "translation": ["划(船)", "吵架", "划船送(某人)", "大声争辩"],
+      "singular": ["rows"],
+      "present": ["rowing"],
+      "past": ["rowed"]
+    }
+  },
+  "royal": {
+    "adj": {
+      "translation": [
+        "皇家的", "王室的", "国王的", "女王的", "盛大的", "高贵的", "庄严的",
+        "用于服务于国王或女王或受其赞助的组织名称", "适合国王(或女王)的"
+      ]
+    },
+    "n": {
+      "translation": ["王室成员"],
+      "plural": ["royals"]
+    }
+  },
+  "rub": {
+    "v": {
+      "translation": ["擦", "摩擦(尤指引起疼痛或损害)", "搓", "涂", "磨", "(使)相互摩擦"],
+      "singular": ["rubs"],
+      "present": ["rubbing"],
+      "past": ["rubbed"]
+    },
+    "n": {
+      "translation": ["擦", "揉", "搓", "问题", "抹", "困难"],
+      "plural": ["rubs"]
+    }
+  },
+  "rubber": {
+    "n": {
+      "translation": ["橡胶", "橡皮", "黑板擦", "(某些纸牌游戏或体育运动中相同的对手或队伍间)多轮决胜负的比赛"],
+      "plural": ["rubbers"]
+    },
+    "adj": {
+      "translation": ["橡胶制成的"]
+    },
+    "v": {
+      "translation": ["涂橡胶于…", "〈美俚〉同“rubberneck”"]
+    }
+  },
+  "rubbish": {
+    "n": {
+      "translation": [
+        "垃圾", "废物，废弃物", "废话，戆话", "废话，胡说八道，瞎说", "无聊的想法", "荒谬的念头（或建议）", "劣质的东西",
+        "无价值之物", "无意义之物"
+      ],
+      "plural": ["rubbishes"]
+    },
+    "vt": {
+      "translation": ["消灭，消除", "狠批，抨击", "诋毁", "贬低， 把……说得一文不值", "（在冲浪运动中）使摔下浪"],
+      "singular": ["rubbishes"],
+      "present": ["rubbishing"],
+      "past": ["rubbished"]
+    },
+    "adj": {
+      "translation": ["〈英口〉无用的", "毫无价值的", "糟透的，非常差劲的", "极不擅长的"]
+    }
+  },
+  "rude": {
+    "adj": {
+      "translation": ["粗鲁的", "无礼的", "粗野的", "突然的", "简单的", "下流的", "猛烈的", "突如其来的", "猥亵的"],
+      "comparative": ["ruder"],
+      "superlative": ["rudest"]
+    }
+  },
+  "rug": {
+    "n": {
+      "translation": ["小地毯", "垫子", "(盖腿的)厚毯子"],
+      "plural": ["rugs"]
+    }
+  },
+  "ruin": {
+    "vt": {
+      "translation": ["破坏", "毁灭", "使破产(或失去地位等)", "毁坏", "糟蹋"],
+      "singular": ["ruins"],
+      "present": ["ruining"],
+      "past": ["ruined"]
+    },
+    "n": {
+      "translation": [
+        "破坏", "毁灭", "破产", "毁坏", "残垣断壁", "祸根", "失去工作(或地位等)", "一无所有", "破产(或丢掉工作等)的根源"
+      ],
+      "plural": ["ruins"]
+    }
+  },
+  "rule": {
+    "n": {
+      "translation": ["规则", "条例", "统治", "建议", "规章", "习惯", "常规", "定律", "尺", "惯常的做法", "应做之事"],
+      "plural": ["rules"]
+    },
+    "v": {
+      "translation": ["统治", "控制", "决定", "裁定", "判决", "支配", "操纵", "用直尺等画（线）"],
+      "singular": ["rules"],
+      "present": ["ruling"],
+      "past": ["ruled"]
+    }
+  },
+  "ruler": {
+    "n": {
+      "translation": ["尺子", "统治者", "直尺", "支配者"],
+      "plural": ["rulers"]
+    }
+  },
+  "rumour": {
+    "n": {
+      "translation": ["谣言", "传闻"],
+      "plural": ["rumours"]
+    },
+    "vt": {
+      "translation": ["谣传", "传说"],
+      "singular": ["rumours"],
+      "present": ["rumouring"],
+      "past": ["rumoured"]
+    }
+  },
+  "run": {
+    "v": {
+      "translation": [
+        "跑", "拥有，使用（车辆或机器等）", "（对…）进行（测试或检验）", "提供，开设（服务、课程等）", "（使）运转，运行", "管理",
+        "开始（比赛）", "跑步", "（按某路线）行驶", "使（按某一路线）行驶", "（在某时间）发生", "移动（某物）",
+        "（在一段时间内）起作用，有效", "包含", "达到，接近（某程度）", "持续", "变成，成为，变得", "输出，放出（液体）", "奔跑",
+        "使（液体）流动", "被（液体）覆盖", "（使）导向", "发表", "（尤指在美国）参加竞选", "流淌", "走私", "熔化", "开车送",
+        "（向某处）快速移动", "掉色", "参加赛跑", "脱针", "迅速赶往"
+      ],
+      "singular": ["runs"],
+      "present": ["running"],
+      "past": ["ran", "run"]
+    },
+    "n": {
+      "translation": [
+        "跑", "跑步", "竞选", "一系列(成功或失败)", "（到银行）挤提，挤兑", "得分", "坡道，滑道", "态势",
+        "抛售（美元、英镑等）", "跑步的时间(或距离)", "(尤指短程或定期，乘交通工具的)旅程，航程", "连续上演（或放映）",
+        "（顺着音阶的）急奏，急唱", "一段(幸运或倒霉的)时光", "顺子", "额定产量", "争购"
+      ]
+    }
+  },
+  "runner": {
+    "n": {
+      "translation": [
+        "跑步者", "跑鞋", "奔跑的人，奔跑的动物(尤指参加速度比赛者)", "走私者", "纤匐枝", "长条饰布", "送信人",
+        "(金属、塑料或木制的)条状滑行装置", "偷运者"
+      ],
+      "plural": ["runners"]
+    }
+  },
+  "rural": {
+    "adj": {
+      "translation": ["农村的", "乡村的", "似农村的"]
+    }
+  },
+  "rush": {
+    "v": {
+      "translation": [
+        "冲", "冲向（持球人）", "(使)仓促行事，做事草率", "急促", "突袭", "迅速移动", "特别关注，非常关心", "快速运输",
+        "速送", "带（球）奔跑"
+      ],
+      "singular": ["rushes"],
+      "present": ["rushing"],
+      "past": ["rushed"]
+    },
+    "n": {
+      "translation": [
+        "冲", "匆忙", "仓促", "高峰期", "繁忙", "忙碌", "灯芯草", "样片", "突袭", "跑动带球", "大量急需",
+        "突如其来的极度愉悦（兴奋）", "猛烈移动", "迸发的情绪"
+      ]
+    },
+    "adj": {
+      "translation": ["猛冲的", "赶紧完成(命令等)"]
+    }
+  },
+  "russian": {
+    "n": {
+      "translation": ["俄语", "俄罗斯人"],
+      "plural": ["Russians"]
+    },
+    "adj": {
+      "translation": ["俄罗斯的"]
+    }
+  },
+  "rust": {
+    "n": {
+      "translation": ["锈", "铁锈", "(植物的)锈病", "锈菌"],
+      "plural": ["rusts"]
+    },
+    "v": {
+      "translation": ["(使)生锈"],
+      "singular": ["rusts"],
+      "present": ["rusting"],
+      "past": ["rusted"]
+    }
+  },
+  "rusty": {
+    "adj": {
+      "translation": [
+        "生锈的", "（知识、能力等）荒废的，荒疏的，生疏的", "破旧的，陈旧的", "铁锈色的，赭色的", "老式的，过时的",
+        "（黑色衣服等）褪了色的", "（脑子等）发锈的，衰退的，变迟钝的", "(声音）嘶哑的", "（植物）患锈病的，（水果）有锈斑的",
+        "生硬的", "顽固的，执拗的", "（因生锈而）操作不灵活的，操作时吱嘎作响的", "恶臭的", "乖戾的，脾气坏的"
+      ],
+      "comparative": ["rustier"],
+      "superlative": ["rustiest"]
+    }
+  }
+}

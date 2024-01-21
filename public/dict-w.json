@@ -1,0 +1,1674 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "wage": {
+    "n": {
+      "translation": ["工资", "工钱"],
+      "plural": ["wages"]
+    },
+    "vt": {
+      "translation": ["开始，发动，进行，继续(战争、战斗等)"],
+      "singular": ["wages"],
+      "present": ["waging"],
+      "past": ["waged"]
+    }
+  },
+  "waggon": {
+    "n": {
+      "translation": ["运货车", "四轮运货马车"],
+      "plural": ["waggons"]
+    }
+  },
+  "waist": {
+    "n": {
+      "translation": ["腰", "(衣服的)腰部", "腰身…的", "有…腰身的"],
+      "plural": ["waists"]
+    }
+  },
+  "wait": {
+    "v": {
+      "translation": [
+        "等待", "等候", "(尤指长期地)希望，盼望，期待", "推迟", "可使用", "可得到", "在手边", "准备妥", "等"
+      ],
+      "singular": ["waits"],
+      "present": ["waiting"],
+      "past": ["waited"]
+    },
+    "n": {
+      "translation": ["等待", "等候", "等待的时间"]
+    }
+  },
+  "waiter": {
+    "n": {
+      "translation": ["服务员", "(餐馆等的)侍者"],
+      "plural": ["waiters"]
+    }
+  },
+  "wake": {
+    "v": {
+      "translation": ["醒", "唤醒", "醒来", "弄醒", "唤起(记忆)", "使再次感觉到"],
+      "singular": ["wakes"],
+      "present": ["waking"],
+      "past": ["woke", "woken"]
+    },
+    "n": {
+      "translation": ["(船只航行时的)尾流，航迹", "守灵", "(葬礼前的)守夜"]
+    }
+  },
+  "waken": {
+    "v": {
+      "translation": ["唤醒", "醒来", "睡醒", "唤起(记忆)", "弄醒", "使感觉到"],
+      "singular": ["wakens"],
+      "present": ["wakening"],
+      "past": ["wakened"]
+    }
+  },
+  "walk": {
+    "v": {
+      "translation": [
+        "步行", "走", "行走", "散步", "出现", "徒步旅行", "陪伴…走", "牵着（动物）走", "不翼而飞", "护送…走"
+      ],
+      "singular": ["walks"],
+      "present": ["walking"],
+      "past": ["walked"]
+    },
+    "n": {
+      "translation": [
+        "步行", "行走", "散步", "人行道", "步态", "(为游玩而组织的)徒步旅行", "步行速度", "散步的小路", "步行的路径"
+      ],
+      "plural": ["walks"]
+    }
+  },
+  "wall": {
+    "n": {
+      "translation": [
+        "墙壁", "内壁", "外壁", "城墙，围墙", "屏障，隔阂", "（路的）沿墙，靠墙的一边", "壁垒，堤坝", "（登山中的）陡坡",
+        "（冲浪运动中的）陡浪"
+      ],
+      "plural": ["walls"]
+    },
+    "v": {
+      "translation": ["给…建墙", "把…关起来，禁闭", "用墙把…围住"],
+      "singular": ["walls"],
+      "present": ["walling"],
+      "past": ["walled"]
+    },
+    "adj": {
+      "translation": ["墙的", "墙上的", "爬墙的，靠墙的", "沿墙的"]
+    }
+  },
+  "wallet": {
+    "n": {
+      "translation": ["钱包", "(携带文件用的)皮夹，塑料夹，硬纸夹", "(放钞票、信用卡的)皮夹子"],
+      "plural": ["wallets"]
+    }
+  },
+  "wander": {
+    "v": {
+      "translation": [
+        "漫步", "游荡", "徘徊", "流浪", "漫游", "闲逛", "漂泊", "走神", "偏离(正道)", "蜿蜒", "走失", "(思想)开小差",
+        "神志恍惚", "离散", "慢慢地移开"
+      ],
+      "singular": ["wanders"],
+      "present": ["wandering"],
+      "past": ["wandered"]
+    },
+    "n": {
+      "translation": ["徘徊", "游荡", "闲逛", "溜达"]
+    }
+  },
+  "want": {
+    "v": {
+      "translation": ["要", "希望", "想要", "需要", "（用于提出建议）应该", "缺少", "对…有性欲", "需要…在场"],
+      "singular": ["wants"],
+      "present": ["wanting"],
+      "past": ["wanted"]
+    },
+    "n": {
+      "translation": ["缺乏", "不足", "缺少", "匮乏", "贫困", "贫穷", "需要的东西", "想望的东西"],
+      "plural": ["wants"]
+    }
+  },
+  "war": {
+    "n": {
+      "translation": [
+        "战争", "（群体、公司、国家之间的）竞争，斗争，对抗，冲突", "<古>战斗，战役", "战争状态", "战术，兵法，军事学，战争科学",
+        "国防部", "<牌>比大小，对峙", "<古>作战部队", "（为消灭有害事物的）长期斗争，顽强抵御"
+      ],
+      "plural": ["wars"]
+    },
+    "v": {
+      "translation": ["进行战斗，作战", "斗争，竞争，对抗", "（通过战争）击败，推翻", "同…处于交战状态"],
+      "singular": ["wars"],
+      "present": ["warring"],
+      "past": ["warred"]
+    },
+    "adj": {
+      "translation": ["战争的"]
+    }
+  },
+  "warm": {
+    "adj": {
+      "translation": ["温暖的", "暖和的", "保暖的", "友好的", "保温的", "热心的", "暖色调的", "温情的", "即将猜中"],
+      "comparative": ["warmer"],
+      "superlative": ["warmest"]
+    },
+    "v": {
+      "translation": ["(使)温暖，变暖和", "(使)变得更友好，变得更温情"],
+      "singular": ["warms"],
+      "present": ["warming"],
+      "past": ["warmed"]
+    },
+    "n": {
+      "translation": ["加热", "取暖"]
+    },
+    "adv": {
+      "translation": ["使人暖和地", "温暖地"]
+    }
+  },
+  "warmth": {
+    "n": {
+      "translation": ["温暖", "热情", "暖和", "友情"]
+    }
+  },
+  "warn": {
+    "v": {
+      "translation": ["警告", "告诫", "使警惕", "劝告(使有所防备)", "提醒注意(可能发生的事)"],
+      "singular": ["warns"],
+      "present": ["warning"],
+      "past": ["warned"]
+    }
+  },
+  "wash": {
+    "v": {
+      "translation": ["洗", "洗涤", "洗手", "洗脸", "洗澡", "（向着某一方向）流动", "耐洗", "洗后不退色(或破损)"],
+      "singular": ["washes"],
+      "present": ["washing"],
+      "past": ["washed"]
+    },
+    "n": {
+      "translation": [
+        "洗涤", "清洗", "洗", "(尤指船过后划出的)水流，波浪", "洗刷", "肥皂液", "薄涂层(尤指涂料)", "波浪拍打声"
+      ]
+    }
+  },
+  "waste": {
+    "vt": {
+      "translation": [
+        "浪费", "白费", "滥用", "糟蹋", "干掉", "使…屈才", "未充分利用", "（游戏或比赛中）大胜，把…打得落花流水"
+      ],
+      "singular": ["wastes"],
+      "present": ["wasting"],
+      "past": ["wasted"]
+    },
+    "n": {
+      "translation": ["废物", "浪费", "垃圾", "废料", "白费", "滥用", "糟蹋", "弃物", "人烟稀少的地区"]
+    },
+    "adj": {
+      "translation": ["废弃的", "丢弃的", "无用的", "荒芜的"]
+    }
+  },
+  "watch": {
+    "v": {
+      "translation": ["看", "观看", "观察", "注视", "小心", "留意", "当心", "(短时间)照看，看护，照管"],
+      "singular": ["watches"],
+      "present": ["watching"],
+      "past": ["watched"]
+    },
+    "n": {
+      "translation": ["手表", "观察", "表", "注意", "监视", "注视", "值班(人)", "(旧时的)怀表", "守夜(人)", "警戒(人)"],
+      "plural": ["watches"]
+    }
+  },
+  "water": {
+    "n": {
+      "translation": [
+        "水", "(某一江、河、湖、海的)水域", "（一片）水面", "(尤指)江，河，湖，海", "（某个国家的）领海，海域", "大片的水", "不明朗局面"
+      ],
+      "plural": ["waters"]
+    },
+    "v": {
+      "translation": ["灌溉", "给…浇水", "流经", "给…水喝", "流口水", "充满眼泪", "往（酒里）掺水"],
+      "singular": ["waters"],
+      "present": ["watering"],
+      "past": ["watered"]
+    }
+  },
+  "waterfall": {
+    "n": {
+      "translation": ["瀑布"],
+      "plural": ["waterfalls"]
+    }
+  },
+  "waterproof": {
+    "adj": {
+      "translation": ["防水的", "耐水的", "不透水的"]
+    },
+    "n": {
+      "translation": ["防水衣物", "雨衣"],
+      "plural": ["waterproofs"]
+    },
+    "vt": {
+      "translation": ["使防水", "使不透水"],
+      "singular": ["waterproofs"],
+      "present": ["waterproofing"],
+      "past": ["waterproofed"]
+    }
+  },
+  "wave": {
+    "n": {
+      "translation": [
+        "波", "波浪", "波动", "海浪", "波涛", "大海", "风潮", "挥臂", "心潮", "涌动的人(或物)",
+        "汹涌的行动(或思想)态势", "涌现的人(或事物)", "拳曲"
+      ],
+      "plural": ["waves"]
+    },
+    "v": {
+      "translation": [
+        "挥手", "挥舞，挥动(手中之物)", "（一端固定地）飘扬，飘动，摇晃，起伏", "招手", "摆手", "挥手指引，挥手示意(方向)",
+        "挥臂", "使…略呈波形", "略呈波形"
+      ],
+      "singular": ["waves"],
+      "present": ["waving"],
+      "past": ["waved"]
+    }
+  },
+  "wavelength": {
+    "n": {
+      "translation": ["波长", "(广播电台等占用的)频道，波道"],
+      "plural": ["wavelengths"]
+    }
+  },
+  "wax": {
+    "n": {
+      "translation": ["蜡", "石蜡", "蜂蜡", "耳垢", "植物蜡", "耳屎", "动物蜡"],
+      "plural": ["waxes"]
+    },
+    "v": {
+      "translation": ["给…打蜡", "给…上蜡", "给…涂蜡", "渐圆", "用蜡除去…上的毛", "说话变得起来"],
+      "singular": ["waxes"],
+      "present": ["waxing"],
+      "past": ["waxed"]
+    },
+    "adj": {
+      "translation": ["蜡制的"]
+    }
+  },
+  "way": {
+    "n": {
+      "translation": [
+        "方式", "方法，手段", "途径", "方面", "（某个）方面，（某）点", "路，道路", "（用于街道名称）路，道", "情况", "情况，状态",
+        "方向", "地区", "（群体的）行为方式，生活方式，习俗", "通道，出口，出路", "（两点之间的）距离，时间段", "行进，前进",
+        "路线", "样子", "<古>职业，行当", "愿望，意愿", "作风", "<英>小街，巷", "风度", "出入通道", "某方向"
+      ],
+      "plural": ["ways"]
+    },
+    "adj": {
+      "translation": ["中途的，途中的"]
+    },
+    "adv": {
+      "translation": ["非常", "大量", "离开", "很远", "完全地，自始至终地"]
+    }
+  },
+  "we": {
+    "pron": {
+      "translation": ["我们", "人们", "咱们"]
+    }
+  },
+  "weak": {
+    "adj": {
+      "translation": [
+        "虚弱的，无力的", "疲软的", "（价格）疲弱的，疲软的，看跌的", "微弱的", "（动词）规则的，弱（变化）的", "（资源等）缺乏的",
+        "懦弱的，软弱无力的", "稀的", " （文体的）松散的，马虎的", "不牢固的", "淡漠的", "易受影响的", "意志力薄弱的",
+        "不善于", "（船等）人手不足的", "易损坏的，易破的", "<摄>反差弱的，密度小的", "（措辞等）无活力的",
+        "无权力的，无权威的", "", "不能令人信服的", "轻读的"
+      ],
+      "comparative": ["weaker"],
+      "superlative": ["weakest"]
+    }
+  },
+  "weaken": {
+    "v": {
+      "translation": ["削弱", "减弱", "使(肯定程度)减弱", "(使)虚弱，衰弱", "动摇", "犹豫"],
+      "singular": ["weakens"],
+      "present": ["weakening"],
+      "past": ["weakened"]
+    }
+  },
+  "weakness": {
+    "n": {
+      "translation": ["弱点", "软弱", "疲软", "虚弱", "缺点", "衰弱", "懦弱", "(对人或事物的)迷恋，无法抗拒"],
+      "plural": ["weaknesses"]
+    }
+  },
+  "wealth": {
+    "n": {
+      "translation": ["财富", "丰富", "大量", "财产", "富有", "富裕", "钱财", "富足", "众多", "财物", "充裕"]
+    }
+  },
+  "wealthy": {
+    "adj": {
+      "translation": ["富有的", "富裕的", "富人", "有钱人", "富饶的"],
+      "comparative": ["wealthier"],
+      "superlative": ["wealthiest"]
+    },
+    "n": {
+      "translation": ["富人", "有钱人"]
+    }
+  },
+  "weapon": {
+    "n": {
+      "translation": ["武器", "手段，工具(指用作攻击或斗争的知识、言语、行动等)", "兵器", "凶器"],
+      "plural": ["weapons"]
+    },
+    "vi": {
+      "translation": ["武装", "提供武器"],
+      "singular": ["weapons"],
+      "present": ["weaponing"],
+      "past": ["weaponed"]
+    }
+  },
+  "wear": {
+    "v": {
+      "translation": [
+        "穿", "磨损，穿破", "戴，佩戴", "<口>（不）接受，允许", "接受，容许", "蓄，留（发、须等）", "耐用", "（船只）升，挂（旗）",
+        "流露，面带，呈现（某种神态）", "（水等）冲刷，侵蚀出", "消磨（时间）", "磨出，穿成，磨成", "使疲乏，使虚弱，使厌倦",
+        "渐渐过去，逐渐变化", "经受考验", "使形成特定习惯（或气质）"
+      ],
+      "singular": ["wears"],
+      "present": ["wearing"],
+      "past": ["wore", "worn"]
+    },
+    "n": {
+      "translation": [
+        "磨损", "衣着，穿着", "穿戴，佩戴", "（尤用于商店）…时穿的衣服，…装", "耐用性，经久性", "损耗量", "使用量（或形式）"
+      ],
+      "plural": ["wears"]
+    }
+  },
+  "weary": {
+    "adj": {
+      "translation": [
+        "疲倦的", "(尤指长时间努力工作后)疲惫的", "使人厌烦的", "使人疲劳的", "(对…)不再感兴趣，不再热心，感到不耐烦"
+      ],
+      "comparative": ["wearier"],
+      "superlative": ["weariest"]
+    },
+    "v": {
+      "translation": ["使疲劳", "使疲倦", "(对…)失去兴趣，失去热情"],
+      "singular": ["wearies"],
+      "present": ["wearying"],
+      "past": ["wearied"]
+    }
+  },
+  "weather": {
+    "n": {
+      "translation": ["天气，气象", "恶劣天气，刮风（天气），暴雨（天气）", "气象预报", "<海>上风面，向风侧", "潮湿的冷空气"]
+    },
+    "v": {
+      "translation": [
+        "风干，风化，受风蚀", "（因受风吹、日晒、雨淋等，使）退色，变色，变形", "经受住，平安地渡过（困难）",
+        "使（屋面等）倾斜（以利排去雨水）", "经受风雨，耐久", "安全绕过", "航行到…的上风"
+      ],
+      "singular": ["weathers"],
+      "present": ["weathering"],
+      "past": ["weathered"]
+    },
+    "adj": {
+      "translation": ["露天的", "<海>上风的，向风一侧的"]
+    }
+  },
+  "weave": {
+    "v": {
+      "translation": [
+        "编织", "(用手或机器)编，织", "(用…)编成", "(把…)编成，编纂成，编造(故事等)", "迂回行进，穿行（以避开障碍）"
+      ],
+      "singular": ["weaves"],
+      "present": ["weaving"],
+      "past": ["wove", "woven"]
+    },
+    "n": {
+      "translation": ["织法", "编法", "编织式样"],
+      "plural": ["weaves"]
+    }
+  },
+  "wedding": {
+    "n": {
+      "translation": ["婚礼", "结婚庆典"],
+      "plural": ["weddings"]
+    },
+    "v": {
+      "translation": ["结婚", "娶", "嫁"]
+    }
+  },
+  "wednesday": {
+    "n": {
+      "translation": ["星期三"],
+      "plural": ["Wednesdays"]
+    }
+  },
+  "weed": {
+    "n": {
+      "translation": ["杂草", "野草(尤指庄稼或花园中的)", "水草", "烟草", "大麻烟", "烟叶", "香烟", "烟卷", "懦弱的人"],
+      "plural": ["weeds"]
+    },
+    "v": {
+      "translation": ["除(地面的)杂草"],
+      "singular": ["weeds"],
+      "present": ["weeding"],
+      "past": ["weeded"]
+    }
+  },
+  "week": {
+    "n": {
+      "translation": ["周", "星期", "一周", "礼拜", "(除星期六和星期日以外的)五天", "工作周", "七天的时间"],
+      "plural": ["weeks"]
+    }
+  },
+  "weekday": {
+    "n": {
+      "translation": ["周工作日(星期一至星期五的任何一天)"],
+      "plural": ["weekdays"]
+    }
+  },
+  "weekend": {
+    "n": {
+      "translation": ["周末", "星期六和星期日", "星期六和星期日(或略长一点的)休息时间"],
+      "plural": ["weekends"]
+    },
+    "vi": {
+      "translation": ["过周末", "度周末"],
+      "singular": ["weekends"],
+      "present": ["weekending"],
+      "past": ["weekended"]
+    },
+    "adj": {
+      "translation": ["周末的"]
+    }
+  },
+  "weekly": {
+    "adj": {
+      "translation": ["每周的"]
+    },
+    "n": {
+      "translation": ["周报", "周刊"],
+      "plural": ["weeklies"]
+    },
+    "adv": {
+      "translation": ["一星期一次，每周"]
+    }
+  },
+  "weep": {
+    "v": {
+      "translation": ["哭泣", "(通常因悲伤)流泪", "流出，渗出(液体)"],
+      "singular": ["weeps"],
+      "present": ["weeping"],
+      "past": ["wept"]
+    },
+    "n": {
+      "translation": ["哭泣", "落泪"]
+    }
+  },
+  "weigh": {
+    "v": {
+      "translation": [
+        "重", "权衡", "使平衡，使抵消", "起（锚）", "据估…的重量，掂量", "认真考虑，斟酌", "称重量，量体重(通常用磅秤)",
+        "有…重", "<古> 提起，升起", "（对看法或结果）有影响", "增加…的重量（或体积）", "对…发动袭击，猛烈攻击"
+      ],
+      "singular": ["weighs"],
+      "present": ["weighing"],
+      "past": ["weighed"]
+    },
+    "n": {
+      "translation": ["称重量，上秤，过磅", "掂量，权衡"]
+    }
+  },
+  "weight": {
+    "n": {
+      "translation": ["重量", "重物", "分量", "砝码", "重要性", "重量单位", "重任"],
+      "plural": ["weights"]
+    },
+    "vt": {
+      "translation": ["使加权", "(用重物)固定", "使负重", "在…上加重量"],
+      "singular": ["weights"],
+      "present": ["weighting"],
+      "past": ["weighted"]
+    }
+  },
+  "welcome": {
+    "n": {
+      "translation": ["欢迎", "迎接", "(表明看法的)反应方式，对待，接受", "接待"],
+      "plural": ["welcomes"]
+    },
+    "adj": {
+      "translation": ["受欢迎的", "令人愉快的", "(表示乐于让某人做某事)可随意", "尽管…好了", "受款待的"],
+      "comparative": ["welcomer"],
+      "superlative": ["welcomest"]
+    },
+    "v": {
+      "translation": ["(打招呼)欢迎(某人的到来)", "迎(新)", "欣然接受", "乐意接纳"],
+      "singular": ["welcomes"],
+      "present": ["welcoming"],
+      "past": ["welcomed"]
+    },
+    "int": {
+      "translation": ["欢迎"]
+    }
+  },
+  "weld": {
+    "v": {
+      "translation": ["焊接", "熔接", "使紧密结合", "使连成整体", "锻接"],
+      "singular": ["welds"],
+      "present": ["welding"],
+      "past": ["welded"]
+    },
+    "n": {
+      "translation": ["焊接点", "焊接处"]
+    }
+  },
+  "welfare": {
+    "n": {
+      "translation": ["（政府给予的）福利", "（个体或群体的）幸福，安全与健康"]
+    },
+    "adj": {
+      "translation": ["接受福利救济的", "福利的，（从事）福利事业的"]
+    }
+  },
+  "well": {
+    "adv": {
+      "translation": [
+        "好", "很可能", "相当", "容易地", "有充分理由", "完全地", "大大地", "彻底地", "令人满意地", "远远地", "全部地",
+        "很", "对"
+      ]
+    },
+    "adj": {
+      "translation": ["健康", "明智", "情况良好", "可取", "状态良好", "身体好", "好主意"],
+      "comparative": ["better"],
+      "superlative": ["best"]
+    },
+    "int": {
+      "translation": [
+        "唔，这个，噢", "（结束交谈）就这样，好啦", "(勉强同意)嗯", "(承认某事不可改变)唉，好吧",
+        "(表示惊奇、愤怒或宽慰)哎呀，哟，啊，好啦", "（表示不肯定）哦", "对了，噢", "（等待别人说话）嘿，嗨"
+      ]
+    },
+    "n": {
+      "translation": ["井", "水井", "电梯井道", "楼梯井", "(法庭中的)律师席"],
+      "plural": ["wells"]
+    },
+    "vi": {
+      "translation": ["流出", "溢出", "涌出", "冒出", "迸发", "涌起"],
+      "singular": ["wells"],
+      "present": ["welling"],
+      "past": ["welled"]
+    }
+  },
+  "west": {
+    "n": {
+      "translation": ["西", "西方", "西方国家，西欧及北美"]
+    },
+    "adj": {
+      "translation": ["西方的", "西部的", "向西的", "西风的"]
+    },
+    "adv": {
+      "translation": ["向西", "朝西"]
+    }
+  },
+  "western": {
+    "adj": {
+      "translation": ["西方的", "西部的", "西方国家的", "(尤指)欧美的", "向西的"]
+    },
+    "n": {
+      "translation": ["(描写19世纪美国西部，尤指有关牛仔生活的)西部电影，西部小说"],
+      "plural": ["westerns"]
+    }
+  },
+  "westward": {
+    "adv": {
+      "translation": ["向西"]
+    },
+    "adj": {
+      "translation": ["向西的", "西方的"]
+    },
+    "n": {
+      "translation": ["西部", "西方"]
+    }
+  },
+  "wet": {
+    "adj": {
+      "translation": ["湿的", "潮湿的", "下雨的", "潮的", "有雨的", "尚未干的", "窝囊的", "（儿童）尿湿了尿布的"],
+      "comparative": ["wetter"],
+      "superlative": ["wettest"]
+    },
+    "vt": {
+      "translation": ["使潮湿", "把…弄湿"],
+      "singular": ["wets"],
+      "present": ["wetting"],
+      "past": ["wetted"]
+    },
+    "n": {
+      "translation": ["(尤指)水", "液体", "雨", "雨天", "窝囊废", "保守党温和派成员"],
+      "plural": ["wetter"]
+    }
+  },
+  "what": {
+    "det/pron": {
+      "translation": [
+        "什么", "多么，真，太", "…的事物（或人）", "…的事物", "不是吗，是不是", "无论什么", "和…一样多，就像…一样",
+        "凡是…的事物", "<古>[疑问代词]谁", "…那样的事物（或人）"
+      ]
+    },
+    "adj": {
+      "translation": ["什么", "所…的，…那样的", "<口>哪个，哪些", "多少", "多么的，何等的"]
+    },
+    "adv": {
+      "translation": ["多么，何等", "某种程度上，部分地", "到何种程度", "在哪一方面"]
+    },
+    "n": {
+      "translation": ["本质，实质，本体", "要素"]
+    },
+    "int": {
+      "translation": ["（表示惊讶、怀疑、气愤、喜欢或不喜欢等）什么"]
+    },
+    "conj": {
+      "translation": ["<方>到…程度，尽…那样多"]
+    }
+  },
+  "whatever": {
+    "adv": {
+      "translation": ["无论什么", "什么都（没有）", "不管发生什么", "一点儿都（不），丝毫（不）"]
+    },
+    "det/pron": {
+      "translation": [
+        "任何，每一", "（表示做什么或发生什么都没关系，因结果都一样）无论什么，不管什么", "什么都可以", "或许吧，无所谓",
+        "任何事物，一切事物", "（用于问句，表示惊讶或困惑）到底是什么，究竟是什么"
+      ]
+    },
+    "adj": {
+      "translation": ["任何…都，无论怎样…都", "一点儿…也"]
+    }
+  },
+  "wheat": {
+    "n": {
+      "translation": ["小麦(籽实)"],
+      "plural": ["wheats"]
+    }
+  },
+  "wheel": {
+    "n": {
+      "translation": [
+        "车轮", "轮", "(汽车等的)方向盘", "轮子", "汽车", "机轮", "(轮船的)舵轮", "有…轮的", "错综复杂的机构（或系统）",
+        "有…轮子的汽车（或自行车等）"
+      ],
+      "plural": ["wheels"]
+    },
+    "v": {
+      "translation": [
+        "旋转", "转动", "盘旋", "打转", "（使）迅速转身，猛然转身", "用有轮之物推动(或拉动、移动)…", "推(或拉)有轮之物"
+      ],
+      "singular": ["wheels"],
+      "present": ["wheeling"],
+      "past": ["wheeled"]
+    }
+  },
+  "when": {
+    "adv": {
+      "translation": [
+        "什么时候", "当时", "何时", "(用于时间的表达方式之后)在那时", "当场", "什么情况下", "其时", "什么场合下"
+      ]
+    },
+    "pron": {
+      "translation": ["何时", "什么时候"]
+    },
+    "conj": {
+      "translation": ["当…时", "在…时候", "一…就", "在…之后", "在…期间", "虽然", "考虑到", "在任何…时候"]
+    },
+    "n": {
+      "translation": ["时候"]
+    }
+  },
+  "whenever": {
+    "conj": {
+      "translation": [
+        "每当", "无论何时", "每次", "任何时间(都行)", "在任何…的时候", "在任何…的情况下", "别的什么时候(也可以)"
+      ]
+    },
+    "adv": {
+      "translation": ["(用于问句，表示惊奇)究竟什么时候"]
+    }
+  },
+  "where": {
+    "adv": {
+      "translation": [
+        "哪里", "在哪里", "在那里", "(用于表示地点或情况的词语后)在那(地方)，到那(地方)", "到哪里", "在该处",
+        "在该情况下", "处于哪种情形"
+      ]
+    },
+    "conj": {
+      "translation": ["(在)…的地方", "(在)…情况下"]
+    },
+    "pron": {
+      "translation": ["地方", "场所哪里"]
+    },
+    "n": {
+      "translation": ["地点"],
+      "plural": ["wheres"]
+    }
+  },
+  "wherever": {
+    "conj": {
+      "translation": ["在任何地方", "处处", "无论什么地方", "各处", "在…的各个地方", "在所有…的情况下"]
+    },
+    "adv": {
+      "translation": ["(用于问句，表示惊讶)究竟在哪里，究竟到哪儿"]
+    }
+  },
+  "whether": {
+    "conj": {
+      "translation": ["（表示迟疑或两个可能性之间的选择）是否", "（表示两种情况都真实）是…（还是），或者…（或者），不管…（还是）"]
+    },
+    "pron": {
+      "translation": ["（在…之中）哪一个", "（两个中的）任何一个"]
+    }
+  },
+  "which": {
+    "det/pron": {
+      "translation": [
+        "哪一个", "（进一步提供有关某事物的信息）那个，那些", "（省略先行词的关系代词）…的那个（或那些）",
+        "（明确所指的事物）…的那个，…的那些", "哪一些"
+      ]
+    },
+    "adj": {
+      "translation": ["哪个，哪些", "那个，那些", "无论哪个，无论哪些"]
+    }
+  },
+  "whichever": {
+    "det/pron": {
+      "translation": [
+        "无论哪个", "（表示什么特征或品质在作决定时重要）…的那个，…的那些", "无论哪些", "<口>究竟哪个，究竟哪些"
+      ]
+    },
+    "adj": {
+      "translation": ["无论哪一个", "无论哪些", "究竟哪一个…"]
+    }
+  },
+  "while": {
+    "conj": {
+      "translation": ["与…同时", "虽然", "当…的时候", "在…期间", "(对比两件事物)…而，…然而", "到…时"]
+    },
+    "n": {
+      "translation": ["一段时间", "一会儿"],
+      "plural": ["whiles"]
+    },
+    "v": {
+      "translation": ["消磨", "轻松地度过"],
+      "singular": ["whiles"],
+      "present": ["whiling"],
+      "past": ["whiled"]
+    },
+    "prep": {
+      "translation": ["直至(某时)"]
+    }
+  },
+  "whilst": {
+    "adv/conj": {
+      "translation": ["同时", "在…时，在…的过程中", "虽然，尽管", "<古>直到"]
+    }
+  },
+  "whip": {
+    "n": {
+      "translation": [
+        "鞭子", "纪律委员，组织秘书(在政党中负责确保党员出席政府重要辩论并表决)", "(政党发给党员的)投票通知书，投票指示",
+        "搅打奶油甜食"
+      ],
+      "plural": ["whips"]
+    },
+    "v": {
+      "translation": [
+        "鞭打", "鞭笞", "搅打（奶油等）", "(突然迅速地)除去，拉动，抽出", "鞭策", "偷", "(使朝某一方向)猛然移动", "以鞭打责罚"
+      ],
+      "singular": ["whips"],
+      "present": ["whipping"],
+      "past": ["whipped"]
+    }
+  },
+  "whirl": {
+    "v": {
+      "translation": ["旋转", "回旋，打转", "(头脑、思想等)混乱不清，激动，恍惚"],
+      "singular": ["whirls"],
+      "present": ["whirling"],
+      "past": ["whirled"]
+    },
+    "n": {
+      "translation": ["旋转", "回旋", "急转", "接连不断的活动", "纷至沓来的事件"]
+    }
+  },
+  "whisky": {
+    "n": {
+      "translation": ["威士忌酒", "威士忌", "一杯威士忌"],
+      "plural": ["whiskies"]
+    },
+    "adj": {
+      "translation": ["威士忌酒的", "含威士忌酒的", "像威士忌酒的"]
+    }
+  },
+  "whisper": {
+    "v": {
+      "translation": ["耳语", "低语", "小声说", "私语", "沙沙作响", "私下说", "秘密告诉", "悄声暗示", "发飒飒声"],
+      "singular": ["whispers"],
+      "present": ["whispering"],
+      "past": ["whispered"]
+    },
+    "n": {
+      "translation": ["耳语(声)", "低语(声)", "私语(声)", "传言", "谣传", "轻柔的声音"]
+    }
+  },
+  "whistle": {
+    "v": {
+      "translation": ["吹口哨", "呼啸", "吹哨子", "鸣叫", "啭鸣", "打呼哨", "发出笛声", "呼啸而行"],
+      "singular": ["whistles"],
+      "present": ["whistling"],
+      "past": ["whistled"]
+    },
+    "n": {
+      "translation": ["口哨", "哨子", "汽笛", "汽笛声", "哨子声"],
+      "plural": ["whistles"]
+    }
+  },
+  "white": {
+    "n": {
+      "translation": [
+        "白色", "白人", "雪白", "白葡萄酒", "蛋白", "白种人", "乳白", "眼白", "白色运动服", "要洗涤的白色衣服（或床单等）"
+      ],
+      "plural": ["whites"]
+    },
+    "adj": {
+      "translation": ["白色的", "白的", "白人的", "白种人的", "脸色苍白的", "加牛奶的"],
+      "comparative": ["whiter"],
+      "superlative": ["whitest"]
+    },
+    "v": {
+      "translation": ["使变白", "把…漆成白色"],
+      "singular": ["whites"],
+      "present": ["whiting"],
+      "past": ["whited"]
+    }
+  },
+  "whitewash": {
+    "n": {
+      "translation": ["粉饰", "掩盖", "(粉刷用的)石灰水，白涂料", "(在体育比赛中接连击败对手的)全胜，完胜"]
+    },
+    "vt": {
+      "translation": ["粉饰", "粉刷(墙壁等)", "掩饰", "刷石灰水", "(在系列比赛中)完全击败，完胜"],
+      "singular": ["whitewashes"],
+      "present": ["whitewashing"],
+      "past": ["whitewashed"]
+    }
+  },
+  "who": {
+    "pron": {
+      "translation": [
+        "谁", "（询问姓名、身份或职务）什么人", "怎样（性格、出身、地位等）的人", "进一步提供有关某人的信息", "表示所指的人"
+      ]
+    },
+    "n": {
+      "translation": ["有关的人，所指（或所说）的人"]
+    }
+  },
+  "whoever": {
+    "pron": {
+      "translation": [
+        "无论是谁，无论谁", "…的任何人", "…的那个人（或那些人）", "（用于问句，表示惊讶）究竟是谁，到底是谁",
+        "<口>随便谁，随便哪个", "不管什么人"
+      ]
+    }
+  },
+  "whole": {
+    "n": {
+      "translation": ["整个，全部", "整体", "所有，全体", "统一体，完整的体系"],
+      "plural": ["wholes"]
+    },
+    "adj": {
+      "translation": [
+        "（强调大小或重要性）整个的", "整体的", "全部的", "完全的，所有的", "整（数）的", "完整的", "健康的", "全面发展的",
+        "完好无损的", "未经分割的", "同父母的"
+      ]
+    },
+    "adv": {
+      "translation": ["<口>完全，整个"]
+    }
+  },
+  "wholly": {
+    "adv": {
+      "translation": ["完全地", "整体地", "全面地"]
+    }
+  },
+  "whom": {
+    "pron": {
+      "translation": ["谁", "(与who同义，作为动词或介词的宾语)什么人"]
+    }
+  },
+  "whose": {
+    "det/pron": {
+      "translation": ["（用于问句）谁的", "（特指）那个人的，那一个的，其"]
+    }
+  },
+  "why": {
+    "adv": {
+      "translation": ["为什么？", "（用于问句）为什么，为何", "（说明理由）为什么，…的原因", "（反问，表示不必）何必"]
+    },
+    "int": {
+      "translation": ["（惊讶、不耐烦等时说）哎呀，呦，哟，嗨"]
+    },
+    "n": {
+      "translation": ["原因，理由", "说明", "谜", "难解的问题，令人费解的问题", "询问原因的问题"],
+      "plural": ["whys"]
+    },
+    "v": {
+      "translation": ["原因", "理由", "说明", "难解的问题"]
+    }
+  },
+  "wicked": {
+    "adj": {
+      "translation": [
+        "邪恶的，恶毒的", "缺德的", "淘气的，调皮的，恶作剧的", "危险的，有害的", "<俚>技艺高超的，棒的", "强大的",
+        "令人不快（或厌恶）的", "极好的", "（动物）性情凶恶的", "超出限度的，超出常情的"
+      ],
+      "comparative": ["wickeder"],
+      "superlative": ["wickedest"]
+    },
+    "adv": {
+      "translation": ["非常"]
+    },
+    "n": {
+      "translation": ["恶人", "邪恶的人"]
+    }
+  },
+  "wide": {
+    "adj": {
+      "translation": [
+        "宽的", "广泛的", "…宽的", "大量的", "很大", "一般的", "宽阔的", "宽度为…的", "范围大的", "睁大的",
+        "全（国等）范围的", "远离目标"
+      ],
+      "comparative": ["wider"],
+      "superlative": ["widest"]
+    },
+    "adv": {
+      "translation": ["尽可能远地", "充分地"]
+    },
+    "n": {
+      "translation": ["(板球)歪球，坏球"]
+    }
+  },
+  "widely": {
+    "adv": {
+      "translation": ["广泛地", "很大程度上", "普遍地", "大大地", "范围广地"]
+    }
+  },
+  "widen": {
+    "v": {
+      "translation": ["加宽", "拓宽", "(使)扩展，程度加深，范围扩大", "(使)变宽", "放宽"],
+      "singular": ["widens"],
+      "present": ["widening"],
+      "past": ["widened"]
+    }
+  },
+  "widespread": {
+    "adj": {
+      "translation": ["广泛的", "普遍的", "分布广的"]
+    }
+  },
+  "widow": {
+    "n": {
+      "translation": ["寡妇", "遗孀"],
+      "plural": ["widows"]
+    },
+    "vt": {
+      "translation": ["使丧偶", "使成为寡妇(或鳏夫)"]
+    }
+  },
+  "width": {
+    "n": {
+      "translation": ["宽度", "广度", "(游泳池两长边之间的)池宽", "某一宽度的材料"],
+      "plural": ["widths"]
+    }
+  },
+  "wild": {
+    "adj": {
+      "translation": [
+        "野生的", "野的", "天然的", "荒凉的", "放荡的", "狂暴的", "荒芜的", "很棒的", "无法无天的", "盲目的",
+        "自然生长的", "热衷于…", "缺乏管教的", "感情炽烈的"
+      ],
+      "comparative": ["wilder"],
+      "superlative": ["wildest"]
+    },
+    "n": {
+      "translation": ["自然环境", "野生状态", "偏远地区", "人烟稀少的地区"],
+      "plural": ["wilds"]
+    },
+    "adv": {
+      "translation": ["猛烈地", "胡乱地", "狂暴地"]
+    }
+  },
+  "will": {
+    "v": {
+      "translation": [
+        "想要，希望", "愿意", "喜欢", "立定志向", "决心，决意", "想要（某事发生）", "立遗嘱将（财产等）赠与（某人）",
+        "立遗嘱赠与", "渴望，想要", "用意志的力量驱使（或控制等）", "对…施加影响，左右", "命令，规定", "下决心"
+      ],
+      "singular": ["wills"],
+      "present": ["willing"],
+      "past": ["would", "willed"]
+    },
+    "n": {
+      "translation": [
+        "意志", "毅力", "自制力", "意愿", "心愿", "遗嘱", "决心，决断", "热情，干劲", "<古>意旨，命令，法令", "所希望的事物，所爱的东西"
+      ],
+      "plural": ["wills"]
+    }
+  },
+  "willing": {
+    "adj": {
+      "translation": ["愿意", "乐意的", "乐意", "自愿的", "积极肯干的", "乐于相助的"]
+    },
+    "v": {
+      "translation": ["想要(某事发生)", "决心", "决意", "立定志向", "立遗嘱赠与", "立遗嘱将(财产等)赠与(某人)"]
+    }
+  },
+  "win": {
+    "v": {
+      "translation": [
+        "赢", "(在比赛、赛跑、选举等中)赢得，夺取，获得，挣得", "(在比赛、赛跑、战斗等中)获胜", "(尤指通过自己的努力)取得"
+      ],
+      "singular": ["wins"],
+      "present": ["winning"],
+      "past": ["won"]
+    },
+    "n": {
+      "translation": ["(在比赛、竞赛等中的)胜利"]
+    }
+  },
+  "wind": {
+    "n": {
+      "translation": [
+        "风", "气流", "(运动或吹奏乐器时的)呼吸", "（管弦乐团的）管乐器，管乐器组", "胃气", "肠气", "(随食物或饮料)吞下的气"
+      ],
+      "plural": ["winds"]
+    },
+    "v": {
+      "translation": [
+        "卷绕，倒（磁带、胶卷等）", "缠绕", "转动（把手）", "蜿蜒", "迂回", "给(钟表等)上发条", "使喘不过气来", "曲折而行",
+        "使喘大气", "(给婴儿轻轻拍抚后背)使嗳气", "绕成团", "可上发条", "通过转动把手等操作"
+      ],
+      "singular": ["winds"],
+      "present": ["winding"],
+      "past": ["wound"]
+    }
+  },
+  "window": {
+    "n": {
+      "translation": [
+        "窗", "窗口", "(计算机屏幕的)窗口，视窗", "窗户", "窗玻璃", "透明窗口", "墙上(或信封等上)开的窗形的口",
+        "了解信息的渠道", "一丝机会"
+      ],
+      "plural": ["windows"]
+    }
+  },
+  "wine": {
+    "n": {
+      "translation": ["葡萄酒", "(用植物或除葡萄以外的水果酿制的)酒，果酒", "深红色", "紫红色"]
+    },
+    "v": {
+      "translation": ["喝酒", "请…喝酒"],
+      "singular": ["wines"],
+      "present": ["wining"],
+      "past": ["wined"]
+    }
+  },
+  "wing": {
+    "n": {
+      "translation": [
+        "翼", "派，翼", "(鸟、昆虫或蝙蝠)翅膀", "机翼", "边厢，翼部，侧面", "厢房", "侧厅", "挡泥板", "侧翼部分", "耳房",
+        "（运动场地的）远端边侧"
+      ],
+      "plural": ["wings"]
+    },
+    "v": {
+      "translation": ["飞", "飞行", "被迅速送往"],
+      "singular": ["wings"],
+      "present": ["winging"],
+      "past": ["winged"]
+    }
+  },
+  "winner": {
+    "n": {
+      "translation": [
+        "赢家", "优胜者", "成功者", "获胜的人(或队、动物等)", "可能成功的人(或事物)", "制胜的一记入球", "赢得比赛的一分"
+      ],
+      "plural": ["winners"]
+    }
+  },
+  "winter": {
+    "n": {
+      "translation": ["冬天", "冬季"],
+      "plural": ["winters"]
+    },
+    "vi": {
+      "translation": ["过冬"],
+      "singular": ["winters"],
+      "present": ["wintering"],
+      "past": ["wintered"]
+    },
+    "adj": {
+      "translation": ["冬天的", "越冬的", "冬播的"]
+    }
+  },
+  "wipe": {
+    "vt": {
+      "translation": [
+        "擦", "抹", "消除，抹去(计算机、磁带或录像机上的信息等)", "抹去（旧事）", "(用布、手等)擦干净，抹掉", "拭", "揩", "蹭"
+      ],
+      "singular": ["wipes"],
+      "present": ["wiping"],
+      "past": ["wiped"]
+    },
+    "n": {
+      "translation": ["擦", "(湿)抹布，纸巾", "拭", "揩"],
+      "plural": ["wipes"]
+    }
+  },
+  "wire": {
+    "n": {
+      "translation": ["导线", "电线", "金属丝", "金属线", "铁丝网", "一段金属丝(或线)", "金属丝编制的栅栏"],
+      "plural": ["wires"]
+    },
+    "vt": {
+      "translation": [
+        "给（某人）电汇", "将…连接到(磁带录音机、计算机等设备)", "给（某人）打电报", "给…安装窃听器",
+        "用导线给(建筑物、设备等)接通电源", "用金属丝把…连在一起"
+      ],
+      "singular": ["wires"],
+      "present": ["wiring"],
+      "past": ["wired"]
+    }
+  },
+  "wireless": {
+    "adj": {
+      "translation": ["无线的"]
+    },
+    "n": {
+      "translation": ["无线电报", "无线电收音机", "无线电发射和接收系统"],
+      "plural": ["wirelesses"]
+    },
+    "v": {
+      "translation": ["用无线电发送[联系]"]
+    }
+  },
+  "wisdom": {
+    "n": {
+      "translation": ["智慧", "(社会或文化长期积累的)知识，学问", "明智", "才智", "精明"],
+      "plural": ["wisdoms"]
+    }
+  },
+  "wise": {
+    "adj": {
+      "translation": [
+        "明智的", "英明的", "了解的", "精明的，狡猾的", "有学问的, 博学的", "充满智慧的", "高明的",
+        "<美俚>骄横的，傲慢的，放肆的", "有判断力的", "明察善断的", "知情消息灵通的", "<古>懂妖术的，有魔力的"
+      ],
+      "comparative": ["wiser"],
+      "superlative": ["wisest"]
+    },
+    "v": {
+      "translation": ["使知道", "了解", "教导", "劝导，说服", "使转向，使朝着", "传送，传导", "引开，诱离"],
+      "singular": ["wises"],
+      "present": ["wising"],
+      "past": ["wised"]
+    },
+    "n": {
+      "translation": ["<古>（主要用于一些习用短语中）方式，方法，样式"]
+    }
+  },
+  "wish": {
+    "v": {
+      "translation": ["希望", "祝", "想要", "盼望", "企求", "怀着(不可能实现的)愿望"],
+      "singular": ["wishes"],
+      "present": ["wishing"],
+      "past": ["wished"]
+    },
+    "n": {
+      "translation": ["希望", "愿望", "愿", "祝愿，祝福", "心愿", "想要的东西", "希望的事"],
+      "plural": ["wishes"]
+    }
+  },
+  "wit": {
+    "n": {
+      "translation": [
+        "机智", "（正确判断的）能力，智力", "风趣", "头脑", "智力", "才思", "有…智慧的", "理解力", "才思敏捷说话诙谐的人",
+        "机智幽默的人", "措辞巧妙的能力", "颖悟力"
+      ],
+      "plural": ["wits"]
+    },
+    "v": {
+      "translation": ["(wist ) 知道"]
+    }
+  },
+  "with": {
+    "prep": {
+      "translation": [
+        "具有", "和", "用", "有", "以", "跟", "同", "带有", "使用", "和…在一起", "借", "与…对立", "关于", "包括",
+        "因为", "由于", "与…方向一致", "由…持有", "为…工作", "虽然", "作为…的成员，为…所雇用", "具有，有，带有",
+        "在…身上，在…身边", "由于，因", "在…那里，在…看来"
+      ]
+    }
+  },
+  "withdraw": {
+    "v": {
+      "translation": [
+        "收回，撤回，撤销（说过的话）", "(使)撤回，撤离", "(使)退出", "撤退", "提，取", "脱离（社会）", "停止提供", "不再给予"
+      ],
+      "singular": ["withdraws"],
+      "present": ["withdrawing"],
+      "past": ["withdrew", "withdrawn"]
+    }
+  },
+  "within": {
+    "adv": {
+      "translation": ["在内部", "在里面"]
+    },
+    "prep": {
+      "translation": ["在(某段时间)之内", "在(某段距离)之间", "不出(某范围或限度)", "在…里"]
+    },
+    "n": {
+      "translation": ["内部"]
+    }
+  },
+  "without": {
+    "prep": {
+      "translation": ["没有", "不（做某事）", "不用", "不带", "缺乏", "不拿", "不和…在一起", "无…相伴"]
+    },
+    "adv": {
+      "translation": ["没有", "缺乏"]
+    },
+    "conj": {
+      "translation": ["如果不"]
+    },
+    "n": {
+      "translation": ["外面"]
+    }
+  },
+  "withstand": {
+    "vt": {
+      "translation": ["承受", "经受住", "顶住", "抵住"],
+      "singular": ["withstands"],
+      "present": ["withstanding"],
+      "past": ["withstood"]
+    }
+  },
+  "witness": {
+    "n": {
+      "translation": ["证人", "见证", "目击者", "见证人", "连署人"],
+      "plural": ["witnesses"]
+    },
+    "v": {
+      "translation": [
+        "见证", "(为正式文件的签署)作证，连署", "当场看到，目击(尤指罪行或事故)", "是…的迹象", "（为宗教信仰）做见证",
+        "是发生…的地点(或时间、组织等)", "（摆证据）就是证据，看…就知道"
+      ],
+      "singular": ["witnesses"],
+      "present": ["witnessing"],
+      "past": ["witnessed"]
+    }
+  },
+  "wolf": {
+    "n": {
+      "translation": ["狼"],
+      "plural": ["wolves"]
+    },
+    "vt": {
+      "translation": ["大口地快吃", "狼吞虎咽"],
+      "singular": ["wolfs"],
+      "present": ["wolfing"],
+      "past": ["wolfed"]
+    }
+  },
+  "woman": {
+    "n": {
+      "translation": [
+        "女人", "妇女", "女性", "女子", "女友，妻子，女伴", "女工", "成年女子", "来自…（或做…、喜欢…等）的女子",
+        "娘儿们（生气时对女子的一种粗鲁称呼）"
+      ],
+      "plural": ["women"]
+    }
+  },
+  "wonder": {
+    "v": {
+      "translation": ["想知道", "琢磨", "想弄明白", "感到诧异", "非常惊讶", "礼貌地提问或请人做事时说"],
+      "singular": ["wonders"],
+      "present": ["wondering"],
+      "past": ["wondered"]
+    },
+    "n": {
+      "translation": [
+        "奇迹", "奇观", "惊奇", "惊讶", "奇事", "惊叹", "惊异", "奇妙之处", "奇才", "能人", "有特效的东西"
+      ],
+      "plural": ["wonders"]
+    },
+    "adj": {
+      "translation": ["极好的", "非常美丽的", "极有效的"]
+    }
+  },
+  "wonderful": {
+    "adj": {
+      "translation": ["精彩的", "绝妙的", "令人惊奇的", "令人赞叹的", "令人高兴的", "使人愉快的"]
+    }
+  },
+  "wood": {
+    "n": {
+      "translation": ["木材", "木头", "树林", "木料", "林地", "(保龄球戏的)木瓶", "木头球杆"],
+      "plural": ["woods"]
+    },
+    "v": {
+      "translation": ["在…植树造林", "供木材给…", "用木头垫住[支住]", "收集木材"]
+    },
+    "adj": {
+      "translation": ["精神错乱的", "暴怒", "愤怒"]
+    }
+  },
+  "wooden": {
+    "adj": {
+      "translation": ["木制的", "木头的", "呆板的", "木讷的", "死板的", "木头似的"]
+    }
+  },
+  "wool": {
+    "n": {
+      "translation": ["羊毛", "(羊等的)绒，毛", "毛线", "毛织物", "毛料", "绒线"],
+      "plural": ["wools"]
+    }
+  },
+  "woollen": {
+    "adj": {
+      "translation": ["羊毛的", "毛料的", "毛纺的", "毛线的", "毛纺织业的"]
+    },
+    "n": {
+      "translation": ["毛织品", "毛线", "呢绒", "绒线", "呢绒衣服"],
+      "plural": ["woollens"]
+    }
+  },
+  "word": {
+    "n": {
+      "translation": ["单词", "字", "信息", "话语", "言语", "说的话", "保证", "《圣经》", "诺言", "许诺"],
+      "plural": ["words"]
+    },
+    "vt": {
+      "translation": ["措辞", "用词"],
+      "singular": ["words"],
+      "present": ["wording"],
+      "past": ["worded"]
+    },
+    "int": {
+      "translation": ["(表示接受或同意别人刚说的话)就是，说得对"]
+    }
+  },
+  "work": {
+    "n": {
+      "translation": [
+        "工作，职业", "作为", "工厂", "职责", "著作", "功", "工作内容", "建", "工作地点", "工作成果", "活计",
+        "（机器等的）活动部件", "所有的事物", "工作所需的材料（或档案等）"
+      ],
+      "plural": ["works"]
+    },
+    "v": {
+      "translation": [
+        "使工作", "管理，经营（以获利）", "开动，操作（机器、装置等）", "劳动", "（逐渐地）移动（到某位置）", "从事…工作", "运转",
+        "争取", "干活", "奏效", "使奏效", "受雇于", "使成形，使定形", "产生…作用", "抽动", "(尤指)使卖力干活",
+        "做体力(或脑力)工作", "用某种材料作画"
+      ],
+      "singular": ["works"],
+      "present": ["working"],
+      "past": ["worked"]
+    },
+    "adj": {
+      "translation": ["工作的，为工作的，工作用的"]
+    }
+  },
+  "worker": {
+    "n": {
+      "translation": ["工人", "人员", "工作者", "(尤指)劳工", "雇员", "工蜂", "干活…的人"],
+      "plural": ["workers"]
+    }
+  },
+  "workman": {
+    "n": {
+      "translation": ["工匠", "工作…的人", "男工人"],
+      "plural": ["workmen"]
+    }
+  },
+  "workshop": {
+    "n": {
+      "translation": ["车间", "讲习班", "研讨会", "工场", "作坊"],
+      "plural": ["workshops"]
+    },
+    "v": {
+      "translation": ["学习"]
+    }
+  },
+  "world": {
+    "n": {
+      "translation": [
+        "世界，天下", "<喻> 世界，界，领域", "世界（指历史上的一个时期）", "社会", "人类，世人，众人", "地球", "宇宙，万物",
+        "（像地球的）星球，天体", "尘世", "人世，今世", "人世", "社会生活，社会交往", "生活环境", "生活经历，阅历",
+        "按性质（或职业等）划分的类别", "某地域（或民族、历史时期等）的人类社会", "某领域的一切事物"
+      ],
+      "plural": ["worlds"]
+    },
+    "adj": {
+      "translation": ["世界的，世界范围的", "世界著名的"]
+    }
+  },
+  "worm": {
+    "n": {
+      "translation": ["蠕虫", "寄生虫", "幼虫", "肠虫", "懦夫"],
+      "plural": ["worms"]
+    },
+    "vt": {
+      "translation": ["蠕动，曲折行进(尤指通过狭窄或拥挤的地方)", "给(动物)驱肠虫"],
+      "singular": ["worms"],
+      "present": ["worming"],
+      "past": ["wormed"]
+    },
+    "abbr": {
+      "translation": ["(= Write-Once Read Multiple ) 【计】一写多读光盘"]
+    }
+  },
+  "worry": {
+    "v": {
+      "translation": [
+        "担心", "使担心", "使担忧", "担忧", "使发愁", "发愁", "攻击，撕咬（动物，尤指羊）", "骚扰", "烦扰", "撕咬", "使不安宁"
+      ],
+      "singular": ["worries"],
+      "present": ["worrying"],
+      "past": ["worried"]
+    },
+    "n": {
+      "translation": ["担心", "忧虑", "发愁", "令人担忧的事", "让人发愁的事"]
+    }
+  },
+  "worse": {
+    "adj": {
+      "translation": ["更糟的", "更糟", "更差", "更严重的", "更坏", "更严厉的", "病情更重", "更不愉快", "健康恶化"]
+    },
+    "adv": {
+      "translation": ["更糟", "更糟的是", "更差", "更严重", "更坏", "更厉害", "更倒霉的是"]
+    },
+    "n": {
+      "translation": ["更多的问题", "更坏的消息"]
+    }
+  },
+  "worship": {
+    "n": {
+      "translation": ["(对上帝或神的)崇拜，敬仰，礼拜", "崇拜", "崇敬", "爱慕", "(对治安官或市长的尊称)阁下"],
+      "plural": ["worships"]
+    },
+    "v": {
+      "translation": [
+        "崇敬，崇拜(上帝或神)", "爱慕，崇拜(尤指达到看不到缺点的地步)", "(尤指在宗教场所)做礼拜", "热爱", "到宗教场所参加礼拜"
+      ],
+      "singular": ["worships"],
+      "present": ["worshipping"],
+      "past": ["worshipped"]
+    }
+  },
+  "worst": {
+    "adj": {
+      "translation": ["最差的", "最坏的", "最糟的"]
+    },
+    "adv": {
+      "translation": ["最坏", "最严重", "最糟"]
+    },
+    "n": {
+      "translation": ["最坏的部分(或情况、可能性等)", "(可能发生的)最严重的事"]
+    },
+    "vt": {
+      "translation": ["(在打斗、比赛或辩论中)打败对方，战胜"],
+      "singular": ["worsts"],
+      "present": ["worsting"],
+      "past": ["worsted"]
+    }
+  },
+  "worth": {
+    "adj": {
+      "translation": ["值得的", "值得(费周折)", "(指行动)值得，有价值", "值…钱", "有…价值", "拥有…价值的财产"]
+    },
+    "n": {
+      "translation": ["价值", "意义", "作用", "价值(十元、40英镑等)的东西", "能用(一个星期、一个月等)的东西"]
+    }
+  },
+  "worthless": {
+    "adj": {
+      "translation": ["无价值的", "没用的", "不中用的", "品质坏的"]
+    }
+  },
+  "worthwhile": {
+    "adj": {
+      "translation": ["值得的", "重要的", "有趣的", "值得花时间(或花钱、努力等)", "令人愉快的"]
+    }
+  },
+  "worthy": {
+    "adj": {
+      "translation": [
+        "值得的", "值得(或应得)…的", "有价值的(但不太令人感兴趣或激动的)", "值得注意的", "值得尊敬的", "值得敬仰的",
+        "有（某人或事物）的典型特征"
+      ],
+      "comparative": ["worthier"],
+      "superlative": ["worthiest"]
+    },
+    "n": {
+      "translation": ["大人物", "知名人士", "要人"],
+      "plural": ["worthies"]
+    }
+  },
+  "would": {
+    "v": {
+      "translation": [
+        "希望", "愿意", "想要", "想要（某事发生）", "喜欢", "决心，决意", "立定志向", "立遗嘱将（财产等）赠与（某人）"
+      ]
+    }
+  },
+  "wound": {
+    "n": {
+      "translation": ["伤口", "(心灵上的)伤，创伤", "(武器造成的)伤"],
+      "plural": ["wounds"]
+    },
+    "vt": {
+      "translation": ["使(身体)受伤", "(用武器)伤害", "伤感情"],
+      "singular": ["wounds"],
+      "present": ["wounding"],
+      "past": ["wounded"]
+    }
+  },
+  "wrap": {
+    "v": {
+      "translation": ["包", "裹(礼物等)", "（使文字）换行", "用…包裹(或包扎、覆盖等)", "用…缠绕(或围紧)"],
+      "singular": ["wraps"],
+      "present": ["wrapping"],
+      "past": ["wrapped"]
+    },
+    "n": {
+      "translation": ["围巾", "包裹(或包装)材料", "(女用)披肩", "(拍摄电影时)完成拍摄", "墨西哥卷"],
+      "plural": ["wraps"]
+    }
+  },
+  "wreath": {
+    "n": {
+      "translation": [
+        "花环(传统上圣诞节时挂在门上)", "花圈(用于祭奠)", "花冠(旧时用作荣誉的象征)", "（烟、云等的）圈，缭绕"
+      ],
+      "plural": ["wreaths"]
+    }
+  },
+  "wreck": {
+    "n": {
+      "translation": ["沉船", "严重损毁的船", "(事故中)遭严重毁坏的汽车(或飞机等)", "(身体或精神上)受到严重损伤的人"],
+      "plural": ["wrecks"]
+    },
+    "vt": {
+      "translation": ["破坏", "使(船舶)失事", "使遇难", "毁掉", "毁灭", "损坏", "使下沉"],
+      "singular": ["wrecks"],
+      "present": ["wrecking"],
+      "past": ["wrecked"]
+    }
+  },
+  "wrist": {
+    "n": {
+      "translation": ["手腕", "腕关节"],
+      "plural": ["wrists"]
+    }
+  },
+  "write": {
+    "v": {
+      "translation": [
+        "写", "写作", "编写", "写信", "写道", "写字", "开（支票等）", "将（数据）写入（存储器）", "作曲", "好使"
+      ],
+      "singular": ["writes"],
+      "present": ["writing"],
+      "past": ["wrote", "written"]
+    }
+  },
+  "writer": {
+    "n": {
+      "translation": ["作家", "作者", "撰写人", "写…的人", "著者", "执笔者", "写字…的人"],
+      "plural": ["writers"]
+    }
+  },
+  "writing": {
+    "n": {
+      "translation": ["写", "(专职)写作", "书写", "文章", "（书写或印刷的）文字", "著作", "笔迹", "文字作品", "著书立说"],
+      "plural": ["writings"]
+    },
+    "v": {
+      "translation": ["写作", "编写", "书写", "写信", "写字", "作曲"]
+    }
+  },
+  "wrong": {
+    "adj": {
+      "translation": [
+        "错误的", "不对的", "出错", "不正确的", "搞错", "有错误", "有毛病", "不合适的", "不正常", "不道德", "引起问题(或麻烦)"
+      ],
+      "comparative": ["wronger"],
+      "superlative": ["wrongest"]
+    },
+    "adv": {
+      "translation": ["不对", "不正确", "错误地"]
+    },
+    "n": {
+      "translation": ["犯罪", "欺骗", "邪恶", "罪恶", "欺骗行径", "不义行为"],
+      "plural": ["wrongs"]
+    },
+    "vt": {
+      "translation": ["不公正(或不诚实)对待"],
+      "singular": ["wrongs"],
+      "present": ["wronging"],
+      "past": ["wronged"]
+    }
+  }
+}

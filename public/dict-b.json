@@ -1,0 +1,2630 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "baby": {
+    "n": {
+      "translation": [
+        "宝贝", "婴儿", "宝贝儿，心肝儿", "动物幼崽", "孩子气的人", "幼稚的人", "(家庭或团体中)最年幼的成员"
+      ],
+      "plural": ["babies"]
+    },
+    "adj": {
+      "translation": ["(蔬菜)小型的，幼嫩的"],
+      "comparative": ["babier"],
+      "superlative": ["babiest"]
+    },
+    "vt": {
+      "translation": ["婴儿般对待", "百般呵护"],
+      "singular": ["babies"],
+      "present": ["babying"],
+      "past": ["babied"]
+    }
+  },
+  "back": {
+    "n": {
+      "translation": [
+        "(人体或动物的)背部，背", "（文件等的）背面", "后面", "（椅子等的）靠背", "（家具）…靠背的", "后部", "后卫", "脊柱",
+        "腰背", "末尾", "（书等的）最后几页，末尾", "脊梁骨"
+      ],
+      "plural": ["backs"]
+    },
+    "adj": {
+      "translation": ["后面的", "过去的", "背后的", "后部的", "拖欠的", "旧时的", "舌后的，后位性的", "到期未付的"]
+    },
+    "adv": {
+      "translation": [
+        "在后", "在背面", "向后", "以前", "回报", "忍住", "控制住", "回原处", "与(某物)有距离", "在曾去过（或提到过）的地方"
+      ]
+    },
+    "v": {
+      "translation": [
+        "支持", "帮助", "(使)后退，倒退", "伴奏", "位于（某物）的后面", "下赌注于(赛马、参赛队伍等)", "（用某物）在…背后加固，给…加背衬"
+      ],
+      "singular": ["backs"],
+      "present": ["backing"],
+      "past": ["backed"]
+    }
+  },
+  "background": {
+    "n": {
+      "translation": [
+        "背景", "<计>后台", "背景音乐", "出身背景，（包括学历在内的）经历", "底子，底色", "（事情的）背景情况", "不引人注意的地方"
+      ],
+      "plural": ["backgrounds"]
+    },
+    "v": {
+      "translation": ["作...的背景", "<口>为...提供背景资料"]
+    }
+  },
+  "backward": {
+    "adj": {
+      "translation": ["向后的，朝后的", "进步缓慢的，落后的", "反向的", "倒退的，不进反退的"]
+    },
+    "adv": {
+      "translation": ["向后，朝后", "往回，往前面", "倒退地，退步地", "前后反过来"]
+    },
+    "n": {
+      "translation": ["后面部分，（时间的）已逝部分"]
+    }
+  },
+  "bacterium": {
+    "n": {
+      "translation": ["细菌", "bacteria的单数"],
+      "plural": ["bacteria"]
+    }
+  },
+  "bad": {
+    "adj": {
+      "translation": [
+        "坏的", "严重的", "有害", "变质的", "质量差的", "不合格的", "不适合的", "发脾气", "不善于", "不道德的",
+        "令人不快的", "觉得不舒服", "拙于", "感到愧疚（或遗憾）", "有病的", "顽皮的", "不擅", "顶呱呱的", "问题成堆的"
+      ],
+      "comparative": ["worse"],
+      "superlative": ["worst"]
+    },
+    "n": {
+      "translation": ["坏人", "坏事(物)"]
+    },
+    "adv": {
+      "translation": ["非常", "很"]
+    }
+  },
+  "badly": {
+    "adv": {
+      "translation": [
+        "非常", "差", "严重地", "受挫", "拙劣地", "不成功地", "未能令人满意", "给人坏的印象", "不认真仔细", "很"
+      ]
+    }
+  },
+  "badminton": {
+    "n": {
+      "translation": ["羽毛球", "羽毛球运动"],
+      "plural": ["badmintons"]
+    }
+  },
+  "bag": {
+    "n": {
+      "translation": [
+        "(尤指商店用的)纸袋，塑料袋", "一袋(的量)", "手提包", "旅行袋", "大量", "黑眼圈", "丑妇，泼妇", "（一次）猎获物"
+      ],
+      "plural": ["bags"]
+    },
+    "vt": {
+      "translation": ["捕获，猎杀(动物)", "把…装进袋子", "得分", "批评", "抢占"],
+      "singular": ["bags"],
+      "present": ["bagging"],
+      "past": ["bagged"]
+    }
+  },
+  "baggage": {
+    "n": {
+      "translation": ["行李", "(因阅历而形成的)信仰，看法"]
+    }
+  },
+  "bake": {
+    "v": {
+      "translation": ["烤", "(在烤炉里)烘烤", "焙", "(变得)灼热", "(将某物)烤硬"],
+      "singular": ["bakes"],
+      "present": ["baking"],
+      "past": ["baked"]
+    },
+    "n": {
+      "translation": ["烤", "烘烤的成品", "烧烤会餐"]
+    }
+  },
+  "balance": {
+    "n": {
+      "translation": ["平衡", "余额", "均衡", "天平", "均势", "平衡能力", "结欠"]
+    },
+    "v": {
+      "translation": [
+        "使(在某物上)保持平衡", "比较", "抵消", "相抵", "结平（账目）", "同等重视(相对的两个事物或方面)", "立稳"
+      ],
+      "singular": ["balances"],
+      "present": ["balancing"],
+      "past": ["balanced"]
+    }
+  },
+  "ball": {
+    "n": {
+      "translation": [
+        "球", "（大型正式的）舞会", "睾丸", "球状物", "（投手投出的）坏球", "拇指球", "踢出(或击出、投出等)的一球"
+      ],
+      "plural": ["balls"]
+    },
+    "v": {
+      "translation": ["做成球状", "使成团块", "(指男性)和(女性)交媾"],
+      "singular": ["balls"],
+      "present": ["balling"],
+      "past": ["balled"]
+    }
+  },
+  "balloon": {
+    "n": {
+      "translation": ["气球", "热气球"],
+      "plural": ["balloons"]
+    },
+    "vi": {
+      "translation": ["(突然)膨胀，涨大", "乘热气球飞行"],
+      "singular": ["balloons"],
+      "present": ["ballooning"],
+      "past": ["ballooned"]
+    },
+    "adj": {
+      "translation": ["气球状的", "(货物等)分量轻而体积大的"]
+    },
+    "v": {
+      "translation": ["涨大", "乘热气球飞行"],
+      "singular": ["balloons"],
+      "present": ["ballooning"],
+      "past": ["ballooned"]
+    }
+  },
+  "banana": {
+    "n": {
+      "translation": ["香蕉"],
+      "plural": ["bananas"]
+    }
+  },
+  "band": {
+    "n": {
+      "translation": [
+        "乐队", "频带", "带", "范围，段", "条纹", "管乐队", "一帮人", "一伙人", "鼓号乐队", "流行音乐乐队"
+      ],
+      "plural": ["bands"]
+    },
+    "vt": {
+      "translation": ["(将价格、收入等)划分档次", "分等级", "加彩条(或嵌条等)"],
+      "singular": ["bands"],
+      "present": ["banding"],
+      "past": ["banded"]
+    }
+  },
+  "bang": {
+    "v": {
+      "translation": ["猛敲", "碰撞", "(把…)砰的关上", "砸", "和（女性）性交", "砰地一扔", "猛摔"],
+      "singular": ["bangs"],
+      "present": ["banging"],
+      "past": ["banged"]
+    },
+    "n": {
+      "translation": ["突然的巨响", "(对身体部位的)猛撞，猛敲，猛击", "叹号"],
+      "plural": ["bangs"]
+    },
+    "adv": {
+      "translation": ["正好", "完全地"]
+    },
+    "int": {
+      "translation": ["(表示枪声等巨响)砰"]
+    }
+  },
+  "bank": {
+    "n": {
+      "translation": [
+        "银行", "库", "一排，一系列", "岸", "边坡", "库存", "斜坡", "(尤指赌博中的)筹码", "赌本", "（尤指风吹到一起的）积云（或雪等）"
+      ],
+      "plural": ["banks"]
+    },
+    "v": {
+      "translation": ["把(钱)存入银行", "(在某银行)开账户，存款", "(转弯时)倾斜飞行", "堆积（某物）", "（用煤等）封炉火"],
+      "singular": ["banks"],
+      "present": ["banking"],
+      "past": ["banked"]
+    }
+  },
+  "banner": {
+    "n": {
+      "translation": ["横幅"],
+      "plural": ["banners"]
+    },
+    "adj": {
+      "translation": ["杰出的", "〈美〉突出地支持(某一政党)的"]
+    }
+  },
+  "bar": {
+    "n": {
+      "translation": [
+        "酒吧", "（木、金属等的）条，（长方或椭圆形的）块", "巴（气压单位）", "条纹，带",
+        "（门、窗等的）闩，横木，栏杆（常用作护栏）, （球门的）横梁", "法庭围栏，法庭，（法庭上的）律师席（或被告席）", "（乐谱的）小节",
+        "（出售饮料等的）柜台", "障碍", "（专售某类饮食的）小吃店，馆，处所", "沙洲，暗礁", "（the bar或the Bar）律师职业",
+        "（电热炉的）电热棒，电热片", "军阶杠，绶带"
+      ],
+      "plural": ["bars"]
+    },
+    "v": {
+      "translation": ["禁止，阻止（某人做某事）", "闩（门、窗等），（用铁条或木条）封，堵", "阻挡，拦住"],
+      "singular": ["bars"],
+      "present": ["barring"],
+      "past": ["barred"]
+    },
+    "prep": {
+      "translation": ["除...外"]
+    }
+  },
+  "barber": {
+    "n": {
+      "translation": ["(为男子理发、修面的)理发师", "(男子)理发店"],
+      "plural": ["barbers"]
+    },
+    "v": {
+      "translation": ["为…理发剃须", "多嘴"]
+    }
+  },
+  "bare": {
+    "adj": {
+      "translation": [
+        "裸露的，裸体的", "（树木）光秃秃的，（土地）荒芜的", "空的", "仅够的，最低限度的", "（事实、细节等）最基本的，最重要的",
+        "无遮盖的，没有保护的"
+      ],
+      "comparative": ["barer"],
+      "superlative": ["barest"]
+    },
+    "v": {
+      "translation": ["使赤裸，使露出", "揭露，暴露", "把（刀、剑）拔出鞘"],
+      "singular": ["bares"],
+      "present": ["baring"],
+      "past": ["bared"]
+    }
+  },
+  "bargain": {
+    "n": {
+      "translation": ["交易", "协议", "便宜货", "减价品"],
+      "plural": ["bargains"]
+    },
+    "vi": {
+      "translation": ["(与某人就某事)讨价还价，商讨条件"],
+      "singular": ["bargains"],
+      "present": ["bargaining"],
+      "past": ["bargained"]
+    }
+  },
+  "bark": {
+    "n": {
+      "translation": ["树皮", "(狗等的)吠声，嗥叫声", "枪声", "短促响亮的人声"],
+      "plural": ["barks"]
+    },
+    "v": {
+      "translation": ["(狗)吠叫", "擦破(或蹭掉)…的皮", "厉声质问", "厉声发令"],
+      "singular": ["barks"],
+      "present": ["barking"],
+      "past": ["barked"]
+    }
+  },
+  "barn": {
+    "n": {
+      "translation": ["谷仓", "畜棚", "(公共汽车、卡车等的)车库", "简陋的大建筑物"],
+      "plural": ["barns"]
+    }
+  },
+  "barrel": {
+    "n": {
+      "translation": ["一桶(的量)", "枪管", "桶(石油计量单位，相当于120到159升)"],
+      "plural": ["barrels"]
+    },
+    "vi": {
+      "translation": ["(无法控制地)高速行进，飞驰"],
+      "singular": ["barrels"],
+      "present": ["barrelling"],
+      "past": ["barrelled"]
+    }
+  },
+  "barrier": {
+    "n": {
+      "translation": ["障碍", "屏障", "隔阂", "关卡", "阻力", "分界线", "难以逾越的数量（或水平、数目）"],
+      "plural": ["barriers"]
+    }
+  },
+  "base": {
+    "n": {
+      "translation": [
+        "基础", "根据", "基地", "底座", "基底", "碱", "(支持、收入、力量等的)来源", "基数", "出发点", "根基", "垒",
+        "据点", "混合物的首要（或主要）成分"
+      ],
+      "plural": ["bases"]
+    },
+    "vt": {
+      "translation": ["以…为据点(或总部等)", "把(总部等)设在"],
+      "singular": ["bases"],
+      "present": ["basing"],
+      "past": ["based"]
+    },
+    "adj": {
+      "translation": ["卑鄙的", "不道德的"],
+      "comparative": ["baser"],
+      "superlative": ["basest"]
+    }
+  },
+  "basic": {
+    "adj": {
+      "translation": ["基本的，基础的，根本的", "（化）碱的，碱性的", "必需的，基本需要的", "最简单的，初级的"]
+    },
+    "n": {
+      "translation": ["基本原理，基本原则（常作basics）", "（BASIC或Basic）<计>初学者通用符号指令码"],
+      "plural": ["basics"]
+    }
+  },
+  "basically": {
+    "adv": {
+      "translation": ["基本上", "从根本上说", "大体上", "总的说来"]
+    }
+  },
+  "basin": {
+    "n": {
+      "translation": ["盆", "流域", "盆地", "港池", "海盆", "一盆(的量)", "凹地", "(英国英语)调菜盆"],
+      "plural": ["basins"]
+    }
+  },
+  "basis": {
+    "n": {
+      "translation": ["基础", "方式", "基准", "原因", "准则", "基点", "要素", "缘由"],
+      "plural": ["bases"]
+    }
+  },
+  "basket": {
+    "n": {
+      "translation": ["篮子", "(篮球运动的)篮", "筐", "篓", "一篮，一筐，一篓(的量)", "一组", "投篮得分"],
+      "plural": ["baskets"]
+    }
+  },
+  "basketball": {
+    "n": {
+      "translation": ["篮球", "篮球运动"],
+      "plural": ["basketballs"]
+    }
+  },
+  "bat": {
+    "n": {
+      "translation": ["球棒，球拍，球板", "蝙蝠", "（棒球比赛中）轮到击球"],
+      "plural": ["bats"]
+    },
+    "v": {
+      "translation": ["眨（眼），抖动（眼皮等）", "挥打，拍打", "用球板击球，用球棒击球(尤指板球或棒球运动)", "轮到击球"],
+      "singular": ["bats"],
+      "present": ["batting"],
+      "past": ["batted"]
+    }
+  },
+  "bath": {
+    "n": {
+      "translation": ["洗澡", "浴缸", "洗浴", "浴盆", "游泳池", "洗澡水", "（旧时的）公共浴室，澡堂", "浴器，浴锅，染缸"],
+      "plural": ["baths"]
+    },
+    "v": {
+      "translation": ["给…洗澡", "洗澡"],
+      "singular": ["baths"],
+      "present": ["bathing"],
+      "past": ["bathed"]
+    }
+  },
+  "bathe": {
+    "v": {
+      "translation": [
+        "洗澡", "使沐浴(在光线里)", "(以光线)撒满，覆盖", "用水清洗(尤指身体部位)", "(到海、河等中)游泳消遣"
+      ],
+      "singular": ["bathes"],
+      "present": ["bathing"],
+      "past": ["bathed"]
+    },
+    "n": {
+      "translation": ["(在海、河等中的)游泳"]
+    }
+  },
+  "bathroom": {
+    "n": {
+      "translation": ["浴室", "卫生间", "洗手间", "盥洗室"],
+      "plural": ["bathrooms"]
+    }
+  },
+  "battery": {
+    "n": {
+      "translation": [
+        "电池", "一组，一系列，一群，一套", "殴打罪", "排炮", "（常用作形容词）层架式鸡笼", "（棒球队的）投手和接手"
+      ],
+      "plural": ["batteries"]
+    }
+  },
+  "battle": {
+    "n": {
+      "translation": ["战斗", "战役", "战争", "斗争", "搏斗", "较量", "争论", "奋斗"],
+      "plural": ["battles"]
+    },
+    "v": {
+      "translation": ["斗争", "搏斗", "奋斗"],
+      "singular": ["battles"],
+      "present": ["battling"],
+      "past": ["battled"]
+    }
+  },
+  "bay": {
+    "n": {
+      "translation": [
+        "海湾", "(海或湖的)湾", "月桂（用作香料）", "栗色马", "(建筑物的)突出结构", "低沉吠声", "分隔间(户外或室内的，用以停放车辆、存放货物等)"
+      ],
+      "plural": ["bays"]
+    },
+    "vi": {
+      "translation": ["(尤指捕猎时)发出长嗥，低沉地吠叫", "厉声强要"],
+      "singular": ["bays"],
+      "present": ["baying"],
+      "past": ["bayed"]
+    },
+    "adj": {
+      "translation": ["深棕色的", "枣红色的"]
+    }
+  },
+  "be": {
+    "v": {
+      "translation": [
+        "是", "有，存在", "位于，在(某处)", "（在某时或某地）发生", "逗留，呆", "出席，到场", "前往，造访", "花费，值", "等于"
+      ],
+      "singular": ["is"],
+      "present": ["being"],
+      "past": ["was"]
+    },
+    "aux": {
+      "translation": ["与过去分词连用构成被动语态", "与现在分词连用构成进行时", "用于反意疑问句", "（表述条件）"]
+    }
+  },
+  "beach": {
+    "n": {
+      "translation": ["海滩", "沙滩", "海滨", "湖滨"],
+      "plural": ["beaches"]
+    },
+    "v": {
+      "translation": ["(使)上岸", "把…拖上岸"],
+      "singular": ["beaches"],
+      "present": ["beaching"],
+      "past": ["beached"]
+    }
+  },
+  "beam": {
+    "n": {
+      "translation": ["(建筑物的)梁", "(粒子的)束", "(电波的)波束", "光线", "笑容", "(体操运动的)平衡木"],
+      "plural": ["beams"]
+    },
+    "v": {
+      "translation": ["照射", "发射(电波)", "眉开眼笑", "射出光(或热)", "笑容满面", "播送"],
+      "singular": ["beams"],
+      "present": ["beaming"],
+      "past": ["beamed"]
+    }
+  },
+  "bean": {
+    "n": {
+      "translation": ["豆", "菜豆", "豆荚", "豆科植物", "(咖啡树或其他某些植物的)子实"],
+      "plural": ["beans"]
+    },
+    "vt": {
+      "translation": ["击中(某人)头部"]
+    }
+  },
+  "bear": {
+    "n": {
+      "translation": ["熊", "(在证券市场等)卖空的人"],
+      "plural": ["bears"]
+    },
+    "v": {
+      "translation": [
+        "有（某个名称）", "支撑", "承受", "显示", "忍受", "开（花）", "携带", "承担责任", "生育，生（孩子）", "转向（左或北等）",
+        "举止", "心怀", "不适于某事(或做某事)"
+      ],
+      "singular": ["bears"],
+      "present": ["bearing"],
+      "past": ["bore", "borne"]
+    }
+  },
+  "beard": {
+    "n": {
+      "translation": ["胡须", "须", "髯", "(人的)络腮胡子", "(动物的)颔毛"],
+      "plural": ["beards"]
+    },
+    "vt": {
+      "translation": ["〔比喻〕公开反对", "公然蔑视"]
+    }
+  },
+  "beast": {
+    "n": {
+      "translation": [
+        "野兽", "(尤指大型或凶猛、独特的)动物，兽", "（某种）东西", "讨厌的人(或事物)", "性情凶残的人", "行为粗暴的人"
+      ],
+      "plural": ["beasts"]
+    }
+  },
+  "beat": {
+    "v": {
+      "translation": [
+        "击败", "（用叉等）快速搅拌，打", "(在比赛或竞争中)赢，打败(某人)", "控制", "敲打", "把（金属等）锤炼，敲打（成…）",
+        "比…更好", "避免", "难倒", "踏出，踩出（道路）", "（使）规律作响，作节奏运动"
+      ],
+      "singular": ["beats"],
+      "present": ["beating"],
+      "past": ["beat", "beaten"]
+    },
+    "n": {
+      "translation": [
+        "(心脏等的)跳动", "(音乐、诗歌等的)主节奏，节拍", "(鼓的)一击", "击鼓声", "跳动声", "管区", "振翅声",
+        "(翅的)一振", "有规律的敲击(声)"
+      ]
+    },
+    "adj": {
+      "translation": ["疲劳的，颓废的"]
+    }
+  },
+  "beautiful": {
+    "adj": {
+      "translation": ["美丽的", "美好的", "很好的", "出色的", "巧妙的"]
+    }
+  },
+  "beauty": {
+    "n": {
+      "translation": ["美，美丽", "美感", "美人", "好处，妙处", "典型的例子", "极好的事物"],
+      "plural": ["beauties"]
+    },
+    "adj": {
+      "translation": ["（产品、工作或活动）美容的"]
+    }
+  },
+  "because": {
+    "conj": {
+      "translation": ["因为"]
+    }
+  },
+  "become": {
+    "v": {
+      "translation": ["变成，成为，开始变得", "适合，与...相称", "使（人）显得漂亮，使好看"],
+      "singular": ["becomes"],
+      "present": ["becoming"],
+      "past": ["became", "become"]
+    }
+  },
+  "bed": {
+    "n": {
+      "translation": ["(河)床", "(海等的)底", "地层", "底层", "花坛", "苗圃", "菜园"],
+      "plural": ["beds"]
+    },
+    "vt": {
+      "translation": ["把…固定在", "与(某人)发生性关系"],
+      "singular": ["beds"],
+      "present": ["bedding"],
+      "past": ["bedded"]
+    }
+  },
+  "bee": {
+    "n": {
+      "translation": ["蜜蜂", "(集工作、竞赛、娱乐为一体的)聚会"],
+      "plural": ["bees"]
+    }
+  },
+  "beef": {
+    "n": {
+      "translation": ["牛肉，菜牛", "（人的）肌肉，气力", "<口>牢骚，怨言", "争论（点）", "<口>实质性内容"]
+    },
+    "v": {
+      "translation": ["<口>老是抱怨，大发牢骚", "<口>申诉，告发"],
+      "singular": ["beefs"],
+      "present": ["beefing"],
+      "past": ["beefed"]
+    }
+  },
+  "beer": {
+    "n": {
+      "translation": ["啤酒", "一杯(或一瓶、一罐)啤酒"],
+      "plural": ["beers"]
+    }
+  },
+  "before": {
+    "prep": {
+      "translation": ["之前", "在…以前", "在…面前(或前面)", "(次序或排列)在前面", "当面"]
+    },
+    "conj": {
+      "translation": ["在…以前", "到…之前", "以免", "（宁可…而）不愿", "不然", "到…为止"]
+    },
+    "adv": {
+      "translation": ["以前", "已经", "过去"]
+    }
+  },
+  "beg": {
+    "v": {
+      "translation": ["乞求", "乞讨", "恳求", "祈求", "哀求", "行乞", "(狗蹲坐在后腿上将前爪抬起)等食物"],
+      "singular": ["begs"],
+      "present": ["begging"],
+      "past": ["begged"]
+    }
+  },
+  "beggar": {
+    "n": {
+      "translation": ["乞丐", "叫花子", "(与形容词连用)家伙"],
+      "plural": ["beggars"]
+    },
+    "vt": {
+      "translation": ["使贫穷", "使匮乏"],
+      "singular": ["beggars"],
+      "present": ["beggaring"],
+      "past": ["beggared"]
+    }
+  },
+  "begin": {
+    "v": {
+      "translation": [
+        "开始", "（从…）开始", "启动", "起始", "起初是", "本来是", "不想", "创始", "开始讲话", "开始存在(或进行)"
+      ],
+      "singular": ["begins"],
+      "present": ["beginning"],
+      "past": ["began", "begun"]
+    }
+  },
+  "beginner": {
+    "n": {
+      "translation": ["新手", "初学者"],
+      "plural": ["beginners"]
+    }
+  },
+  "beginning": {
+    "n": {
+      "translation": ["开始，起初，开端", "开头，开篇", "起源，起因", "先兆，开始部分"],
+      "plural": ["beginnings"]
+    },
+    "adj": {
+      "translation": ["刚入门的，初级的", "刚开始的，刚成立的"]
+    }
+  },
+  "behalf": {
+    "n": {
+      "translation": ["代表", "利益"],
+      "plural": ["behalves"]
+    }
+  },
+  "behave": {
+    "v": {
+      "translation": ["表现", "表现得…的", "有礼貌", "表现得体", "作某种自然反应（或变化等）"],
+      "singular": ["behaves"],
+      "present": ["behaving"],
+      "past": ["behaved"]
+    }
+  },
+  "behavior": {
+    "n": {
+      "translation": ["行为", "性能", "表现", "(生物的)习性"]
+    }
+  },
+  "behind": {
+    "prep": {
+      "translation": [
+        "在(或向)…的后面", "落后于", "支持", "在(或向)…的背面", "赞成", "成为（某人的）过去", "是…产生（或发展）的原因"
+      ]
+    },
+    "adv": {
+      "translation": ["在(或向)…的后面", "拖欠", "留在原地", "积压(工作)", "在后面较远处"]
+    },
+    "n": {
+      "translation": ["义同bottom，委婉说法，即屁股"],
+      "plural": ["behinds"]
+    }
+  },
+  "being": {
+    "n": {
+      "translation": ["存在", "生物", "生存", "身心", "思想感情"],
+      "plural": ["beings"]
+    }
+  },
+  "belief": {
+    "n": {
+      "translation": ["信仰", "信念", "相信", "宗教信仰", "看法", "信心"],
+      "plural": ["beliefs"]
+    }
+  },
+  "believe": {
+    "v": {
+      "translation": ["相信", "认定", "看作", "把(某事)当真", "认为有可能", "认为真实", "有宗教信仰"],
+      "singular": ["believes"],
+      "present": ["believing"],
+      "past": ["believed"]
+    }
+  },
+  "bell": {
+    "n": {
+      "translation": ["钟(声)", "铃(声)", "电铃(声)", "钟状物"],
+      "plural": ["bells"]
+    },
+    "vi": {
+      "translation": ["敲钟", "鸣钟", "系铃于", "使成铃状", "给…装上铃", "把…放在钟形罩内使象钟状地张开"],
+      "singular": ["bells"],
+      "present": ["belling"],
+      "past": ["belled"]
+    }
+  },
+  "belong": {
+    "vi": {
+      "translation": ["属于", "应在(某处)", "适应", "合得来"],
+      "singular": ["belongs"],
+      "present": ["belonging"],
+      "past": ["belonged"]
+    }
+  },
+  "beloved": {
+    "adj": {
+      "translation": ["亲爱的", "钟爱的", "深爱的", "深受喜爱的"]
+    },
+    "n": {
+      "translation": ["心爱的人"],
+      "plural": ["beloveds"]
+    }
+  },
+  "below": {
+    "prep": {
+      "translation": ["在下面", "在(或到)…下面", "(级别、重要性)低于", "(数量)少于"]
+    },
+    "adv": {
+      "translation": ["在(或到)下面", "零度以下", "下级"]
+    },
+    "n": {
+      "translation": ["下面"]
+    }
+  },
+  "belt": {
+    "n": {
+      "translation": ["腰带", "传送带", "皮带", "传动带", "地区", "地带", "狠打"],
+      "plural": ["belts"]
+    },
+    "v": {
+      "translation": ["飞驰", "狠打", "飞奔", "猛击", "用带系住"],
+      "singular": ["belts"],
+      "present": ["belting"],
+      "past": ["belted"]
+    }
+  },
+  "bench": {
+    "n": {
+      "translation": [
+        "长凳", "(通常木制的)长椅", "法官", "法官席位", "(英国议会的)议员席", "法官(或裁判官)的职位", "（场边的）运动员休息区"
+      ],
+      "plural": ["benches"]
+    },
+    "vt": {
+      "translation": ["给…以席位", "为…设置条凳"],
+      "singular": ["benches"],
+      "present": ["benching"],
+      "past": ["benched"]
+    }
+  },
+  "bend": {
+    "v": {
+      "translation": ["(使四肢等)弯曲", "（使）拐弯，弯曲", "(使)倾斜，偏向", "把…弄弯(或折起)"],
+      "singular": ["bends"],
+      "present": ["bending"],
+      "past": ["bent"]
+    },
+    "n": {
+      "translation": ["(尤指道路或河流的)拐弯，弯道", "(潜水员过快浮出水面造成的)减压病，潜涵病"]
+    }
+  },
+  "beneath": {
+    "prep": {
+      "translation": ["在下方", "在(或往)…下方", "在(或往)…下面", "(对某人来说)不够好"]
+    },
+    "adv": {
+      "translation": ["在下面", "在底下"]
+    }
+  },
+  "beneficial": {
+    "adj": {
+      "translation": ["有益的", "有利的", "有用的", "有裨益的"]
+    }
+  },
+  "benefit": {
+    "n": {
+      "translation": [
+        "利益", "益处", "优势", "(保险公司支付的)给付，保险金", "成效", "(公司提供的)褔利，奖金",
+        "福利费(政府对失业者、病人等提供的补助金)", "慈善（或公益）活动"
+      ],
+      "plural": ["benefits"]
+    },
+    "v": {
+      "translation": ["使受益", "得益于", "对(某人)有用", "得利于"],
+      "singular": ["benefits"],
+      "present": ["benefitting"],
+      "past": ["benefited"]
+    }
+  },
+  "berry": {
+    "n": {
+      "translation": ["浆果", "莓"],
+      "plural": ["berries"]
+    }
+  },
+  "beside": {
+    "prep": {
+      "translation": ["在旁边(或附近)", "与…相比"]
+    },
+    "adv": {
+      "translation": ["同“besides”"]
+    }
+  },
+  "besides": {
+    "adv": {
+      "translation": ["此外", "以及", "再说", "况且", "也"]
+    },
+    "prep": {
+      "translation": ["除…之外(还)"]
+    }
+  },
+  "best": {
+    "adj": {
+      "translation": ["最好的", "最优秀的", "最合适的", "最出色的", "最恰当的", "最幸福的", "最愉快的"]
+    },
+    "adv": {
+      "translation": ["最", "最恰当地", "最出色地", "最适合地", "最高程度地", "最高标准地"]
+    },
+    "n": {
+      "translation": [
+        "（个人的）最高水平，最高纪录", "(人或事物所能达到的)最高标准", "最好的事物(或人)", "最合乎要求的事物"
+      ]
+    },
+    "vt": {
+      "translation": ["打败", "胜过"],
+      "singular": ["bests"],
+      "present": ["besting"],
+      "past": ["bested"]
+    }
+  },
+  "bet": {
+    "v": {
+      "translation": ["打赌，以（钱、物等）打赌，与...打赌", "敢说，确信"],
+      "singular": ["bets"],
+      "present": ["betting"],
+      "past": ["bet"]
+    },
+    "n": {
+      "translation": ["打赌", "赌金，赌注", "预计，估计", "有可能成功的人（或事）"]
+    }
+  },
+  "betray": {
+    "vt": {
+      "translation": ["背叛(原则或信仰)", "出卖", "泄露(机密)", "辜负", "对…不忠", "（无意中）泄露信息，流露情感"],
+      "singular": ["betrays"],
+      "present": ["betraying"],
+      "past": ["betrayed"]
+    }
+  },
+  "better": {
+    "adj": {
+      "translation": [
+        "较好的，更好的", "（病势）好转的，见轻的", "超过一半的，较大的", "更合适的", "能力更强的，更熟练的", "更得体的"
+      ]
+    },
+    "adv": {
+      "translation": ["更好地", "更妥，更恰当", "更大程度地", "不那么差"]
+    },
+    "n": {
+      "translation": ["更好的事物，较好者", "更有才智者，更重要的人", "上司们"],
+      "plural": ["betters"]
+    },
+    "v": {
+      "translation": ["胜过，超过", "改善，改进"],
+      "singular": ["betters"],
+      "present": ["bettering"],
+      "past": ["bettered"]
+    }
+  },
+  "between": {
+    "prep": {
+      "translation": [
+        "之间", "从（一地）到（另一地）", "(空间上或时间上)在…中间", "(数量、重量、距离等)介于…之间", "合用", "分隔着"
+      ]
+    },
+    "adv": {
+      "translation": ["(空间或时间上)介于…之间"]
+    }
+  },
+  "beyond": {
+    "prep": {
+      "translation": ["超出", "超过", "除…之外", "晚于", "超出…之外", "迟于", "在(或向)…较远的一边", "（表示不可能）"]
+    },
+    "adv": {
+      "translation": ["在另一边", "在(或向)更远处", "以远"]
+    },
+    "n": {
+      "translation": ["那边"]
+    }
+  },
+  "bible": {
+    "n": {
+      "translation": [
+        "圣经", "基督教的《圣经》(包括《旧约》和《新约》)", "权威著作（或参考书）",
+        "犹太教的《圣经》(包括《律法书》、《先知书》以及《圣录》)", "一册(基督教或犹太教的)《圣经》"
+      ]
+    }
+  },
+  "bicycle": {
+    "n": {
+      "translation": ["自行车", "脚踏车"],
+      "plural": ["bicycles"]
+    },
+    "vi": {
+      "translation": ["骑自行车"],
+      "singular": ["bicycles"],
+      "present": ["bicycling"],
+      "past": ["bicycled"]
+    }
+  },
+  "big": {
+    "adj": {
+      "translation": [
+        "大的", "(体积、程度、数量等)巨大的", "重大的", "严重的", "庞大的", "大方的", "大受欢迎的", "热衷于…的",
+        "年龄较大的", "经常（或大量）做某事的"
+      ],
+      "comparative": ["bigger"],
+      "superlative": ["biggest"]
+    },
+    "adv": {
+      "translation": ["大大", "给人印象深地"]
+    },
+    "n": {
+      "translation": ["大亨", "大公司"]
+    }
+  },
+  "bike": {
+    "n": {
+      "translation": ["自行车", "摩托车", "脚踏车"],
+      "plural": ["bikes"]
+    },
+    "v": {
+      "translation": ["骑自行车(或摩托车)", "骑车", "骑摩托车递送"],
+      "singular": ["bikes"],
+      "present": ["biking"],
+      "past": ["biked"]
+    }
+  },
+  "bill": {
+    "n": {
+      "translation": ["(餐馆的)账单", "(提交议会讨论的)议案，法案", "海报", "鸟嘴", "（剧院等的）节目单", "有…形喙的"],
+      "plural": ["bills"]
+    },
+    "vt": {
+      "translation": ["给(某人)开账单，发账单(要求付款)", "把(某人或事物)宣传为…", "宣布…将做某事"],
+      "singular": ["bills"],
+      "present": ["billing"],
+      "past": ["billed"]
+    }
+  },
+  "billion": {
+    "num": {
+      "translation": ["十亿", "大量", "数以十亿计", "一万亿（旧英式英语使用）"],
+      "plural": ["billions"]
+    },
+    "n": {
+      "translation": ["十亿", "万亿", "无数"],
+      "plural": ["billions"]
+    },
+    "adj": {
+      "translation": ["十亿的", "万亿的", "无数的"]
+    }
+  },
+  "bind": {
+    "v": {
+      "translation": [
+        "绑定", "(使)联合在一起，结合", "约束", "装订", "捆绑", "系", "（使）粘合，凝结", "(用长布条)缠绕", "给…镶边"
+      ],
+      "singular": ["binds"],
+      "present": ["binding"],
+      "past": ["bound"]
+    },
+    "n": {
+      "translation": ["窘境"]
+    }
+  },
+  "biology": {
+    "n": {
+      "translation": ["生物学", "生理"],
+      "plural": ["biologies"]
+    }
+  },
+  "bird": {
+    "n": {
+      "translation": [
+        "鸟，禽", "<口>人，家伙", "飞机，火箭，航天飞船", "姑娘，妞（可能具冒犯意味）", "羽毛球",
+        "喝倒彩，起哄（give sb. the bird）", "<英口>刑期，徒刑", "供捕猎的禽鸟", "某类人"
+      ],
+      "plural": ["birds"]
+    },
+    "vi": {
+      "translation": ["捕鸟，猎鸟", "向...喝倒彩"],
+      "singular": ["birds"],
+      "present": ["birding"],
+      "past": ["birded"]
+    }
+  },
+  "birth": {
+    "n": {
+      "translation": ["出生", "诞生", "分娩", "出身", "起源", "门第", "创始"],
+      "plural": ["births"]
+    }
+  },
+  "birthday": {
+    "n": {
+      "translation": ["生日"],
+      "plural": ["birthdays"]
+    }
+  },
+  "biscuit": {
+    "n": {
+      "translation": ["饼干", "松饼(食用时常佐以肉汁)", "淡黄褐色"],
+      "plural": ["biscuits"]
+    }
+  },
+  "bit": {
+    "n": {
+      "translation": [
+        "一点，稍微", "比特，二进制位，位元", "刀头，钻头", "一部分，（事物的）某一方面", "小量，小块", "嚼子，衔铁",
+        "稍顷，短距离", "（bits）生殖器", "12.5分", "（影剧中）只有两三句台词的小角色，演出的固定短节目", "<俚>小妮子"
+      ],
+      "plural": ["bits"]
+    },
+    "v": {
+      "translation": ["给（马）上嚼子", "制约，抑制"],
+      "singular": ["bits"],
+      "present": ["bitting"],
+      "past": ["bitted"]
+    },
+    "adj": {
+      "translation": ["小的，微不足道的"]
+    }
+  },
+  "bite": {
+    "v": {
+      "translation": ["咬", "叮", "上钩", "蜇", "咬饵", "产生不良影响"],
+      "singular": ["bites"],
+      "present": ["biting"],
+      "past": ["bit", "bitten"]
+    },
+    "n": {
+      "translation": ["咬", "(咬下的)一口", "咬伤", "寒冷", "咬饵", "影响力", "浓香", "简单的一餐", "小量食物"],
+      "plural": ["bites"]
+    }
+  },
+  "bitter": {
+    "adj": {
+      "translation": [
+        "苦的", "严寒的", "味苦的", "愤愤不平的", "令人不快的", "充满愤怒与仇恨的", "使人悲痛的", "由痛苦引起的",
+        "激烈而不愉快的"
+      ],
+      "comparative": ["bitterer"],
+      "superlative": ["bitterest"]
+    },
+    "n": {
+      "translation": ["苦啤酒(在英国很受欢迎)", "苦酒原汁(从植物中提取的苦酒精液体，可增加其他酒精饮料的味道)"]
+    },
+    "vt": {
+      "translation": ["使变苦"],
+      "singular": ["bitters"],
+      "present": ["bittering"],
+      "past": ["bittered"]
+    },
+    "adv": {
+      "translation": ["剧烈"]
+    }
+  },
+  "bitterly": {
+    "adv": {
+      "translation": ["苦涩地", "严寒", "伤心地", "非常", "极其", "非常寒冷的", "愤怒地"]
+    }
+  },
+  "black": {
+    "n": {
+      "translation": ["黑色", "黑人"],
+      "plural": ["blacks"]
+    },
+    "adj": {
+      "translation": [
+        "黑色的", "黑的", "黑暗的", "漆黑的", "邪恶的", "愤怒的", "黑色人种的", "不加牛奶的", "很脏的", "无希望的"
+      ],
+      "comparative": ["blacker"],
+      "superlative": ["blackest"]
+    },
+    "vt": {
+      "translation": ["使变黑", "拒绝(同某人做生意)", "涂黑", "染黑", "抵制", "拒绝处理(货物)"],
+      "singular": ["blacks"],
+      "present": ["blacking"],
+      "past": ["blacked"]
+    }
+  },
+  "blackboard": {
+    "n": {
+      "translation": ["黑板"],
+      "plural": ["blackboards"]
+    }
+  },
+  "blade": {
+    "n": {
+      "translation": [
+        "刀身", "(机器上旋转的)叶片", "刀片", "刀刃", "桨叶", "(船桨的)桨叶，桨身", "（草的）叶片", "（溜冰鞋的）冰刀"
+      ],
+      "plural": ["blades"]
+    }
+  },
+  "blame": {
+    "vt": {
+      "translation": ["责备", "把…归咎于", "指责", "责怪"],
+      "singular": ["blames"],
+      "present": ["blaming"],
+      "past": ["blamed"]
+    },
+    "n": {
+      "translation": ["指责", "(坏事或错事的)责任", "责备"]
+    }
+  },
+  "blank": {
+    "adj": {
+      "translation": ["空白的", "空的", "完全的", "不理解的", "不感兴趣的", "无图画(或标记、装饰)的", "没表情的"]
+    },
+    "n": {
+      "translation": ["(文件等的)空白处，空格", "(记忆中的)空白，遗忘", "空弹"],
+      "plural": ["blanks"]
+    },
+    "v": {
+      "translation": ["毫不理睬(某人)", "突然忘掉", "突然思路模糊"],
+      "singular": ["blanks"],
+      "present": ["blanking"],
+      "past": ["blanked"]
+    }
+  },
+  "blanket": {
+    "n": {
+      "translation": ["毯子", "毛毯", "厚层", "厚的覆盖层"],
+      "plural": ["blankets"]
+    },
+    "adj": {
+      "translation": ["总括的", "综合的", "包括所有情形(或人员)的"]
+    },
+    "vt": {
+      "translation": ["以厚层覆盖"],
+      "singular": ["blankets"],
+      "present": ["blanketing"],
+      "past": ["blanketed"]
+    }
+  },
+  "blast": {
+    "n": {
+      "translation": [
+        "爆炸", "(爆炸引起的)气浪，冲击波", "(吹奏乐器、哨子、汽车喇叭等突然发出的)响声，吹奏声，轰鸣", "严厉的批评",
+        "热闹的聚会", "突如其来的强劲气流"
+      ],
+      "plural": ["blasts"]
+    },
+    "v": {
+      "translation": [
+        "爆破", "(用炸药)炸毁，把…炸成碎片", "猛烈抨击", "发出刺耳的高音，轰鸣(尤指音乐)", "严厉批评", "狠打",
+        "使（植物等）毁于疾病（或寒冷、酷热等）", "向…猛吹"
+      ],
+      "singular": ["blasts"],
+      "present": ["blasting"],
+      "past": ["blasted"]
+    },
+    "int": {
+      "translation": ["(恼怒时说)该死，倒霉"]
+    }
+  },
+  "blaze": {
+    "n": {
+      "translation": ["火焰", "火灾", "烈火", "（动物面部的）白斑", "（感情的）迸发，发泄", "(光或色彩等的)展现"],
+      "plural": ["blazes"]
+    },
+    "v": {
+      "translation": ["(怒火)燃烧", "闪耀", "熊熊燃烧", "连续射击", "大肆宣扬", "怒视", "发亮光"],
+      "singular": ["blazes"],
+      "present": ["blazing"],
+      "past": ["blazed"]
+    }
+  },
+  "bleed": {
+    "v": {
+      "translation": [
+        "流血，出血", "给...放血", "（染料、油漆等）散开，渗开", "<印>被印成出血版", "长期榨取（某人的钱）", "抽掉（气体或液体）"
+      ],
+      "singular": ["bleeds"],
+      "present": ["bleeding"],
+      "past": ["bled"]
+    },
+    "n": {
+      "translation": ["<印>出血版"],
+      "plural": ["bleeds"]
+    },
+    "adj": {
+      "translation": ["出血版的"]
+    }
+  },
+  "blend": {
+    "v": {
+      "translation": ["(和某物)混合", "融合", "(使)调和", "掺和", "调制"],
+      "singular": ["blends"],
+      "present": ["blending"],
+      "past": ["blended"]
+    },
+    "n": {
+      "translation": ["混合物", "融合", "(不同类型东西的)混合品", "(不同事物的)和谐结合"]
+    }
+  },
+  "bless": {
+    "vt": {
+      "translation": ["祝福", "赞美上帝", "祝圣", "称颂上帝", "（表示惊奇）", "求上帝降福于"],
+      "singular": ["blesses"],
+      "present": ["blessing"],
+      "past": ["blessed"]
+    },
+    "int": {
+      "translation": ["(对他人所做之事表示喜爱)哎呀，太好啦，太谢谢了"]
+    }
+  },
+  "blind": {
+    "adj": {
+      "translation": [
+        "失明的", "盲人", "瞎的", "(对某事)视而不见的，未察觉的", "盲目接受的", "无理性的", "汽车司机看不见的"
+      ]
+    },
+    "vt": {
+      "translation": ["使失明", "使目眩", "使变瞎", "使眼花", "使失去判断力", "使思维混沌"],
+      "singular": ["blinds"],
+      "present": ["blinding"],
+      "past": ["blinded"]
+    },
+    "n": {
+      "translation": ["窗帘", "(尤指)卷帘", "借口", "幌子", "用以蒙蔽人的言行", "托词"],
+      "plural": ["blinds"]
+    },
+    "adv": {
+      "translation": ["视线受阻地", "仅靠仪表操纵地", "盲目地"]
+    }
+  },
+  "block": {
+    "n": {
+      "translation": [
+        "块", "阻挡", "街区", "(公寓、办公、教学、医院等)大楼", "（东西的）一批，一组", "(方形平面)大块", "障碍物", "立方体",
+        "一大片土地", "(成组建筑中的)一栋楼房", "四面临街的一方块楼群", "一段街区", "房基地"
+      ],
+      "plural": ["blocks"]
+    },
+    "vt": {
+      "translation": ["阻塞", "堵塞", "阻碍", "挡住(某人的视线等)", "拦截，挡住（球、打击等）", "堵住(某人的路等)", "妨碍"],
+      "singular": ["blocks"],
+      "present": ["blocking"],
+      "past": ["blocked"]
+    }
+  },
+  "blood": {
+    "n": {
+      "translation": ["血", "血统", "家世", "纨绔子弟", "有…类型的血的"]
+    },
+    "vt": {
+      "translation": ["让(初试)"],
+      "singular": ["bloods"],
+      "present": ["blooding"],
+      "past": ["blooded"]
+    }
+  },
+  "bloom": {
+    "vi": {
+      "translation": ["开花", "变得健康(或快活、自信)"],
+      "singular": ["blooms"],
+      "present": ["blooming"],
+      "past": ["bloomed"]
+    },
+    "n": {
+      "translation": ["(常指供观赏的)花", "健康有精神的面貌"],
+      "plural": ["blooms"]
+    }
+  },
+  "blossom": {
+    "vi": {
+      "translation": ["开花", "变得更加健康(或自信、成功)"],
+      "singular": ["blossoms"],
+      "present": ["blossoming"],
+      "past": ["blossomed"]
+    },
+    "n": {
+      "translation": ["(尤指果树或灌木的)花朵，花簇"],
+      "plural": ["blossoms"]
+    }
+  },
+  "blow": {
+    "v": {
+      "translation": [
+        "吹", "吹，吹奏（哨子、乐器等）", "吹出（某物）", "刮", "(被)刮动，吹动", "擤（鼻子）", "（使保险丝）熔化，烧断",
+        "浪费（机会）", "泄露", "炸开", "（在某事物上）花大钱，挥霍", "（向某人）送飞吻", "突然离开（某地）"
+      ],
+      "singular": ["blows"],
+      "present": ["blowing"],
+      "past": ["blew", "blown"]
+    },
+    "n": {
+      "translation": ["吹", "打击", "(用手、武器等的)猛击", "挫折"],
+      "plural": ["blows"]
+    },
+    "int": {
+      "translation": ["表示厌烦"]
+    }
+  },
+  "blue": {
+    "n": {
+      "translation": [
+        "蓝色", "天蓝色", "蔚蓝色", "错误", "打架", "失误", "蓝色荣誉的头衔", "红发人", "蓝色荣誉者(牛津或剑桥大学的校队运动员)"
+      ],
+      "plural": ["blues"]
+    },
+    "adj": {
+      "translation": [
+        "蓝色的", "色情的，黄色的", "忧郁的", "天蓝色的", "蔚蓝色的", "悲伤的", "(由于冷或呼吸困难)发青的"
+      ],
+      "comparative": ["bluer"],
+      "superlative": ["bluest"]
+    },
+    "v": {
+      "translation": ["给…上蓝", "〈口〉浪费", "把…染成天青色〔蓝色〕", "滥花(金钱)", "给…上蓝", "滥花(金钱)"]
+    }
+  },
+  "board": {
+    "n": {
+      "translation": [
+        "板", "(公司或其他机构的)董事会，委员会，理事会", "(尤指)木板", "…用木板(或板材)", "伙食，膳食", "舞台",
+        "（美国大学的）入学考试", "用于机构名称", "（冰球场周围的）界墙"
+      ],
+      "plural": ["boards"]
+    },
+    "v": {
+      "translation": ["（在学校）寄宿", "上船(或火车、飞机、公共汽车等)", "让乘客登机(或上船等)", "付费(在某人家里)膳宿"],
+      "singular": ["boards"],
+      "present": ["boarding"],
+      "past": ["boarded"]
+    }
+  },
+  "boast": {
+    "v": {
+      "translation": ["自夸", "有(值得自豪的东西)", "自吹自擂"],
+      "singular": ["boasts"],
+      "present": ["boasting"],
+      "past": ["boasted"]
+    },
+    "n": {
+      "translation": ["夸耀", "夸口"]
+    }
+  },
+  "boat": {
+    "n": {
+      "translation": ["(泛指)船", "小船", "舟", "汽艇"],
+      "plural": ["boats"]
+    }
+  },
+  "body": {
+    "n": {
+      "translation": [
+        "身体", "主体，主要部分", "尸体", "团体", "物体", "大量", "躯体", "躯干", "死尸", "（酒的）浓香，香醇"
+      ],
+      "plural": ["bodies"]
+    },
+    "vt": {
+      "translation": ["赋予形体"],
+      "singular": ["bodies"],
+      "present": ["bodying"],
+      "past": ["bodied"]
+    }
+  },
+  "boil": {
+    "v": {
+      "translation": [
+        "煮", "被煮(或烫洗)", "(使)沸腾", "煮沸", "怒火中烧", "用沸水煮(或烫洗)", "(把壶、锅等)里面的水烧开"
+      ],
+      "singular": ["boils"],
+      "present": ["boiling"],
+      "past": ["boiled"]
+    },
+    "n": {
+      "translation": ["沸点", "沸腾", "疖", "皮下脓肿", "黄水疮"]
+    }
+  },
+  "bold": {
+    "adj": {
+      "translation": [
+        "大胆的", "粗体的", "黑体的", "明显的", "敢于冒险的", "大胆自信的", "轮廓突出的", "敢于表白情感的"
+      ],
+      "comparative": ["bolder"],
+      "superlative": ["boldest"]
+    },
+    "n": {
+      "translation": ["粗体", "黑体"]
+    }
+  },
+  "bolt": {
+    "n": {
+      "translation": ["(门窗的)闩，插销", "螺栓", "闪电", "一匹（布）", "弩箭"],
+      "plural": ["bolts"]
+    },
+    "v": {
+      "translation": [
+        "狼吞虎咽", "(马等受惊)脱缰", "用螺栓把(甲和乙)固定在一起", "跑开", "过早结实", "能被闩上", "用插销闩上",
+        "停止支持（某团体或政党）"
+      ],
+      "singular": ["bolts"],
+      "present": ["bolting"],
+      "past": ["bolted"]
+    },
+    "adv": {
+      "translation": ["突然地", "像箭似地", "直立地"]
+    }
+  },
+  "bomb": {
+    "n": {
+      "translation": ["炸弹", "核弹", "核武器", "很多钱", "彻底的失败", "长传", "气溶胶弹式容器"],
+      "plural": ["bombs"]
+    },
+    "v": {
+      "translation": ["轰炸", "(考试)惨败", "对…投炸弹", "快速移动，疾行(尤指乘车)", "大败"],
+      "singular": ["bombs"],
+      "present": ["bombing"],
+      "past": ["bombed"]
+    }
+  },
+  "bond": {
+    "n": {
+      "translation": [
+        "纽带，联系，关系", "<化>键", "债券，公债", "契约，盟约", "黏合，黏合剂", "保释金", "（捆绑用的）绳索（或镣铐）",
+        "枷锁，桎梏", "按揭贷款协议，按揭贷款", "<商>关栈保留"
+      ],
+      "plural": ["bonds"]
+    },
+    "v": {
+      "translation": ["与...黏合，（使）黏合（或连接）在一起", "（使）建立亲密关系，与...密切联系"],
+      "singular": ["bonds"],
+      "present": ["bonding"],
+      "past": ["bonded"]
+    },
+    "adj": {
+      "translation": ["被奴役的，不自由的"]
+    }
+  },
+  "bone": {
+    "n": {
+      "translation": ["骨，骨头", "骨骼，身体，尸骸", "骨质，骨质物", "基本结构，基本框架", "争议点"],
+      "plural": ["bones"]
+    },
+    "v": {
+      "translation": ["（为考试等）钻研，苦读", "施骨肥于", "剔去...的骨", "<美俚>*男子）与...性交"],
+      "singular": ["bones"],
+      "present": ["boning"],
+      "past": ["boned"]
+    },
+    "adv": {
+      "translation": ["彻底地，极"]
+    }
+  },
+  "book": {
+    "n": {
+      "translation": [
+        "书，书籍", "著作，印刷（或电子）出版物", "账簿，账目，会计簿", "（长篇作品的）篇，卷，部", "本子，簿子",
+        "（顾客或雇员）名册", "赌注记录", "成册（成套）的东西"
+      ],
+      "plural": ["books"]
+    },
+    "v": {
+      "translation": ["预订，预约", "（警方）把...记录在案", "记名警告（犯规运动员）"],
+      "singular": ["books"],
+      "present": ["booking"],
+      "past": ["booked"]
+    }
+  },
+  "boot": {
+    "n": {
+      "translation": ["靴子", "(汽车后部的)行李箱", "猛踢"],
+      "plural": ["boots"]
+    },
+    "v": {
+      "translation": [
+        "(计算机)启动，操作系统已安装", "启动(计算机)", "猛踢", "装入操作系统", "在(通常为非法停放的汽车)车轮上装制动装置"
+      ],
+      "singular": ["boots"],
+      "present": ["booting"],
+      "past": ["booted"]
+    }
+  },
+  "booth": {
+    "n": {
+      "translation": [
+        "售货棚", "(餐馆中的)火车座，卡座", "不受干扰的划定空间(如电话亭、投票间等)", "临时货摊(或放映棚等)"
+      ],
+      "plural": ["booths"]
+    }
+  },
+  "border": {
+    "n": {
+      "translation": ["边界", "边境", "国界", "边界地区", "边疆", "镶边", "包边", "(草坪边等的)狭长花坛"],
+      "plural": ["borders"]
+    },
+    "vt": {
+      "translation": ["与…接壤", "环绕…", "给…镶边", "和…毗邻", "沿…的边"],
+      "singular": ["borders"],
+      "present": ["bordering"],
+      "past": ["bordered"]
+    }
+  },
+  "bore": {
+    "v": {
+      "translation": ["令人厌烦", "(尤指因啰唆)使厌烦", "钻，凿，挖(长而深的洞)", "盯着看"],
+      "singular": ["bores"],
+      "present": ["boring"],
+      "past": ["bored"]
+    },
+    "n": {
+      "translation": [
+        "(管道、枪炮等的)孔，内径，口径", "探孔，钻孔", "涌潮，激潮", "(常因话多)令人厌烦的人", "膛径", "烦人的状况(或事情)"
+      ],
+      "plural": ["bores"]
+    }
+  },
+  "born": {
+    "v": {
+      "translation": ["出生，诞生", "产生，出现，形成", "生下来（有某种疾病或问题），天生（具有某种性格）", "成立"]
+    },
+    "adj": {
+      "translation": ["天生的"]
+    },
+    "comb": {
+      "translation": ["以...的顺序（或方式、地点等）出生的"]
+    }
+  },
+  "borrow": {
+    "v": {
+      "translation": ["借", "(向…)借贷", "引用，借用(思想、言语等)", "借用", "借入(款项)"],
+      "singular": ["borrows"],
+      "present": ["borrowing"],
+      "past": ["borrowed"]
+    },
+    "n": {
+      "translation": ["借", "担保物", "博罗", "什一税"]
+    }
+  },
+  "bosom": {
+    "n": {
+      "translation": ["怀抱，关怀", "中心，内部，温暖舒适而熟悉的地方", "女人的胸部（或乳房）", "女衣胸部（或胸襟）"],
+      "plural": ["bosoms"]
+    },
+    "adj": {
+      "translation": ["知心的，亲密的"]
+    },
+    "v": {
+      "translation": ["拥抱，珍爱", "把...放在心头"]
+    }
+  },
+  "boss": {
+    "n": {
+      "translation": ["老板", "领导", "总经理", "工头", "领班"],
+      "plural": ["bosses"]
+    },
+    "vt": {
+      "translation": ["对(某人)发号施令"],
+      "singular": ["bosses"],
+      "present": ["bossing"],
+      "past": ["bossed"]
+    },
+    "adj": {
+      "translation": ["很好的"]
+    }
+  },
+  "both": {
+    "det": {
+      "translation": ["两者，双方"]
+    },
+    "adj": {
+      "translation": ["两...（都），两个...（都）"]
+    },
+    "pron": {
+      "translation": ["两个"]
+    },
+    "conj": {
+      "translation": ["不仅...而且..，...和...都，既...又..."]
+    },
+    "adv": {
+      "translation": ["在两方面同样地"]
+    }
+  },
+  "bother": {
+    "v": {
+      "translation": [
+        "打扰", "使(某人)烦恼(或担忧、不安)", "花费时间精力(做某事)", "给(某人)造成麻烦(或痛苦)", "搭话烦扰"
+      ],
+      "singular": ["bothers"],
+      "present": ["bothering"],
+      "past": ["bothered"]
+    },
+    "n": {
+      "translation": ["麻烦", "困难", "令人烦恼的情况(或事物、人)"],
+      "plural": ["bothers"]
+    },
+    "int": {
+      "translation": ["表示对某事或某人烦恼"]
+    }
+  },
+  "bottle": {
+    "n": {
+      "translation": ["(细颈)瓶子", "一瓶(的量)", "酒", "（婴儿）奶瓶", "勇气"],
+      "plural": ["bottles"]
+    },
+    "vt": {
+      "translation": ["把(液体)装入瓶中", "把(水果或蔬菜等)装入玻璃瓶储存"],
+      "singular": ["bottles"],
+      "present": ["bottling"],
+      "past": ["bottled"]
+    }
+  },
+  "bottom": {
+    "n": {
+      "translation": [
+        "底部", "(朝下的)底，底面", "(容器内的)底", "（吃水线以下的）船底，船身", "屁股", "…尽头", "有…底的", "最下部",
+        "最末位置", "套装的裙（或裤）"
+      ],
+      "plural": ["bottoms"]
+    },
+    "adj": {
+      "translation": ["底部的", "最后的", "尽头的"]
+    },
+    "v": {
+      "translation": ["降到最低", "对…寻根问底", "给…装上底", "为…提供根据"],
+      "singular": ["bottoms"],
+      "present": ["bottoming"],
+      "past": ["bottomed"]
+    }
+  },
+  "bough": {
+    "n": {
+      "translation": ["大树枝"],
+      "plural": ["boughs"]
+    }
+  },
+  "bounce": {
+    "v": {
+      "translation": [
+        "（使）弹起，反弹", "（使）（声或光）反射", "（电子邮件）弹回，退回（电子邮件）", "上下跳动，蹦跳", "解雇，撵走",
+        "（用膝盖）颠动（孩子）", "（支票等）被拒付退回", "（使）上下晃动", "（朝某个方向）颠簸行进",
+        "活泼兴奋地走，蹦蹦跳跳地去（到某处）", "（向某人）试探地透露（主意）", "迫使...做（不情愿做到事）"
+      ],
+      "singular": ["bounces"],
+      "present": ["bouncing"],
+      "past": ["bounced"]
+    },
+    "n": {
+      "translation": ["弹跳，跳动", "弹力，弹性", "活力，精力", "富有弹性，蓬松", "（价格的）迅速回升"]
+    }
+  },
+  "bound": {
+    "n": {
+      "translation": ["跳跃", "蹦跳"],
+      "plural": ["bounds"]
+    },
+    "v": {
+      "translation": ["跳跃着跑", "形成…的边界(或界限)", "束缚"],
+      "singular": ["bounds"],
+      "present": ["bounding"],
+      "past": ["bounded"]
+    },
+    "adj": {
+      "translation": [
+        "有义务(做某事)", "一定会", "受(法律、义务或情况)约束(必须做某事)", "很可能会", "因…受阻(或不能正常工作)",
+        "正旅行去（某地）"
+      ]
+    }
+  },
+  "boundary": {
+    "n": {
+      "translation": ["边界", "界限", "分界线", "使球越过边界线的击球(得加分)"],
+      "plural": ["boundaries"]
+    }
+  },
+  "bow": {
+    "n": {
+      "translation": [
+        "弓，弓形物", "鞠躬", "船头，船首", "蝴蝶结", "琴弓", "<美>眼镜脚，眼镜框", "<美>（钥匙、剪刀等的）金属环状柄，圆形拎环"
+      ],
+      "plural": ["bows"]
+    },
+    "v": {
+      "translation": ["鞠躬，欠身", "（使）弯曲", "低（头），俯（首）", "让步，屈服", "用弓拉奏（乐曲）"],
+      "singular": ["bows"],
+      "present": ["bowing"],
+      "past": ["bowed"]
+    },
+    "adj": {
+      "translation": ["弯曲的，弓形的", "近（船等）头部的，在前部的"]
+    }
+  },
+  "bowl": {
+    "n": {
+      "translation": [
+        "碗", "一碗，一钵，一盆(的量)", "盆", "钵", "木球", "季后赛", "草地滚球游戏", "物体的碗状部分", "露天圆形剧场"
+      ],
+      "plural": ["bowls"]
+    },
+    "v": {
+      "translation": [
+        "(草地滚球戏或保龄球运动中)滚球，投球", "把(球)投给击球员", "（向某处）迅速移动", "击中三柱门把(击球员)杀出局"
+      ],
+      "singular": ["bowls"],
+      "present": ["bowling"],
+      "past": ["bowled"]
+    }
+  },
+  "box": {
+    "n": {
+      "translation": [
+        "盒", "箱", "方框", "电视", "一盒，一箱(东西)", "(剧院中的)包厢", "匣", "黄杨", "小亭", "黄杨木",
+        "(法庭中的)专席", "运动场上以线标出的特定区域", "（运动员的）下体护身"
+      ],
+      "plural": ["boxes"]
+    },
+    "v": {
+      "translation": ["(拳击运动)击打(某人)", "把(某物)装箱(或盒、匣)"],
+      "singular": ["boxes"],
+      "present": ["boxing"],
+      "past": ["boxed"]
+    }
+  },
+  "boy": {
+    "n": {
+      "translation": [
+        "男孩", "黑仔，小子", "伙计", "兵哥哥们，小伙子们", "男青年", "年少的儿子", "一帮男伙伴", "做某工作的男孩(或小伙子)"
+      ],
+      "plural": ["boys"]
+    },
+    "int": {
+      "translation": ["表示惊奇、高兴、痛苦等"]
+    }
+  },
+  "brain": {
+    "n": {
+      "translation": ["脑", "智力", "脑力", "聪明的人", "（群体中）最聪明的人", "逻辑思维能力", "(供食用的)动物脑髓"],
+      "plural": ["brains"]
+    },
+    "vt": {
+      "translation": ["猛击…的脑袋致死"],
+      "singular": ["brains"],
+      "present": ["braining"],
+      "past": ["brained"]
+    }
+  },
+  "brake": {
+    "n": {
+      "translation": ["刹车", "制动器", "阻力", "车闸", "障碍"],
+      "plural": ["brakes"]
+    },
+    "v": {
+      "translation": ["用闸减速", "刹(车)"],
+      "singular": ["brakes"],
+      "present": ["braking"],
+      "past": ["braked"]
+    }
+  },
+  "branch": {
+    "n": {
+      "translation": [
+        "树枝", "分支", "分行", "分支机构", "（学科及语言的）分支", "分部", "分店", "支流", "政府部门", "家族分支"
+      ],
+      "plural": ["branches"]
+    },
+    "vi": {
+      "translation": ["分开", "分岔"],
+      "singular": ["branches"],
+      "present": ["branching"],
+      "past": ["branched"]
+    }
+  },
+  "brand": {
+    "n": {
+      "translation": ["品牌", "类型", "烙印(尤指农场牲畜身上表示所属的印记)"],
+      "plural": ["brands"]
+    },
+    "vt": {
+      "translation": ["(尤指不公正地)丑化(某人)，败坏(某人)名声", "给(牲畜)打烙印"],
+      "singular": ["brands"],
+      "present": ["branding"],
+      "past": ["branded"]
+    }
+  },
+  "brandy": {
+    "n": {
+      "translation": ["白兰地(酒)"],
+      "plural": ["brandies"]
+    },
+    "v": {
+      "translation": ["把…在白兰地酒中浸泡"],
+      "singular": ["brandies"],
+      "present": ["brandying"],
+      "past": ["brandied"]
+    }
+  },
+  "brass": {
+    "n": {
+      "translation": [
+        "黄铜", "(管弦乐团的)铜管乐器，铜管乐器组", "黄铜制品", "<英非正式>钱", "（军队或其他机构的）高级军官，高层人物",
+        "黄铜纪念牌", "黄铜饰品(尤指马挽具上的黄铜圆片)"
+      ],
+      "plural": ["brasses"]
+    },
+    "adj": {
+      "translation": ["黄铜制的", "黄铜色的", "含黄铜的", "（声音）洪亮回响的"]
+    },
+    "v": {
+      "translation": ["镀黄铜于", "<俚>付清（up）"]
+    }
+  },
+  "brave": {
+    "adj": {
+      "translation": ["勇敢的", "无畏的", "崭新的", "需要勇气的", "表现勇敢的", "新颖的"],
+      "comparative": ["braver"],
+      "superlative": ["bravest"]
+    },
+    "vt": {
+      "translation": ["勇敢面对", "冒(风险)", "经受(困难)"],
+      "singular": ["braves"],
+      "present": ["braving"],
+      "past": ["braved"]
+    },
+    "n": {
+      "translation": ["勇敢的人", "美洲印第安武士"],
+      "plural": ["braves"]
+    }
+  },
+  "bread": {
+    "n": {
+      "translation": ["面包", "钱"]
+    },
+    "vt": {
+      "translation": ["在…上撒面包屑"],
+      "singular": ["breads"],
+      "present": ["breading"],
+      "past": ["breaded"]
+    }
+  },
+  "breadth": {
+    "n": {
+      "translation": ["宽度", "(知识、兴趣等的)广泛"],
+      "plural": ["breadths"]
+    }
+  },
+  "break": {
+    "v": {
+      "translation": [
+        "打破", "打破（纪录）", "开始", "(使)破，裂，碎", "损坏", "打断", "使心碎", "终止，断绝（关系、联系）", "（被）摧毁，削弱",
+        "（常指好天气）突变", "弄坏", "公布，透露，说出", "破译", "逃脱", "弄破", "坏掉", "违犯", "使流血", "拍岸", "稍停",
+        "把…换成零钱", "（因激动）变调", "变粗，变低", "露出缝隙", "强行终止"
+      ],
+      "singular": ["breaks"],
+      "present": ["breaking"],
+      "past": ["broke", "broken"]
+    },
+    "n": {
+      "translation": [
+        "休息", "改变，终止，中断", "破裂", "机会", "间断", "暂停", "间歇", "课间休息", "短期休假", "接发球得分",
+        "接连击中", "插播广告的间隙"
+      ]
+    }
+  },
+  "breakfast": {
+    "n": {
+      "translation": ["早餐", "早饭"],
+      "plural": ["breakfasts"]
+    },
+    "vi": {
+      "translation": ["吃早饭", "用早餐"],
+      "singular": ["breakfasts"],
+      "present": ["breakfasting"],
+      "past": ["breakfasted"]
+    }
+  },
+  "breast": {
+    "n": {
+      "translation": [
+        "(女子的)乳房", "（鸟的）胸部", "胸部", "胸脯（或乳房）…的", "胸脯", "（鸟或动物的）胸脯肉", "心窝", "前胸部分",
+        "(男子的)退化乳房"
+      ],
+      "plural": ["breasts"]
+    },
+    "vt": {
+      "translation": ["登上…的顶部", "挺胸从…中挤过"]
+    }
+  },
+  "breath": {
+    "n": {
+      "translation": ["呼吸的空气", "迹象", "微量", "（空气的）微微流动，拂动", "一次吸入的空气"],
+      "plural": ["breaths"]
+    }
+  },
+  "breathe": {
+    "v": {
+      "translation": ["呼吸", "呼出", "充满，散发", "透气", "低声说", "通气飘香"],
+      "singular": ["breathes"],
+      "present": ["breathing"],
+      "past": ["breathed"]
+    }
+  },
+  "breed": {
+    "v": {
+      "translation": ["繁殖", "培育(动植物)", "孕育", "导致", "交配繁殖", "以…方式教育"],
+      "singular": ["breeds"],
+      "present": ["breeding"],
+      "past": ["bred"]
+    },
+    "n": {
+      "translation": ["品种(尤指人工培育的狗、猫或牲畜)", "(人的)类型"],
+      "plural": ["breeds"]
+    }
+  },
+  "breeze": {
+    "n": {
+      "translation": ["微风", "和风", "轻而易举的事"],
+      "plural": ["breezes"]
+    },
+    "vi": {
+      "translation": ["轻盈而自信地走"],
+      "singular": ["breezes"],
+      "present": ["breezing"],
+      "past": ["breezed"]
+    }
+  },
+  "brick": {
+    "n": {
+      "translation": ["砖", "砖块", "积木", "可靠的朋友"],
+      "plural": ["bricks"]
+    },
+    "v": {
+      "translation": ["砌砖，用砖镶填（堵住）（up），用砖围砌（in）"],
+      "singular": ["bricks"],
+      "present": ["bricking"],
+      "past": ["bricked"]
+    },
+    "adj": {
+      "translation": ["用砖砌的", "砖似的"]
+    }
+  },
+  "bridge": {
+    "n": {
+      "translation": [
+        "桥", "桥梁", "桥牌", "纽带", "(舰船的)驾驶台", "鼻梁", "舰桥", "船桥", "鼻梁架", "（固定的）假牙", "琴马",
+        "起联系作用的事物"
+      ],
+      "plural": ["bridges"]
+    },
+    "vt": {
+      "translation": ["在…建桥，架桥于，跨过，度过"],
+      "singular": ["bridges"],
+      "present": ["bridging"],
+      "past": ["bridged"]
+    }
+  },
+  "brief": {
+    "adj": {
+      "translation": ["简明的", "短暂的", "简洁的", "简单的", "短时间的", "暴露身体的", "过短的"],
+      "comparative": ["briefer"],
+      "superlative": ["briefest"]
+    },
+    "n": {
+      "translation": ["指示", "(向辩护律师提供的)案情摘要", "辩护状", "任务简介", "委托辩护", "事务律师"],
+      "plural": ["briefs"]
+    },
+    "vt": {
+      "translation": ["给(某人)指示", "向(某人)介绍情况", "向(辩护律师)提供案情摘要"],
+      "singular": ["briefs"],
+      "present": ["briefing"],
+      "past": ["briefed"]
+    }
+  },
+  "bright": {
+    "adj": {
+      "translation": ["明亮的", "聪明的", "有希望的", "光线充足的", "鲜艳夺目的", "快活而生气勃勃的"],
+      "comparative": ["brighter"],
+      "superlative": ["brightest"]
+    },
+    "adv": {
+      "translation": ["光亮地", "明亮地"]
+    },
+    "n": {
+      "translation": ["(车辆的)前大灯，头灯"],
+      "plural": ["brights"]
+    }
+  },
+  "brighten": {
+    "v": {
+      "translation": ["照亮", "(使)更明亮，色彩鲜艳", "放晴", "(使)快活起来", "(使)增添乐趣，有希望", "使更艳丽"],
+      "singular": ["brightens"],
+      "present": ["brightening"],
+      "past": ["brightened"]
+    }
+  },
+  "brilliant": {
+    "adj": {
+      "translation": ["明亮的", "很成功的", "很好的", "巧妙的", "聪颖的", "技艺高的", "使人印象深的"]
+    },
+    "n": {
+      "translation": ["宝石", "钻石"],
+      "plural": ["brilliants"]
+    }
+  },
+  "brim": {
+    "n": {
+      "translation": ["边缘", "帽檐", "(杯、碗等的)口，边沿", "有…边的"],
+      "plural": ["brims"]
+    },
+    "vi": {
+      "translation": ["(使)满，盛满"],
+      "singular": ["brims"],
+      "present": ["brimming"],
+      "past": ["brimmed"]
+    }
+  },
+  "bring": {
+    "vt": {
+      "translation": [
+        "带来", "提供", "导致", "引起", "起诉", "供给", "取来", "带…到某处", "使朝移动", "使处于某种状况", "强迫自己做某事"
+      ],
+      "singular": ["brings"],
+      "present": ["bringing"],
+      "past": ["brought"]
+    }
+  },
+  "brisk": {
+    "adj": {
+      "translation": ["轻快的", "清新的", "快的", "敏捷的", "凉爽的", "麻利的", "忙碌的", "现实自信的"],
+      "comparative": ["brisker"],
+      "superlative": ["briskest"]
+    },
+    "v": {
+      "translation": ["使活泼", "使活跃", "使兴旺", "活泼起来"]
+    }
+  },
+  "bristle": {
+    "n": {
+      "translation": ["短而硬的毛发", "刷子毛", "刚毛"],
+      "plural": ["bristles"]
+    },
+    "vi": {
+      "translation": ["(背部或颈部的毛因惊吓或发怒)竖起，耸起", "被激怒", "(对某人的言行)大为恼怒"],
+      "singular": ["bristles"],
+      "present": ["bristling"],
+      "past": ["bristled"]
+    }
+  },
+  "britain": {
+    "n": {
+      "translation": ["英国", "不列颠(包括英格兰、苏格兰及威尔士)"]
+    }
+  },
+  "british": {
+    "adj": {
+      "translation": ["英国的", "(统称)英国人", "英国人的", "(大不列颠及北爱尔兰)联合王国的", "联合王国人民"]
+    },
+    "n": {
+      "translation": ["联合王国人民", "（统称）英国人"]
+    }
+  },
+  "brittle": {
+    "adj": {
+      "translation": ["易碎的，脆的", "脆弱的，不稳固的，易变的", "（笑容）冷淡的", "（声音）尖利的", "（声音）像要哭的"],
+      "comparative": ["brittler"],
+      "superlative": ["brittlest"]
+    },
+    "n": {
+      "translation": ["果仁薄脆糖"]
+    }
+  },
+  "broad": {
+    "adj": {
+      "translation": [
+        "宽阔的", "广阔的", "…宽(用于表示距离的量度之后)", "广泛的", "明确的", "开阔的", "概括的", "口音重的",
+        "粗俗滑稽的", "涉及各种各样的人(或事物)的"
+      ],
+      "comparative": ["broader"],
+      "superlative": ["broadest"]
+    },
+    "n": {
+      "translation": ["(对女人的粗俗称呼)婆娘"],
+      "plural": ["broads"]
+    },
+    "adv": {
+      "translation": ["宽广地", "土腔十足地"]
+    }
+  },
+  "broadcast": {
+    "v": {
+      "translation": [
+        "广播", "散布，传播(信息等)", "播送(电视或无线电节目)", "参加广播 ( 或电视 ) 节目演出， 作广播 ( 或电视 ) 讲话，提供广播 ( 或电视 ) 节目"
+      ],
+      "singular": ["broadcasts"],
+      "present": ["broadcasting"],
+      "past": ["broadcast"]
+    },
+    "n": {
+      "translation": ["广播节目", "电视节目", "<英>政党政治广播节目"],
+      "plural": ["broadcasts"]
+    },
+    "adj": {
+      "translation": ["播音的", "撒播的", "广泛散布的"]
+    },
+    "adv": {
+      "translation": ["经广播，通过广播", "四散地"]
+    }
+  },
+  "broken": {
+    "adj": {
+      "translation": [
+        "破碎的", "破坏了的", "破损的", "被违背的", "残缺的", "不连续的", "中止了的", "衰弱的", "伤残的", "凹凸不平的",
+        "出了毛病的", "未履行的", "说得结结巴巴的"
+      ]
+    },
+    "v": {
+      "translation": ["损坏", "(使)破，裂，碎", "坏掉", "弄坏", "弄破", "使流血"]
+    }
+  },
+  "bronze": {
+    "n": {
+      "translation": ["青铜", "青铜色", "青铜艺术品", "深红褐色"],
+      "plural": ["bronzes"]
+    },
+    "adj": {
+      "translation": ["深红褐色的", "青铜色的"]
+    },
+    "vi": {
+      "translation": ["被晒黑", "镀青铜于变成青铜色"],
+      "singular": ["bronzes"],
+      "present": ["bronzing"],
+      "past": ["bronzed"]
+    }
+  },
+  "brood": {
+    "v": {
+      "translation": ["育雏", "孵(蛋)", "焦虑，忧思(使人厌烦、担忧或不安的事)"],
+      "singular": ["broods"],
+      "present": ["brooding"],
+      "past": ["brooded"]
+    },
+    "n": {
+      "translation": ["(一次孵或生的)一窝鸟，一窝动物", "一大家孩子"],
+      "plural": ["broods"]
+    },
+    "adj": {
+      "translation": ["(昆虫等)产卵的", "(母鸡等)抱窝的", "传种用的"]
+    }
+  },
+  "brook": {
+    "n": {
+      "translation": ["溪", "小河", "小川"],
+      "plural": ["brooks"]
+    },
+    "vt": {
+      "translation": ["(不)允许(某事)"],
+      "singular": ["brooks"],
+      "present": ["brooking"],
+      "past": ["brooked"]
+    }
+  },
+  "broom": {
+    "n": {
+      "translation": ["扫把", "扫帚", "金雀花(野生，开小黄花)"],
+      "plural": ["brooms"]
+    }
+  },
+  "brother": {
+    "n": {
+      "translation": [
+        "兄弟", "(称男性的共事者或同道)同事，弟兄，伙伴", "(同父母的)兄，弟", "(尤指)修士", "(同一宗教团体的男性)教友",
+        "（美国）大学生联谊会成员"
+      ],
+      "plural": ["brothers"]
+    },
+    "int": {
+      "translation": ["表示生气或吃惊"]
+    }
+  },
+  "brow": {
+    "n": {
+      "translation": ["额头", "山脊", "坡顶"],
+      "plural": ["brows"]
+    }
+  },
+  "brown": {
+    "adj": {
+      "translation": ["棕色的", "(皮肤)棕色的，被晒黑的", "褐色的"],
+      "comparative": ["browner"],
+      "superlative": ["brownest"]
+    },
+    "n": {
+      "translation": ["棕色", "褐色"],
+      "plural": ["browns"]
+    },
+    "v": {
+      "translation": ["(使)变成棕色，成褐色"],
+      "singular": ["browns"],
+      "present": ["browning"],
+      "past": ["browned"]
+    }
+  },
+  "bruise": {
+    "v": {
+      "translation": ["挫伤", "擦伤", "撞伤", "打击", "(使)出现伤痕"],
+      "singular": ["bruises"],
+      "present": ["bruising"],
+      "past": ["bruised"]
+    },
+    "n": {
+      "translation": ["(水果或蔬菜的)碰伤，伤痕", "碰伤", "青肿", "淤伤"],
+      "plural": ["bruises"]
+    }
+  },
+  "brush": {
+    "n": {
+      "translation": ["刷", "刷子", "画笔", "毛刷", "灌木丛", "掠过", "轻擦", "小冲突", "狐狸尾巴"],
+      "plural": ["brushes"]
+    },
+    "v": {
+      "translation": ["(用刷子)抹，涂", "(用刷子或手)拂，掸，擦掉", "轻擦，掠过", "(用刷子)刷净，刷亮，刷平顺"],
+      "singular": ["brushes"],
+      "present": ["brushing"],
+      "past": ["brushed"]
+    }
+  },
+  "brute": {
+    "n": {
+      "translation": ["残酷的人", "暴君", "麻烦事", "笨重难看的东西", "牲畜", "大野兽"],
+      "plural": ["brutes"]
+    },
+    "adj": {
+      "translation": ["赤裸裸的", "根本而令人不快的", "蛮干不动脑筋的"]
+    }
+  },
+  "bubble": {
+    "n": {
+      "translation": ["泡", "泡沫", "气泡", "肥皂泡", "(欲表达的)一点感情"],
+      "plural": ["bubbles"]
+    },
+    "vi": {
+      "translation": ["起泡", "冒泡", "洋溢着(某种感情)", "(移动时)发出冒泡的声音", "强烈感受"],
+      "singular": ["bubbles"],
+      "present": ["bubbling"],
+      "past": ["bubbled"]
+    }
+  },
+  "bucket": {
+    "n": {
+      "translation": ["水桶", "(有提梁的)桶", "(挖土机的)铲斗", "一桶(的量)", "(起重机的)吊斗", "大量", "大桶状物"],
+      "plural": ["buckets"]
+    },
+    "v": {
+      "translation": ["挑流鼻坎", "挖掘铲斗", "拼命划桨"],
+      "singular": ["buckets"],
+      "present": ["bucketing"],
+      "past": ["bucketed"]
+    }
+  },
+  "bud": {
+    "n": {
+      "translation": ["芽", "花蕾", "苞", "未长大的叶", "半开的花"],
+      "plural": ["buds"]
+    },
+    "vi": {
+      "translation": ["发芽"],
+      "singular": ["buds"],
+      "present": ["budding"],
+      "past": ["budded"]
+    }
+  },
+  "build": {
+    "v": {
+      "translation": ["建筑", "建造", "开发", "创建", "逐渐增强"],
+      "singular": ["builds"],
+      "present": ["building"],
+      "past": ["built"]
+    },
+    "n": {
+      "translation": ["身材", "体格", "体形"]
+    }
+  },
+  "building": {
+    "n": {
+      "translation": ["建筑物", "建筑", "房子", "楼房", "建筑业"],
+      "plural": ["buildings"]
+    },
+    "v": {
+      "translation": ["建筑", "建造", "开发", "创建", "逐渐增强"]
+    }
+  },
+  "bulb": {
+    "n": {
+      "translation": ["电灯泡", "(植物)鳞茎", "鳞茎状物(如温度计的球部)"],
+      "plural": ["bulbs"]
+    }
+  },
+  "bulk": {
+    "n": {
+      "translation": ["(大)体积", "大(量)", "大部分", "大宗，大批（买卖）", "主体", "巨大的体重(或重量、形状、身体等)"],
+      "plural": ["bulks"]
+    },
+    "vi": {
+      "translation": [
+        "（重要性等）增加", "增大", "是……的主要（最重要）部分", "扩展", "体积等）", "胀大", "（使）形成大块，聚成大量",
+        "变得巨大（重要）", "毛估（重量", "用眼力估计"
+      ],
+      "singular": ["bulks"],
+      "present": ["bulking"],
+      "past": ["bulked"]
+    },
+    "adj": {
+      "translation": ["（货物）大批的，大量的"]
+    }
+  },
+  "bull": {
+    "n": {
+      "translation": ["公牛", "(预期证券价格上升的)买空者，多头", "教皇诏书", "雄的(象、鲸等)大动物"],
+      "plural": ["bulls"]
+    },
+    "vi": {
+      "translation": [
+        "推", "走运", "强迫", "对…施加压力", "哄抬证券价格", "提高身价", "[证券]从事投机使（证券等）价格上涨", "强力实现",
+        "强使…通过[证券]（证券", "股票等）价格上涨", "猛挤", "猛推", "猛力向前"
+      ],
+      "singular": ["bulls"],
+      "present": ["bulling"],
+      "past": ["bulled"]
+    }
+  },
+  "bullet": {
+    "n": {
+      "translation": ["子弹", "弹丸"],
+      "plural": ["bullets"]
+    }
+  },
+  "bunch": {
+    "n": {
+      "translation": ["束", "串", "大量", "群体", "扎", "大批", "（扎在头两侧的）发辫"],
+      "plural": ["bunches"]
+    },
+    "v": {
+      "translation": ["(使)变紧", "(使)成皱褶"],
+      "singular": ["bunches"],
+      "present": ["bunching"],
+      "past": ["bunched"]
+    }
+  },
+  "bundle": {
+    "n": {
+      "translation": ["捆", "(一)包", "(一)扎", "一大笔钱", "一批(同类事物或出售的货品)", "风趣的人", "笑料"],
+      "plural": ["bundles"]
+    },
+    "v": {
+      "translation": [
+        "(尤指出售计算机时)赠送(软件)", "赶", "匆匆送走", "推搡", "(成群地)匆忙赶往", "额外免费提供(设备等)"
+      ],
+      "singular": ["bundles"],
+      "present": ["bundling"],
+      "past": ["bundled"]
+    }
+  },
+  "burden": {
+    "n": {
+      "translation": ["负担", "(义务、责任等的)重担", "重负"],
+      "plural": ["burdens"]
+    },
+    "vt": {
+      "translation": ["(使)担负(沉重或艰难的任务、职责等)", "负重"],
+      "singular": ["burdens"],
+      "present": ["burdening"],
+      "past": ["burdened"]
+    }
+  },
+  "bureau": {
+    "n": {
+      "translation": ["局", "科", "(美国政府部门)处", "(提供某方面信息的)办事处", "(附抽屉及活动写字台的)书桌"],
+      "plural": ["bureaus"]
+    }
+  },
+  "burn": {
+    "v": {
+      "translation": [
+        "燃烧", "（使燃料）燃烧", "(使)烧毁，烧坏，烧伤，烧死", "烧", "（使）晒伤，烫伤", "刻录（光盘等）", "着火",
+        "（使）烧焦，烧煳", "烧着", "发光", "激怒", "火辣辣地痛", "（向…）迅速移动", "有强烈的情感"
+      ],
+      "singular": ["burns"],
+      "present": ["burning"],
+      "past": ["burnt"]
+    },
+    "n": {
+      "translation": ["烧伤", "灼伤", "烫伤", "溪流", "酸痛感", "烧(或烫、灼)的痕迹", "小河"],
+      "plural": ["burns"]
+    }
+  },
+  "burst": {
+    "v": {
+      "translation": ["爆发", "(使)爆裂，胀开", "突然出现", "爆满", "猛冲", "涨满"],
+      "singular": ["bursts"],
+      "present": ["bursting"],
+      "past": ["burst"]
+    },
+    "n": {
+      "translation": ["突发", "爆裂", "爆破", "猝发", "迸发", "裂口", "一阵短促的射击"]
+    }
+  },
+  "bury": {
+    "vt": {
+      "translation": [
+        "埋葬", "埋藏", "安葬", "覆盖", "不顾，掩藏（感情、错误等）", "使陷入", "遮盖", "丧失(某人)", "把(某物)掩藏在地下"
+      ],
+      "singular": ["buries"],
+      "present": ["burying"],
+      "past": ["buried"]
+    },
+    "n": {
+      "translation": ["布里"]
+    }
+  },
+  "bus": {
+    "n": {
+      "translation": ["公共汽车", "巴士", "(计算机系统的)总线"]
+    },
+    "vt": {
+      "translation": [
+        "(在餐厅里)收(盘子)，清理(桌子)", "用校车送(学生往外区就读，使不同种族的学生一起受教育)", "用公共汽车运送"
+      ],
+      "singular": ["busses"]
+    }
+  },
+  "bush": {
+    "n": {
+      "translation": [
+        "灌木", "<电>（绝缘）套管", "<机>衬套, 轴衬, 轴瓦", "(尤指非洲和澳大利亚的)荒野", "(新西兰未被砍伐的)林区",
+        "灌木状的东西(尤指浓密的毛发或皮毛)"
+      ],
+      "plural": ["bushes"]
+    },
+    "v": {
+      "translation": ["使筋疲力尽", "灌木般丛生", "加(金属)衬套[轴衬]于", "浓密地生长", "形成灌木林, 用灌木围住"]
+    },
+    "adj": {
+      "translation": [
+        "粗鲁的, 粗野的", "非专业的, 外行的", "（豆科植物等）长得低矮如灌木的", "粗糙但实用的", "次等的, 第二流"
+      ]
+    }
+  },
+  "business": {
+    "n": {
+      "translation": [
+        "商业", "商务", "生意", "事情", "买卖", "商业机构", "营业额", "公事", "重要事情，要点", "贸易额", "营业状况",
+        "归（某人或某机构）管的事"
+      ],
+      "plural": ["businesses"]
+    }
+  },
+  "busy": {
+    "adj": {
+      "translation": [
+        "忙碌的", "忙于(做某事)", "无暇的", "工作忙的", "熙熙攘攘的", "杂乱的", "正被占用的", "人来车往的"
+      ],
+      "comparative": ["busier"],
+      "superlative": ["busiest"]
+    },
+    "vt": {
+      "translation": ["忙着做某事"],
+      "singular": ["busies"],
+      "present": ["busying"],
+      "past": ["busied"]
+    },
+    "n": {
+      "translation": ["包打听"]
+    }
+  },
+  "but": {
+    "conj": {
+      "translation": ["但是", "而", "然而", "相反", "尽管如此", "表示歉意时说", "除…外", "（强调一贯真实）"]
+    },
+    "prep": {
+      "translation": ["除了", "除…之外"]
+    },
+    "adv": {
+      "translation": ["只有", "仅仅"]
+    },
+    "n": {
+      "translation": ["借口", "推辞"],
+      "plural": ["buts"]
+    }
+  },
+  "butcher": {
+    "n": {
+      "translation": ["屠夫", "肉店", "肉铺", "肉贩", "刽子手"],
+      "plural": ["butchers"]
+    },
+    "vt": {
+      "translation": ["屠宰", "屠杀", "宰杀", "糟蹋", "杀戮", "弄砸"],
+      "singular": ["butchers"],
+      "present": ["butchering"],
+      "past": ["butchered"]
+    },
+    "adj": {
+      "translation": ["高大的", "(常指)趾高气昂的", "(举止或衣着)男子般的，男性化的"]
+    }
+  },
+  "butter": {
+    "n": {
+      "translation": ["黄油", "奶油"]
+    },
+    "vt": {
+      "translation": ["涂黄油于"],
+      "singular": ["butters"],
+      "present": ["buttering"],
+      "past": ["buttered"]
+    }
+  },
+  "butterfly": {
+    "n": {
+      "translation": ["蝴蝶", "蝶泳"],
+      "plural": ["butterflies"]
+    },
+    "v": {
+      "translation": ["切开摊平"],
+      "singular": ["butterflies"],
+      "present": ["butterflying"],
+      "past": ["butterflied"]
+    }
+  },
+  "button": {
+    "n": {
+      "translation": ["(机器的)按钮", "纽扣", "扣子", "(尤指印有信息的)徽章"],
+      "plural": ["buttons"]
+    },
+    "v": {
+      "translation": ["扣…的纽扣", "用纽扣扣上"],
+      "singular": ["buttons"],
+      "present": ["buttoning"],
+      "past": ["buttoned"]
+    }
+  },
+  "buy": {
+    "v": {
+      "translation": ["买", "购买", "相信", "收买", "贿赂", "买通", "够支付", "付出极大的代价而获得"],
+      "singular": ["buys"],
+      "present": ["buying"],
+      "past": ["bought"]
+    },
+    "n": {
+      "translation": ["购买", "买进(或出售)的东西", "合算的商品"]
+    }
+  },
+  "by": {
+    "prep": {
+      "translation": [
+        "靠近", "在…旁边", "在……手头", "（方向）偏于", "常置于表示被动的动词后，表示施事者", "表示方式", "由于",
+        "不迟于，在……之前", "经过", "通过，沿着", "在…期间", "表示程度、数量、速率、尺寸", "相差（用于表示变化或差异的程度）",
+        "表示触及或抓住的人或物的部分", "从……看，按照", "（起誓时用）以…的名义", "（用于乘除运算）"
+      ]
+    },
+    "adv": {
+      "translation": ["通过", "经过", "表示保留或保存时用", "短暂拜访", " 在旁边，在附近"]
+    },
+    "adj": {
+      "translation": ["不在干道上的，位于一边的", "次要的，从属的", "附带的"]
+    },
+    "n": {
+      "translation": ["同bye. by and again"]
+    }
+  }
+}

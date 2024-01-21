@@ -1,0 +1,646 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "ugly": {
+    "adj": {
+      "translation": [
+        "丑陋的，难看的", "令人不快的，讨厌的，丑恶的", "（局面）糟糕的，恐怖的",
+        "（通常因涉及暴力、挑衅行为而）令人厌恶的，邪恶的，恶性的", "危险的，险恶的，凶险的", "暴力的，愤怒的", "道德败坏的"
+      ],
+      "comparative": ["uglier"],
+      "superlative": ["ugliest"]
+    }
+  },
+  "ultimate": {
+    "adj": {
+      "translation": [
+        "最终的", "终极的", "最后的", "根本的", "基本的", "最好(或坏、伟大、重要等)的", "极端的", "基础性的"
+      ]
+    },
+    "n": {
+      "translation": ["精华", "极品", "最好(或先进、伟大等)的事物"],
+      "plural": ["ultimates"]
+    }
+  },
+  "ultimately": {
+    "adv": {
+      "translation": ["最终", "最后", "根本上", "终归", "最基本地"]
+    }
+  },
+  "umbrella": {
+    "n": {
+      "translation": ["雨伞", "伞", "保护伞", "总体", "阳伞", "庇护", "整体", "综合体", "保护国(或体系)"],
+      "plural": ["umbrellas"]
+    },
+    "adj": {
+      "translation": ["伞状的", "机构庞大的"]
+    }
+  },
+  "unable": {
+    "adj": {
+      "translation": ["无法", "不能的", "未能", "没有所需技能(或力量、时间、知识等)"]
+    }
+  },
+  "unbearable": {
+    "adj": {
+      "translation": ["无法忍受的", "难耐的", "无法接受的", "难以处理的"]
+    }
+  },
+  "uncertain": {
+    "adj": {
+      "translation": ["不确定的", "多变的", "犹豫", "拿不准", "无把握", "未决定的", "信心不足的", "难预料的"]
+    }
+  },
+  "uncle": {
+    "n": {
+      "translation": ["叔叔", "叔父", "伯父", "姨父", "姑父", "舅父", "(儿童用语，称呼父母的同辈朋友)伯伯"],
+      "plural": ["uncles"]
+    }
+  },
+  "uncomfortable": {
+    "adj": {
+      "translation": [
+        "不舒服的", "不自在的", "(使)尴尬的", "感觉不舒服(或不暖和等)的", "害怕的", "感到难受的", "棘手的", "令人不舒适的"
+      ]
+    }
+  },
+  "unconscious": {
+    "n": {
+      "translation": ["无意识(不察觉的心理活动)"]
+    },
+    "adj": {
+      "translation": ["无意识的", "昏迷的", "不省人事的", "无知觉的", "未察觉", "未意识到", "自然流露的", "未注意"]
+    }
+  },
+  "uncover": {
+    "vt": {
+      "translation": ["揭开", "发现", "揭露", "揭发", "揭开盖子"],
+      "singular": ["uncovers"],
+      "present": ["uncovering"],
+      "past": ["uncovered"]
+    }
+  },
+  "under": {
+    "adv": {
+      "translation": ["在下面", "小于", "在水下", "少于", "较年轻", "在昏迷中"]
+    },
+    "prep": {
+      "translation": [
+        "根据，按照", "在…项下", "用，以（某一名字）", "在(或到、通过)…下面", "在…过程中", "不足", "小于", "少于", "比…年轻",
+        "由…控制（或管理、经营）", "在…表面下", "由…造成", "由…覆盖着"
+      ]
+    },
+    "adj": {
+      "translation": ["下面的", "较低的"]
+    }
+  },
+  "undergo": {
+    "vt": {
+      "translation": ["经历", "经受(变化、不快的事等)"],
+      "singular": ["undergoes"],
+      "present": ["undergoing"],
+      "past": ["underwent", "undergone"]
+    }
+  },
+  "undergraduate": {
+    "n": {
+      "translation": ["（尚未获得学士学位的）大学生，大学本科生"],
+      "plural": ["undergraduates"]
+    },
+    "adj": {
+      "translation": ["大学本科（或肄业）生的", "为大学本科生的"]
+    }
+  },
+  "underground": {
+    "adj": {
+      "translation": ["地下的", "秘密的，非法的，暗中的，地下的(尤指反政府的)", "地面以下的"]
+    },
+    "adv": {
+      "translation": ["在地下", "在地面下", "隐蔽地", "隐匿地"]
+    },
+    "n": {
+      "translation": ["(城市的)地下铁路系统，地铁", "(反政府)地下组织", "秘密政治组织"]
+    }
+  },
+  "underline": {
+    "vt": {
+      "translation": ["在(词语等下)画线", "强调", "突现", "画底线标出"],
+      "singular": ["underlines"],
+      "present": ["underlining"],
+      "past": ["underlined"]
+    },
+    "n": {
+      "translation": ["字下线", "(戏单下面的)下期预告", "图下说明文字"]
+    }
+  },
+  "underneath": {
+    "adv/prep": {
+      "translation": ["在下面", "在…底下", "(指真实的感情或性格)在…表象之下", "隐藏(或掩盖)在下面"]
+    },
+    "n": {
+      "translation": ["底部", "(物体的)下表面", "底面"]
+    },
+    "adj": {
+      "translation": ["下面的", "底层的", "较低的", "字里行间的"]
+    }
+  },
+  "understand": {
+    "v": {
+      "translation": ["懂", "了解", "谅解", "理解", "认识到", "领会", "体谅", "明了", "得知", "默认"],
+      "singular": ["understands"],
+      "present": ["understanding"],
+      "past": ["understood"]
+    }
+  },
+  "understanding": {
+    "n": {
+      "translation": ["理解", "了解", "谅解", "(非正式的)协议", "领悟", "体谅", "理解力"],
+      "plural": ["understandings"]
+    },
+    "adj": {
+      "translation": ["善解人意的", "富有同情心的", "体谅人的"]
+    },
+    "v": {
+      "translation": ["理解", "了解", "谅解", "懂", "认识到", "领会", "体谅", "明了"]
+    }
+  },
+  "undertake": {
+    "v": {
+      "translation": ["承担", "承诺", "负责", "从事", "答应", "允诺"],
+      "singular": ["undertakes"],
+      "present": ["undertaking"],
+      "past": ["undertook", "undertaken"]
+    }
+  },
+  "undertaking": {
+    "n": {
+      "translation": ["承诺", "项目", "保证", "事业", "企业", "(重大或艰巨的)任务", "答应", "许诺", "殡仪业", "丧葬业"],
+      "plural": ["undertakings"]
+    },
+    "v": {
+      "translation": ["承担", "承诺", "从事", "负责", "允诺"]
+    }
+  },
+  "undo": {
+    "v": {
+      "translation": [
+        "<计>取消，撤销", "消除，取消，废止(某事的影响)", "打开，解开，拆开", "毁坏，破坏", "<古>揭示……的奥秘，解密",
+        "使不安，使烦扰", "打败，挫败", "勾引，诱奸"
+      ],
+      "singular": ["undoes"],
+      "present": ["undoing"],
+      "past": ["undid", "undone"]
+    },
+    "n": {
+      "translation": ["<计>取消，撤消，恢复"]
+    }
+  },
+  "undoubtedly": {
+    "adv": {
+      "translation": ["无疑", "必定", "毋庸置疑地"]
+    }
+  },
+  "uneasy": {
+    "adj": {
+      "translation": [
+        "不安的", "担心的", "不稳定的", "忧虑的", "令人不安的", "心神不安的", "不安稳的", "不确定的", "不和谐的",
+        "令人不舒服的", "靠不住的"
+      ],
+      "comparative": ["uneasier"],
+      "superlative": ["uneasiest"]
+    }
+  },
+  "unexpected": {
+    "adj": {
+      "translation": ["出乎意料的", "想不到的", "始料不及的"]
+    }
+  },
+  "unfair": {
+    "adj": {
+      "translation": ["不公正的", "不公平的", "待人不平等的"]
+    }
+  },
+  "unfortunate": {
+    "adj": {
+      "translation": ["不幸的", "可惜的", "令人遗憾的", "倒霉的", "不适当的", "令人尴尬的", "得罪人的"]
+    },
+    "n": {
+      "translation": ["不幸的人"],
+      "plural": ["unfortunates"]
+    }
+  },
+  "unfortunately": {
+    "adv": {
+      "translation": ["不幸地", "遗憾地", "可惜地", "可悲地"]
+    }
+  },
+  "unhappy": {
+    "adj": {
+      "translation": ["不快乐的", "不幸的", "不满的", "不高兴的", "不幸福的", "悲伤的", "难过的", "不悦的", "不适当的"],
+      "comparative": ["unhappier"],
+      "superlative": ["unhappiest"]
+    }
+  },
+  "uniform": {
+    "n": {
+      "translation": ["制服", "校服"],
+      "plural": ["uniforms"]
+    },
+    "adj": {
+      "translation": ["一致的", "统一的", "一律的"]
+    },
+    "v": {
+      "translation": ["使均一", "使穿制服"]
+    }
+  },
+  "union": {
+    "n": {
+      "translation": [
+        "联盟", "(尤指内战时期的)美利坚合众国，美国", "联合", "联邦", "联合会", "协会", "同盟", "俱乐部", "会社", "结为夫妻"
+      ],
+      "plural": ["unions"]
+    }
+  },
+  "unique": {
+    "adj": {
+      "translation": ["独特的", "唯一的", "独一无二的", "(某人、地或事物)独具的，特有的", "罕见的"]
+    },
+    "n": {
+      "translation": ["独一无二的人[物,事实]"]
+    }
+  },
+  "unit": {
+    "n": {
+      "translation": [
+        "单元", "装置", "单位", "科", "（一）套", "一件(商品)", "小队", "班组", "个位数", "配套家具组件", "单独的事物(或人、群体)"
+      ],
+      "plural": ["units"]
+    }
+  },
+  "unite": {
+    "v": {
+      "translation": ["团结", "(与某人或集体)联结，联合，统一", "统一", "(为某事)联合，联手"],
+      "singular": ["unites"],
+      "present": ["uniting"],
+      "past": ["united"]
+    }
+  },
+  "unity": {
+    "n": {
+      "translation": [
+        "团结一致", "（数目或数字）一", "完整", "(情节、时间和地点的)统一性，一致性", "和谐", "联合", "协调", "统一体",
+        "统一", "完美", "三一律"
+      ],
+      "plural": ["unities"]
+    }
+  },
+  "universal": {
+    "adj": {
+      "translation": ["普遍的", "共同的", "全世界的", "普遍存在的", "全体的", "广泛适用的"]
+    },
+    "n": {
+      "translation": ["一般性", "[哲学]一般概念", "[逻辑学]全称命题"],
+      "plural": ["universals"]
+    }
+  },
+  "universe": {
+    "n": {
+      "translation": ["天地万物", "(已知宇宙以外的)宇宙", "万象", "(某种)经验体系"],
+      "plural": ["universes"]
+    }
+  },
+  "university": {
+    "n": {
+      "translation": ["(综合性)大学", "高等学府"],
+      "plural": ["universities"]
+    }
+  },
+  "unjust": {
+    "adj": {
+      "translation": ["不公正的", "不公平的", "非正义的"]
+    }
+  },
+  "unkind": {
+    "adj": {
+      "translation": ["不友善的", "刻薄的", "不客气的", "不亲切的"],
+      "comparative": ["unkinder"],
+      "superlative": ["unkindest"]
+    }
+  },
+  "unknown": {
+    "adj": {
+      "translation": ["未知的", "不详的", "无名的", "不出名的", "未被确认的", "从未发生的", "从不存在的"]
+    },
+    "n": {
+      "translation": ["未知数", "未知的地方(或事物)", "未知的因素", "无名者", "不出名的人", "不明的情况"],
+      "plural": ["unknowns"]
+    }
+  },
+  "unless": {
+    "conj": {
+      "translation": ["除非", "如果不", "若非", "除非在…情况下"]
+    },
+    "prep": {
+      "translation": ["除…之外"]
+    }
+  },
+  "unlike": {
+    "prep": {
+      "translation": ["不像", "(用于对比)与…不同", "与…不同", "非…的特征"]
+    },
+    "adj": {
+      "translation": ["不同的，相异的", "不等同的", "不是……特有的"]
+    }
+  },
+  "unlikely": {
+    "adj": {
+      "translation": [
+        "不大可能发生的", "令人不愉快的，讨厌的", "不大可能是真的，靠不住的", "难以相信的", "（两个人或物）不般配的",
+        "不典型的", "非心目中的，非想象的"
+      ],
+      "comparative": ["unlikelier"],
+      "superlative": ["unlikeliest"]
+    },
+    "adv": {
+      "translation": ["未必"]
+    }
+  },
+  "unload": {
+    "v": {
+      "translation": [
+        "卸载", "(从车、船上)卸，取下", "拆掉，退出，取出(子弹或胶卷等)", "脱手，卖掉", "推卸(责任)", "甩掉(包袱)"
+      ],
+      "singular": ["unloads"],
+      "present": ["unloading"],
+      "past": ["unloaded"]
+    }
+  },
+  "unlucky": {
+    "adj": {
+      "translation": ["不幸的", "倒霉的", "不吉利的", "晦气的", "不顺利的"],
+      "comparative": ["unluckier"],
+      "superlative": ["unluckiest"]
+    }
+  },
+  "unnecessary": {
+    "adj": {
+      "translation": ["不必要的，多余的", "不必要(且容易开罪于人)的", "不需要的", "不亲切的，粗鲁的，冒犯的"]
+    },
+    "n": {
+      "translation": ["非必需品", " 不重要的东西"]
+    }
+  },
+  "unpleasant": {
+    "adj": {
+      "translation": ["不愉快的", "令人不快的", "不舒服的", "不客气的", "不礼貌的", "不和蔼的"]
+    }
+  },
+  "unsatisfactory": {
+    "adj": {
+      "translation": ["不能令人满意的", "不够好的"]
+    }
+  },
+  "unstable": {
+    "adj": {
+      "translation": ["不稳定的", "(行为、情绪)反复无常的", "不稳固的", "易变的", "变化莫测的", "易动(或倒下)的"]
+    }
+  },
+  "unsuitable": {
+    "adj": {
+      "translation": ["不合适的", "不适宜的", "不适当的"]
+    }
+  },
+  "until": {
+    "conj/prep": {
+      "translation": ["直到", "直到…为止", "到…时"]
+    }
+  },
+  "unusual": {
+    "adj": {
+      "translation": ["不寻常的", "特别的", "罕见的", "与众不同的", "独特的", "别致的"]
+    }
+  },
+  "unusually": {
+    "adv": {
+      "translation": ["(置于形容词前，用以强调)特别地，极，非常", "不寻常地", "意想不到地"]
+    }
+  },
+  "unwilling": {
+    "adj": {
+      "translation": ["不愿意", "不情愿的", "不情愿", "勉强的", "无奈的", "迫不得已的"]
+    }
+  },
+  "up": {
+    "adj": {
+      "translation": ["向上的", "在运行", "高兴", "快乐", "激动", "往上移动的"]
+    },
+    "prep": {
+      "translation": ["向，在(较高位置)", "沿着", "顺着", "向…上游", "溯流而上"]
+    },
+    "adv": {
+      "translation": [
+        "到，朝，在", "向", "发生，出现", "向上", "（以便）形成，聚拢", "完全", "（以便）完结，关闭", "在上面", "加大", "增高",
+        "朝(某人或某物)的方向", "已结束", "成碎片", "向…的地方", "向(或在)较高水平", "向(或在)较高位置", "未上床"
+      ]
+    },
+    "v": {
+      "translation": ["提高…的价格(或数量)", "突然移动", "突然做(意想不到的事)"],
+      "singular": ["ups"],
+      "present": ["upping"],
+      "past": ["upped"]
+    },
+    "n": {
+      "translation": ["效用通路"]
+    }
+  },
+  "upon": {
+    "prep": {
+      "translation": [
+        "在……上", "在上面", "刚一……就", "即将发生", "用在一些动词后，与on 同义", "（用于两个相同的名词之间，强调数量之多）（一个）接（一个），……又……"
+      ]
+    },
+    "adv": {
+      "translation": ["在上面，在物体上", "从此，因此"]
+    }
+  },
+  "upper": {
+    "adj": {
+      "translation": [
+        "上面的", "上层的(尤指同类或一对中的一个)", "上部的", "上边的", "高地的", "靠上部的", "内陆的", "向北部的"
+      ]
+    },
+    "n": {
+      "translation": ["鞋帮", "靴面", "兴奋剂"],
+      "plural": ["uppers"]
+    }
+  },
+  "upright": {
+    "adj": {
+      "translation": ["直立的", "垂直的", "竖直的", "正直的", "挺直的", "诚实的", "规矩的"]
+    },
+    "n": {
+      "translation": ["(支撑用的)直柱，立柱，立放构件"],
+      "plural": ["uprights"]
+    },
+    "adv": {
+      "translation": ["竖立着"]
+    }
+  },
+  "upset": {
+    "adj": {
+      "translation": ["难过", "沮丧的", "沮丧", "不高兴", "失望", "肠胃不适", "腹泻"]
+    },
+    "vt": {
+      "translation": ["使生气", "使心烦意乱", "使烦恼", "打乱", "使(肠胃)不适", "打翻", "搅乱"],
+      "singular": ["upsets"],
+      "present": ["upsetting"],
+      "past": ["upset"]
+    },
+    "n": {
+      "translation": ["(意外的)混乱，困扰，麻烦", "腹泻", "不痛快", "爆冷门", "意外的结果", "肠胃病"]
+    }
+  },
+  "upside": {
+    "n": {
+      "translation": ["(糟糕局面的)好的一面，光明的一面，正面", "上侧，上面", "（股票价格等的）提高，上涨"],
+      "plural": ["upsides"]
+    },
+    "prep": {
+      "translation": ["<主方>在……一边", "<美口>在……上"]
+    }
+  },
+  "upstairs": {
+    "adj": {
+      "translation": ["楼上的"]
+    },
+    "n": {
+      "translation": ["楼上", "二楼", "二楼以上各层"],
+      "plural": ["upstairs"]
+    },
+    "adv": {
+      "translation": ["在(或向)楼上", "在(或向)上一层"]
+    }
+  },
+  "upward": {
+    "adj": {
+      "translation": ["向上的", "(数量、价格)上升的，上涨的，增长的", "朝上的", "向高处的"]
+    },
+    "adv": {
+      "translation": ["同“upwards”"]
+    }
+  },
+  "urge": {
+    "v": {
+      "translation": ["催促", "敦促", "力劝", "鞭策", "竭力主张", "驱赶", "大力推荐"],
+      "singular": ["urges"],
+      "present": ["urging"],
+      "past": ["urged"]
+    },
+    "n": {
+      "translation": ["冲动", "强烈的欲望"],
+      "plural": ["urges"]
+    }
+  },
+  "urgent": {
+    "adj": {
+      "translation": ["紧急的", "迫切的", "紧迫的", "急切的", "催促的"]
+    }
+  },
+  "us": {
+    "pron": {
+      "translation": ["我们", "我"]
+    }
+  },
+  "usage": {
+    "n": {
+      "translation": ["使用", "(词语的)用法，惯用法", "利用", "利用率"],
+      "plural": ["usages"]
+    }
+  },
+  "use": {
+    "v": {
+      "translation": ["使用", "说，写，使用(词语或语言)", "（施展手段）利用（别人）", "利用", "运用", "消耗", "吸（毒）"],
+      "singular": ["uses"],
+      "present": ["using"],
+      "past": ["used"]
+    },
+    "n": {
+      "translation": [
+        "使用", "用", "功能", "用途", "使用权", "用法", "得到利用", "使用的机会", "运用头脑（或身体）的能力"
+      ],
+      "plural": ["uses"]
+    }
+  },
+  "used": {
+    "adj": {
+      "translation": ["用过的", "旧的", "二手的"]
+    },
+    "v": {
+      "translation": ["使用", "说，写，使用(词语或语言)", "利用", "运用", "消耗"]
+    }
+  },
+  "useful": {
+    "adj": {
+      "translation": ["有用的", "好的", "实用的", "有益的", "合格的", "有帮助的"]
+    }
+  },
+  "useless": {
+    "adj": {
+      "translation": ["无用的", "无效的", "不行的", "无价值的", "差劲的", "不擅长的"]
+    }
+  },
+  "user": {
+    "n": {
+      "translation": ["用户", "使用者", "吸毒者", "瘾君子"],
+      "plural": ["users"]
+    }
+  },
+  "usual": {
+    "adj": {
+      "translation": ["通常的", "惯常的", "寻常的", "(尤指)常喝的饮料", "惯常的事物"]
+    },
+    "n": {
+      "translation": ["惯常的事物", "（尤指）常喝的饮料"]
+    }
+  },
+  "usually": {
+    "adv": {
+      "translation": ["通常", "一般地", "经常地", "正常地"]
+    }
+  },
+  "utility": {
+    "n": {
+      "translation": ["实用", "实用程序", "效用", "公用事业", "公用程序", "有用"],
+      "plural": ["utilities"]
+    },
+    "adj": {
+      "translation": ["多功能的", "多用途的", "多效用的"]
+    }
+  },
+  "utilize": {
+    "vt": {
+      "translation": ["利用", "使用", "应用", "运用"],
+      "singular": ["utilizes"],
+      "present": ["utilizing"],
+      "past": ["utilized"]
+    }
+  },
+  "utmost": {
+    "adj": {
+      "translation": ["最大的", "极度的"]
+    },
+    "n": {
+      "translation": ["最大限度", "极限", "最大可能", "最大量"]
+    }
+  },
+  "utter": {
+    "vt": {
+      "translation": ["说", "讲", "出声"],
+      "singular": ["utters"],
+      "present": ["uttering"],
+      "past": ["uttered"]
+    },
+    "adj": {
+      "translation": ["彻底的", "完全的", "十足的"]
+    }
+  }
+}

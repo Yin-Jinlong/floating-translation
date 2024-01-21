@@ -1,0 +1,1822 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "lab": {
+    "n": {
+      "translation": ["实验室", "实验课", "化学厂，药厂", "实验大楼", "同 laboratory"],
+      "plural": ["labs"]
+    }
+  },
+  "label": {
+    "n": {
+      "translation": ["标签", "标记", "唱片公司", "签条", "(不恰当的)称谓，绰号，叫法"],
+      "plural": ["labels"]
+    },
+    "vt": {
+      "translation": ["贴标签于", "(尤指不公正地)把…称为", "用标签标明"],
+      "singular": ["labels"],
+      "present": ["labelling"],
+      "past": ["labelled"]
+    }
+  },
+  "laboratory": {
+    "n": {
+      "translation": ["实验室", "实验大楼"],
+      "plural": ["laboratories"]
+    }
+  },
+  "labour": {
+    "n": {
+      "translation": [
+        "劳动，工作", "活计，劳动果实", "工会", "努力", "分娩", "英国工党", "工人阶级，体力劳动者", "（分娩时的）阵痛",
+        "工人，劳工"
+      ]
+    },
+    "v": {
+      "translation": [
+        "劳动，工作", "分娩", "苦恼，痛苦", "苦干", "努力争取(for)", "费力地前进", "(船)前后左右颠簸，浪中挣扎",
+        "过分精工制作，过分详尽阐述", "详细分析（指引擎）缓慢而困难地运转"
+      ],
+      "singular": ["labours"],
+      "present": ["labouring"],
+      "past": ["laboured"]
+    },
+    "adj": {
+      "translation": ["与英国工党有关的", "支持英国工党的"]
+    }
+  },
+  "lace": {
+    "n": {
+      "translation": ["花边", "蕾丝", "网眼织物"],
+      "plural": ["laces"]
+    },
+    "v": {
+      "translation": [
+        "给(饮料等)掺(少量的酒、药、毒药等)", "给(鞋、靴等)穿鞋带", "使编织（或交织、缠绕）在一起", "（以…）润色（书、讲话等）",
+        "把…用带子系牢", "由带子系紧"
+      ],
+      "singular": ["laces"],
+      "present": ["lacing"],
+      "past": ["laced"]
+    }
+  },
+  "lack": {
+    "n": {
+      "translation": ["缺乏", "匮乏", "短缺"],
+      "plural": ["lacks"]
+    },
+    "vt": {
+      "translation": ["缺乏", "没有", "不足", "短缺"],
+      "singular": ["lacks"],
+      "present": ["lacking"],
+      "past": ["lacked"]
+    }
+  },
+  "ladder": {
+    "n": {
+      "translation": ["梯子", "(事业上或机构中晋升的)阶梯，途径", "(紧身裤袜或长筒袜的)滑丝，抽丝", "升级比赛"],
+      "plural": ["ladders"]
+    },
+    "v": {
+      "translation": ["(使紧身裤袜或长筒袜)出现滑丝，抽丝"],
+      "singular": ["ladders"],
+      "present": ["laddering"],
+      "past": ["laddered"]
+    }
+  },
+  "lady": {
+    "n": {
+      "translation": [
+        "女士", "夫人，女士，小姐", "女人，女士", "（英国）贵妇人，夫人，小姐", "(尤用于称呼或谈及不认识的女子)小姐", "淑女",
+        "圣母", "女厕所", "(指成年女子，有些人尤其是长者认为这样说比较礼貌)女子", "举止文雅且有教养的女子"
+      ],
+      "plural": ["ladies"]
+    }
+  },
+  "lag": {
+    "v": {
+      "translation": ["滞后", "落后于", "发展缓慢", "缓慢移动", "给(管道等)加防冻保暖层"],
+      "singular": ["lags"],
+      "present": ["lagging"],
+      "past": ["lagged"]
+    },
+    "n": {
+      "translation": ["滞后，（时间上的）间隔"],
+      "plural": ["lags"]
+    },
+    "adj": {
+      "translation": ["慢的", "最后的"]
+    }
+  },
+  "lake": {
+    "n": {
+      "translation": ["湖", "湖泊"],
+      "plural": ["lakes"]
+    }
+  },
+  "lamb": {
+    "n": {
+      "translation": ["羔羊", "小羊", "羊羔肉", "(慈爱或怜悯地描述或称呼某人)宝贝，乖乖"],
+      "plural": ["lambs"]
+    },
+    "vi": {
+      "translation": ["产羊羔"]
+    }
+  },
+  "lame": {
+    "adj": {
+      "translation": ["瘸的", "跛的", "站不住脚的", "无说服力的"],
+      "comparative": ["lamer"],
+      "superlative": ["lamest"]
+    },
+    "n": {
+      "translation": ["金银锦缎"]
+    },
+    "vt": {
+      "translation": ["使残废", "把…弄残废", "变跛使跛"],
+      "singular": ["lames"],
+      "present": ["laming"],
+      "past": ["lamed"]
+    }
+  },
+  "lamp": {
+    "n": {
+      "translation": ["灯", "(理疗用的)发热灯", "(科学上用的)射线照射器"],
+      "plural": ["lamps"]
+    },
+    "v": {
+      "translation": ["〈诗〉照亮", "看到"]
+    }
+  },
+  "land": {
+    "n": {
+      "translation": [
+        "土地", "国家，地区", "陆地", "（与城市相对的）农村，农村生活方式", "大地", "(尤指某类型或作某种用途的)地带",
+        "地产", "地皮"
+      ],
+      "plural": ["lands"]
+    },
+    "v": {
+      "translation": [
+        "着陆", "（使）着陆，降落，靠岸，登陆", "降落", "(乘飞机或船)登陆", "成功得到，赢得，捞到", "降临",
+        "跳落，跌落，被抛落（地面）", "使(飞机)平稳着陆", "捕到，钓到（鱼）"
+      ],
+      "singular": ["lands"],
+      "present": ["landing"],
+      "past": ["landed"]
+    }
+  },
+  "landing": {
+    "n": {
+      "translation": ["着陆", "降落", "登陆", "楼梯平台", "(两段楼梯间的)过渡平台"],
+      "plural": ["landings"]
+    },
+    "v": {
+      "translation": ["着陆", "(乘飞机或船)着陆，登陆", "降落", "落", "使(飞机)平稳着陆"]
+    }
+  },
+  "landlady": {
+    "n": {
+      "translation": ["女房东", "(酒吧或招待所的)女店主，女老板", "女地主"],
+      "plural": ["landladies"]
+    }
+  },
+  "landlord": {
+    "n": {
+      "translation": ["业主", "房东", "地主", "(酒吧或招待所的)店主，老板"],
+      "plural": ["landlords"]
+    }
+  },
+  "lane": {
+    "n": {
+      "translation": ["车道", "（比赛的）跑道，泳道", "小巷", "(乡间)小路", "航道", "胡同", "里弄"],
+      "plural": ["lanes"]
+    }
+  },
+  "language": {
+    "n": {
+      "translation": ["语言", "言语", "语言文字", "说话", "计算机语言", "表达方式，交际方式", "某种类型的言语(或语言)"],
+      "plural": ["languages"]
+    }
+  },
+  "lantern": {
+    "n": {
+      "translation": ["灯笼", "提灯"],
+      "plural": ["lanterns"]
+    }
+  },
+  "lap": {
+    "n": {
+      "translation": ["(坐着时的)大腿部", "(行程或工作中的)一段，环节", "(跑道等的)一圈"],
+      "plural": ["laps"]
+    },
+    "v": {
+      "translation": ["(轻柔而有规律地)拍打", "舔食", "领先一圈(或数圈)", "舔着喝"],
+      "singular": ["laps"],
+      "present": ["lapping"],
+      "past": ["lapped"]
+    }
+  },
+  "large": {
+    "adj": {
+      "translation": ["大的", "大量的", "大规模的", "广泛的", "众多的", "(服装、食物、日用品等)大型号的"],
+      "comparative": ["larger"],
+      "superlative": ["largest"]
+    },
+    "adv": {
+      "translation": ["大", "详细地", "夸大地", "顺风地"]
+    },
+    "n": {
+      "translation": ["大"]
+    }
+  },
+  "largely": {
+    "adv": {
+      "translation": ["在很大程度上", "多半", "主要地"]
+    }
+  },
+  "laser": {
+    "n": {
+      "translation": ["激光", "激光器"],
+      "plural": ["lasers"]
+    }
+  },
+  "last": {
+    "det": {
+      "translation": ["最后的，末尾的", "最近的，上一个的", "仅剩下的，最终的", "（强调）最不可能的，最不适当的"]
+    },
+    "adv": {
+      "translation": ["最后，最终", "（用于列举引出最后的话或信息）最后，最后一点", "最新，最近", "上一次", "最后地，最末地"]
+    },
+    "pron": {
+      "translation": ["最后一次，最末一次", "最后的人"]
+    },
+    "n": {
+      "translation": [
+        "(月、星期等的)末尾，最后一天", "生命的最后一刻，死亡", "鞋楦", "最后的动作，最后的话，最后一眼",
+        "（用在before后面）昨夜（或上月、去年等）上一次，上一届，上一任", "持续力，坚持能力，耐力", "最近的信，最近消息",
+        "仅剩下的部分(或事项)", "最后来的人(或发生的事)"
+      ]
+    },
+    "v": {
+      "translation": [
+        "持续", "持久", "继续", "延续", "超越(困境等)", "继续存在", "够用，足够维持（尤指某段时间）",
+        "(在困境等中)坚持下去", "持续起作用"
+      ],
+      "singular": ["lasts"],
+      "present": ["lasting"],
+      "past": ["lasted"]
+    },
+    "adj": {
+      "translation": [
+        "最后的，末尾的", "最近的，最近一次的", "最终的，带来结论性的", "(生命)最后阶段的，临终的",
+        "（用以加强语气）每一个的", "极度的，极端的", "<英方>蹩脚的，讨厌的", "最后剩下的", "最不想要的", "最不可能的",
+        "最新流行的", "（（竞赛中）最后留下的，排位在前的", " late 的最高级"
+      ]
+    }
+  },
+  "latest": {
+    "adj": {
+      "translation": ["最新的", "最近的"]
+    },
+    "n": {
+      "translation": ["最新事物", "最新消息"]
+    },
+    "adv": {
+      "translation": ["晚", "迟", "在晚年", "接近末期", "临近日暮", "接近午夜"]
+    }
+  },
+  "late": {
+    "adj": {
+      "translation": ["晚的", "迟到", "已故的", "在晚年", "迟做", "接近末期", "近深夜的", "迟发生", "近日暮的"],
+      "comparative": ["later"],
+      "superlative": ["latest"]
+    },
+    "adv": {
+      "translation": ["晚", "迟", "在晚年", "接近末期", "接近午夜", "临近日暮"]
+    }
+  },
+  "lately": {
+    "adv": {
+      "translation": ["最近", "近来", "新近", "不久前"]
+    }
+  },
+  "later": {
+    "adv": {
+      "translation": ["后来", "以后", "随后", "其后", "(年轻人告别时用的)再见"]
+    },
+    "adj": {
+      "translation": ["后来的", "以后的", "晚年的", "接近末期的"]
+    }
+  },
+  "latin": {
+    "n": {
+      "translation": [
+        "拉丁语", "拉丁人(来自拉丁语系国家如西班牙、葡萄牙、意大利或法国)", "拉丁音乐(源自拉丁美洲，节奏感强，适于跳舞)"
+      ],
+      "plural": ["Latins"]
+    },
+    "adj": {
+      "translation": ["拉丁语的", "拉丁人的", "用拉丁语写成的", "拉丁语系国家(或民族)的(如西班牙、葡萄牙、意大利或法国)"]
+    }
+  },
+  "latter": {
+    "adj": {
+      "translation": ["(刚提及的两者中)后者的", "后面的", "(系列中)最后的，末尾的", "后半期的"]
+    },
+    "n": {
+      "translation": ["(刚提及的两者中)后者", "(系列中)最后一位，末位"]
+    }
+  },
+  "laugh": {
+    "v": {
+      "translation": ["笑", "发笑", "(特别表示因成功而)处于有利地位"],
+      "singular": ["laughs"],
+      "present": ["laughing"],
+      "past": ["laughed"]
+    },
+    "n": {
+      "translation": ["笑声", "笑料", "令人开心的时刻", "引人发笑的事", "逗笑好玩的人", "引人发笑的人"],
+      "plural": ["laughs"]
+    }
+  },
+  "laughter": {
+    "n": {
+      "translation": ["笑声", "笑"]
+    }
+  },
+  "launch": {
+    "n": {
+      "translation": [
+        "(航天器的)发射", "(事件的)发起", "(产品的)上市", "(船的)下水", "交通艇", "大型汽艇", "机动大舢板"
+      ]
+    },
+    "vt": {
+      "translation": [
+        "发射", "开始从事，发起，发动(尤指有组织的活动)", "(首次)上市，发行", "使(船，尤指新船)下水", "猛扑向前"
+      ],
+      "singular": ["launches"],
+      "present": ["launching"],
+      "past": ["launched"]
+    }
+  },
+  "laundry": {
+    "n": {
+      "translation": ["洗衣房", "洗衣店", "洗衣物", "要(或正在)洗的衣物", "刚洗好的衣物", "洗衣物的活"],
+      "plural": ["laundries"]
+    }
+  },
+  "lavatory": {
+    "n": {
+      "translation": ["厕所", "盥洗室", "卫生间", "洗手间", "公共厕所(或卫生间、洗手间、盥洗室)", "抽水马桶"],
+      "plural": ["lavatories"]
+    }
+  },
+  "law": {
+    "n": {
+      "translation": [
+        "(针对某项罪行、协议等的一条)法律", "法规", "规律", "规则", "定律", "法学", "法律机构", "良好行为的准则"
+      ],
+      "plural": ["laws"]
+    },
+    "vt": {
+      "translation": ["控告", "对…起诉"],
+      "singular": ["laws"],
+      "present": ["lawing"],
+      "past": ["lawed"]
+    }
+  },
+  "lawn": {
+    "n": {
+      "translation": ["草坪", "草地", "上等细棉布(或麻布)"],
+      "plural": ["lawns"]
+    }
+  },
+  "lawyer": {
+    "n": {
+      "translation": ["律师"],
+      "plural": ["lawyers"]
+    }
+  },
+  "lay": {
+    "v": {
+      "translation": [
+        "放置", "（鸟、昆虫、鱼等）下（蛋），产（卵）", "提出，提交（建议、信息等）", "铺设(尤指在地板上)", "（摆好木、柴或煤）生（火）",
+        "(尤指轻轻地或小心地)安放", "敷", "(在某物上)涂", "铺放", "与（某人）性交", "摆放餐具于", "周密准备",
+        "用一层…覆盖", "对…下赌金", "使处于特定状态（尤指困境）"
+      ],
+      "singular": ["lays"],
+      "present": ["laying"],
+      "past": ["laid"]
+    },
+    "adj": {
+      "translation": ["非专业的", "外行的", "平信徒的", "在俗的", "缺少专门知识的"]
+    },
+    "n": {
+      "translation": ["性伙伴", "(尤指)性交的女人", "(通常供吟唱的)叙事诗"]
+    }
+  },
+  "layer": {
+    "n": {
+      "translation": ["层", "表层", "层次", "阶层"],
+      "plural": ["layers"]
+    },
+    "vt": {
+      "translation": ["把…分层堆放"],
+      "singular": ["layers"],
+      "present": ["layering"],
+      "past": ["layered"]
+    }
+  },
+  "layout": {
+    "n": {
+      "translation": ["布局", "布置", "设计", "安排"],
+      "plural": ["layouts"]
+    }
+  },
+  "lazy": {
+    "adj": {
+      "translation": [
+        "懒惰的", "懒散的", "懒洋洋的", "无精打采的", "马虎的", "不愿工作的", "粗枝大叶的", "没下工夫的", "行进缓慢的"
+      ],
+      "comparative": ["lazier"],
+      "superlative": ["laziest"]
+    }
+  },
+  "lead": {
+    "v": {
+      "translation": [
+        "领导，引领", "导致，造成（后果）", "控制，掌管", "过（某种生活）", "通向，通往", "(与……)相连，相通",
+        "处于首位，处于领先地位", "诱使", "误导", "带路，领路", "最擅长于", "使得出（观点）", "开牌，率先出牌",
+        "用测深锤测水深", "用铅包，在……中衬铅"
+      ],
+      "singular": ["leads"],
+      "present": ["leading"],
+      "past": ["led"]
+    },
+    "n": {
+      "translation": [
+        "指引，领导", "<英><电>导线，引线，联接线", "铅", "线索", "领导者，领先者", "主角", "领导地位", "榜样", "小路，水道",
+        "<英>(牵狗等用的)绳索，皮带", "螺距，牙距", "铅笔芯", "(新闻报道等的)首段，导语", "前置瞄准，前置量，提前量",
+        "(拳击中的)先击拳，交锋", "<音>主旋律", "<矿>矿脉", "超前量，领先程度", "<牌>先出牌(权)",
+        "(可通行船只的)冰间水道", "<美><棒>(跑垒员的)离垒", "<海>动索的通路，导缆装置", "头版新闻报道"
+      ],
+      "plural": ["leads"]
+    },
+    "adj": {
+      "translation": [
+        "领导的，领先的，带领的", "铅制的，含铅的", "(新闻报道等)刊登在显著地位的，最重要的", "被牵引的，受指引的",
+        "<棒>(跑垒员)离垒而最接近得分的"
+      ]
+    }
+  },
+  "leader": {
+    "n": {
+      "translation": [
+        "领导", "领袖", "首领", "(管弦乐队的)首席小提琴手", "最佳的人(或物)", "(在赛跑、商业等活动中)处于领先地位的人(或物)"
+      ],
+      "plural": ["leaders"]
+    }
+  },
+  "leadership": {
+    "n": {
+      "translation": ["领导", "领导层", "领导地位", "领导才能", "领导班子", "领导应有的品质"],
+      "plural": ["leaderships"]
+    }
+  },
+  "leading": {
+    "adj": {
+      "translation": ["主要的", "(赛跑或比赛中)领先的，最前的", "一流的", "最重要的"]
+    },
+    "n": {
+      "translation": ["行距(相邻两个文本行之间的距离)"]
+    },
+    "v": {
+      "translation": ["引领", "通向", "通往", "(与…)相连，相通", "带路", "领路"]
+    }
+  },
+  "leaf": {
+    "n": {
+      "translation": [
+        "叶", "叶片", "叶子", "(纸)页，张", "(尤指书的)页", "有…片叶的", "活动桌板", "薄金属片", "有…状叶的"
+      ],
+      "plural": ["leaves"]
+    },
+    "v": {
+      "translation": ["翻…的页，匆匆翻阅"],
+      "singular": ["leaves"],
+      "present": ["leafing"],
+      "past": ["leafed"]
+    }
+  },
+  "league": {
+    "n": {
+      "translation": ["(体育运动队的)联合会，联赛", "联盟", "同盟", "(质量、能力等的)等级，级别，水平", "里格"],
+      "plural": ["leagues"]
+    },
+    "v": {
+      "translation": ["(使)结盟", "组成联盟", "一鼻孔出气", "(使)联合[团结]"],
+      "singular": ["leagues"],
+      "present": ["leaguing"],
+      "past": ["leagued"]
+    }
+  },
+  "leak": {
+    "v": {
+      "translation": ["漏", "泄露，透露(秘密信息)", "泄漏", "渗漏", "漏出", "渗入", "走漏"],
+      "singular": ["leaks"],
+      "present": ["leaking"],
+      "past": ["leaked"]
+    },
+    "n": {
+      "translation": ["漏洞", "(秘密信息的)透露", "裂缝", "缝隙", "撒尿", "泄漏出的液体(或气体)"],
+      "plural": ["leaks"]
+    }
+  },
+  "lean": {
+    "v": {
+      "translation": ["靠在", "倾斜", "倚靠", "使斜靠", "靠置", "前俯(或后仰)"],
+      "singular": ["leans"],
+      "present": ["leaning"],
+      "past": ["leant"]
+    },
+    "adj": {
+      "translation": [
+        "精干的", "贫乏的", "无脂肪的", "脂肪少的", "瘦且健康的", "肉少的", "生产不出(食物等)的", "难以赚钱的"
+      ],
+      "comparative": ["leaner"],
+      "superlative": ["leanest"]
+    },
+    "n": {
+      "translation": ["瘦肉"]
+    }
+  },
+  "leap": {
+    "v": {
+      "translation": ["跳", "跳跃", "剧增", "跳越", "猛涨", "猛冲", "突然做(某事)", "骤增"],
+      "singular": ["leaps"],
+      "present": ["leaping"],
+      "past": ["leaped"]
+    },
+    "n": {
+      "translation": ["跳跃", "跳高", "激增", "剧增", "跳越", "骤变"],
+      "plural": ["leaps"]
+    }
+  },
+  "learn": {
+    "v": {
+      "translation": ["学习", "学", "学会", "学到", "得知", "获悉", "认识到", "记住", "听到", "熟记", "背熟"],
+      "singular": ["learns"],
+      "present": ["learning"],
+      "past": ["learnt"]
+    }
+  },
+  "learned": {
+    "adj": {
+      "translation": [
+        "学到的", "(为)学者的", "有学问的", "博学的", "学术性的", "知识渊博的", "学问精深的", "通过训练(或经历)形成的",
+        "非天生的"
+      ]
+    },
+    "v": {
+      "translation": ["学习", "学", "学会", "学到", "得知", "获悉", "记住", "听到", "熟记", "背熟"]
+    }
+  },
+  "learning": {
+    "n": {
+      "translation": ["学习", "知识", "学问", "学识"]
+    },
+    "v": {
+      "translation": ["学习", "学", "学会", "学到", "得知", "获悉", "记住", "听到", "熟记", "背熟"]
+    }
+  },
+  "least": {
+    "det/pron": {
+      "translation": ["最少的", "最小的", "程度最轻的"]
+    },
+    "adv": {
+      "translation": ["最小", "最少", "微不足道"]
+    },
+    "adj": {
+      "translation": [
+        "小的", "(用在形容词的后面表示喜爱或厌恶，尤指屈尊俯就地)可爱的，可怜的，讨厌的", "比较小的", "年幼的", "幼小的"
+      ]
+    }
+  },
+  "leather": {
+    "n": {
+      "translation": ["皮革", "(尤指骑摩托车人穿的)皮衣，皮外套"],
+      "plural": ["leathers"]
+    },
+    "adj": {
+      "translation": ["皮革的"]
+    },
+    "v": {
+      "translation": ["制成皮", "蒙上皮", "〈口〉(用皮带等)抽打"]
+    }
+  },
+  "leave": {
+    "v": {
+      "translation": [
+        "离开(某人或某处)", "使保留，让…处于", "使发生", "剩余", "（去世时）遗赠，遗留", "丢弃", "遗下（家人）", "遗弃",
+        "把…留交", "递送", "忘了带", "留下备用（或销售等）", "不立刻做"
+      ],
+      "singular": ["leaves"],
+      "present": ["leaving"],
+      "past": ["left"]
+    },
+    "n": {
+      "translation": ["休假", "假期", "准许"]
+    }
+  },
+  "lecture": {
+    "n": {
+      "translation": ["演讲", "(通常指大学里的)讲座", "讲课", "(冗长的)教训", "谴责"],
+      "plural": ["lectures"]
+    },
+    "v": {
+      "translation": ["讲课", "讲授", "告诫", "(尤指恼人地)指责", "(尤指在大学里)开讲座"],
+      "singular": ["lectures"],
+      "present": ["lecturing"],
+      "past": ["lectured"]
+    }
+  },
+  "left": {
+    "n": {
+      "translation": [
+        "左边", "左派政治团体，左派", "左转弯", "（政党内的）激进派，激进分子", "左手拳", "左边的第一(或第二等)条路"
+      ],
+      "plural": ["lefts"]
+    },
+    "adj": {
+      "translation": ["左边的"]
+    },
+    "v": {
+      "translation": ["离开(某人或某处)", "遗弃", "丢弃", "离开居住地点(或群体、工作单位等)"]
+    }
+  },
+  "leg": {
+    "n": {
+      "translation": [
+        "腿", "（家具的）腿，支架", "裤腿", "<数>(三角形的)侧边，(直角三角形的)直角边", "有…腿的",
+        "(尤指供食用的)动物的腿，腿肉", "一段路程（或赛程）", "尤指足球赛两队之间两场比赛中的）一场",
+        "<美口>(产品等)持续的流行(或成功)", "叉形物的一支，叉形物的一个分叉",
+        "<古>屈膝礼(一腿后退,另一腿弯曲的行礼方式)", "<板>左(或右)外场(指右手击球员的左后方场地或左手击球员的右后方场地"
+      ],
+      "plural": ["legs"]
+    },
+    "v": {
+      "translation": ["<口>走", "跑", "跑", "(撑船者仰卧)以腿蹬洞壁使船通过运河隧洞"],
+      "singular": ["legs"],
+      "present": ["legging"],
+      "past": ["legged"]
+    }
+  },
+  "legal": {
+    "adj": {
+      "translation": ["合法的", "法律的", "法律要求的", "法律允许的", "与法律有关的"]
+    },
+    "n": {
+      "translation": ["法定权利", "依法必须登报的声明"]
+    }
+  },
+  "legend": {
+    "n": {
+      "translation": ["（作表语用）非常有名的"],
+      "plural": ["legends"]
+    }
+  },
+  "leisure": {
+    "n": {
+      "translation": ["休闲", "闲暇", "空闲"]
+    },
+    "adj": {
+      "translation": ["闲暇的"]
+    }
+  },
+  "lemon": {
+    "n": {
+      "translation": ["柠檬", "柠檬汁", "柠檬色", "柠檬饮料", "浅黄色", "无用的东西", "蠢人"],
+      "plural": ["lemons"]
+    },
+    "adj": {
+      "translation": ["浅黄色的", "柠檬色的"]
+    }
+  },
+  "lend": {
+    "v": {
+      "translation": ["借给", "给予，提供（帮助、支持等）", "给…增加，增添(特色)", "借出", "(向…)贷(款)"],
+      "singular": ["lends"],
+      "present": ["lending"],
+      "past": ["lent"]
+    },
+    "n": {
+      "translation": ["(短期)贷款"]
+    }
+  },
+  "length": {
+    "n": {
+      "translation": [
+        "长", "长度", "(书或文件等的)篇幅", "有…长度的", "(持续)时间的长短", "（马或船的）自身长度", "(电影的)片长",
+        "游泳池长度", "细长的一段"
+      ],
+      "plural": ["lengths"]
+    }
+  },
+  "lens": {
+    "n": {
+      "translation": ["透镜", "镜片", "(眼球的)晶状体"],
+      "plural": ["lenses"]
+    }
+  },
+  "less": {
+    "det/pron": {
+      "translation": ["较少的", "(与不可数名词连用)更少的"]
+    },
+    "adv": {
+      "translation": ["少", "更少", "较小", "没那么多"]
+    },
+    "prep": {
+      "translation": ["减去", "扣除"]
+    },
+    "adj": {
+      "translation": [
+        "小的", "比较小的", "讨厌的", "可怜的", "年幼的", "幼小的", "(用在形容词的后面表示喜爱或厌恶，尤指屈尊俯就地)可爱的"
+      ]
+    }
+  },
+  "lessen": {
+    "v": {
+      "translation": ["减少", "(使)变小，变少，减弱，减轻"],
+      "singular": ["lessens"],
+      "present": ["lessening"],
+      "past": ["lessened"]
+    }
+  },
+  "lesson": {
+    "n": {
+      "translation": ["课程", "经验", "课", "教训", "一节课", "教学单元", "一课时", "（教堂礼拜中的）《圣经》选读"],
+      "plural": ["lessons"]
+    },
+    "v": {
+      "translation": ["教训", "教课"]
+    }
+  },
+  "lest": {
+    "conj": {
+      "translation": ["以免", "免得", "(引出产生某种情感的原因)唯恐，担心"]
+    }
+  },
+  "let": {
+    "vt": {
+      "translation": [
+        "让", "允许(去某处)", "（提出帮助时说）让，由", "（计算时说）假设，设", "同意", "出租（房屋、房间等）", "许可", "准许",
+        "（提出建议时说）", "要"
+      ],
+      "singular": ["lets"],
+      "present": ["letting"],
+      "past": ["let"]
+    },
+    "n": {
+      "translation": ["出租", "租借", "(发球时的)擦网球"]
+    }
+  },
+  "letter": {
+    "n": {
+      "translation": ["信", "字母", "函", "(缝制在运动服上的)校运动队字母标志"],
+      "plural": ["letters"]
+    },
+    "v": {
+      "translation": ["用字母标明(于清单等上)", "把字母印刷(或缝制等)于", "领取到学校运动队布制字母标志"],
+      "singular": ["letters"],
+      "present": ["lettering"],
+      "past": ["lettered"]
+    }
+  },
+  "level": {
+    "n": {
+      "translation": [
+        "(某时某情况下存在的)数量，程度，浓度", "层次，级别", "<物>级，电平", "水平", "标准", "质量，品级",
+        "（与地面或过去位置相对的）高度", "(血等体液中的)物质浓度,含量", "社会地位，阶层", "楼层", "水准器，水准仪",
+        "基准线，基准面", "平坦的表面", "看待（或应对、理解）事物的方式"
+      ],
+      "plural": ["levels"]
+    },
+    "adj": {
+      "translation": [
+        "水平的", "等高的", "均匀的", "平均的", "合理的,经过斟酌的", "平的，平坦的", "平稳的", "平静的，冷静的",
+        "<物>等势的", "<美俚>诚实的，直率的", "单调的，平淡的", "地位相同的", "得分相同", "价值相等的", "(在一段时期内)支付均衡的"
+      ]
+    },
+    "v": {
+      "translation": [
+        "使平等", "使平整", "使相似", "使平坦", "使相等", "（尤指用枪）瞄准，对准", "摧毁，夷平(建筑物或树林)"
+      ],
+      "singular": ["levels"],
+      "present": ["levelling"],
+      "past": ["levelled"]
+    },
+    "adv": {
+      "translation": ["<古>直接地", "沿水平面(或水平线)"]
+    }
+  },
+  "lever": {
+    "n": {
+      "translation": ["杠杆", "(车辆或机器的)操纵杆，控制杆", "施压的行为"],
+      "plural": ["levers"]
+    },
+    "vt": {
+      "translation": ["(用杠杆)撬动"],
+      "singular": ["levers"],
+      "present": ["levering"],
+      "past": ["levered"]
+    }
+  },
+  "liable": {
+    "adj": {
+      "translation": [
+        "可能(做某事)", "有责任的", "(法律上)负有偿付责任", "可能受…影响", "可能受法律惩处", "必须按法律做（某事）"
+      ]
+    }
+  },
+  "liar": {
+    "n": {
+      "translation": ["说谎者", "撒谎者"],
+      "plural": ["liars"]
+    }
+  },
+  "liberal": {
+    "adj": {
+      "translation": [
+        "(政治经济上)自由的", "(英国以外国家)自由党的", "开明的", "人文（教育）的", "慷慨的",
+        "支持(社会、政治或宗教)变革的", "(旧时)英国自由党的", "心胸宽阔的", "宽宏大度的", "不完全准确的"
+      ]
+    },
+    "n": {
+      "translation": [
+        "开明的人", "(英国以外国家的)自由党成员", "宽容的人", "理解且尊重他人意见的人", "支持(社会、政治或宗教)变革的人",
+        "(旧时)英国自由党成员"
+      ],
+      "plural": ["liberals"]
+    }
+  },
+  "liberate": {
+    "vt": {
+      "translation": ["解放", "使自由", "使摆脱约束(或限制)"],
+      "singular": ["liberates"],
+      "present": ["liberating"],
+      "past": ["liberated"]
+    }
+  },
+  "liberation": {
+    "n": {
+      "translation": ["解放", "释放", "摆脱束缚"],
+      "plural": ["liberations"]
+    }
+  },
+  "liberty": {
+    "n": {
+      "translation": ["自由(自己选择生活方式而不受政府及权威限制)", "冒犯行为（或言语）"],
+      "plural": ["liberties"]
+    }
+  },
+  "librarian": {
+    "n": {
+      "translation": ["图书管理员", "图书馆馆长"],
+      "plural": ["librarians"]
+    }
+  },
+  "library": {
+    "n": {
+      "translation": ["图书馆", "图书室", "资料室", "藏书楼", "(书、激光唱片等的)个人收藏", "系列丛书（或磁带等）"],
+      "plural": ["libraries"]
+    }
+  },
+  "license": {
+    "n": {
+      "translation": ["许可证", "执照", "特许"],
+      "plural": ["licenses"]
+    },
+    "vt": {
+      "translation": ["许可", "批准"],
+      "singular": ["licenses"],
+      "present": ["licensing"],
+      "past": ["licensed"]
+    }
+  },
+  "lick": {
+    "v": {
+      "translation": ["舔", "(火舌)舔食", "舔吃", "掠过", "舔着喝", "轻松战胜"],
+      "singular": ["licks"],
+      "present": ["licking"],
+      "past": ["licked"]
+    },
+    "n": {
+      "translation": ["舔", "一点儿(涂料)", "(吉他演奏的歌曲)小过门"]
+    }
+  },
+  "lid": {
+    "n": {
+      "translation": ["盖子", "(容器的)盖"],
+      "plural": ["lids"]
+    },
+    "vt": {
+      "translation": ["给…盖盖子"],
+      "singular": ["lids"],
+      "present": ["lidding"],
+      "past": ["lidded"]
+    }
+  },
+  "lie": {
+    "v": {
+      "translation": [
+        "躺", "撒谎", "说谎", "处于，保留，保持(某种状态)", "存在", "位于", "平躺", "伸展", "平放", "平卧", "编造谎言",
+        "（比赛时）名列，排名"
+      ],
+      "singular": ["lies"],
+      "present": ["lying"],
+      "past": ["lay"]
+    },
+    "n": {
+      "translation": ["谎言", "位置"],
+      "plural": ["lies"]
+    }
+  },
+  "lieutenant": {
+    "n": {
+      "translation": ["(陆军)中尉", "(海军或空军)上尉", "副职官员", "仅低于…官阶的官员", "(美国警察的)一定级别的警官"],
+      "plural": ["lieutenants"]
+    }
+  },
+  "life": {
+    "n": {
+      "translation": [
+        "生活", "生命，性命", "一生，寿命", "生活方式", "生物，活物", "活力，活跃，生气", "无期徒刑，终身监禁", "生机",
+        "人命", "(物的)使用期，有效期", "弹性", "传记", "（绘画的）模特儿，实物，实景", "人生阶段", "(酒等的)起泡",
+        "活力的源泉，活跃气氛的人(或事物)", "<宗>(肉体死亡后的)灵魂存在", "(新鲜食物等的)浓烈风味，辛辣味",
+        "玩游戏者出局前几次机会中的）一次机会"
+      ],
+      "plural": ["lives"]
+    },
+    "adj": {
+      "translation": ["一生的, 终身的", "生命的，生物的", "采用活体模型的，照实物画(或雕塑)的", "人寿保险的"]
+    }
+  },
+  "lifetime": {
+    "n": {
+      "translation": [
+        "一生", "(某物的)存在期，寿命，使用期限", "终身", "有生之年", "<核>(离子、亚原子粒子的)寿期", "<口>很长的一段时间"
+      ],
+      "plural": ["lifetimes"]
+    },
+    "adj": {
+      "translation": ["一生的，终身的"]
+    }
+  },
+  "lift": {
+    "v": {
+      "translation": [
+        "举起", "解除，撤销，停止（限制）", "(被)提起", "移动", "提高", "吊起", "抬高", "空运", "移开", "消散", "剽窃",
+        "挖出，刨出，拔起（蔬菜或植物）", "高兴起来", "偷盗"
+      ],
+      "singular": ["lifts"],
+      "present": ["lifting"],
+      "past": ["lifted"]
+    },
+    "n": {
+      "translation": [
+        "电梯", "升降机", "（飞行时的）提升力，升力", "提", "搭便车", "免费搭车", "较好的心情", "更大的信心"
+      ],
+      "plural": ["lifts"]
+    }
+  },
+  "light": {
+    "n": {
+      "translation": ["光", "光源", "光线", "电灯", "亮色，浅色", "窗", "光亮", "发光体", "火柴", "眼神"],
+      "plural": ["lights"]
+    },
+    "adj": {
+      "translation": [
+        "轻的", "明亮的", "浅色的", "轻便的", "少量的", "轻柔的", "淡色的", "无忧无虑的", "不腻的", "娱乐性的",
+        "不严肃", "有自然光的", "充满亮光的", "分量不足的", "容易做的", "不严厉的", "睡得不沉的", "酒精含量低的",
+        "含有许多空气的"
+      ],
+      "comparative": ["lighter"],
+      "superlative": ["lightest"]
+    },
+    "v": {
+      "translation": ["照亮", "使明亮", "点燃", "点火", "燃起来", "开始燃烧", "用光指引"],
+      "singular": ["lights"],
+      "present": ["lighting"],
+      "past": ["lit"]
+    },
+    "adv": {
+      "translation": ["清楚地", "轻地", "轻便地"]
+    }
+  },
+  "lighten": {
+    "v": {
+      "translation": [
+        "减轻", "减少(工作量、债务、担忧等)", "减轻…的重量", "缓和", "(使)变明亮", "变成淡色", "(使)感到不那么悲伤(或担忧、严肃)"
+      ],
+      "singular": ["lightens"],
+      "present": ["lightening"],
+      "past": ["lightened"]
+    }
+  },
+  "lightly": {
+    "adv": {
+      "translation": ["轻轻地", "少许", "轻微地", "轻柔地", "不多", "满不在乎地", "漫不经心地", "不慎重地"]
+    }
+  },
+  "lightning": {
+    "n": {
+      "translation": ["闪电"]
+    },
+    "adj": {
+      "translation": ["闪电般的", "突然的", "飞快的"]
+    },
+    "vi": {
+      "translation": ["打闪"],
+      "singular": ["lightings"],
+      "present": ["lightning"],
+      "past": ["lightninged"]
+    }
+  },
+  "like": {
+    "v": {
+      "translation": [
+        "喜欢(以某种方式制作或产生的东西)", "想，想要，希望", "想", "要", "希望", "喜欢做", "（用于否定句）愿做"
+      ],
+      "singular": ["likes"],
+      "present": ["liking"],
+      "past": ["liked"]
+    },
+    "prep": {
+      "translation": [
+        "像", "例如", "类似", "像…一样", "相似", "(询问意见)…怎么样", "像…才会", "(指某人常做的事)符合…的特点"
+      ]
+    },
+    "conj": {
+      "translation": ["好像", "似乎", "如同", "仿佛"]
+    },
+    "n": {
+      "translation": ["(尤指被视为和某人或某事物一样好的)种类", "喜好", "类似的人(或物)"],
+      "plural": ["likes"]
+    },
+    "adj": {
+      "translation": ["类似的", "相似的"]
+    },
+    "adv": {
+      "translation": [
+        "可能", "如", "他说", "她说", "(非正式口语)我说", "(非正式口语，代替as)和…一样", "(非正式口语，思考说下句话、解释或举例时用)大概"
+      ]
+    }
+  },
+  "likely": {
+    "adj": {
+      "translation": ["可能的", "有希望的", "预料的", "仿佛恰当的", "似乎合适的"],
+      "comparative": ["likelier"],
+      "superlative": ["likeliest"]
+    },
+    "adv": {
+      "translation": ["可能", "或许"]
+    }
+  },
+  "likewise": {
+    "adv": {
+      "translation": ["同样地", "类似地", "还", "亦", "而且", "(表示感觉相同)我也是，我有同感", "也"]
+    }
+  },
+  "limb": {
+    "n": {
+      "translation": ["肢", "臂", "腿", "翼", "翅膀", "(树的)大枝，主枝", "有…肢(或翼、翅膀)的"],
+      "plural": ["limbs"]
+    },
+    "vt": {
+      "translation": ["割断…的四肢", "肢解", "砍树枝"],
+      "singular": ["limbs"],
+      "present": ["limbing"],
+      "past": ["limbed"]
+    }
+  },
+  "lime": {
+    "n": {
+      "translation": ["石灰", "酸橙", "酸橙汁", "酸橙树", "欧椴树"],
+      "plural": ["limes"]
+    },
+    "vt": {
+      "translation": ["(尤指为控制酸度而给土壤)掺加石灰，撒石灰"],
+      "singular": ["limes"],
+      "present": ["liming"],
+      "past": ["limed"]
+    }
+  },
+  "limit": {
+    "n": {
+      "translation": ["限制", "(地区或地方的)境界，界限，范围", "极限", "限额", "限度", "限量"],
+      "plural": ["limits"]
+    },
+    "vt": {
+      "translation": ["限制", "限定", "限量", "减量"],
+      "singular": ["limits"],
+      "present": ["limiting"],
+      "past": ["limited"]
+    }
+  },
+  "limitation": {
+    "n": {
+      "translation": ["限制", "控制", "局限", "限度", "起限制作用的规则(或事实、条件)"],
+      "plural": ["limitations"]
+    }
+  },
+  "limited": {
+    "adj": {
+      "translation": ["有限的", "受(…的)限制"]
+    },
+    "v": {
+      "translation": ["限制", "限定", "限量", "减量"]
+    }
+  },
+  "line": {
+    "n": {
+      "translation": [
+        "线", "（行进的）方向，路线", "方法", "生产线", "管道", "线条", "排", "轨道", "行业", "界线", "防线", "台词，对白",
+        "分界线", "（人）队伍，行列", "电话线路", "边线", "种类", "皱纹", "态度，看法", "话，言语", "运输公司", "字行",
+        "褶子", "(尤指运动场地的)场地线，场界", "一段绳（或索、线等）", "按时间顺序排列的人（或物、事件）"
+      ],
+      "plural": ["lines"]
+    },
+    "vt": {
+      "translation": ["(用…)做衬里", "(在某物的内部)形成一层", "沿…形成行(或列、排)"],
+      "singular": ["lines"],
+      "present": ["lining"],
+      "past": ["lined"]
+    }
+  },
+  "linen": {
+    "n": {
+      "translation": ["亚麻布", "亚麻织品"],
+      "plural": ["linens"]
+    },
+    "adj": {
+      "translation": ["亚麻的", "亚麻色的"]
+    }
+  },
+  "liner": {
+    "n": {
+      "translation": ["邮轮", "内衬", "衬里"],
+      "plural": ["liners"]
+    }
+  },
+  "link": {
+    "n": {
+      "translation": ["链接", "连接", "联系", "关系", "（链状物的）环，节，圈", "纽带", "交通路线", "通讯手段"],
+      "plural": ["links"]
+    },
+    "vt": {
+      "translation": [
+        "联系", "相关联", "把(物体、机器、地方等)连接起来", "挽住", "说明(两件东西或两人之间)有联系(或关系)"
+      ],
+      "singular": ["links"],
+      "present": ["linking"],
+      "past": ["linked"]
+    }
+  },
+  "lion": {
+    "n": {
+      "translation": ["狮子", "狮"],
+      "plural": ["lions"]
+    }
+  },
+  "lip": {
+    "n": {
+      "translation": ["嘴唇", "嘴唇…的", "(容器或凹陷地方的)边，边沿", "粗鲁无礼的话"],
+      "plural": ["lips"]
+    },
+    "adj": {
+      "translation": ["唇的", "口头上的", "唇音的"]
+    },
+    "v": {
+      "translation": ["〈诗〉吻", "用嘴唇接触", "(波浪)冲刷(海岸)"]
+    }
+  },
+  "liquid": {
+    "n": {
+      "translation": ["液体"],
+      "plural": ["liquids"]
+    },
+    "adj": {
+      "translation": ["液体的", "液态的", "明亮的", "清澈的", "清脆的", "晶莹的", "易变为现金的"]
+    }
+  },
+  "liquor": {
+    "n": {
+      "translation": ["酒", "烈性酒", "含酒精饮料"],
+      "plural": ["liquors"]
+    },
+    "vt": {
+      "translation": ["浸泡", "喝酒"],
+      "singular": ["liquors"],
+      "present": ["liquoring"],
+      "past": ["liquored"]
+    }
+  },
+  "list": {
+    "n": {
+      "translation": ["列表", "清单", "名单", "目录", "一览表", "(船的)倾斜"],
+      "plural": ["lists"]
+    },
+    "v": {
+      "translation": [
+        "(按某次序)把…列表，列清单，拟订清单", "列举", "（向一侧）倾斜", "(被)列入销售清单，列入价目表", "把…列入一览表"
+      ],
+      "singular": ["lists"],
+      "present": ["listing"],
+      "past": ["listed"]
+    }
+  },
+  "listen": {
+    "vi": {
+      "translation": ["(注意地)听", "(让对方注意)听着", "听从", "听信"],
+      "singular": ["listens"],
+      "present": ["listening"],
+      "past": ["listened"]
+    },
+    "n": {
+      "translation": ["听"]
+    }
+  },
+  "listener": {
+    "n": {
+      "translation": ["听者", "收听广播节目的人"],
+      "plural": ["listeners"]
+    }
+  },
+  "liter": {
+    "n": {
+      "translation": ["（计量）公升（容量单位）"],
+      "plural": ["liters"]
+    }
+  },
+  "literary": {
+    "adj": {
+      "translation": [
+        "文学的", "文学上的", "爱好文学的", "从事文学研究(或写作)的", "适于文学作品的", "有典型文学作品特征的"
+      ]
+    }
+  },
+  "literature": {
+    "n": {
+      "translation": ["文学", "(某学科的)文献，著作，资料", "文学作品"],
+      "plural": ["literature"]
+    }
+  },
+  "little": {
+    "adj": {
+      "translation": [
+        "小的", "(用在形容词的后面表示喜爱或厌恶，尤指屈尊俯就地)可爱的，可怜的，讨厌的", "短的", "微不足道的", "幼小的",
+        "年幼的", "比较小的"
+      ],
+      "comparative": ["less"],
+      "superlative": ["least"]
+    },
+    "det/pron": {
+      "translation": ["(与不可数名词连用)不多的", "(与不可数名词连用)少量的，一些"]
+    },
+    "adv": {
+      "translation": ["一点", "少量", "少许", "不多", "略微", "稍许"]
+    },
+    "n": {
+      "translation": ["小", "一点点", "利特尔"]
+    }
+  },
+  "live": {
+    "v": {
+      "translation": [
+        "（以某种方式）生活，过日子", "居住", "住", "生存", "(尤指在某时期)活着", "继续存在", "享受充实而令人兴奋的生活"
+      ],
+      "singular": ["lives"],
+      "present": ["living"],
+      "past": ["lived"]
+    },
+    "adj": {
+      "translation": [
+        "活的", "有效的", "现场直播的", "现场演出的", "实况转播的", "燃烧着的", "仍可爆炸的", "连着电源的",
+        "含乳酸菌的", "当前所关心的"
+      ]
+    },
+    "adv": {
+      "translation": ["在现场直播", "在现场表演(或录制)"]
+    }
+  },
+  "lively": {
+    "adj": {
+      "translation": [
+        "活泼的", "令人兴奋的", "生气勃勃的", "鲜艳的", "精力充沛的", "浓的", "充满趣味的", "活跃热情的", "繁忙活跃的"
+      ],
+      "comparative": ["livelier"],
+      "superlative": ["liveliest"]
+    }
+  },
+  "liver": {
+    "n": {
+      "translation": ["肝脏", "(动物供食用的)肝"],
+      "plural": ["livers"]
+    }
+  },
+  "living": {
+    "adj": {
+      "translation": ["活的", "在使用的", "活着的", "在实施的"]
+    },
+    "n": {
+      "translation": ["收入", "生活方式", "谋生", "生计", "活着的人", "（尤指旧时）有俸金住房的牧师职位"],
+      "plural": ["livings"]
+    },
+    "v": {
+      "translation": ["居住", "住", "生存", "(尤指在某时期)活着"]
+    }
+  },
+  "load": {
+    "n": {
+      "translation": [
+        "负载", "负荷", "大量", "工作量", "装载量", "承载量", "胡说八道，废话", "供电量", "容纳量", "（责任或忧虑的）沉重感"
+      ],
+      "plural": ["loads"]
+    },
+    "v": {
+      "translation": [
+        "装载", "承载", "输入，装入，写入，载入，存儲（数据或程序）", "(把大量…)装上，装入", "把…装入", "大量给予(尤指得携带的东西)"
+      ],
+      "singular": ["loads"],
+      "present": ["loading"],
+      "past": ["loaded"]
+    }
+  },
+  "loaf": {
+    "n": {
+      "translation": ["一条面包", "一条(面包)"],
+      "plural": ["loaves"]
+    },
+    "vi": {
+      "translation": ["游手好闲", "无所事事", "闲荡"],
+      "singular": ["loafs"],
+      "present": ["loafing"],
+      "past": ["loafed"]
+    }
+  },
+  "loan": {
+    "n": {
+      "translation": ["贷款", "借款", "贷给", "被借出", "借出"],
+      "plural": ["loans"]
+    },
+    "vt": {
+      "translation": ["借出，贷与(尤指钱)", "出借(贵重物品给博物馆等)"],
+      "singular": ["loans"],
+      "present": ["loaning"],
+      "past": ["loaned"]
+    }
+  },
+  "local": {
+    "adj": {
+      "translation": ["地方的", "本地的", "当地的", "(身体)局部的"]
+    },
+    "n": {
+      "translation": ["当地人", "本地人", "公共汽车，火车", "(工会的)地方分会", "住处附近的酒吧"],
+      "plural": ["locals"]
+    }
+  },
+  "locate": {
+    "v": {
+      "translation": ["定位", "把…安置在(或建造于)", "创办于(某地)", "确定…的准确地点", "找出…的准确位置"],
+      "singular": ["locates"],
+      "present": ["locating"],
+      "past": ["located"]
+    }
+  },
+  "location": {
+    "n": {
+      "translation": ["位置", "定位", "地点", "地方", "(电影的)外景拍摄地"],
+      "plural": ["locations"]
+    }
+  },
+  "lock": {
+    "v": {
+      "translation": ["锁", "(使)固定", "被锁住", "加锁", "卡住", "把…锁起来", "陷入，卷入", "被紧紧抓住（或抱住）"],
+      "singular": ["locks"],
+      "present": ["locking"],
+      "past": ["locked"]
+    },
+    "n": {
+      "translation": [
+        "(机器部件等的)锁定", "锁", "（运河或河流的）闸，船闸", "制动器", "车锁", "头发", "锁定器", "一绺（或一缕）头发",
+        "（对某物的）完全控制", "制轮楔", "前轮转向角度"
+      ],
+      "plural": ["locks"]
+    }
+  },
+  "locomotive": {
+    "n": {
+      "translation": ["机车", "火车头"],
+      "plural": ["locomotives"]
+    },
+    "adj": {
+      "translation": ["移动的", "运动的"]
+    }
+  },
+  "lodge": {
+    "n": {
+      "translation": [
+        "(供参加户外运动者暂住的)乡间小屋，小舍", "（美洲土著人的）帐篷，原木住宅", "(公园或宅第的)门口小屋，门房", "传达室",
+        "（河狸或水獭的）穴，窝", "地方分会，集会处", "管理员室"
+      ],
+      "plural": ["lodges"]
+    },
+    "v": {
+      "translation": [
+        "存放，寄存（钱或贵重物品）", "（被）固定，卡住", "(付款)寄住，借宿", "(向公共机构或当局)正式提出(声明等)", "租住",
+        "为(某人)提供住宿"
+      ],
+      "singular": ["lodges"],
+      "present": ["lodging"],
+      "past": ["lodged"]
+    }
+  },
+  "log": {
+    "n": {
+      "translation": [
+        "日志", "对数", "原木，圆材，干材", "(尤指)航海日志，飞行日志", "<海>计程仪, 测程仪", "(某时期事件的)正式记录",
+        "<机>运转记录", "<英口>机动车车主登记册(用以颁发执照)"
+      ],
+      "plural": ["logs"]
+    },
+    "vt": {
+      "translation": [
+        "记录，把…载入正式记录", "<计>登录", "行驶，行进(若干距离或时间)", "采伐(森林的)树木", "把(树木)锯成段木",
+        "把…载入航海(或飞行)日志", "以…速度航行(或飞行)"
+      ],
+      "singular": ["logs"],
+      "present": ["logging"],
+      "past": ["logged"]
+    }
+  },
+  "logic": {
+    "n": {
+      "translation": ["逻辑", "逻辑学", "(做某事的)道理，合乎情理的原因", "逻辑系统", "思维方式", "解释方法"],
+      "plural": ["logics"]
+    }
+  },
+  "logical": {
+    "adj": {
+      "translation": ["符合逻辑的", "必然的", "按照逻辑的", "合乎情理的", "合乎常理的"]
+    }
+  },
+  "lonely": {
+    "adj": {
+      "translation": ["孤独的", "寂寞的", "偏僻的", "人迹罕至的", "在孤单中度过的"],
+      "comparative": ["lonelier"],
+      "superlative": ["loneliest"]
+    }
+  },
+  "long": {
+    "adj": {
+      "translation": [
+        "(长度或距离)长的", "(询问或谈论长度或距离)长", "长期的", "长时间的", "长久的", "长音的", "似乎比实际时间长的"
+      ],
+      "comparative": ["longer"],
+      "superlative": ["longest"]
+    },
+    "adv": {
+      "translation": ["长久地", "长期地", "(在某一时间或事件之前或以后)很久地", "用于名词后强调某事发生在某整段时间"]
+    },
+    "vi": {
+      "translation": ["(尤指对看似不会很快发生的事)渴望"],
+      "singular": ["longs"],
+      "present": ["longing"],
+      "past": ["longed"]
+    },
+    "n": {
+      "translation": ["长裤", "(服装的)长尺寸", "长音节", "长母音"]
+    },
+    "v": {
+      "translation": ["（尤指对看似不会很快发生的事）渴望"],
+      "singular": ["longs"],
+      "present": ["longing"],
+      "past": ["longed"]
+    }
+  },
+  "look": {
+    "v": {
+      "translation": [
+        "看", "寻找", "寻求", "注意", "瞧", "面向", "看起来好像", "留心", "留神", "看来好像", "与…外表相似"
+      ],
+      "singular": ["looks"],
+      "present": ["looking"],
+      "past": ["looked"]
+    },
+    "n": {
+      "translation": ["看", "查找", "样子", "瞧", "表情", "眼神", "时尚", "神情", "脸色", "（尤指吸引人的）相貌，容貌"],
+      "plural": ["looks"]
+    },
+    "int": {
+      "translation": ["(常为不悦时唤起他人注意)喂，听我说"]
+    }
+  },
+  "loop": {
+    "n": {
+      "translation": [
+        "环", "循环", "环路", "环形", "(绳、电线等的)圈", "（铁道或公路的）环线", "环状物", "圆圈", "大环", "循环音像磁带",
+        "循环电影胶片"
+      ],
+      "plural": ["loops"]
+    },
+    "v": {
+      "translation": ["使成环", "使绕成圈", "成环形运动"],
+      "singular": ["loops"],
+      "present": ["looping"],
+      "past": ["looped"]
+    }
+  },
+  "loose": {
+    "vt": {
+      "translation": ["松开，放开(尤指束紧或紧握的东西)", "释放", "放任", "射出(子弹、箭等)", "不受约束地表达"],
+      "singular": ["looses"],
+      "present": ["loosing"],
+      "past": ["loosed"]
+    },
+    "adj": {
+      "translation": [
+        "宽松的", "疏松的", "自由", "零散的", "稀的", "放荡的", "不精确的", "不受约束", "无球员控制的", "组织不严密的",
+        "可分开的", "未固定牢的", "未系(或捆)在一起的"
+      ],
+      "comparative": ["looser"],
+      "superlative": ["loosest"]
+    },
+    "n": {
+      "translation": ["发射", "放任", "解放", "活动（插入式）定位销"]
+    },
+    "adv": {
+      "translation": ["同“loosely. hold loose to something”"]
+    }
+  },
+  "loosen": {
+    "v": {
+      "translation": ["放松", "松开(手等)", "（使）变弱，松散，疏远", "解开(衣服、头发等)", "(使)变松"],
+      "singular": ["loosens"],
+      "present": ["loosening"],
+      "past": ["loosened"]
+    }
+  },
+  "lord": {
+    "n": {
+      "translation": [
+        "主，上帝", "勋爵(英国贵族的称号)", "(英国用于某些高级官员的职位前)阁下，大人，大臣", "（中世纪欧洲的）领主",
+        "(英国)贵族", "(工商业界的)巨头，大王", "(在某方面有特殊影响的)大师，泰斗，巨擘",
+        "(占星术中所谓起支配命运作用的)主星", "欢庆仪式主持人", "<俚>驼背人"
+      ],
+      "plural": ["lords"]
+    },
+    "v": {
+      "translation": ["使成贵族，把……封为贵族", "作威作福，称王称霸"],
+      "singular": ["lords"],
+      "present": ["lording"],
+      "past": ["lorded"]
+    },
+    "int": {
+      "translation": ["（表示吃惊、懊丧或不快）上帝呀！主呀！天哪！"]
+    }
+  },
+  "lorry": {
+    "n": {
+      "translation": ["卡车", "货运汽车"],
+      "plural": ["lorries"]
+    }
+  },
+  "lose": {
+    "v": {
+      "translation": [
+        "失去", "(因事故、年老、死亡等)丧失", "丢失", "降低", "遗失", "浪费（时间）", "（钟、表）走慢，慢（若干时间）", "被打败",
+        "逃避", "不明白", "被…夺去", "被迫放弃", "（使）失去（所需要的东西，尤指钱）", "使弄不懂"
+      ],
+      "singular": ["loses"],
+      "present": ["losing"],
+      "past": ["lost"]
+    }
+  },
+  "loss": {
+    "n": {
+      "translation": ["损失", "丢失", "亏损", "丧失", "失败", "去世", "逝世", "亏蚀"],
+      "plural": ["losses"]
+    }
+  },
+  "lot": {
+    "pron": {
+      "translation": ["许多", "大量"]
+    },
+    "det": {
+      "translation": ["大量", "许多"]
+    },
+    "adv": {
+      "translation": ["(与形容词和副词连用)很，非常", "(与动词连用)非常"]
+    },
+    "n": {
+      "translation": [
+        "(一)组，群，批，套", "整个", "全部", "（作某种用途的）一块地，场地", "命运", "全体", "(尤指)拍卖品", "待售商品"
+      ],
+      "plural": ["lots"]
+    },
+    "vi": {
+      "translation": ["把…划分（常与out连用）", "拈阄", "分组", "把（土地）划分成块抽签"],
+      "singular": ["lots"],
+      "present": ["lotting"],
+      "past": ["lotted"]
+    }
+  },
+  "loud": {
+    "adj": {
+      "translation": ["大声的", "响亮的", "喧闹的", "花哨的", "俗艳的"],
+      "comparative": ["louder"],
+      "superlative": ["loudest"]
+    },
+    "adv": {
+      "translation": ["大声地", "响亮地", "喧闹地"]
+    }
+  },
+  "loudspeaker": {
+    "n": {
+      "translation": ["扩音器", "(收音机或乐器的)扬声器", "喇叭"],
+      "plural": ["loudspeakers"]
+    }
+  },
+  "love": {
+    "n": {
+      "translation": ["爱", "爱情", "热爱", "喜爱", "恋爱", "（昵称）亲爱的", "慈爱", "心爱的人", "喜好", "零分"],
+      "plural": ["loves"]
+    },
+    "v": {
+      "translation": ["爱", "喜欢", "很喜欢", "热爱", "喜爱", "很愿意"],
+      "singular": ["loves"],
+      "present": ["loving"],
+      "past": ["loved"]
+    }
+  },
+  "lovely": {
+    "adj": {
+      "translation": [
+        "可爱的", "美丽的", "迷人的", "优美的", "令人愉快的", "极好的", "有吸引力的", "慷慨大方的", "亲切友好的"
+      ],
+      "comparative": ["lovelier"],
+      "superlative": ["loveliest"]
+    },
+    "n": {
+      "translation": ["美女", "美人", "佳人"]
+    }
+  },
+  "lover": {
+    "n": {
+      "translation": ["情人", "爱好者", "(婚外的)情侣", "热爱者"],
+      "plural": ["lovers"]
+    }
+  },
+  "low": {
+    "adj": {
+      "translation": [
+        "低的", "（数量等）减少的，缩减的", "低下的", "在底部的", "矮的", "低声的", "不好的", "暗淡的", "虚弱的",
+        "低速挡的", "不诚实", "领口开得低的", "近底部的", "低于通常（或平均）数量（或水平、价值）的", "离地面近的",
+        "低于通常（或期望）标准的"
+      ],
+      "comparative": ["lower"],
+      "superlative": ["lowest"]
+    },
+    "adv": {
+      "translation": ["低", "向下", "低声地", "在靠近…底部的位置", "向…底部", "低于通常(或期望)的水平"]
+    },
+    "n": {
+      "translation": ["低点", "低水平", "(一生或事业中的)艰难时期，低谷", "低气压区", "低数目"],
+      "plural": ["lows"]
+    },
+    "vi": {
+      "translation": ["(牛)哞哞叫"],
+      "singular": ["lows"],
+      "present": ["lowing"],
+      "past": ["lowed"]
+    }
+  },
+  "lower": {
+    "v": {
+      "translation": ["变昏暗", "变恶劣", "变阴沉"],
+      "singular": ["lowers"],
+      "present": ["lowering"],
+      "past": ["lowered"]
+    },
+    "adj": {
+      "translation": [
+        "(尤指位于同类物品或成对物品中另一个的)下面的，下方的", "在底部的", "低洼的", "向南的", "朝海岸的", "近底部的"
+      ]
+    },
+    "adv": {
+      "translation": ["低", "向下", "不高", "向…底部", "低于通常(或期望)的水平", "在靠近…底部的位置"]
+    }
+  },
+  "loyal": {
+    "adj": {
+      "translation": ["忠诚的", "忠实的"]
+    },
+    "n": {
+      "translation": ["忠实信徒"]
+    }
+  },
+  "loyalty": {
+    "n": {
+      "translation": ["忠诚", "忠实", "忠心耿耿", "要忠于…的强烈感情"],
+      "plural": ["loyalties"]
+    }
+  },
+  "luck": {
+    "n": {
+      "translation": ["好运", "运气", "幸运", "侥幸", "命运", "机遇"]
+    },
+    "v": {
+      "translation": ["靠运气，走运", "凑巧碰上"],
+      "singular": ["lucks"],
+      "present": ["lucking"],
+      "past": ["lucked"]
+    }
+  },
+  "lucky": {
+    "adj": {
+      "translation": ["幸运的，走运的", "有福气的，运气好的", "吉祥的，吉利的", "侥幸的，凑巧的"],
+      "comparative": ["luckier"],
+      "superlative": ["luckiest"]
+    },
+    "n": {
+      "translation": ["<苏格兰>老妇人"]
+    }
+  },
+  "luggage": {
+    "n": {
+      "translation": ["行李"]
+    }
+  },
+  "lumber": {
+    "n": {
+      "translation": ["木材", "废旧家具", "不用的大件物品"]
+    },
+    "v": {
+      "translation": ["缓慢吃力地移动", "笨拙地行进", "迫使担负(职责等)"],
+      "singular": ["lumbers"],
+      "present": ["lumbering"],
+      "past": ["lumbered"]
+    }
+  },
+  "lump": {
+    "n": {
+      "translation": [
+        "(通常为无定形的)块", "肿块，隆起", "<英>(建筑业或其他行业的)转包工，临时", "大量，一大堆", "傻大个",
+        "小方块，小方块糖", "懒汉", "笨重的人"
+      ],
+      "plural": ["lumps"]
+    },
+    "v": {
+      "translation": [
+        "结块", " 起小疙瘩", "把…混为一谈", "把…归并一起(或合起来考虑)", "使起一个个小疙瘩, 使起块块",
+        "对……感到不高兴但只得忍受", "<英>费力地搬动(重物)"
+      ],
+      "singular": ["lumps"],
+      "present": ["lumping"],
+      "past": ["lumped"]
+    },
+    "adj": {
+      "translation": ["成块状的", "整个儿的, 总共的", "<英>转包工的，临时工的"]
+    },
+    "adv": {
+      "translation": ["<英俚>非常，很"]
+    }
+  },
+  "lunch": {
+    "n": {
+      "translation": ["午餐", "午饭"],
+      "plural": ["lunches"]
+    },
+    "vi": {
+      "translation": ["(尤指在餐馆)用午餐"],
+      "singular": ["lunches"],
+      "present": ["lunching"],
+      "past": ["lunched"]
+    }
+  },
+  "lung": {
+    "n": {
+      "translation": ["肺"],
+      "plural": ["lungs"]
+    }
+  },
+  "luxury": {
+    "n": {
+      "translation": ["奢侈", "奢华", "奢侈品", "奢侈的享受", "不常有的乐趣(或享受、优势)"],
+      "plural": ["luxuries"]
+    },
+    "adj": {
+      "translation": ["奢华的"]
+    }
+  }
+}

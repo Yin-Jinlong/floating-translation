@@ -1,0 +1,58 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "zeal": {
+    "n": {
+      "translation": ["热情", "激情"]
+    }
+  },
+  "zealous": {
+    "adj": {
+      "translation": ["热心的", "热情的", "热烈的", "充满激情的"]
+    }
+  },
+  "zebra": {
+    "n": {
+      "translation": ["斑马"],
+      "plural": ["zebra"]
+    },
+    "adj": {
+      "translation": ["有斑马般斑纹的", "有条纹的"]
+    }
+  },
+  "zero": {
+    "n": {
+      "translation": [
+        "零，零数", "（气温、压力等的）零度，零点", "毫无", "最低点", "最低程度", "（步枪等瞄准具的）归零校正, 零分划",
+        "<语>零形态，无屈折", "最少量", "<口>无足轻重的人，没有价值的东西"
+      ]
+    },
+    "adj": {
+      "translation": ["零点的", "没有的，全无的", "<语>零形态的，无屈折的，无的", "零度的", "零数的", "零度云高的"]
+    },
+    "v": {
+      "translation": ["将（仪器、控制装置等）调到零", "对（炮火等）作协调校正", "把…减少到零"],
+      "singular": ["zeroes"]
+    },
+    "num": {
+      "translation": ["数字0"]
+    }
+  },
+  "zone": {
+    "n": {
+      "translation": ["区", "(规划的)区域", "(有某特色或作用的)地区", "分区", "(尤指有别于周围的)部分", "气候带"],
+      "plural": ["zones"]
+    },
+    "vt": {
+      "translation": ["将…分成区(或划成带)", "指定…为某项用途的区域", "将…划作特殊区域"],
+      "singular": ["zones"],
+      "present": ["zoning"],
+      "past": ["zoned"]
+    }
+  },
+  "zoo": {
+    "n": {
+      "translation": ["动物园"],
+      "plural": ["zoos"]
+    }
+  }
+}

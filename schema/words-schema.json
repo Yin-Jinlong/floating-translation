@@ -1,0 +1,518 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "单词",
+  "type": "object",
+  "additionalProperties": true,
+  "definitions": {
+    "word": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9-.]+$"
+    },
+    "words": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/word"
+      }
+    },
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["translation"],
+      "properties": {
+        "translation": {
+          "type": "array",
+          "description": "翻译",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "propertyOrder": 1
+    },
+    "abbr": {
+      "type": "object",
+      "title": "缩写",
+      "description": "缩写",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "art": {
+      "type": "object",
+      "title": "冠词",
+      "description": "冠词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "adj": {
+      "type": "object",
+      "title": "形容词",
+      "description": "形容词",
+      "additionalProperties": false,
+      "properties": {
+        "comparative": {
+          "description": "比较级",
+          "$ref": "#/definitions/words"
+        },
+        "superlative": {
+          "description": "最高级",
+          "$ref": "#/definitions/words"
+        }
+      },
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "adv": {
+      "type": "object",
+      "title": "副词",
+      "description": "副词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "aux": {
+      "type": "object",
+      "title": "助动词",
+      "description": "助动词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        },
+        {
+          "$ref": "#/definitions/v"
+        }
+      ]
+    },
+    "comb": {
+      "type": "object",
+      "title": "组合词",
+      "description": "组合词",
+      "additionalProperties": true,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        },
+        {
+          "oneOf": [
+            {
+              "$ref": "#/definitions/v"
+            },
+            {
+              "$ref": "#/definitions/prep"
+            }
+          ]
+        }
+      ]
+    },
+    "conj": {
+      "type": "object",
+      "title": "连词",
+      "description": "连词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "det": {
+      "type": "object",
+      "title": "限定词",
+      "description": "限定词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "int": {
+      "type": "object",
+      "title": "感叹词",
+      "description": "感叹词",
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "inf": {
+      "type": "object",
+      "title": "不定式",
+      "description": "不定式",
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "n": {
+      "type": "object",
+      "title": "名词",
+      "description": "名词",
+      "additionalProperties": false,
+      "properties": {
+        "plural": {
+          "description": "复数形式",
+          "$ref": "#/definitions/words"
+        }
+      },
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "prep": {
+      "type": "object",
+      "title": "介词",
+      "description": "介词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    },
+    "pron": {
+      "type": "object",
+      "title": "代词",
+      "description": "代词",
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        },
+        {
+          "$ref": "#/definitions/n"
+        }
+      ]
+    },
+    "v": {
+      "type": "object",
+      "title": "动词",
+      "description": "动词",
+      "additionalProperties": false,
+      "properties": {
+        "singular": {
+          "description": "第三人称单数形式",
+          "$ref": "#/definitions/words"
+        },
+        "present": {
+          "description": "现在分词",
+          "$ref": "#/definitions/words"
+        },
+        "past": {
+          "description": "过去式，过去分词",
+          "$ref": "#/definitions/words"
+        }
+      },
+      "allOf": [
+        {
+          "$ref": "#/definitions/translation"
+        }
+      ]
+    }
+  },
+  "properties": {
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "patternProperties": {
+    "[a-zA-Z0-9-.]+": {
+      "title": "单词",
+      "description": "单词",
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "abbr": {
+          "$ref": "#/definitions/abbr"
+        },
+        "art": {
+          "$ref": "#/definitions/art"
+        },
+        "adj": {
+          "$ref": "#/definitions/adj"
+        },
+        "adv": {
+          "$ref": "#/definitions/adv"
+        },
+        "aux": {
+          "$ref": "#/definitions/aux"
+        },
+        "comb": {
+          "$ref": "#/definitions/comb"
+        },
+        "conj": {
+          "$ref": "#/definitions/conj"
+        },
+        "det": {
+          "$ref": "#/definitions/det"
+        },
+        "int": {
+          "$ref": "#/definitions/int"
+        },
+        "inf": {
+          "$ref": "#/definitions/inf"
+        },
+        "modal": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/v"
+            },
+            {
+              "title": "情态动词",
+              "description": "情态动词"
+            }
+          ]
+        },
+        "n": {
+          "$ref": "#/definitions/n"
+        },
+        "num": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/n"
+            },
+            {
+              "title": "数词",
+              "description": "数词"
+            }
+          ]
+        },
+        "ord": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/n"
+            },
+            {
+              "title": "序数词",
+              "description": "序数词"
+            }
+          ]
+        },
+        "prep": {
+          "$ref": "#/definitions/prep"
+        },
+        "pron": {
+          "$ref": "#/definitions/pron"
+        },
+        "v": {
+          "$ref": "#/definitions/v"
+        },
+        "vi": {
+          "$ref": "#/definitions/v"
+        },
+        "vt": {
+          "$ref": "#/definitions/v"
+        },
+        "adj/adv": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/adj"
+            },
+            {
+              "$ref": "#/definitions/adv"
+            },
+            {
+              "title": "形容词/副词",
+              "description": "形容词/副词"
+            }
+          ]
+        },
+        "adj/prep": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/adj"
+            },
+            {
+              "$ref": "#/definitions/prep"
+            },
+            {
+              "title": "形容词/介词",
+              "description": "形容词/介词"
+            }
+          ]
+        },
+        "adj/pron": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/adj"
+            },
+            {
+              "$ref": "#/definitions/pron"
+            },
+            {
+              "title": "形容词/代词",
+              "description": "形容词/代词"
+            }
+          ]
+        },
+        "adv/conj": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/adv"
+            },
+            {
+              "$ref": "#/definitions/conj"
+            },
+            {
+              "title": "副词/连词",
+              "description": "副词/连词"
+            }
+          ]
+        },
+        "adv/prep": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/adv"
+            },
+            {
+              "$ref": "#/definitions/prep"
+            },
+            {
+              "title": "副词/介词",
+              "description": "副词/介词"
+            }
+          ]
+        },
+        "aux/v": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/v"
+            },
+            {
+              "title": "助动词/动词",
+              "description": "助动词/动词"
+            }
+          ]
+        },
+        "conj/prep": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/conj"
+            }, {
+              "$ref": "#/definitions/prep"
+            },
+            {
+              "title": "连词/介词",
+              "description": "连词/介词"
+            }
+          ]
+        },
+        "det/adj": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/det"
+            },
+            {
+              "$ref": "#/definitions/adj"
+            },
+            {
+              "title": "限定词&形容词",
+              "description": "限定词&形容词"
+            }
+          ]
+        },
+        "det/ord": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/det"
+            },
+            {
+              "$ref": "#/definitions/n"
+            },
+            {
+              "title": "限定词/序数词",
+              "description": "限定词/序数词"
+            }
+          ]
+        },
+        "det/pron": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/det"
+            },
+            {
+              "$ref": "#/definitions/pron"
+            },
+            {
+              "title": "限定词/代词",
+              "description": "限定词/代词"
+            }
+          ]
+        },
+        "det/num": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/det"
+            },
+            {
+              "$ref": "#/definitions/n"
+            },
+            {
+              "title": "限定词/数词",
+              "description": "限定词/数词"
+            }
+          ]
+        },
+        "int/n": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/n"
+            },
+            {
+              "$ref": "#/definitions/int"
+            },
+            {
+              "title": "感叹词/名词",
+              "description": "感叹词/名词"
+            }
+          ]
+        },
+        "n/det": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/n"
+            },
+            {
+              "$ref": "#/definitions/det"
+            },
+            {
+              "title": "名词/限定词",
+              "description": "名词/限定词"
+            }
+          ]
+        },
+        "v&modal": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/v"
+            },
+            {
+              "title": "动词&情态动词",
+              "description": "动词&情态动词"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

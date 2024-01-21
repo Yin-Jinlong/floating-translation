@@ -1,0 +1,975 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "nail": {
+    "n": {
+      "translation": ["指甲", "钉", "钉子", "趾甲"],
+      "plural": ["nails"]
+    },
+    "vt": {
+      "translation": ["(用钉子)钉牢，固定", "获得，赢得，击中", "抓住", "揭露", "揭发", "抓获并证明有罪", "证明…不属实"],
+      "singular": ["nails"],
+      "present": ["nailing"],
+      "past": ["nailed"]
+    }
+  },
+  "naked": {
+    "adj": {
+      "translation": ["裸体的", "裸露的", "无遮盖的", "不穿衣服的", "毫不掩饰的", "露骨的", "直白的", "缺乏保护"]
+    }
+  },
+  "name": {
+    "vt": {
+      "translation": ["名称", "命名", "确定", "任命", "给…取名", "叫出…的名字", "说出…的名称", "准确陈述"],
+      "singular": ["names"],
+      "present": ["naming"],
+      "past": ["named"]
+    },
+    "n": {
+      "translation": ["名称", "名字", "以…著名的", "名声", "有…名称的", "名誉", "名人", "名气", "有…名声的"],
+      "plural": ["names"]
+    },
+    "adj": {
+      "translation": ["著名的", "(作品等)据以取名的"]
+    }
+  },
+  "namely": {
+    "adv": {
+      "translation": ["即", "也就是"]
+    }
+  },
+  "nap": {
+    "vi": {
+      "translation": ["打盹", "小睡(尤指日间)"],
+      "singular": ["naps"],
+      "present": ["napping"],
+      "past": ["napped"]
+    },
+    "n": {
+      "translation": ["(日间的)小睡", "(某些织物表面的)短绒毛", "赛马结果预测", "赛马情报"],
+      "plural": ["naps"]
+    }
+  },
+  "narrow": {
+    "adj": {
+      "translation": ["狭窄的", "狭隘的", "狭义的", "（种类或数目）有限的", "窄小的", "勉强的", "目光短浅的", "刚刚好的"],
+      "comparative": ["narrower"],
+      "superlative": ["narrowest"]
+    },
+    "v": {
+      "translation": ["缩小", "变窄", "使窄小"],
+      "singular": ["narrows"],
+      "present": ["narrowing"],
+      "past": ["narrowed"]
+    },
+    "n": {
+      "translation": ["海峡", "狭窄的水道", "狭路", "隘路"],
+      "plural": ["narrows"]
+    }
+  },
+  "nasty": {
+    "adj": {
+      "translation": [
+        "肮脏的", "严重的", "危险的", "恶意的", "令人厌恶的", "无礼的", "令人不愉快的", "不友好的", "令人不悦的", "极差的"
+      ],
+      "comparative": ["nastier"],
+      "superlative": ["nastiest"]
+    },
+    "n": {
+      "translation": ["令人不愉快的事物"],
+      "plural": ["nasties"]
+    }
+  },
+  "nation": {
+    "n": {
+      "translation": ["国家", "民族", "国民"],
+      "plural": ["nations"]
+    }
+  },
+  "national": {
+    "adj": {
+      "translation": ["国家的", "全国的", "民族的", "国立的", "国有的", "国营的"]
+    },
+    "n": {
+      "translation": ["(某国的)公民"],
+      "plural": ["nationals"]
+    }
+  },
+  "nationality": {
+    "n": {
+      "translation": ["国籍", "(构成国家一部分的)民族"],
+      "plural": ["nationalities"]
+    }
+  },
+  "native": {
+    "adj": {
+      "translation": ["本地的", "土著的", "当地的", "土著人的", "出生地的", "天赋的", "原产于某地的", "儿时居住地的"]
+    },
+    "n": {
+      "translation": [
+        "(旧时欧洲人用以称呼先于白人居住在某地的人)土著", "本地人", "当地人", "本地的动物（或植物）", "出生于某国(或某地)的人"
+      ],
+      "plural": ["natives"]
+    }
+  },
+  "natural": {
+    "adj": {
+      "translation": [
+        "自然的", "天然的", "天生的", "正常的", "天赋的", "本能的", "与生俱来的", "意料之中的",
+        "本位音的，标有还原号的（书写符号为♮）", "非婚生的", "有血缘关系的", "不拘束的", "符合人的理性的"
+      ]
+    },
+    "n": {
+      "translation": ["本位音，还原音，本位号(书写符号为 ♮)", "有天赋的人", "擅长做某事的人"],
+      "plural": ["naturals"]
+    }
+  },
+  "naturally": {
+    "adv": {
+      "translation": ["自然地", "自然而然地", "合理地", "天然地", "理所当然地", "顺理成章地", "天生地", "当然地"]
+    }
+  },
+  "nature": {
+    "n": {
+      "translation": ["自然", "大自然", "自然界", "本性", "天性", "种类", "性格", "基本特征", "自然方式", "有…本性的"],
+      "plural": ["natures"]
+    }
+  },
+  "naughty": {
+    "adj": {
+      "translation": ["淘气的", "顽皮的", "不听话的", "下流的", "粗俗的"],
+      "comparative": ["naughtier"],
+      "superlative": ["naughtiest"]
+    }
+  },
+  "naval": {
+    "adj": {
+      "translation": ["海军的"]
+    }
+  },
+  "navigation": {
+    "n": {
+      "translation": ["导航", "航行", "领航"],
+      "plural": ["navigations"]
+    }
+  },
+  "navy": {
+    "n": {
+      "translation": ["海军", "海军部队"],
+      "plural": ["navies"]
+    }
+  },
+  "near": {
+    "adj": {
+      "translation": ["近的", "接近的", "接近", "不远", "近似", "随后", "（亲属关系）近亲", "不久以后", "距离近"],
+      "comparative": ["nearer"],
+      "superlative": ["nearest"]
+    },
+    "adv": {
+      "translation": ["在附近", "几乎", "差不多", "不久以后", "距离不远"]
+    },
+    "prep": {
+      "translation": [
+        "在…附近", "靠近", "接近", "接近于（某种状态）", "（质量、大小等）相仿，接近", "临近", "(用于数词前)大约，上下"
+      ]
+    },
+    "v": {
+      "translation": ["(时间或空间上)接近，靠近，临近"],
+      "singular": ["nears"],
+      "present": ["nearing"],
+      "past": ["neared"]
+    }
+  },
+  "nearby": {
+    "adj": {
+      "translation": ["附近的", "邻近的"]
+    },
+    "adv": {
+      "translation": ["在附近", "不远"]
+    }
+  },
+  "nearly": {
+    "adv": {
+      "translation": ["几乎", "将近", "差不多"]
+    }
+  },
+  "neat": {
+    "adj": {
+      "translation": [
+        "整洁的", "整齐的", "好的，不错的", "（尤指酒）未掺水的，纯的，不加冰的", "简洁的，简明的", "巧妙的", "利落的，灵巧的",
+        "精致的，小巧的", "（人）爱整洁的"
+      ]
+    },
+    "adv": {
+      "translation": ["整洁地", "灵巧地", "干净利落地", "匀整地，匀称地", "利索地", "未经稀释地，纯粹地"]
+    }
+  },
+  "necessarily": {
+    "adv": {
+      "translation": ["必要地", "必然地", "不可避免地"]
+    }
+  },
+  "necessary": {
+    "adj": {
+      "translation": ["必要的", "必需的", "必然的", "无法避免的"]
+    },
+    "n": {
+      "translation": ["必需品"],
+      "plural": ["necessaries"]
+    }
+  },
+  "necessity": {
+    "n": {
+      "translation": ["需要", "必要", "必需品", "必然", "必然性", "必需的事物", "不可避免的情况"],
+      "plural": ["necessities"]
+    }
+  },
+  "neck": {
+    "n": {
+      "translation": ["脖子", "（物体的）细长部分，颈部", "衣领", "领圈", "（烹制食用的）动物颈肉"],
+      "plural": ["necks"]
+    },
+    "vi": {
+      "translation": ["搂着脖子亲吻", "相拥互吻"],
+      "singular": ["necks"],
+      "present": ["necking"],
+      "past": ["necked"]
+    }
+  },
+  "necklace": {
+    "n": {
+      "translation": ["项链"],
+      "plural": ["necklaces"]
+    },
+    "vt": {
+      "translation": ["给(某人)戴火项链(将燃烧的轮胎挂在脖子上将其杀死)"]
+    }
+  },
+  "need": {
+    "v": {
+      "translation": ["需要", "(表示应该或不得不做)有必要", "必需", "缺少，欠缺"],
+      "singular": ["needs"],
+      "present": ["needing"],
+      "past": ["needed"]
+    },
+    "n": {
+      "translation": ["需要", "必须", "（食物、钱或生活来源的）短缺，缺乏", "特别需要", "欲望", "迫切要求", "需要的事物"],
+      "plural": ["needs"]
+    }
+  },
+  "needle": {
+    "n": {
+      "translation": ["针", "针头", "注射针", "指针", "松针", "缝衣针", "编织针", "唱针"],
+      "plural": ["needles"]
+    },
+    "vt": {
+      "translation": ["刺激", "故意招惹", "(尤指)不断地数落"]
+    }
+  },
+  "needless": {
+    "adj": {
+      "translation": ["不必要的", "可以避免的"]
+    }
+  },
+  "negative": {
+    "adj": {
+      "translation": [
+        "负面的", "消极的", "负极的", "否定的", "有害的", "坏的", "结果为阴性的（或否定的）", "缺乏热情的", "含有否定词的"
+      ]
+    },
+    "n": {
+      "translation": ["否定", "底片", "负片", "拒绝", "否定词", "属阴性(或否定)的结果"],
+      "plural": ["negatives"]
+    },
+    "vt": {
+      "translation": ["否定", "拒绝", "证伪", "否定…的真实性"],
+      "singular": ["negatives"],
+      "present": ["negativing"],
+      "past": ["negatived"]
+    }
+  },
+  "neglect": {
+    "v": {
+      "translation": ["忽视", "忽略", "疏忽", "疏于照顾", "疏漏", "不予重视", "未予看管"],
+      "singular": ["neglects"],
+      "present": ["neglecting"],
+      "past": ["neglected"]
+    },
+    "n": {
+      "translation": ["忽略", "忽视", "未被重视"]
+    }
+  },
+  "negro": {
+    "n": {
+      "translation": ["黑人"],
+      "plural": ["Negroes"]
+    },
+    "adj": {
+      "translation": ["黑(种)人的", "黑的", "黑人住的", "关于黑人的"]
+    }
+  },
+  "neighbour": {
+    "n": {
+      "translation": ["邻居，邻人", "邻国", "邻座", "他人，世人", "邻近的人（或物）", "身边的人", "靠近的东西"],
+      "plural": ["neighbours"]
+    },
+    "v": {
+      "translation": ["(土地等) 邻接, 邻近", "与……为邻，同……邻接 (或邻近) ", "亲近，交往", "住在邻近，位于附近"],
+      "singular": ["neighbours"],
+      "present": ["neighbouring"],
+      "past": ["neighboured"]
+    },
+    "adj": {
+      "translation": ["邻接的，邻近的"]
+    }
+  },
+  "neighbourhood": {
+    "n": {
+      "translation": [
+        "街区", "邻近的地方，附近", "地段，地区", "<数>邻域", "四邻，街坊", "城区", "所在地", "邻里情谊，邻居间的友善关系",
+        "（统称）某街区（或城区）的居民"
+      ],
+      "plural": ["neighbourhoods"]
+    }
+  },
+  "neither": {
+    "adv": {
+      "translation": ["(否定的陈述同样适用于其他人或物)也不", "(否定的陈述适用于两方面)既不…也不…"]
+    },
+    "det/pron": {
+      "translation": ["两者都不"]
+    },
+    "conj": {
+      "translation": ["也不"]
+    },
+    "adj": {
+      "translation": ["(两者)都不的"]
+    }
+  },
+  "nephew": {
+    "n": {
+      "translation": ["侄子", "外甥"],
+      "plural": ["nephews"]
+    }
+  },
+  "nerve": {
+    "n": {
+      "translation": ["神经", "勇气", "神经紧张", "神经质", "鲁莽", "气魄"],
+      "plural": ["nerves"]
+    },
+    "vt": {
+      "translation": ["鼓足勇气", "振作精神"],
+      "singular": ["nerves"],
+      "present": ["nerving"],
+      "past": ["nerved"]
+    }
+  },
+  "nervous": {
+    "adj": {
+      "translation": ["焦虑的", "神经系统的", "神经质的", "担忧的", "胆怯的", "惶恐的"]
+    }
+  },
+  "nest": {
+    "n": {
+      "translation": ["巢", "鸟巢", "窝", "巢穴", "家", "藏匿处", "秘密窝点", "（套叠在一起的）一套物件"],
+      "plural": ["nests"]
+    },
+    "v": {
+      "translation": ["嵌套(信息)", "筑巢", "巢居"],
+      "singular": ["nests"],
+      "present": ["nesting"],
+      "past": ["nested"]
+    }
+  },
+  "net": {
+    "n": {
+      "translation": [
+        "网", "（计算机）网络, 通信网", "净收入", "净数, 净重", "净价", "最终结果", "纯利", "球门网, 球网", "因特网",
+        "网状物", "要点, 要旨", "<英口>网眼织物, 网眼花边", "<高尔夫>净得分", "有专门用途的网"
+      ],
+      "plural": ["nets"]
+    },
+    "adj": {
+      "translation": [
+        "纯的, 净的", "净重的", "最后的, 最终的", "用网做的, 网眼的", "被网住的, 落网的", "净得的", "以净价出售的"
+      ]
+    },
+    "v": {
+      "translation": [
+        "使获得, 得到", "（巧妙地）捕获, 得到", "（篮球或足球）得分, 进（球）", "净赚", "净得", "（为保护用网）遮盖, 罩住",
+        "用网捕捉(鱼等)", "把……织成网, 用网做"
+      ],
+      "singular": ["nets"],
+      "present": ["netting"],
+      "past": ["netted"]
+    },
+    "adv": {
+      "translation": ["净赚地"]
+    }
+  },
+  "network": {
+    "n": {
+      "translation": ["(互联)网络", "关系网", "广播网", "人际网", "网状系统", "相互关系(或配合)的系统"],
+      "plural": ["networks"]
+    },
+    "v": {
+      "translation": ["联播", "建立工作关系", "将…连接成网络"],
+      "singular": ["networks"],
+      "present": ["networking"],
+      "past": ["networked"]
+    }
+  },
+  "neutral": {
+    "adj": {
+      "translation": ["中性的", "中立的", "中立国的", "持平的", "素净的", "无倾向性的", "不含褒贬义的"]
+    },
+    "n": {
+      "translation": ["(汽车排挡)空挡的", "中立国", "中立者", "中和色", "素净色"],
+      "plural": ["neutrals"]
+    }
+  },
+  "never": {
+    "adv": {
+      "translation": ["从不", "从未", "绝不", "未曾", "(与not同义，语气较强)一点都不"]
+    },
+    "int": {
+      "translation": ["(表示惊讶，因为觉得不可能)不会吧"]
+    }
+  },
+  "nevertheless": {
+    "adv": {
+      "translation": ["然而", "不过", "尽管如此"]
+    },
+    "conj": {
+      "translation": ["然而，不过"]
+    }
+  },
+  "new": {
+    "adj": {
+      "translation": [
+        "新的", "现代的，最新型的", "没被用过的，崭新的", "新鲜的", "有别于从前的，新颖的", "刚开始的，初始的",
+        "新近产生的，新开发的", "初见的，不熟悉的", "新买的", "初来乍到的，初学乍练的", "富有朝气的，生气勃勃的",
+        "新近推出的", "刚出现的", "时鲜的", "刚体验到的"
+      ],
+      "comparative": ["newer"],
+      "superlative": ["newest"]
+    },
+    "n": {
+      "translation": ["新东西", "新事物"]
+    },
+    "adv": {
+      "translation": ["（常用以构成复合词）新，新近", "重新地"]
+    }
+  },
+  "newly": {
+    "adv": {
+      "translation": ["新近", "最近"]
+    }
+  },
+  "news": {
+    "n": {
+      "translation": ["新闻", "消息", "(电视或广播中的)新闻报道", "新闻人物", "音信", "媒体对重要事情的报道"]
+    }
+  },
+  "newspaper": {
+    "n": {
+      "translation": ["报纸", "报", "旧报纸"],
+      "plural": ["newspapers"]
+    }
+  },
+  "next": {
+    "n": {
+      "translation": ["下一个", "下一位", "下一件", "紧接在后的事（或物）"]
+    },
+    "adv": {
+      "translation": ["下次", "随后", "紧接着", "居后地，次于", "用于询问，表示吃惊或困惑"]
+    },
+    "adj": {
+      "translation": ["下一个的", "接下来的", "紧接着的", "紧随其后的", "紧邻地，贴近的", "居后的，次于的"]
+    },
+    "prep": {
+      "translation": ["紧靠……旁边，贴近", "居于……之后，次于"]
+    }
+  },
+  "nice": {
+    "adj": {
+      "translation": [
+        "美好的", "友好的", "和蔼的", "好心的", "宜人的", "坏的", "令人愉快的", "吸引人的", "细微的", "用于形容词或副词前以加强语气"
+      ],
+      "comparative": ["nicer"],
+      "superlative": ["nicest"]
+    },
+    "n": {
+      "translation": ["尼斯"]
+    }
+  },
+  "niece": {
+    "n": {
+      "translation": ["侄女", "甥女"],
+      "plural": ["nieces"]
+    }
+  },
+  "night": {
+    "n": {
+      "translation": [
+        "夜", "夜晚", "晚上，夜晚(夜里就寝前的一段时间)", "黑夜，夜色", "举行盛事的）夜晚，……之夜 ", "黄昏，傍晚",
+        "遮掩，隐蔽", "悲伤时期，挫败时期，黑暗时期"
+      ],
+      "plural": ["nights"]
+    },
+    "adj": {
+      "translation": ["夜晚的，夜间的", "夜间活动的，夜间工作的", "夜晚使用的"]
+    },
+    "int": {
+      "translation": ["<口>晚安"]
+    }
+  },
+  "nine": {
+    "num": {
+      "translation": ["九"],
+      "plural": ["nines"]
+    },
+    "n": {
+      "translation": ["九", "九个（人或物）", "九个 (人或物) 一组", "表示九的符号", "编号为9的东西"],
+      "plural": ["nines"]
+    },
+    "adj": {
+      "translation": ["九的，九个的"]
+    }
+  },
+  "nineteen": {
+    "num": {
+      "translation": ["十九"],
+      "plural": ["nineteens"]
+    },
+    "n": {
+      "translation": ["十九岁", "十九点钟"],
+      "plural": ["nineteens"]
+    }
+  },
+  "ninety": {
+    "n": {
+      "translation": [
+        "九十", "九十年代", "九十岁", "第九十 (课、章、行等)", "表示九十的符号", "九十个 (人或物) 一组 ", "编号为90的东西"
+      ],
+      "plural": ["nineties"]
+    },
+    "num": {
+      "translation": ["九十"],
+      "plural": ["nineties"]
+    },
+    "adj": {
+      "translation": ["九十的，九十个的"]
+    }
+  },
+  "ninth": {
+    "ord": {
+      "translation": ["第九"],
+      "plural": ["ninths"]
+    },
+    "n": {
+      "translation": ["第九", "九分之一", "（月的）第九日", "<音>九度音程，第九音，九度和音"],
+      "plural": ["ninths"]
+    },
+    "adj": {
+      "translation": ["第九的", "九分之一的"]
+    },
+    "adv": {
+      "translation": ["第九 (列举条目等时用)", "居第九位"]
+    }
+  },
+  "nitrogen": {
+    "n": {
+      "translation": ["氮", "氮气"]
+    }
+  },
+  "no": {
+    "int": {
+      "translation": ["不", "没有", "不是", "（对某人所说的话感到惊讶）不, 不要"]
+    },
+    "det": {
+      "translation": ["没有", "无", "不准", "禁止", "没有可能（做某事）", "（表示情况的反面）不是, 并不"]
+    },
+    "adv": {
+      "translation": [
+        "不, 不是", "没有", "（用以强调或引出表示否定的语句）不, 没有, 的确",
+        "（用于比较级的形容词或副词前）毫不, 根本不, 毫无", "（用于形容词前表示与该词相反的意思）并不, 并非, 并无",
+        "（用以表示惊奇、怀疑、不信或命令）不对, 不会, 不许"
+      ]
+    },
+    "n": {
+      "translation": ["不, 没有", "否定, 拒绝", "反对", "反对票", "投反对票者"],
+      "plural": ["noes"]
+    },
+    "adj": {
+      "translation": [
+        "没有的, 全无的", "<口>差不多没有的, 极少的, 极小的", "完全不是的, 远非的", "（用于命令、警告、标牌等）不许的, 禁止的"
+      ]
+    }
+  },
+  "noble": {
+    "adj": {
+      "translation": ["高尚的", "高贵的", "贵族的", "崇高的", "宏伟的", "壮丽的"],
+      "comparative": ["nobler"],
+      "superlative": ["noblest"]
+    },
+    "n": {
+      "translation": ["出身高贵的人", "贵族成员"],
+      "plural": ["nobles"]
+    }
+  },
+  "nobody": {
+    "pron": {
+      "translation": ["没有人", "无人", "谁也不"]
+    },
+    "n": {
+      "translation": ["小人物", "无足轻重的人"],
+      "plural": ["nobodies"]
+    }
+  },
+  "nod": {
+    "v": {
+      "translation": ["点头致意", "打盹", "点头示意", "(朝…方向)点头(表示所谈论的人或物)"],
+      "singular": ["nods"],
+      "present": ["nodding"],
+      "past": ["nodded"]
+    },
+    "n": {
+      "translation": ["点头"]
+    }
+  },
+  "noise": {
+    "n": {
+      "translation": ["噪音", "噪声", "干扰", "声音", "响声", "吵闹声", "干扰信息", "垃圾信息", "电子干扰讯号"],
+      "plural": ["noises"]
+    },
+    "vi": {
+      "translation": ["谣传", "大声议论", "哄传", "传说发出声音"],
+      "singular": ["noises"],
+      "present": ["noising"],
+      "past": ["noised"]
+    }
+  },
+  "noisy": {
+    "adj": {
+      "translation": ["吵闹的", "嘈杂的", "聒噪的", "吵吵闹闹的", "充满噪音的"],
+      "comparative": ["noisier"],
+      "superlative": ["noisiest"]
+    }
+  },
+  "none": {
+    "pron": {
+      "translation": ["没有一个", "毫无"]
+    },
+    "adv": {
+      "translation": ["(与the加比较级连用)一点都不，绝无", "(与too加形容词或副词连用)绝不，不怎么"]
+    },
+    "adj": {
+      "translation": ["没有"]
+    },
+    "n": {
+      "translation": ["“nones 2”的单数"]
+    }
+  },
+  "nonsense": {
+    "n": {
+      "translation": [
+        "胡说，废话", "胡言乱语", "胡扯", "胡闹，愚蠢的行为", "谬论", "<生>无意义突变", " 无意义密码子", "冒失",
+        "毫无意义的话", "无价值 (或不重要) 的东西", "不可接受的行为", "没有意义的文章"
+      ],
+      "plural": ["nonsenses"]
+    },
+    "adj": {
+      "translation": ["无意义的，荒谬的", "<生>含有无意义密码子的"]
+    },
+    "int": {
+      "translation": ["荒唐", "胡说", "废话"]
+    }
+  },
+  "noon": {
+    "n": {
+      "translation": ["中午", "正午"]
+    }
+  },
+  "nor": {
+    "adv/conj": {
+      "translation": ["也没有", "(用于肯定动词前，表示同意刚提及的否定命题)也不"]
+    },
+    "n": {
+      "translation": ["“或非”"]
+    }
+  },
+  "normal": {
+    "adj": {
+      "translation": ["正常的", "一般的", "典型的", "精神正常的", "意识健全的"]
+    },
+    "n": {
+      "translation": ["法线", "常态", "一般水平", "通常标准"],
+      "plural": ["normals"]
+    }
+  },
+  "normally": {
+    "adv": {
+      "translation": ["通常", "正常情况下", "正常地", "平常地"]
+    }
+  },
+  "north": {
+    "n": {
+      "translation": ["北", "北部", "北方", "北部地区", "北方发达国家", "(美国南北战争时与南方作战的)北部各州"]
+    },
+    "adj": {
+      "translation": ["北部的", "北方的", "向北的", "北风的", "北方吹来的"]
+    },
+    "adv": {
+      "translation": ["向北", "朝北"]
+    }
+  },
+  "northeast": {
+    "n": {
+      "translation": ["东北", "东北方", "东北部地区"]
+    },
+    "adv": {
+      "translation": ["向东北", "在东北"]
+    },
+    "adj": {
+      "translation": ["在东北的", "东北部的", "(风)从东北方吹来的"]
+    }
+  },
+  "northern": {
+    "adj": {
+      "translation": ["北方的", "北部的", "向北的"]
+    },
+    "n": {
+      "translation": ["北方人", "北风", "(自北而来的)暴风雨"]
+    }
+  },
+  "northwest": {
+    "n": {
+      "translation": ["西北", "西北方", "西北部地区"]
+    },
+    "adv": {
+      "translation": ["向西北", "在西北"]
+    },
+    "adj": {
+      "translation": ["在西北的", "西北部的", "(风)从西北方吹来的"]
+    }
+  },
+  "nose": {
+    "n": {
+      "translation": [
+        "鼻子", "鼻", "(飞机、太空船等的)头部，头锥", "嗅觉", "有…鼻子的", "特有的气味", "发现（或辨别）事物的能力"
+      ],
+      "plural": ["noses"]
+    },
+    "v": {
+      "translation": ["小心翼翼地向前移动", "(用鼻子)嗅，拱，顶"],
+      "singular": ["noses"],
+      "present": ["nosing"],
+      "past": ["nosed"]
+    }
+  },
+  "not": {
+    "adv": {
+      "translation": [
+        "(否定后面的词或短语，或作否定的回答)不", "(构成动词be、do和have及情态动词can或must等的否定形式，常缩略为n't)没有",
+        "否，或许不", "（拒绝或不允许）不"
+      ]
+    }
+  },
+  "note": {
+    "n": {
+      "translation": [
+        "笔记", "记录", "注释", "（外交文书）照会", "纸币", "特征", "便条", "批注", "正式文件", "短笺", "单音", "按语",
+        "图书资料，录音或唱片等封套介绍"
+      ],
+      "plural": ["notes"]
+    },
+    "v": {
+      "translation": ["注意，留意", "指出，表明", "记录，记下", "着重提到，强调", "为 (书等) 加注", "用音符记"],
+      "singular": ["notes"],
+      "present": ["noting"],
+      "past": ["noted"]
+    }
+  },
+  "notebook": {
+    "n": {
+      "translation": ["笔记本", "笔记本电脑", "笔记本计算机"],
+      "plural": ["notebooks"]
+    }
+  },
+  "nothing": {
+    "pron": {
+      "translation": [
+        "没有什么", "一无所有，乌有", "<数>零", "没有一件，没有一样", "没有一件东西", "不存在的东西",
+        "没有一部分，没有一丁点儿", "无关紧要的东西", "毫无趣味的事"
+      ]
+    },
+    "n": {
+      "translation": ["零", "空话, 言之无物的话", "无关紧要的人 (或事物) , 微不足道的人 (或事物)"],
+      "plural": ["nothings"]
+    },
+    "adv": {
+      "translation": ["并不，毫不", "决不是"]
+    },
+    "adj": {
+      "translation": ["<口>无关紧要的，微不足道的，平淡无奇的", "(衣着等) 不招摇的, 不引入注目的"]
+    },
+    "int": {
+      "translation": ["<美口>没这回事"]
+    }
+  },
+  "notice": {
+    "n": {
+      "translation": [
+        "通知", "注意", "通告", "预告", "察觉", "布告", "评论，短评", "启事", "理会", "公告牌", "警示牌", "辞职信"
+      ],
+      "plural": ["notices"]
+    },
+    "v": {
+      "translation": ["注意", "注意到", "看(或听)到", "留意", "意识到"],
+      "singular": ["notices"],
+      "present": ["noticing"],
+      "past": ["noticed"]
+    }
+  },
+  "noticeable": {
+    "adj": {
+      "translation": ["显著的", "值得注意的", "显而易见的"]
+    }
+  },
+  "noun": {
+    "n": {
+      "translation": ["名词"],
+      "plural": ["nouns"]
+    }
+  },
+  "novel": {
+    "n": {
+      "translation": ["(长篇)小说"],
+      "plural": ["novels"]
+    },
+    "adj": {
+      "translation": ["新颖的", "与众不同的", "珍奇的"]
+    }
+  },
+  "november": {
+    "n": {
+      "translation": ["十一月"],
+      "plural": ["Novembers"]
+    }
+  },
+  "now": {
+    "adv": {
+      "translation": [
+        "现在，目前，此刻", "现在就，马上，就要",
+        "（用以引出后面的话、改变口气、加强语气或表示安慰、惊奇、恐吓、命令、请求、责备等）喏，好，嗳", "刚才，方才", "从现在开始",
+        "到现在为止，迄今", "嗯（在决定下面说什么时的停顿用语）", "像这样，这一来"
+      ]
+    },
+    "conj": {
+      "translation": ["既然，由于", "当…之际，在…的时候"]
+    },
+    "n": {
+      "translation": ["现在，此刻"]
+    },
+    "adj": {
+      "translation": ["现在的，现任的", "<口> (赶) 时髦的，入时的，合潮流的，当今一代的"]
+    }
+  },
+  "nowadays": {
+    "adv": {
+      "translation": ["现今", "目前", "现在"]
+    },
+    "n": {
+      "translation": ["现在"]
+    }
+  },
+  "nowhere": {
+    "adv": {
+      "translation": ["无处，哪里都不", "毫不顶用，毫无结果", "不在某处，不到某地", "远远在后"]
+    },
+    "n": {
+      "translation": ["乌有，无", "不知名的地方，茫茫蛮荒，一片荒芜的地区", "不存在的地方"]
+    },
+    "adj": {
+      "translation": ["不存在的，没有的", "不知名的，默默无闻的，不重要的, 无价值的", "毫不顶用的，毫无结果的"]
+    }
+  },
+  "nuclear": {
+    "adj": {
+      "translation": ["原子能的，核能的", "核武器的", "核心的，中心的", "<物> 核子的", "<生>细胞核的", "原子核的"]
+    },
+    "n": {
+      "translation": ["核武器 (尤指核导弹) ", "有核国"]
+    }
+  },
+  "nucleus": {
+    "n": {
+      "translation": ["核", "细胞核", "核心", "原子核", "中心"],
+      "plural": ["nuclei"]
+    }
+  },
+  "nuisance": {
+    "n": {
+      "translation": ["麻烦事", "妨害行为", "讨厌的人(或东西)"],
+      "plural": ["nuisances"]
+    }
+  },
+  "number": {
+    "n": {
+      "translation": ["数字", "数", "编号", "(电话、传真等的)号码", "数量", "期", "序数", "一群人", "一首歌，一段舞蹈"],
+      "plural": ["numbers"]
+    },
+    "v": {
+      "translation": ["给…编号", "标号", "总计", "共计", "(被)归入", "把…算作", "数以…计"],
+      "singular": ["numbers"],
+      "present": ["numbering"],
+      "past": ["numbered"]
+    }
+  },
+  "numerous": {
+    "adj": {
+      "translation": ["很多的", "众多的", "许多的"]
+    }
+  },
+  "nurse": {
+    "n": {
+      "translation": ["护士", "(旧时雇主家中的)女保育员，保姆，女仆"],
+      "plural": ["nurses"]
+    },
+    "v": {
+      "translation": [
+        "看护，照料(病人或伤者)", "喂奶", "吃奶", "培育", "调治，调养(伤病)", "怀抱", "怀有", "心藏", "搂抱"
+      ],
+      "singular": ["nurses"],
+      "present": ["nursing"],
+      "past": ["nursed"]
+    }
+  },
+  "nursery": {
+    "n": {
+      "translation": ["婴儿室", "苗圃", "(供游戏的)儿童室"],
+      "plural": ["nurseries"]
+    },
+    "adj": {
+      "translation": ["幼儿教育的"]
+    }
+  },
+  "nut": {
+    "n": {
+      "translation": ["坚果", "螺母", "螺帽", "怪人", "睾丸", "着迷的人", "人的头(或大脑)"],
+      "plural": ["nuts"]
+    },
+    "vt": {
+      "translation": ["(故意)以头撞击"],
+      "singular": ["nuts"],
+      "present": ["nutting"],
+      "past": ["nutted"]
+    }
+  },
+  "nylon": {
+    "n": {
+      "translation": ["尼龙", "(女用)尼龙长袜，尼龙连裤袜"],
+      "plural": ["nylons"]
+    }
+  }
+}

@@ -1,0 +1,3638 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "pace": {
+    "n": {
+      "translation": [
+        "(移动的)速度", "步伐", "节奏", "步速", "步幅", "发生的速度", "(走或跑时)迈出的一步，一步的距离", "迅速出现（或变化等）"
+      ],
+      "plural": ["paces"]
+    },
+    "v": {
+      "translation": ["来回踱步", "走来走去", "调整节奏", "确定速度", "调整自己的工作(或活动)节奏"],
+      "singular": ["paces"],
+      "present": ["pacing"],
+      "past": ["paced"]
+    },
+    "prep": {
+      "translation": ["(用于人名前，委婉提出不同意见)请…原谅"]
+    }
+  },
+  "pacific": {
+    "adj": {
+      "translation": ["和平的", "平静的", "爱和平的"]
+    }
+  },
+  "pack": {
+    "v": {
+      "translation": [
+        "包装，装（箱）", "（把…）打包，（把…）装箱", "收拾（行李）", "堆积，压实", "挤满，塞满", "备有，含有", "（用某物）保存，保藏",
+        "佩带，携带（枪支）", "停止，结束", "加工包装 （食品），把（食品等） 装入容器", "能被包装 （或捆扎），适于装运",
+        "送走， 把…打发走", "填封 (空隙、漏缝等)", "（用柔软材料）把…裹（包）起来", " 在（容器中的食物）上覆盖物质（以防止腐烂）",
+        "<英橄> 形成对阵争球", "<医>用裹布法治疗", "在（陪审团、委员会、会议等）中安插支持者"
+      ],
+      "singular": ["packs"],
+      "present": ["packing"],
+      "past": ["packed"]
+    },
+    "n": {
+      "translation": [
+        "包，包裹，捆", "一捆，一包（尤指适于携带的东西）", "（尤指士兵或野外徒步者的）背包", "大量", "（野兽、飞禽等的） 一群",
+        "<美> 小包，小盒", "<英> （纸牌的） 一副", "面膜", "（压在伤口上止血用的）敷布，裹布，绷带", "装罐量，包装量",
+        "一帮，一伙（尤含贬义）", "（海洋中的）流冰群，浮冰群", "（童子军等的） 一队", "护肤霜，香脂，发乳", "<英>（一个橄榄球队的）全体前锋"
+      ],
+      "plural": ["packs"]
+    },
+    "adj": {
+      "translation": ["<苏格兰>亲密的，友好的", "<苏格兰>（动物） 驯服的"]
+    },
+    "adv": {
+      "translation": ["<苏格兰>亲密地"]
+    }
+  },
+  "packet": {
+    "n": {
+      "translation": [
+        "小包裹", "信息包", "（为某种用途的）一套文件", "(商品的)小包装纸袋，小硬纸板盒", "(邮政)小件包裹", "一笔巨款"
+      ],
+      "plural": ["packets"]
+    },
+    "v": {
+      "translation": ["把…做成包裹", "用邮船运送"]
+    }
+  },
+  "pad": {
+    "n": {
+      "translation": [
+        "衬垫", "（吸收液体、保洁或保护用的）软垫，护垫，垫状物", "（火箭的）发射坪，发射台", "<口> 床，住处，房间，公寓",
+        "<古>（英方） 路，小径", " <电> 衰减器，衰耗片", "百洁布，菜瓜布", "（运动用）防护垫（如护腿、护肘等）", "便笺本", "爪垫",
+        "拍纸簿", "浮叶（尤见于睡莲）", "手指头肚儿", "肉掌", "悄然的脚步声"
+      ],
+      "plural": ["pads"]
+    },
+    "v": {
+      "translation": [
+        "走（路）， 沿着…走", "（用软物）填塞，填衬，包护垫于", "（用多余的内容） 拉长，扩充（句子、文章、讲话等）",
+        "虚报（账目），做黑账", "轻轻地走，放轻脚步走", "使 （声音） 低沉，减弱… 的声音", "踩平，踏平"
+      ],
+      "singular": ["pads"],
+      "present": ["padding"],
+      "past": ["padded"]
+    }
+  },
+  "page": {
+    "n": {
+      "translation": [
+        "(书刊或纸张的)页，面", "网页", "历史篇章(指历史大事或时期)", "（美国议员的）青年助理（本身为学生）", "学习骑士"
+      ],
+      "plural": ["pages"]
+    },
+    "vt": {
+      "translation": ["(在公共传呼系统上)呼叫", "用传呼机传呼(某人)"],
+      "singular": ["pages"],
+      "present": ["paging"],
+      "past": ["paged"]
+    }
+  },
+  "pail": {
+    "n": {
+      "translation": ["(通常为金属或木制的)桶"],
+      "plural": ["pails"]
+    }
+  },
+  "pain": {
+    "n": {
+      "translation": ["(身体上的)疼痛", "痛苦", "烦恼", "苦恼", "讨厌的人(或事)", "令人头痛的人(或事)"],
+      "plural": ["pains"]
+    },
+    "vt": {
+      "translation": ["使痛苦", "使苦恼"],
+      "singular": ["pains"],
+      "present": ["paining"],
+      "past": ["pained"]
+    }
+  },
+  "painful": {
+    "adj": {
+      "translation": ["痛苦的", "困难的", "令人痛苦(或难过、难堪)的", "艰难的", "不愉快的", "令人疼痛的"]
+    }
+  },
+  "paint": {
+    "n": {
+      "translation": ["油漆", "油漆涂层", "绘画颜料"]
+    },
+    "v": {
+      "translation": ["把…描绘成", "用颜料画", "在…上刷油漆", "往施化妆品"],
+      "singular": ["paints"],
+      "present": ["painting"],
+      "past": ["painted"]
+    }
+  },
+  "painter": {
+    "n": {
+      "translation": ["油漆匠", "画家", "(系船的)缆绳"],
+      "plural": ["painters"]
+    }
+  },
+  "painting": {
+    "n": {
+      "translation": ["绘画", "油画", "涂漆", "作画", "刷油漆"],
+      "plural": ["paintings"]
+    },
+    "v": {
+      "translation": ["把…描绘成", "用颜料画", "在…上刷油漆"]
+    }
+  },
+  "pair": {
+    "n": {
+      "translation": [
+        "一对", "一双", "俩", "两个共事(或有特殊关系)的人", "（同时驯养的）两个同类的鸟（或兽）", "一起拉车的两匹马", "对",
+        "分两个相连接部分的物体"
+      ],
+      "plural": ["pairs"]
+    },
+    "v": {
+      "translation": ["使成对", "配对(以繁殖)", "交配"],
+      "singular": ["pairs"],
+      "present": ["pairing"],
+      "past": ["paired"]
+    }
+  },
+  "palace": {
+    "n": {
+      "translation": [
+        "王宫，宫殿，（官位极高者的）府邸", "住在王宫里的人，（尤指英国的）王室", "豪华住宅，大厦，宏伟的（公共）建筑物"
+      ],
+      "plural": ["palaces"]
+    },
+    "adj": {
+      "translation": ["宫殿的，主教宅邸的，大厦的", "宫廷的，与君王接近的", "奢侈的，豪华的"]
+    }
+  },
+  "pale": {
+    "adj": {
+      "translation": ["苍白的", "浅色的", "灰白的", "淡色的", "暗淡的", "白皙的", "微弱的"],
+      "comparative": ["paler"],
+      "superlative": ["palest"]
+    },
+    "vi": {
+      "translation": ["变得比平常白", "变苍白"],
+      "singular": ["pales"],
+      "present": ["paling"],
+      "past": ["paled"]
+    },
+    "n": {
+      "translation": ["栅栏", "范围", "界限", "围篱", "桩", "边界", "（做栅栏用的）尖板条"]
+    }
+  },
+  "palm": {
+    "n": {
+      "translation": ["手掌", "棕榈树", "棕榈", "手心"],
+      "plural": ["palms"]
+    },
+    "vt": {
+      "translation": ["把…藏在手中(尤指玩戏法)"],
+      "singular": ["palms"],
+      "present": ["palming"],
+      "past": ["palmed"]
+    }
+  },
+  "pan": {
+    "n": {
+      "translation": [
+        "平底锅，盘子，盆子，盘状器皿", "摇镜头，摇摄", "（烘煮食物用的）烤盘，烤模", "（天平的）秤盘", "盆地，沼泽，洼地",
+        "<美口> 脸", "<口> 严厉批评", "（炼制槭糖、盐等用的）炼锅", "（淘金时用水离析出金子的）淘选盘", "土磐，磐层",
+        "<英> （抽水马桶的）瓷质马桶", "一锅的量", "底土，硬地层，母岩", "晒盐池", "（旧式枪的） 火药池"
+      ],
+      "plural": ["pans"]
+    },
+    "v": {
+      "translation": [
+        "（移动摄像机）追拍，摇摄", "（用平底锅） 烧 （菜等）", "（用淘选盘）淘洗，淘（金）", "严厉批评，抨击（戏剧、电影等）",
+        "<美> 出金，产金"
+      ],
+      "singular": ["pans"],
+      "present": ["panning"],
+      "past": ["panned"]
+    },
+    "adj": {
+      "translation": ["全景的"]
+    }
+  },
+  "panda": {
+    "n": {
+      "translation": ["熊猫", "小熊猫", "小猫熊(产于亚洲，毛棕红色，尾巴粗长)"],
+      "plural": ["pandas"]
+    }
+  },
+  "pane": {
+    "n": {
+      "translation": ["(一片)窗玻璃"],
+      "plural": ["panes"]
+    }
+  },
+  "panel": {
+    "n": {
+      "translation": [
+        "面板", "(门、墙等上面的)嵌板，镶板，方格板块", "控制板，仪表盘", "(车身的)金属板，板金", "(衣服上的)镶条，嵌条，饰片",
+        "专家咨询组"
+      ],
+      "plural": ["panels"]
+    },
+    "vt": {
+      "translation": ["镶板(用木或玻璃板等镶嵌或装饰)"],
+      "singular": ["panels"],
+      "present": ["panelling"],
+      "past": ["panelled"]
+    }
+  },
+  "pant": {
+    "v": {
+      "translation": ["喘气", "喘息", "气喘"],
+      "singular": ["pants"],
+      "present": ["panting"],
+      "past": ["panted"]
+    },
+    "n": {
+      "translation": ["气喘", "喘气，喘息", "喷气声"],
+      "plural": ["pants"]
+    }
+  },
+  "paper": {
+    "n": {
+      "translation": [
+        "纸张，纸", "（政府或委员会发表的关于重大问题的）文件，报告", "材料，资料，文件，文献", "（研究）论文，（学术）讲话",
+        "（作为学校课程作业的）文章，论文", "报纸，出版物，期刊", "试卷，考卷", "（护照等）官方文件，证件", "手纸，卫生纸",
+        "墙纸，壁纸", "<经> 有价证券，流通票据", "（戏院等的） 门票，免费入场券", "<俚> 广告宣传单"
+      ],
+      "plural": ["papers"]
+    },
+    "v": {
+      "translation": [
+        "<古> 在纸上写下", "为…提供纸张", "用墙纸裱糊，贴糊墙纸", "用纸包起", "用砂纸把…打光", "<俚> 发免费入场券使（剧场等）满座"
+      ],
+      "singular": ["papers"],
+      "present": ["papering"],
+      "past": ["papered"]
+    },
+    "adj": {
+      "translation": [
+        "纸上的，未实施的，有名无实的", "纸质的，纸板（或制型纸）做的", "<书> 纸面的, 平装的", "似纸的，薄的",
+        "以书面形式进行的，书面往来的", "持免费入场券的"
+      ]
+    }
+  },
+  "parade": {
+    "n": {
+      "translation": ["游行", "阅兵", "检阅", "一系列(人或事)", "夸示", "有一排小商店的街道"],
+      "plural": ["parades"]
+    },
+    "v": {
+      "translation": [
+        "游行", "展示", "展览", "（使）列队行进，接受检阅", "游行示威", "招摇过市", "游行庆祝", "（使）冒充，伪装，打扮成",
+        "大摇大摆"
+      ],
+      "singular": ["parades"],
+      "present": ["parading"],
+      "past": ["paraded"]
+    }
+  },
+  "paradise": {
+    "n": {
+      "translation": [
+        "天堂", "乐园(指美好的环境)", "(某些宗教所指的)天国", "乐土", "伊甸园", "至福", "(某类活动或某类人的)完美去处"
+      ],
+      "plural": ["paradises"]
+    }
+  },
+  "paragraph": {
+    "n": {
+      "translation": ["段落", "段"],
+      "plural": ["paragraphs"]
+    },
+    "vt": {
+      "translation": ["将…分段", "写短文报导"],
+      "singular": ["paragraphs"],
+      "present": ["paragraphing"],
+      "past": ["paragraph", "paragraphed"]
+    }
+  },
+  "parallel": {
+    "adj": {
+      "translation": ["平行的", "并行的", "对应的", "相应的", "同时发生的", "极相似的"]
+    },
+    "n": {
+      "translation": [
+        "(地球或地图的)纬线，纬圈", "相似特点", "相似特征", "(尤指不同地点或时间的)极其相似的人(或情况、事件等)"
+      ],
+      "plural": ["parallels"]
+    },
+    "vt": {
+      "translation": ["与…相似", "与…同时发生", "与…媲美", "比得上"],
+      "singular": ["parallels"],
+      "present": ["parallelling"],
+      "past": ["parallelled"]
+    },
+    "adv": {
+      "translation": ["平行地，并列地"]
+    }
+  },
+  "parcel": {
+    "n": {
+      "translation": [
+        "包裹，邮包", "<古> （主要）部分", "<贬> （人、兽的） 一群，（物的）一批", "一块地，一片地", "食品的馅料（通常指油酥点心中的馅料）"
+      ],
+      "plural": ["parcels"]
+    },
+    "vt": {
+      "translation": ["把…包起来", "分，分配，瓜分", "把…分成小份", "<海>用涂油帆布条盖住（捻缝缝隙）"],
+      "singular": ["parcels"],
+      "present": ["parcelling"],
+      "past": ["parcelled"]
+    },
+    "adj": {
+      "translation": ["部分的”, “兼职的"]
+    },
+    "adv": {
+      "translation": ["<古>部分地，局部地"]
+    }
+  },
+  "pardon": {
+    "n": {
+      "translation": ["原谅", "赦免", "宽恕", "特赦"]
+    },
+    "int": {
+      "translation": ["对不起", "(用于请求别人重复某事)什么，请再说一遍", "抱歉"]
+    },
+    "vt": {
+      "translation": ["赦免", "原谅(表示礼貌时常用的词语)", "特赦"],
+      "singular": ["pardons"],
+      "present": ["pardoning"],
+      "past": ["pardoned"]
+    }
+  },
+  "parent": {
+    "n": {
+      "translation": ["父母亲", "父亲(或母亲)", "(动、植物的)亲本，亲代，父本，母本", "母公司", "总部", "创始机构"],
+      "plural": ["parents"]
+    }
+  },
+  "park": {
+    "n": {
+      "translation": ["公园", "园区", "(英国)庄园，庭院", "运动场", "足球场", "专用区"],
+      "plural": ["parks"]
+    },
+    "v": {
+      "translation": ["停(车)", "泊(车)", "把…搁置，推迟(在以后的会议上讨论或处理)", "坐下(或站着)"],
+      "singular": ["parks"],
+      "present": ["parking"],
+      "past": ["parked"]
+    }
+  },
+  "parliament": {
+    "n": {
+      "translation": ["议会", "国会", "英国议会(包括下议院和上议院)", "(两次大选之间的)一届议会", "一届议会的会期"],
+      "plural": ["parliaments"]
+    }
+  },
+  "part": {
+    "n": {
+      "translation": [
+        "部分", "部件", "部", "区域，地区", "（度量单位的）等份，份", "参加", "成员", "角色", "成分", "一点", "器官", "片段"
+      ],
+      "plural": ["parts"]
+    },
+    "v": {
+      "translation": ["分别", "分离", "分开", "离开", "分散", "隔离", "解散"],
+      "singular": ["parts"],
+      "present": ["parting"],
+      "past": ["parted"]
+    },
+    "adv": {
+      "translation": ["部分地", "在一定程度上", "由两部分构成"]
+    },
+    "adj": {
+      "translation": ["部分的"]
+    }
+  },
+  "partial": {
+    "adj": {
+      "translation": ["部分的，不完全的", "<数>偏的", "偏向一方的，偏袒的，不公平的", "偏爱的，癖好的"]
+    },
+    "n": {
+      "translation": ["<音>分音（指泛音列诸音）", "<口>部分托牙，部分假牙"]
+    },
+    "vt": {
+      "translation": ["（在统计相关中）排除（一个或几个有关变量）的影响"]
+    }
+  },
+  "partially": {
+    "adv": {
+      "translation": ["部分地", "不完全地"]
+    }
+  },
+  "participate": {
+    "vi": {
+      "translation": ["参加", "参与"],
+      "singular": ["participates"],
+      "present": ["participating"],
+      "past": ["participated"]
+    }
+  },
+  "particle": {
+    "n": {
+      "translation": ["颗粒", "粒子", "微粒", "小品词(与动词构成短语动词的副词或介词)"],
+      "plural": ["particles"]
+    }
+  },
+  "particular": {
+    "adj": {
+      "translation": ["专指的，特指的(与泛指相对)", "讲究", "格外的", "挑剔", "特别的", "不寻常的"]
+    },
+    "n": {
+      "translation": ["详情", "(正式记下的)细节", "详细资料", "详细介绍材料"],
+      "plural": ["particulars"]
+    }
+  },
+  "particularly": {
+    "adv": {
+      "translation": ["尤其", "特别"]
+    }
+  },
+  "partly": {
+    "adv": {
+      "translation": ["部分地", "一定程度上"]
+    }
+  },
+  "partner": {
+    "n": {
+      "translation": ["伙伴", "合伙人", "搭档", "配偶", "同伴", "性伴侣", "舞伴"],
+      "plural": ["partners"]
+    },
+    "vt": {
+      "translation": ["(在跳舞、游戏等中)结成伙伴，做搭档，配对"],
+      "singular": ["partners"],
+      "present": ["partnering"],
+      "past": ["partnered"]
+    }
+  },
+  "party": {
+    "n": {
+      "translation": [
+        "聚会", "政党", "派对", "（契约或争论的）当事人，一方", "党派", "宴会", "(一起旅行或参观等的)群，队，组", "联欢会"
+      ],
+      "plural": ["parties"]
+    },
+    "vi": {
+      "translation": ["寻欢作乐", "吃喝玩乐"],
+      "singular": ["parties"],
+      "present": ["partying"],
+      "past": ["partied"]
+    },
+    "adj": {
+      "translation": ["党派的", "社交的", "【纹章】分隔开的"]
+    }
+  },
+  "pass": {
+    "v": {
+      "translation": [
+        "通过", "不知道，过", "允许", "发生", "使达到(某位置)", "转移给，遗留给（继承人等）", "传球", "结束", "走过",
+        "及格", "大于", "不要", "宣布", "转变", "推移", "消磨", "排泄", "使沿(某方向)移动", "准予通过", "不出牌",
+        "超出…的限度", "给", "沿某方向前进", "向某方向移动", "经表决通过（动议、法律等）"
+      ],
+      "singular": ["passes"],
+      "present": ["passing"],
+      "past": ["passed"]
+    },
+    "n": {
+      "translation": ["通过", "合格", "阶段", "通行证", "(某些运动中)传球", "及格", "越过", "关口", "车票", "乘车证"]
+    }
+  },
+  "passage": {
+    "n": {
+      "translation": [
+        "通道", "通过", "通路", "穿过", "段落", "(体内通气、输液等的)管路", "（时间的）流逝，推移", "走廊", "章节",
+        "（乘船的）航程，旅程", "乐段", "通行许可"
+      ],
+      "plural": ["passages"]
+    },
+    "v": {
+      "translation": ["前进", "通过", "航海", "【马术】使(马)用斜横步前进"]
+    }
+  },
+  "passenger": {
+    "n": {
+      "translation": ["乘客，旅客", "<古> 旅人，徒步旅行者", "白吃饭的人，闲散人员"],
+      "plural": ["passengers"]
+    },
+    "adj": {
+      "translation": ["乘客的，旅客的"]
+    }
+  },
+  "passion": {
+    "n": {
+      "translation": ["激情", "酷爱", "强烈情感", "强烈的爱(尤指两性间的)", "盛怒", "激愤", "耶稣的受难"],
+      "plural": ["passions"]
+    }
+  },
+  "passive": {
+    "adj": {
+      "translation": ["被动的", "消极的", "(动词形式)被动语态的"]
+    },
+    "n": {
+      "translation": ["动词被动形式", "被动语态"],
+      "plural": ["passives"]
+    }
+  },
+  "past": {
+    "adj": {
+      "translation": ["过去的", "以往的", "从前的", "昔日的", "（动词）过去式的", "刚过去的", "刚结束的"]
+    },
+    "n": {
+      "translation": ["过去", "昔日", "过去的事情", "(某人)过去的经历(或事业)"],
+      "plural": ["pasts"]
+    },
+    "prep": {
+      "translation": ["超过", "在…之后", "多于", "在另一边", "晚于", "到另一侧"]
+    },
+    "adv": {
+      "translation": ["(时间)过去，逝去", "经过", "从一侧到另一侧"]
+    }
+  },
+  "pastime": {
+    "n": {
+      "translation": ["消遣", "休闲活动"],
+      "plural": ["pastimes"]
+    }
+  },
+  "pat": {
+    "vt": {
+      "translation": ["拍打", "(喜爱地)轻拍"],
+      "singular": ["pats"],
+      "present": ["patting"],
+      "past": ["patted"]
+    },
+    "n": {
+      "translation": ["(友善的)轻拍，拍打", "一小块黄油"],
+      "plural": ["pats"]
+    },
+    "adj": {
+      "translation": ["不自然的", "油滑的", "过于简易的"]
+    },
+    "adv": {
+      "translation": ["合适", "及时地", "流利地", "立即地"]
+    },
+    "v": {
+      "translation": ["（喜爱地）轻拍"],
+      "singular": ["pats"],
+      "present": ["patting"],
+      "past": ["patted"]
+    }
+  },
+  "patch": {
+    "n": {
+      "translation": [
+        "补丁", "修补程序", "(与周围不同的)小块，小片", "斑点", "眼罩", "色斑", "补块", "小块土地", "戒烟贴片", "工作地",
+        "一段（艰难）岁月"
+      ],
+      "plural": ["patches"]
+    },
+    "vt": {
+      "translation": ["修补", "打补丁", "缝补"],
+      "singular": ["patches"],
+      "present": ["patching"],
+      "past": ["patched"]
+    }
+  },
+  "path": {
+    "n": {
+      "translation": ["路径", "道路", "路线", "小路", "小径", "行动计划", "成功的途径"],
+      "plural": ["paths"]
+    }
+  },
+  "patience": {
+    "n": {
+      "translation": ["耐心", "毅力", "坚忍", "忍耐力", "恒心", "单人纸牌游戏"]
+    }
+  },
+  "patient": {
+    "n": {
+      "translation": ["(某个医生或牙医等的)病人", "接受治疗者(尤指医院里的)", "受动者"],
+      "plural": ["patients"]
+    },
+    "adj": {
+      "translation": ["有耐心的", "能忍耐的"]
+    }
+  },
+  "pattern": {
+    "n": {
+      "translation": ["图案", "模式", "方式", "模型", "式样", "花样", "样品", "样板", "范例", "榜样", "典范"],
+      "plural": ["patterns"]
+    },
+    "vt": {
+      "translation": ["构成图案(或花样)", "使形成，促成(某行为模式)"],
+      "singular": ["patterns"],
+      "present": ["patterning"],
+      "past": ["patterned"]
+    }
+  },
+  "pause": {
+    "v": {
+      "translation": ["暂停", "停顿", "(按暂停键)暂停放音，暂停放像"],
+      "singular": ["pauses"],
+      "present": ["pausing"],
+      "past": ["paused"]
+    },
+    "n": {
+      "translation": ["停顿", "暂停键", "停顿的时间", "延长记号"],
+      "plural": ["pauses"]
+    }
+  },
+  "pave": {
+    "vt": {
+      "translation": ["铺路", "(用砖石)铺(地)"],
+      "singular": ["paves"],
+      "present": ["paving"],
+      "past": ["paved"]
+    }
+  },
+  "pavement": {
+    "n": {
+      "translation": ["(马路边的)人行道", "路面", "石板铺的地面"],
+      "plural": ["pavements"]
+    }
+  },
+  "paw": {
+    "n": {
+      "translation": ["爪子", "(动物的)爪", "(人的)手"],
+      "plural": ["paws"]
+    },
+    "v": {
+      "translation": ["(不断地)挠，抓", "动手动脚", "猥亵地摩挲", "动手挑逗"],
+      "singular": ["paws"],
+      "present": ["pawing"],
+      "past": ["pawed"]
+    }
+  },
+  "pay": {
+    "v": {
+      "translation": ["支付", "付费", "偿还", "交纳", "受益", "赢利", "付酬", "创收", "付代价"],
+      "singular": ["pays"],
+      "present": ["paying"],
+      "past": ["paid"]
+    },
+    "n": {
+      "translation": ["工资", "薪水"]
+    },
+    "adj": {
+      "translation": ["需付费的", "有关支付的", "矿藏丰富的", "含贵重矿物的"]
+    }
+  },
+  "payment": {
+    "n": {
+      "translation": ["付款", "支付", "(将付或应付的)款额，款项", "收款", "报偿", "报答"],
+      "plural": ["payments"]
+    }
+  },
+  "pea": {
+    "n": {
+      "translation": ["豌豆", "豌豆粒"],
+      "plural": ["peas"]
+    }
+  },
+  "peace": {
+    "n": {
+      "translation": ["和平", "平静", "宁静", "和谐", "安静", "和睦", "太平", "融洽"],
+      "plural": ["peaces"]
+    }
+  },
+  "peaceful": {
+    "adj": {
+      "translation": ["平静的", "和平的", "安静的", "爱好和平的", "寻求和平的", "和睦的", "不诉诸战争(或暴力、争论)的"]
+    }
+  },
+  "peach": {
+    "n": {
+      "translation": ["桃子", "桃", "桃红色", "粉红色", "极好的人(或物)", "特别漂亮的东西(或人)"],
+      "plural": ["peaches"]
+    },
+    "adj": {
+      "translation": ["粉红色的", "桃红色的"]
+    },
+    "v": {
+      "translation": ["<非正式>告密", "〈俚", "口〉揭发"],
+      "singular": ["peaches"],
+      "present": ["peaching"],
+      "past": ["peached"]
+    }
+  },
+  "peak": {
+    "n": {
+      "translation": ["高峰", "顶峰", "山峰", "尖端", "峰峦", "帽舌", "尖头", "尖形"],
+      "plural": ["peaks"]
+    },
+    "vi": {
+      "translation": ["达到高峰", "达到最高值"],
+      "singular": ["peaks"],
+      "present": ["peaking"],
+      "past": ["peaked"]
+    },
+    "adj": {
+      "translation": ["高峰时期的", "巅峰状态的", "最高度的"]
+    }
+  },
+  "pear": {
+    "n": {
+      "translation": ["梨"],
+      "plural": ["pears"]
+    }
+  },
+  "pearl": {
+    "n": {
+      "translation": ["珍珠", "人造珍珠", "(形状或颜色)像珍珠之物", "极有价值的东西"],
+      "plural": ["pearls"]
+    },
+    "adj": {
+      "translation": ["珍珠(制)的", "珍珠似的"]
+    },
+    "v": {
+      "translation": ["使像珍珠", "把(米,麦等)制成小粒", "用珍珠装饰", "使成珍珠色"]
+    }
+  },
+  "peasant": {
+    "n": {
+      "translation": ["农民", "(尤指昔日或贫穷国家的)小农", "佃农", "土包子", "没教养的人", "老粗"],
+      "plural": ["peasants"]
+    }
+  },
+  "pebble": {
+    "n": {
+      "translation": ["卵石", "鹅卵石", "砾石"],
+      "plural": ["pebbles"]
+    },
+    "vt": {
+      "translation": ["用卵石铺", "用石子扔", "使纹理粗糙"],
+      "singular": ["pebbles"],
+      "present": ["pebbling"],
+      "past": ["pebbled"]
+    }
+  },
+  "peculiar": {
+    "adj": {
+      "translation": [
+        "特殊的，特别的", "（某人、某地、某种情况等）特有的", "奇怪的，怪异的，不寻常的", "<口> 有点不舒服的，稍感眩晕的"
+      ]
+    },
+    "n": {
+      "translation": [
+        "专有财产，专有特权", "（英国国教会中不受普通司法机关管辖的）特殊教会（或堂区）", "<印>（常用成套活字外的）特殊活字"
+      ]
+    }
+  },
+  "peel": {
+    "v": {
+      "translation": ["剥", "脱落", "剥(水果、蔬菜等的)皮", "起皮", "剥掉", "揭掉"],
+      "singular": ["peels"],
+      "present": ["peeling"],
+      "past": ["peeled"]
+    },
+    "n": {
+      "translation": ["果皮", "(某些水果、蔬菜的)外皮"],
+      "plural": ["peels"]
+    }
+  },
+  "peep": {
+    "v": {
+      "translation": ["偷窥", "(尤指通过小孔)窥视，偷看", "(使)发出尖细的声音，发出吱吱声", "微露出", "部分现出"],
+      "singular": ["peeps"],
+      "present": ["peeping"],
+      "past": ["peeped"]
+    },
+    "n": {
+      "translation": ["偷偷一瞥", "说话", "出声音", "啾啾声", "嘟嘟声", "嘟嘟"]
+    }
+  },
+  "pen": {
+    "n": {
+      "translation": ["笔", "钢笔", "围栏", "圈", "畜栏"],
+      "plural": ["pens"]
+    },
+    "vt": {
+      "translation": ["写", "(把…)关起来，圈起来"],
+      "singular": ["pens"],
+      "present": ["penning"],
+      "past": ["penned"]
+    }
+  },
+  "pencil": {
+    "n": {
+      "translation": ["铅笔"],
+      "plural": ["pencils"]
+    },
+    "vt": {
+      "translation": ["用铅笔写(或画、作记号)"],
+      "singular": ["pencils"],
+      "present": ["pencilling"],
+      "past": ["pencilled"]
+    }
+  },
+  "penetrate": {
+    "v": {
+      "translation": [
+        "渗透，打入(组织、团体等)", "穿透", "穿过", "进入", "（以阴茎）插入", "洞察", "看透", "被领悟", "透过…看见"
+      ],
+      "singular": ["penetrates"],
+      "present": ["penetrating"],
+      "past": ["penetrated"]
+    }
+  },
+  "peninsula": {
+    "n": {
+      "translation": ["半岛"],
+      "plural": ["peninsulas"]
+    }
+  },
+  "penny": {
+    "n": {
+      "translation": ["分", "便士(英国1971年前使用的硬币，十二便士为一先令)"],
+      "plural": ["pence"]
+    }
+  },
+  "pension": {
+    "n": {
+      "translation": [
+        "养老金，退休金，抚恤金", "（赞助者或政府给艺术家、科学家等的）津贴，补助金，年金", "（欧洲，尤指法国的）廉价小旅店",
+        "<古>工钱"
+      ],
+      "plural": ["pensions"]
+    },
+    "v": {
+      "translation": [
+        "（由于年老或疾病而）使（某人）退休并发放养老金", "发给…养老金（退休金）", "用津贴（或补助金、年金等）拉拢（或收买）",
+        "（因陈旧或不再有用而）丢弃（某物）"
+      ],
+      "singular": ["pensions"],
+      "present": ["pensioning"],
+      "past": ["pensioned"]
+    },
+    "adj": {
+      "translation": ["（有关）养老金（或退职金、抚恤金）的", "（有关）津贴 （或补助金）的"]
+    }
+  },
+  "people": {
+    "n": {
+      "translation": ["人", "人们", "(统称)人民，国民", "民族", "大家", "种族", "家人", "平民", "雇员", "客人"],
+      "plural": ["peoples"]
+    },
+    "vt": {
+      "translation": ["居住在", "把…挤满人", "住满居民"],
+      "singular": ["peoples"],
+      "present": ["peopling"],
+      "past": ["peopled"]
+    }
+  },
+  "pepper": {
+    "n": {
+      "translation": ["胡椒粉", "甜椒", "灯笼椒", "柿子椒"],
+      "plural": ["peppers"]
+    },
+    "vt": {
+      "translation": ["(在食物上)撒胡椒粉"],
+      "singular": ["peppers"],
+      "present": ["peppering"],
+      "past": ["peppered"]
+    }
+  },
+  "per": {
+    "prep": {
+      "translation": ["每，每一", "按照，根据", "通过，经，由", "（纹章）依…的方向"]
+    },
+    "adv": {
+      "translation": ["每次，每个", "照常，按惯例"]
+    },
+    "adj": {
+      "translation": ["<化>高的，过的，全的"]
+    }
+  },
+  "perceive": {
+    "vt": {
+      "translation": ["感知", "认为", "察觉到", "意识到", "注意到", "将…视为", "将…理解为"],
+      "singular": ["perceives"],
+      "present": ["perceiving"],
+      "past": ["perceived"]
+    }
+  },
+  "percent": {
+    "n": {
+      "translation": ["百分比，百分之…", "部分", "<英>利率为…厘的债券（尤指公债）"],
+      "plural": ["percent"]
+    },
+    "adj": {
+      "translation": ["百分之…的，每一百中有…的", "按百分之…支付利息的"]
+    },
+    "adv": {
+      "translation": ["以百分之…地，每一百中有…地"]
+    }
+  },
+  "percentage": {
+    "n": {
+      "translation": ["百分比", "百分率", "提成", "利润的分成"],
+      "plural": ["percentages"]
+    }
+  },
+  "perfect": {
+    "adj": {
+      "translation": [
+        "完美的", "最佳的", "完备的", "优秀的", "准确的", "全部的", "（动词）完成时的，完成体的", "地道的", "正合适",
+        "完全正确的"
+      ]
+    },
+    "vt": {
+      "translation": ["使完善", "使完美", "使完备"],
+      "singular": ["perfects"],
+      "present": ["perfecting"],
+      "past": ["perfected"]
+    },
+    "n": {
+      "translation": ["(动词的)完成时(态)"]
+    }
+  },
+  "perfectly": {
+    "adv": {
+      "translation": ["完全地", "完美地", "十分", "非常", "完好地", "圆满地"]
+    }
+  },
+  "perform": {
+    "v": {
+      "translation": ["执行", "工作，运转(好 / 不好)", "履行", "表演", "演出", "做"],
+      "singular": ["performs"],
+      "present": ["performing"],
+      "past": ["performed"]
+    }
+  },
+  "performance": {
+    "n": {
+      "translation": [
+        "表演，演出", "进行，施行", "表现，性能，业绩，工作情况", "履行，执行，完成", "<口>（可鄙、可笑的）行为，举动",
+        "（完成的）事情，成绩，作品", "艺术上的表现，演技", "演技", "（不必要的）麻烦，忙乱", "语言表现，言语行为"
+      ],
+      "plural": ["performances"]
+    },
+    "adj": {
+      "translation": ["性能卓越的，高性能的"]
+    }
+  },
+  "perfume": {
+    "n": {
+      "translation": ["香水", "香味", "芳香", "馨香"],
+      "plural": ["perfumes"]
+    },
+    "vt": {
+      "translation": ["抹香水", "使香气弥漫", "在…上撒香水"],
+      "singular": ["perfumes"],
+      "present": ["perfuming"],
+      "past": ["perfumed"]
+    }
+  },
+  "perhaps": {
+    "adv": {
+      "translation": ["也许，大概", "也许，如果", "(表示不确定)也许", "(用于粗略的估计)或许", "可能", "大概"]
+    },
+    "n": {
+      "translation": ["假定", "猜想", "未定之事"],
+      "plural": ["perhapses"]
+    }
+  },
+  "period": {
+    "n": {
+      "translation": [
+        "一段时间，时期", "周期", "<数>（周期函数的）周期", "（练习、训练、学习的）时间，时段", "（人生或国家历史的）阶段，时代",
+        "<美口>结束，终止", "课时，学时，节", "（妇女的）经期，月经", "<美> 句号，句点", "<医>病期，病程",
+        "<天>自转（或公转）周期", "（冰球等比赛的）一局", "<音> 乐段，乐节", "完整句（尤指含有若干从句、结 构工整的复合句）",
+        "纪（地质年代，代下分纪）"
+      ],
+      "plural": ["periods"]
+    },
+    "adj": {
+      "translation": ["（服装、家具、乐器）过去的，古代的", "早期的", "具有某个时代特征的"]
+    },
+    "adv": {
+      "translation": ["到此为止，不再说了"]
+    },
+    "int": {
+      "translation": ["就是这话， 就是这么回事"]
+    }
+  },
+  "permanent": {
+    "adj": {
+      "translation": ["永久的", "永恒的", "长久的"]
+    },
+    "n": {
+      "translation": ["烫发（等于permanent wave）"],
+      "plural": ["permanents"]
+    }
+  },
+  "permanently": {
+    "adv": {
+      "translation": ["永久地", "长期", "永远", "一直"]
+    }
+  },
+  "permission": {
+    "n": {
+      "translation": ["许可", "批准", "准许", "书面许可", "许可证"],
+      "plural": ["permissions"]
+    }
+  },
+  "permit": {
+    "n": {
+      "translation": ["许可证", "特许证(尤指限期的)"],
+      "plural": ["permits"]
+    },
+    "v": {
+      "translation": ["允许", "准许", "使有可能"],
+      "singular": ["permits"],
+      "present": ["permitting"],
+      "past": ["permitted"]
+    }
+  },
+  "persist": {
+    "v": {
+      "translation": ["坚持", "持续存在", "保持", "维持"],
+      "singular": ["persists"],
+      "present": ["persisting"],
+      "past": ["persisted"]
+    }
+  },
+  "person": {
+    "n": {
+      "translation": ["人", "个人", "人员", "某人", "人称", "从事…工作(或担任…职务)的人"],
+      "plural": ["people"]
+    }
+  },
+  "personal": {
+    "adj": {
+      "translation": [
+        "个人的", "人身的", "私人的", "个性的", "人际的", "私事的", "针对个人的", "亲自做的", "为某人做的"
+      ]
+    },
+    "n": {
+      "translation": ["人称代名词", "关于个人的简讯", "（报刊上的）人事栏", "分类人事广告版"],
+      "plural": ["personals"]
+    }
+  },
+  "personnel": {
+    "n": {
+      "translation": ["（组织或军队中的）全体人员，职员", "人事部门，人事科（或处等）"],
+      "plural": ["personnels"]
+    },
+    "adj": {
+      "translation": ["人员的, 员工的", "有关人事的，主管人事的"]
+    }
+  },
+  "perspective": {
+    "n": {
+      "translation": ["观点", "态度", "景观", "透视法", "思考方法", "客观判断力", "权衡轻重的能力"],
+      "plural": ["perspectives"]
+    },
+    "adj": {
+      "translation": ["(按照)透视画法的", "透视的"]
+    }
+  },
+  "persuade": {
+    "vt": {
+      "translation": ["说服", "劝说", "使相信", "使信服"],
+      "singular": ["persuades"],
+      "present": ["persuading"],
+      "past": ["persuaded"]
+    }
+  },
+  "pessimistic": {
+    "adj": {
+      "translation": ["悲观的", "悲观主义的"]
+    }
+  },
+  "pet": {
+    "n": {
+      "translation": ["宠物", "宠儿，得宠的人，红人", "（表示喜欢、友好的称呼）宝贝，乖乖", "不高兴，生气"],
+      "plural": ["pets"]
+    },
+    "v": {
+      "translation": ["抚摸，（爱抚地）摩挲", " 宠爱，溺爱", "亲吻，调情，爱抚", "生气"],
+      "singular": ["pets"],
+      "present": ["petting"],
+      "past": ["petted"]
+    },
+    "adj": {
+      "translation": [
+        "很喜欢的，钟爱的", "<口>特别的，格外的，极其的", "宠爱的，宝贝的", "很感兴趣的", "养着赏的，玩赏动物的"
+      ]
+    }
+  },
+  "petrol": {
+    "n": {
+      "translation": ["汽油"],
+      "plural": ["petrols"]
+    }
+  },
+  "petroleum": {
+    "n": {
+      "translation": ["石油", "原油"]
+    }
+  },
+  "phase": {
+    "n": {
+      "translation": ["阶段", "时期", "月相", "(月亮的)盈亏"],
+      "plural": ["phases"]
+    },
+    "vt": {
+      "translation": ["分阶段进行", "逐步做"],
+      "singular": ["phases"],
+      "present": ["phasing"],
+      "past": ["phased"]
+    }
+  },
+  "phenomenon": {
+    "n": {
+      "translation": ["现象", "非凡的人(或事物)", "杰出的人"],
+      "plural": ["phenomena"]
+    }
+  },
+  "philosopher": {
+    "n": {
+      "translation": ["哲学家", "深思的人", "善于思考的人"],
+      "plural": ["philosophers"]
+    }
+  },
+  "philosophy": {
+    "n": {
+      "translation": ["哲学", "人生哲学", "哲学体系", "思想体系", "生活的信条(或态度)"],
+      "plural": ["philosophies"]
+    }
+  },
+  "phone": {
+    "n": {
+      "translation": ["电话", "电话机", "(发声或使用声音的)工具，仪器", "电话系统", "电话听筒", "音子", "说某种语言的"],
+      "plural": ["phones"]
+    },
+    "v": {
+      "translation": ["打电话"],
+      "singular": ["phones"],
+      "present": ["phoning"],
+      "past": ["phoned"]
+    }
+  },
+  "photograph": {
+    "n": {
+      "translation": ["照片", "相片"],
+      "plural": ["photographs"]
+    },
+    "v": {
+      "translation": ["拍照", "照相", "(很、不等)上相，上镜"],
+      "singular": ["photographs"],
+      "present": ["photographing"],
+      "past": ["photographed"]
+    }
+  },
+  "photographic": {
+    "adj": {
+      "translation": ["照片的", "摄影的", "摄制的"]
+    }
+  },
+  "phrase": {
+    "n": {
+      "translation": ["短语", "词组", "成语", "乐句", "习语", "警句", "惯用法", "乐节"],
+      "plural": ["phrases"]
+    },
+    "v": {
+      "translation": ["(以某种方式)表达，措辞，推敲", "划分乐句，分乐节(尤指为奏乐或歌唱)"],
+      "singular": ["phrases"],
+      "present": ["phrasing"],
+      "past": ["phrased"]
+    }
+  },
+  "physician": {
+    "n": {
+      "translation": ["医师", "(尤指)内科医生"],
+      "plural": ["physicians"]
+    }
+  },
+  "physicist": {
+    "n": {
+      "translation": ["物理学家", "物理学研究者"],
+      "plural": ["physicists"]
+    }
+  },
+  "physics": {
+    "n": {
+      "translation": ["物理学"]
+    },
+    "v": {
+      "translation": ["处罚", "治愈", "给…吃药", "给…吃泻药"]
+    }
+  },
+  "piano": {
+    "n": {
+      "translation": ["钢琴", "<俚>大块牛排骨", "<音> 轻声演奏"],
+      "plural": ["pianos"]
+    },
+    "adv": {
+      "translation": ["轻柔地", "安静地", "弱地"]
+    },
+    "adj": {
+      "translation": ["<音> 轻的，弱的", "降低的，减弱的"]
+    }
+  },
+  "pick": {
+    "v": {
+      "translation": ["选择", "挑选", "摘", "采", "(用手指)摘掉，剔除，掐去"],
+      "singular": ["picks"],
+      "present": ["picking"],
+      "past": ["picked"]
+    },
+    "n": {
+      "translation": ["选择", "挑选", "精品", "精华", "选中的人(或物)", "最好的东西"],
+      "plural": ["picks"]
+    }
+  },
+  "picnic": {
+    "n": {
+      "translation": ["野餐", "野餐食物"],
+      "plural": ["picnics"]
+    },
+    "vi": {
+      "translation": ["野餐"],
+      "singular": ["picnics"],
+      "present": ["picnicking"],
+      "past": ["picnicked"]
+    }
+  },
+  "picture": {
+    "n": {
+      "translation": ["照片", "电影", "图画", "描绘", "相片", "状况", "绘画", "电视图像", "电影院", "头脑中的情景"],
+      "plural": ["pictures"]
+    },
+    "vt": {
+      "translation": ["描述", "想象", "设想", "描写", "忆起", "显示在照片上", "用图片显示"],
+      "singular": ["pictures"],
+      "present": ["picturing"],
+      "past": ["pictured"]
+    }
+  },
+  "pie": {
+    "n": {
+      "translation": ["馅饼", "肉馅饼", "果馅饼", "蔬菜馅饼", "果馅派"],
+      "plural": ["pies"]
+    }
+  },
+  "piece": {
+    "n": {
+      "translation": [
+        "块", "部分", "片", "部件", "一件，一篇，一首，一支", "（尤指一套中的）一件，一台", "条", "段", "碎片", "零件",
+        "文章，报道", "棋子", "（某价值的）硬币", "截", "碎块", "枪支", "短距离", "标准的量"
+      ],
+      "plural": ["pieces"]
+    },
+    "v": {
+      "translation": ["接合", "修补", "凑合"],
+      "singular": ["pieces"],
+      "present": ["piecing"],
+      "past": ["pieced"]
+    }
+  },
+  "pierce": {
+    "v": {
+      "translation": ["刺穿", "穿透", "穿过", "刺破", "扎", "突破", "冲破", "透入"],
+      "singular": ["pierces"],
+      "present": ["piercing"],
+      "past": ["pierced"]
+    },
+    "n": {
+      "translation": ["皮尔斯"]
+    }
+  },
+  "pig": {
+    "n": {
+      "translation": ["猪", "令人不快(或讨厌)的人", "贪婪(或肮脏)的人", "对警察的蔑称"],
+      "plural": ["pigs"]
+    },
+    "vt": {
+      "translation": ["吃得过量", "大吃特吃"],
+      "singular": ["pigs"],
+      "present": ["pigging"],
+      "past": ["pigged"]
+    }
+  },
+  "pigeon": {
+    "n": {
+      "translation": ["鸽子"],
+      "plural": ["pigeons"]
+    }
+  },
+  "pile": {
+    "n": {
+      "translation": ["摞", "堆", "大量", "许多", "绒头", "桩", "垛", "沓", "成堆的东西", "宏伟建筑物"],
+      "plural": ["piles"]
+    },
+    "v": {
+      "translation": ["堆放", "放置", "叠放", "蜂拥", "拥挤", "装入", "摞起"],
+      "singular": ["piles"],
+      "present": ["piling"],
+      "past": ["piled"]
+    }
+  },
+  "pill": {
+    "n": {
+      "translation": ["药丸", "药片", "口服避孕药", "讨厌鬼", "讨厌的人"],
+      "plural": ["pills"]
+    },
+    "vi": {
+      "translation": ["起球", "结绒"],
+      "singular": ["pills"],
+      "present": ["pilling"],
+      "past": ["pilled"]
+    }
+  },
+  "pillar": {
+    "n": {
+      "translation": [
+        "支柱", "核心，基础，支柱", "柱子，桥墩(尤指兼作装饰的)", "柱状物", "纪念柱", "台柱子", "富有某种素质的人"
+      ],
+      "plural": ["pillars"]
+    },
+    "v": {
+      "translation": ["用柱子装饰[支持]", "成为…的栋梁"]
+    }
+  },
+  "pillow": {
+    "n": {
+      "translation": ["枕头"],
+      "plural": ["pillows"]
+    },
+    "vt": {
+      "translation": ["枕着(某物)"],
+      "singular": ["pillows"],
+      "present": ["pillowing"],
+      "past": ["pillowed"]
+    }
+  },
+  "pilot": {
+    "n": {
+      "translation": ["飞行员", "(飞行器)驾驶员", "领航员", "领港员", "引水员", "(电视的)试播节目"],
+      "plural": ["pilots"]
+    },
+    "vt": {
+      "translation": ["试点", "使通过(尤指复杂的地方或系统)", "驾驶(飞行器)", "引导", "试行", "领航(船只)"],
+      "singular": ["pilots"],
+      "present": ["piloting"],
+      "past": ["piloted"]
+    },
+    "adj": {
+      "translation": ["试点的", "试验性的"]
+    }
+  },
+  "pin": {
+    "n": {
+      "translation": [
+        "大头针，别针", "（插头的）管脚", "（尤指接骨用的）钉，楔，销，栓", "（有别针的）徽章", "胸针，饰针", "<棋>牵制",
+        "发夹, 发叉", "（高尔夫球场上用以标示洞口的）旗杆", "（接骨用的）钢钉", "个人身份识别号码，私人密码",
+        "（保龄球等的）木瓶，瓶柱", "（弦乐器上调弦用的）弦轴，琴轸", "小东西，无价值的东西", "（手榴弹上的）保险栓，保险针",
+        "（人的）双腿", "<英旧>（容量为4.5加仑的)小啤酒桶"
+      ],
+      "plural": ["pins"]
+    },
+    "vt": {
+      "translation": [
+        "（用大头钉等）固定，别上，钉住", "使依附于，使系于", "<棋>牵制", "使不能动弹，按住，钳住", "把…归罪于，把…归咎于"
+      ],
+      "singular": ["pins"]
+    },
+    "adj": {
+      "translation": ["大头针的，别针的，针的", "销子的，钉子的，闩的", "（皮革）有针头似小点的"]
+    }
+  },
+  "pinch": {
+    "v": {
+      "translation": [
+        "拧，捏，掐", "捏住，夹紧", "收缩，变窄", "使不舒服，使疼痛，使苦恼", "节制，节约，吝惜", "（穿的鞋等）夹痛，挤痛",
+        "<口>逮捕，搜捕，拘留", "使花费过多，使入不敷出", "<主英口>偷取，偷盗（尤指不贵重的物品）", "<海> 棱（帆船）紧抢风",
+        "撮取…放入，少量加入"
+      ],
+      "singular": ["pinches"],
+      "present": ["pinching"],
+      "past": ["pinched"]
+    },
+    "n": {
+      "translation": [
+        "捏，掐，拧", "挤压，挤迫", "一撮，少量", "不舒服，苦恼", "紧要时刻，紧急情况", "<口>逮捕，搜捕", "<口>偷窃，抢劫",
+        "<棒>关键分"
+      ]
+    },
+    "adj": {
+      "translation": ["替代的，替补的", "<棒> 由替补击球员完成的"]
+    }
+  },
+  "pine": {
+    "n": {
+      "translation": ["松树", "松木"],
+      "plural": ["pines"]
+    },
+    "vi": {
+      "translation": ["(因死亡、离别) 难过，悲伤"],
+      "singular": ["pines"],
+      "present": ["pining"],
+      "past": ["pined"]
+    }
+  },
+  "pink": {
+    "n": {
+      "translation": ["粉红色", "石竹", "香石竹"],
+      "plural": ["pinks"]
+    },
+    "adj": {
+      "translation": ["粉红色的", "与同性恋者有关的", "略呈左倾的", "政治观点偏左的"],
+      "comparative": ["pinker"],
+      "superlative": ["pinkest"]
+    },
+    "vi": {
+      "translation": ["发爆声", "敲缸"],
+      "singular": ["pinks"],
+      "present": ["pinking"],
+      "past": ["pinked"]
+    }
+  },
+  "pint": {
+    "n": {
+      "translation": ["一品脱啤酒(尤用于酒吧)", "品脱(容量单位，为⅛加仑，在英国等国家约合0.568升，在美国约合0.473升)"],
+      "plural": ["pints"]
+    }
+  },
+  "pioneer": {
+    "n": {
+      "translation": ["先锋，先驱，带头人", "开发者，拓荒者", "<古>挖掘者，矿工", "先锋队队员", "<主英>（军）轻工兵"],
+      "plural": ["pioneers"]
+    },
+    "v": {
+      "translation": ["开拓，开发，开辟", "当开拓者，做先锋", "倡导", "<生>（植物）移生于，立足于（新地区）", "做先锋"],
+      "singular": ["pioneers"],
+      "present": ["pioneering"],
+      "past": ["pioneered"]
+    },
+    "adj": {
+      "translation": ["先驱的，首创的，最早的", "拓荒者的，开拓者的"]
+    }
+  },
+  "pipe": {
+    "n": {
+      "translation": ["管", "管道", "管子", "烟斗", "烟袋", "管乐器", "（管风琴的）音管"],
+      "plural": ["pipes"]
+    },
+    "v": {
+      "translation": ["用管道输送", "裱花", "尖声地说（或唱）", "用线路系统传输(或传送)", "用管乐器演奏(尤指迎宾曲)"],
+      "singular": ["pipes"],
+      "present": ["piping"],
+      "past": ["piped"]
+    }
+  },
+  "pipeline": {
+    "n": {
+      "translation": ["管道", "输气管道", "输油管道", "输送管线(通常指地下的)"],
+      "plural": ["pipelines"]
+    },
+    "vt": {
+      "translation": ["（通过管道）运输", "传递", "为…安装管道"],
+      "singular": ["pipelines"],
+      "present": ["pipelining"],
+      "past": ["pipelined"]
+    }
+  },
+  "pistol": {
+    "n": {
+      "translation": ["手枪"],
+      "plural": ["pistols"]
+    },
+    "v": {
+      "translation": ["用手枪射击"],
+      "singular": ["pistols"],
+      "present": ["pistoling"],
+      "past": ["pistoled"]
+    }
+  },
+  "pit": {
+    "n": {
+      "translation": ["矿井", "深坑", "麻子", "深洞", "交易场所", "痘瘢", "（赛车道旁的）修理加油站"],
+      "plural": ["pits"]
+    },
+    "vt": {
+      "translation": ["使…表面有斑点", "在…上打洞"],
+      "singular": ["pits"],
+      "present": ["pitting"],
+      "past": ["pitted"]
+    }
+  },
+  "pitch": {
+    "v": {
+      "translation": [
+        "投", "推销", "投球", "当投手", "（使产品或服务）针对，面向", "搭（帐篷）", "颠簸", "抛", "触地", "确定标准",
+        "(使球)定点落地", "击出大曲线球", "用力扔", "重跌", "定音高"
+      ],
+      "singular": ["pitches"],
+      "present": ["pitching"],
+      "past": ["pitched"]
+    },
+    "n": {
+      "translation": [
+        "沥青", "球场", "(尤指乐音的)音高", "投球", "(感情、活动等的)程度，力度", "（船在水上的）上下颠簸，纵摇",
+        "(体育比赛的)场地", "倾斜度", "(事物的)最高点", "街头售货摊点", "推销的话"
+      ],
+      "plural": ["pitches"]
+    }
+  },
+  "pity": {
+    "n": {
+      "translation": ["同情", "怜悯", "(用于表示失望)遗憾，可惜"],
+      "plural": ["pities"]
+    },
+    "vt": {
+      "translation": ["可怜", "怜悯", "同情"],
+      "singular": ["pities"],
+      "present": ["pitying"],
+      "past": ["pitied"]
+    }
+  },
+  "place": {
+    "n": {
+      "translation": [
+        "地方", "位置", "座位，位置，泊位", "地点", "场所", "（小数点后的）位", "家", "段", "身份", "城镇(或建筑物等)",
+        "名次", "恰当位置", "适当的（或安全的）处所", "有某用途的建筑(或土地)", "表面的某处"
+      ],
+      "plural": ["places"]
+    },
+    "v": {
+      "translation": [
+        "(小心或有意)放置，安放", "安置", "（经比较）归类，划分，排名次", "安顿", "认出", "安置家庭（或工作等）",
+        "使(人)处于某位置", "以某种态度对待(或看待)", "下指示"
+      ],
+      "singular": ["places"],
+      "present": ["placing"],
+      "past": ["placed"]
+    }
+  },
+  "plain": {
+    "n": {
+      "translation": ["平原"],
+      "plural": ["plains"]
+    },
+    "adj": {
+      "translation": [
+        "素的", "简单的", "朴素的", "明显的", "（编织）平针的，平纹的", "清楚的", "直接的", "相貌平平的", "浅白的",
+        "直率的", "坦诚的", "极普通的", "不尚修饰的"
+      ],
+      "comparative": ["plainer"],
+      "superlative": ["plainest"]
+    },
+    "adv": {
+      "translation": ["(用于强调)简直，绝对地"]
+    }
+  },
+  "plan": {
+    "n": {
+      "translation": [
+        "计划", "(详细)规划，方案", "设计图，平面图", "打算", "(建筑、城镇等的)详图", "分布图", "精心安排", "投资方式"
+      ],
+      "plural": ["plans"]
+    },
+    "v": {
+      "translation": ["计划", "设计", "组织", "策划", "安排", "打算", "期待", "谋划", "精心安排"],
+      "singular": ["plans"],
+      "present": ["planning"],
+      "past": ["planned"]
+    }
+  },
+  "plane": {
+    "n": {
+      "translation": ["飞机", "平面", "(思想、存在或发展的)水平，程度，阶段，境界", "木工刨"],
+      "plural": ["planes"]
+    },
+    "adj": {
+      "translation": ["平的", "平坦的"]
+    },
+    "v": {
+      "translation": ["滑翔", "擦着水面疾驶", "用刨子刨平"],
+      "singular": ["planes"],
+      "present": ["planing"],
+      "past": ["planed"]
+    }
+  },
+  "planet": {
+    "n": {
+      "translation": ["行星", "地球(尤指环境)"],
+      "plural": ["planets"]
+    }
+  },
+  "plant": {
+    "n": {
+      "translation": ["植物", "(工业用的)大型机器，设备", "工厂", "发电厂", "坐探", "栽赃物品"],
+      "plural": ["plants"]
+    },
+    "vt": {
+      "translation": [
+        "种植", "播种", "栽种", "在(某处)栽种", "（给某人）栽（赃）", "（秘密）放置，安置", "安放", "植根于", "竖立", "使卧底",
+        "立稳"
+      ],
+      "singular": ["plants"],
+      "present": ["planting"],
+      "past": ["planted"]
+    }
+  },
+  "plantation": {
+    "n": {
+      "translation": ["种植园", "种植场(尤指热带国家种植咖啡、甘蔗、橡胶等的大庄园)", "人造林", "木材林地"],
+      "plural": ["plantations"]
+    }
+  },
+  "plaster": {
+    "n": {
+      "translation": ["灰泥", "膏药", "熟石膏", "创可贴", "护创胶布"],
+      "plural": ["plasters"]
+    },
+    "vt": {
+      "translation": [
+        "抹灰", "贴满，遍贴（画片或招贴画）", "用…涂抹", "使头发粘在(头上)", "用灰泥抹(墙等)", "把(头发)梳平"
+      ],
+      "singular": ["plasters"],
+      "present": ["plastering"],
+      "past": ["plastered"]
+    }
+  },
+  "plastic": {
+    "n": {
+      "translation": ["塑料", "信用卡", "塑料学"],
+      "plural": ["plastics"]
+    },
+    "adj": {
+      "translation": ["塑料的", "可塑的", "塑料制的", "有塑性的", "做作的", "虚伪的", "矫饰的"]
+    }
+  },
+  "platform": {
+    "n": {
+      "translation": [
+        "平台", "站台", "（政党的）纲领，政纲，宣言", "机会，阵地，讲坛", "月台", "计算机平台", "舞台", "讲台",
+        "（双层汽车的）上下车出入口，入口平台", "厚鞋底"
+      ],
+      "plural": ["platforms"]
+    },
+    "v": {
+      "translation": ["（在台上）演讲", "把…放在台上", "为…设（平）台"],
+      "singular": ["platforms"],
+      "present": ["platforming"],
+      "past": ["platformed"]
+    }
+  },
+  "play": {
+    "v": {
+      "translation": [
+        "玩", "发挥（作用）", "播放", "扮角色，扮演，表演", "玩耍", "应付，处理", "触，带，踢，击（球）", "上演",
+        "（在运动队中）担当，充任", "走（子）", "弹拨，吹奏（乐器）", "参加比赛", "捉弄", "(为玩耍)假装", "戏弄", "出牌",
+        "闪烁", "假扮", "喷涌", "派…出场"
+      ],
+      "singular": ["plays"],
+      "present": ["playing"],
+      "past": ["played"]
+    },
+    "n": {
+      "translation": [
+        "游戏", "比赛", "活动", "玩耍", "戏剧", "间隙", "娱乐", "剧本", "比赛中的表现", "轻快变幻的动作", "比赛中的动作"
+      ]
+    }
+  },
+  "player": {
+    "n": {
+      "translation": [
+        "游戏者", "运动员", "(商业或政治方面的)参与者，竞争者，玩家", "播放机", "演奏者", "演员", "参赛选手"
+      ],
+      "plural": ["players"]
+    }
+  },
+  "playground": {
+    "n": {
+      "translation": ["(尤指学校或公园中的)游戏场，游乐场", "操场", "(某些集体聚会游乐的)园地，天地，活动场所"],
+      "plural": ["playgrounds"]
+    }
+  },
+  "pleasant": {
+    "adj": {
+      "translation": ["令人愉快的", "宜人的", "友好的", "吸引人的", "文雅的", "可喜的", "和善的"],
+      "comparative": ["pleasanter"],
+      "superlative": ["pleasantest"]
+    }
+  },
+  "please": {
+    "int": {
+      "translation": [
+        "(用于客气地请求或吩咐)请，请问", "(用于加强请求或陈述的语气)请千万，请务必，的确",
+        "(表示接受的客气话)太感谢了，太好了", "得了吧，算了吧", "别闹了，收敛点儿"
+      ]
+    },
+    "v": {
+      "translation": ["(常用在as或what、 where等词后)想，选择，喜欢", "使满意", "使愉快"],
+      "singular": ["pleases"],
+      "present": ["pleasing"],
+      "past": ["pleased"]
+    }
+  },
+  "pleasure": {
+    "n": {
+      "translation": ["高兴，快乐，愉快，欣慰，满意", "有幸（做），荣幸", "玩乐，休闲，娱乐，消遣", "乐事，快事", "<书>意愿，愿望"],
+      "plural": ["pleasures"]
+    },
+    "v": {
+      "translation": ["使高兴，使满意觉得高兴", "享受，寻欢作乐", "使获得性满足，与…性交"],
+      "singular": ["pleasures"],
+      "present": ["pleasuring"],
+      "past": ["pleasured"]
+    }
+  },
+  "plentiful": {
+    "adj": {
+      "translation": ["大量的", "丰富的", "充足的", "众多的"]
+    }
+  },
+  "plenty": {
+    "pron": {
+      "translation": ["大量", "充足", "众多"]
+    },
+    "adv": {
+      "translation": ["大量", "很多", "非常", "十分", "足够有余", "很"]
+    },
+    "n": {
+      "translation": ["充裕", "富裕"],
+      "plural": ["plenties"]
+    },
+    "det": {
+      "translation": ["很多", "大量"]
+    },
+    "adj": {
+      "translation": ["很多的", "足够的"]
+    }
+  },
+  "plot": {
+    "n": {
+      "translation": ["情节", "阴谋", "密谋", "故事情节", "布局", "(专用的)小块土地"],
+      "plural": ["plots"]
+    },
+    "v": {
+      "translation": ["绘制(图表)", "绘制（曲线）", "密谋", "(在地图上)标出", "暗中策划", "设计情节"],
+      "singular": ["plots"],
+      "present": ["plotting"],
+      "past": ["plotted"]
+    }
+  },
+  "plough": {
+    "n": {
+      "translation": ["犁", "北斗七星", "大熊星座"],
+      "plural": ["ploughs"]
+    },
+    "v": {
+      "translation": ["犁(田)", "耕(地)", "翻(土)"],
+      "singular": ["ploughs"],
+      "present": ["ploughing"],
+      "past": ["ploughed"]
+    }
+  },
+  "pluck": {
+    "v": {
+      "translation": ["摘", "拔", "弹，弹拨(乐器的弦)", "拔掉，退去(死禽的毛)", "抢夺", "解救"],
+      "singular": ["plucks"],
+      "present": ["plucking"],
+      "past": ["plucked"]
+    },
+    "n": {
+      "translation": ["胆识", "胆量", "意志"],
+      "plural": ["plucks"]
+    }
+  },
+  "plug": {
+    "n": {
+      "translation": ["插头", "(电源)插座", "塞子", "栓塞", "转换插头", "推销", "螺钉楔子，螺钉塞栓"],
+      "plural": ["plugs"]
+    },
+    "vt": {
+      "translation": ["堵塞", "封堵", "供给", "补充", "宣传", "推广", "射击", "补足"],
+      "singular": ["plugs"],
+      "present": ["plugging"],
+      "past": ["plugged"]
+    }
+  },
+  "plunge": {
+    "v": {
+      "translation": [
+        "（骤然或鲁莽地）陷入", "暴跌，骤降，突降", "（猛力）把…投入（或插入、刺进）", "（专注而认真地）开始从事，投身",
+        "（剧烈）颠簸，震荡", "（使）突然陷入，（使）突然遭受", "（尤指向水中）纵身投入，一头进入", "陡峭地向下倾斜", "猛冲向",
+        "使突然前冲（或下落）", "把（盆栽植物）齐盆边埋入土中", "（马）扬起后蹄奔窜", "<口>狂赌，大做投机", "（女衣领口）开得很低"
+      ],
+      "singular": ["plunges"],
+      "present": ["plunging"],
+      "past": ["plunged"]
+    },
+    "n": {
+      "translation": [
+        "（价格、数量的）暴跌，猛降，骤减", "跳水，投身入水", "卷入，参与", "阵雨", "突然跌落，突然分离", "开始从事，突然的开始",
+        "<口>鲁莽的投资（或投机）"
+      ]
+    }
+  },
+  "plural": {
+    "adj": {
+      "translation": ["复数的", "多元的", "复数形式的", "多样的"]
+    },
+    "n": {
+      "translation": ["(名词或动词的)复数，复数形式"],
+      "plural": ["plurals"]
+    }
+  },
+  "plus": {
+    "prep": {
+      "translation": ["加", "和", "外加", "也"]
+    },
+    "n": {
+      "translation": ["加号", "优势", "好处", "长处"],
+      "plural": ["plusses"]
+    },
+    "adj": {
+      "translation": ["(用于数字后表示实际数量较大)多，余", "好的", "优点的", "略高于（A、B等）", "零上", "零度以上"]
+    },
+    "conj": {
+      "translation": ["此外", "而且", "况且"]
+    }
+  },
+  "pm": {
+    "n": {
+      "translation": ["首相，总理(全写为prime minister)"],
+      "plural": ["PMs"]
+    }
+  },
+  "pocket": {
+    "n": {
+      "translation": [
+        "口袋", "兜", "资金", "衣袋", "财力", "(附在车门上、提包内等的)小口袋，小容器", "钱财", "球袋", "（与周围不同的）小组织，小区域"
+      ],
+      "plural": ["pockets"]
+    },
+    "vt": {
+      "translation": ["中饱私囊", "挣", "攫取", "把…放进衣袋", "揩油", "击（球）入球袋", "赚下"],
+      "singular": ["pockets"],
+      "present": ["pocketing"],
+      "past": ["pocketed"]
+    },
+    "adj": {
+      "translation": ["小型的", "秘密的", "金钱上的"]
+    }
+  },
+  "poet": {
+    "n": {
+      "translation": ["诗人"],
+      "plural": ["poets"]
+    }
+  },
+  "poetry": {
+    "n": {
+      "translation": ["诗", "诗集", "诗意", "诗作", "美好的品质", "优雅的气质"]
+    }
+  },
+  "point": {
+    "v": {
+      "translation": ["指向", "（意思上）指向", "指", "朝向", "瞄准", "（用灰泥）抹砖缝，勾缝", "对着", "指路"],
+      "singular": ["points"],
+      "present": ["pointing"],
+      "past": ["pointed"]
+    },
+    "n": {
+      "translation": [
+        "（单位）点", "点，磅值", "观点", "要点", "重点", "时刻", "目的", "特点", "得分", "尖端", "理由", "论点", "道岔",
+        "（电源）插座", "小数点", "意图", "光点", "见解", "核心问题", "岬角", "具体细节（或事实）",
+        "（罗盘上的）罗经点，方位点", "某地方"
+      ],
+      "plural": ["points"]
+    }
+  },
+  "poison": {
+    "n": {
+      "translation": [
+        "毒药，毒物，毒素", "<化>抑制剂", "<核>中子吸收剂", "<俚>烈性酒，劣酒", "极有害的思想(或心情等)，精神毒药",
+        "令人厌恶的事物（或人）"
+      ],
+      "plural": ["poisons"]
+    },
+    "vt": {
+      "translation": [
+        "污染（环境）", "毒死，毒害", "毒化，危害，使恶化", "下毒，在…中放毒", "<化>减弱，抑制", "<核>做中子中和剂"
+      ],
+      "singular": ["poisons"],
+      "present": ["poisoning"],
+      "past": ["poisoned"]
+    },
+    "adj": {
+      "translation": ["有毒的，引起中毒的", "恶毒的，刻毒的"]
+    }
+  },
+  "poisonous": {
+    "adj": {
+      "translation": ["有毒的", "引起中毒的", "恶毒的", "邪恶的", "分泌毒素的", "极端讨厌(或不友善)的", "能毒伤人的"]
+    }
+  },
+  "pole": {
+    "n": {
+      "translation": ["波兰人（Pole）"],
+      "plural": ["poles"]
+    },
+    "v": {
+      "translation": ["用篙撑船", "摆船"],
+      "singular": ["Poles"],
+      "present": ["poling"],
+      "past": ["poled"]
+    }
+  },
+  "police": {
+    "n": {
+      "translation": ["警方", "警察部门"]
+    },
+    "vt": {
+      "translation": ["监督", "管制", "巡查", "维护治安"],
+      "singular": ["polices"],
+      "present": ["policing"],
+      "past": ["policed"]
+    }
+  },
+  "policeman": {
+    "n": {
+      "translation": ["警察", "男警察"],
+      "plural": ["policemen"]
+    }
+  },
+  "policy": {
+    "n": {
+      "translation": ["政策", "方针", "原则", "保险单", "为人之道"],
+      "plural": ["policies"]
+    }
+  },
+  "polish": {
+    "v": {
+      "translation": ["磨光", "润色", "修改", "润饰", "擦光"],
+      "singular": ["polishes"],
+      "present": ["polishing"],
+      "past": ["polished"]
+    },
+    "n": {
+      "translation": [
+        "抛光", "擦亮", "上光", "（表演的）完美，娴熟，精湛", "上光剂", "文雅", "擦光剂", "亮光剂", "打磨光亮的面", "擦光的面"
+      ]
+    },
+    "adj": {
+      "translation": ["波兰(人)的", "波兰语(的)"]
+    }
+  },
+  "polite": {
+    "adj": {
+      "translation": ["有礼貌的", "客气的", "上流社会的", "客套的", "礼节性的", "应酬的", "儒雅的"],
+      "comparative": ["politer"],
+      "superlative": ["politest"]
+    }
+  },
+  "political": {
+    "adj": {
+      "translation": ["政治的", "政府的", "政党的", "政权的", "党派的", "关心政治的", "政治上活跃的", "争权夺利的"]
+    }
+  },
+  "politician": {
+    "n": {
+      "translation": ["政客", "政治家", "从政者", "投机钻营者", "见风驶舵者"],
+      "plural": ["politicians"]
+    }
+  },
+  "politics": {
+    "n": {
+      "translation": ["政治", "政治事务(或活动)", "(个人的)政治观点，政见，政治信仰", "权术", "政治思想体系", "钩心斗角"]
+    },
+    "v": {
+      "translation": ["(贬)从事政治活动"]
+    }
+  },
+  "pollute": {
+    "vt": {
+      "translation": ["污染", "弄脏"],
+      "singular": ["pollutes"],
+      "present": ["polluting"],
+      "past": ["polluted"]
+    }
+  },
+  "pollution": {
+    "n": {
+      "translation": ["污染", "污染物", "垃圾", "噪音污染", "玷污", "弄脏", "秽物", "(夜间扰人的)强烈灯光"]
+    }
+  },
+  "pond": {
+    "n": {
+      "translation": ["池塘(尤指人工的)"],
+      "plural": ["ponds"]
+    },
+    "v": {
+      "translation": ["把…挖成池塘", "堵(溪流)水成池 (back", " up)"]
+    }
+  },
+  "pool": {
+    "n": {
+      "translation": [
+        "水塘", "池塘(尤指自然形成的)", "普尔", "一滩(液体)", "水坑", "（统称）备用人员", "一小片(液体或光)", "共用的资源(或资金)"
+      ],
+      "plural": ["pools"]
+    },
+    "vt": {
+      "translation": ["集中资源(或材料等)"],
+      "singular": ["pools"],
+      "present": ["pooling"],
+      "past": ["pooled"]
+    }
+  },
+  "poor": {
+    "adj": {
+      "translation": [
+        "贫穷的", "穷人", "可怜的", "缺乏", "贫困者", "劣质的", "不幸的", "贫寒的", "清贫的", "不擅长的", "令人同情的"
+      ],
+      "comparative": ["poorer"],
+      "superlative": ["poorest"]
+    },
+    "n": {
+      "translation": ["穷人", "贫困者"]
+    }
+  },
+  "pop": {
+    "n": {
+      "translation": ["流行音乐", "汽水", "(短促清脆的爆裂声)砰", "(尤用作称呼)爸，爹", "流行乐曲"],
+      "plural": ["pops"]
+    },
+    "v": {
+      "translation": [
+        "(突然或匆匆)去", "(使)爆裂，发爆裂声", "（让人意外地）突然出现", "（迅速或突然）放置",
+        "（因激动、惊奇）张大，睁大，瞪起", "（经常）服药，用毒品", "(使)发砰砰声", "耳压变化"
+      ],
+      "singular": ["pops"],
+      "present": ["popping"],
+      "past": ["popped"]
+    },
+    "adj": {
+      "translation": ["流行音乐的", "通俗的", "现代的", "通俗风格的"]
+    },
+    "adv": {
+      "translation": ["突然", "砰地"]
+    },
+    "abbr": {
+      "translation": ["(= printing-out paper ) (利用光照直接显影的)印相纸"]
+    }
+  },
+  "popular": {
+    "adj": {
+      "translation": ["受喜爱的，受欢迎的", "流行的，当红的", "通俗的，大众的，普遍的", "民众的，百姓的"]
+    },
+    "n": {
+      "translation": ["<英>通俗报刊"]
+    }
+  },
+  "population": {
+    "n": {
+      "translation": ["(地区、国家等的)人口，人口数量", "人口", "族群", "(统称)某领域的生物"],
+      "plural": ["populations"]
+    }
+  },
+  "porch": {
+    "n": {
+      "translation": ["门廊", "门厅"],
+      "plural": ["porches"]
+    }
+  },
+  "pork": {
+    "n": {
+      "translation": ["猪肉"]
+    }
+  },
+  "porridge": {
+    "n": {
+      "translation": ["粥", "麦片粥", "面糊"]
+    }
+  },
+  "port": {
+    "n": {
+      "translation": [
+        "（输出或输入）端口", "港口", "口岸", "港口城市", "（船、飞机等的）左舷", "波尔图葡萄酒(葡萄牙产)", "避风港", "港市",
+        "一杯波尔图葡萄酒"
+      ],
+      "plural": ["ports"]
+    },
+    "vt": {
+      "translation": ["移植(软件)"]
+    }
+  },
+  "portable": {
+    "adj": {
+      "translation": ["便携式的", "手提的", "轻便的"]
+    },
+    "n": {
+      "translation": ["便携机", "(尤指)手提电脑，便携式电视机"],
+      "plural": ["portables"]
+    }
+  },
+  "porter": {
+    "n": {
+      "translation": [
+        "搬运工人", "门房", "(尤指火车站、机场或旅馆)行李员，搬运工", "门卫", "(医院里护送病人的)护工", "列车服务员"
+      ],
+      "plural": ["porters"]
+    }
+  },
+  "portion": {
+    "n": {
+      "translation": ["部分", "(食物的)一份，一客", "分享的部分", "分担的责任"],
+      "plural": ["portions"]
+    },
+    "vt": {
+      "translation": ["把…分成若干份(或部分)"],
+      "singular": ["portions"],
+      "present": ["portioning"],
+      "past": ["portioned"]
+    }
+  },
+  "portrait": {
+    "n": {
+      "translation": ["肖像", "描绘", "半身照", "半身画像", "详细的描述"],
+      "plural": ["portraits"]
+    },
+    "adj": {
+      "translation": ["竖向的", "纵向打印格式的"]
+    }
+  },
+  "portuguese": {
+    "adj": {
+      "translation": ["葡萄牙的"]
+    },
+    "n": {
+      "translation": ["葡萄牙人", "葡萄牙语"],
+      "plural": ["Portugueses"]
+    }
+  },
+  "position": {
+    "n": {
+      "translation": [
+        "位置", "（队员的）职责，位置，角色", "地位", "职位", "(坐、立的)姿态，姿势", "地方", "阵地", "观点", "正确位置",
+        "处境", "恰当位置", "名次", "放置方式"
+      ],
+      "plural": ["positions"]
+    },
+    "vt": {
+      "translation": ["使处于", "安装", "安置"],
+      "singular": ["positions"],
+      "present": ["positioning"],
+      "past": ["positioned"]
+    }
+  },
+  "positive": {
+    "adj": {
+      "translation": [
+        "积极乐观的", "完全的", "良好的", "正数的", "建设性的", "正电的", "自信的", "阳性的", "拥护的", "表示赞同的",
+        "有绝对把握", "证据确凿的", "朝着成功的"
+      ]
+    },
+    "n": {
+      "translation": ["优势", "优点", "阳性结果(或反应)", "正片"],
+      "plural": ["positives"]
+    }
+  },
+  "possess": {
+    "vt": {
+      "translation": ["具有(特质)", "拥有", "有", "控制", "支配", "攫住", "使言行失常"],
+      "singular": ["possesses"],
+      "present": ["possessing"],
+      "past": ["possessed"]
+    }
+  },
+  "possession": {
+    "n": {
+      "translation": ["具有", "拥有", "殖民地", "个人财产", "私人物品", "持有违禁物", "控球状态", "鬼魂缠身"],
+      "plural": ["possessions"]
+    }
+  },
+  "possibility": {
+    "n": {
+      "translation": ["可能", "可能性", "机会", "潜力", "契机", "可选择的方法"],
+      "plural": ["possibilities"]
+    }
+  },
+  "possible": {
+    "adj": {
+      "translation": [
+        "可能的", "可能", "（用于形容词后表示强调）最好的（或最差的等）", "合理的", "可能存在(或发生)的", "可接受的",
+        "能做到(或取得)"
+      ]
+    },
+    "n": {
+      "translation": ["合适的人(或物)", "恰当人选(或事项)"],
+      "plural": ["possibles"]
+    }
+  },
+  "possibly": {
+    "adv": {
+      "translation": ["可能", "尽量", "或许", "可能地", "表示委婉的请求", "强调惊奇、恼怒等"]
+    }
+  },
+  "post": {
+    "n": {
+      "translation": [
+        "邮递，邮政，邮寄", "柱", "职位", "帖子，博文", "邮寄的信函(或包裹等)，邮件", "邮报", "哨所", "<美>派驻",
+        "<古>驿站，驿马", "（赛马的）终点，终点标志", "（半定居地区的）贸易站", "<古>邮差，邮车，邮船", "<美>驻军，岗警",
+        "收集（或投递）邮件的时间，邮班", "（证券交易所的）交易台", "地方军事组织"
+      ],
+      "plural": ["posts"]
+    },
+    "vt": {
+      "translation": [
+        "发布，公布，宣布", "张贴", "邮寄，寄", "交付（保释金）", "把(信件等)投入邮筒，投递", "派驻，使驻守", "赶紧，加速",
+        "把…放入(或塞入)", "设岗", "<美>押（赌金"
+      ],
+      "singular": ["posts"],
+      "present": ["posting"],
+      "past": ["posted"]
+    },
+    "adv": {
+      "translation": ["用邮寄，以快递方式", ".急速地"]
+    }
+  },
+  "postage": {
+    "n": {
+      "translation": ["邮费", "邮资"]
+    }
+  },
+  "postman": {
+    "n": {
+      "translation": ["邮递员", "邮差"],
+      "plural": ["postmen"]
+    }
+  },
+  "postpone": {
+    "vt": {
+      "translation": ["推迟", "延期", "延迟", "展缓"],
+      "singular": ["postpones"],
+      "present": ["postponing"],
+      "past": ["postponed"]
+    }
+  },
+  "pot": {
+    "n": {
+      "translation": [
+        "锅", "(盛食品的)罐，瓶，壶", "(某种用途的)容器", "一罐，一瓶，一壶（的量）", "<口>大麻", "（钱等的）大量", "<英>坑",
+        "便壶，<粗>抽水马桶", "陶盆", "（扑克牌戏的）一局 ", "捕鱼篓，捕虾笼", "赌注总额，全部赌注", "击球入袋",
+        "凑集的资金", "（全部赌徒）一次押下的赌注总数"
+      ],
+      "plural": ["pots"]
+    },
+    "vt": {
+      "translation": [
+        "制作（陶器）", "得分，射门", "射杀，射猎(飞禽或走兽)", "把…栽入盆中", "种盆栽", "把（电子元件）封闭于绝缘容器",
+        "击（台球）入袋", "<口>服侍（小孩）坐便盆", "将（食物）用密封罐煮（或储存）"
+      ],
+      "singular": ["pots"],
+      "present": ["potting"],
+      "past": ["potted"]
+    }
+  },
+  "potato": {
+    "n": {
+      "translation": ["马铃薯", "土豆", "洋芋"],
+      "plural": ["potatoes"]
+    }
+  },
+  "potential": {
+    "adj": {
+      "translation": ["潜在的", "可能的"]
+    },
+    "n": {
+      "translation": ["电位", "潜力", "电势", "电压", "可能性", "潜质", "潜在性"],
+      "plural": ["potentials"]
+    }
+  },
+  "pound": {
+    "n": {
+      "translation": [
+        "磅", "镑(英国以外某些国家的货币单位)", "英镑(英国货币单位，等于100便士)", "违章停车车辆扣留场", "流浪狗收留所",
+        "英镑与外币的比值"
+      ],
+      "plural": ["pounds"]
+    },
+    "v": {
+      "translation": [
+        "捣碎", "(心脏)狂跳", "怦怦地跳", "狂轰滥炸", "大声播放", "连续砰砰地猛击", "反复击打", "咚咚地走"
+      ],
+      "singular": ["pounds"],
+      "present": ["pounding"],
+      "past": ["pounded"]
+    }
+  },
+  "pour": {
+    "v": {
+      "translation": [
+        "倒", "倾倒", "倾泻", "斟(饮料)", "（雨）倾盆而下", "喷发", "涌流", "不断涌向（或涌现）", "使(液体)连续流出"
+      ],
+      "singular": ["pours"],
+      "present": ["pouring"],
+      "past": ["poured"]
+    },
+    "n": {
+      "translation": ["大雨", "浇注", "(已熔金属的)一次浇注量", "流出"]
+    }
+  },
+  "poverty": {
+    "n": {
+      "translation": ["贫穷", "贫困", "贫乏", "短缺", "劣质"]
+    }
+  },
+  "powder": {
+    "n": {
+      "translation": ["粉", "粉末", "扑面粉", "美容粉", "细面"],
+      "plural": ["powders"]
+    },
+    "vt": {
+      "translation": ["搽粉", "抹粉"],
+      "singular": ["powders"],
+      "present": ["powdering"],
+      "past": ["powdered"]
+    }
+  },
+  "power": {
+    "n": {
+      "translation": [
+        "权力", "功率", "能", "能力", "力", "电力供应", "大量", "统治，政权", "幂，乘方", "影响力", "机会",
+        "（全部）体力，智力", "控制力", "放大倍数", "操纵力", "有影响力的大国", "某方面的力量（或影响）"
+      ],
+      "plural": ["powers"]
+    },
+    "v": {
+      "translation": ["驱动，推动（机器或车辆）", "（使）启动", "促进，推动", "（使）迅猛移动，快速前进", "为（机器）装发动机"],
+      "singular": ["powers"],
+      "present": ["powering"],
+      "past": ["powered"]
+    },
+    "adj": {
+      "translation": ["电力的，输电的", "权力的", "动力驱动的，有助力装置的", "<体>力量型的"]
+    }
+  },
+  "powerful": {
+    "adj": {
+      "translation": [
+        "强大的", "很有效的", "强有力的", "有权势的", "有影响力的", "健壮的", "力量大的", "(对身心)有强烈作用的，效力大的"
+      ]
+    },
+    "adv": {
+      "translation": ["很"]
+    }
+  },
+  "practical": {
+    "adj": {
+      "translation": [
+        "实际的", "适用的", "切实可行的", "有用的", "真实的", "明智的", "几乎完全的", "客观存在的", "心灵手巧的"
+      ]
+    },
+    "n": {
+      "translation": ["实习课", "实践课", "实验考核"],
+      "plural": ["practicals"]
+    }
+  },
+  "practice": {
+    "n": {
+      "translation": [
+        "实践", "（医生、律师的）工作，业务活动，工作地点", "惯例", "训练", "习俗", "习惯", "常规", "实际行动", "通常的做法",
+        "惯常做的事"
+      ],
+      "plural": ["practices"]
+    },
+    "v": {
+      "translation": ["练习", "实行", "实习"],
+      "singular": ["practices"],
+      "present": ["practicing"],
+      "past": ["practiced"]
+    }
+  },
+  "practise": {
+    "v": {
+      "translation": ["练习", "执业", "从事(医务工作、法律专业等)", "训练", "实习", "养成…的习惯", "经常做"],
+      "singular": ["practises"],
+      "present": ["practising"],
+      "past": ["practised"]
+    }
+  },
+  "praise": {
+    "n": {
+      "translation": ["赞扬", "赞美", "称赞", "(对上帝的)颂扬，赞颂"]
+    },
+    "vt": {
+      "translation": ["赞扬", "称赞", "表扬", "颂扬，赞颂(上帝)"],
+      "singular": ["praises"],
+      "present": ["praising"],
+      "past": ["praised"]
+    }
+  },
+  "pray": {
+    "v": {
+      "translation": ["祈祷", "祷告", "祈望", "企盼"],
+      "singular": ["prays"],
+      "present": ["praying"],
+      "past": ["prayed"]
+    },
+    "adv": {
+      "translation": ["(用于询问或指示)请问，请"]
+    }
+  },
+  "prayer": {
+    "n": {
+      "translation": ["祈祷(的行为)", "祷告(的内容)", "祈祷文", "祈祷会", "经文", "企盼的事"],
+      "plural": ["prayers"]
+    }
+  },
+  "precaution": {
+    "n": {
+      "translation": ["预防", "预防措施", "防备", "避孕措施"],
+      "plural": ["precautions"]
+    }
+  },
+  "preceding": {
+    "v": {
+      "translation": ["先于", "在…之前发生(或出现)", "走在…前面"]
+    },
+    "adj": {
+      "translation": ["在前的", "前面的"]
+    }
+  },
+  "precious": {
+    "adj": {
+      "translation": [
+        "珍贵的", "宝贵的", "被珍惜的", "珍稀的", "珍奇的", "（表示气愤）宝贝似的", "受珍爱的", "道貌岸然的"
+      ]
+    },
+    "adv": {
+      "translation": ["强调极少或太少"]
+    },
+    "n": {
+      "translation": ["可爱的人", "女子名"]
+    }
+  },
+  "precision": {
+    "n": {
+      "translation": ["精确", "准确", "细致"]
+    },
+    "adj": {
+      "translation": ["精确的"]
+    }
+  },
+  "predict": {
+    "v": {
+      "translation": ["预测", "预报", "预言", "预告"],
+      "singular": ["predicts"],
+      "present": ["predicting"],
+      "past": ["predicted"]
+    }
+  },
+  "preface": {
+    "n": {
+      "translation": ["前言", "(书的)序言"],
+      "plural": ["prefaces"]
+    },
+    "vt": {
+      "translation": ["为…写序言", "以…为开端", "作…的开场白"],
+      "singular": ["prefaces"],
+      "present": ["prefacing"],
+      "past": ["prefaced"]
+    }
+  },
+  "prefer": {
+    "v": {
+      "translation": ["更喜欢", "较喜欢", "喜欢…多于…"],
+      "singular": ["prefers"],
+      "present": ["preferring"],
+      "past": ["preferred"]
+    }
+  },
+  "preferable": {
+    "adj": {
+      "translation": ["更可取", "较适合"]
+    }
+  },
+  "preference": {
+    "n": {
+      "translation": ["偏爱", "喜爱", "爱好", "偏爱的事物", "最喜爱的东西"],
+      "plural": ["preferences"]
+    }
+  },
+  "prejudice": {
+    "n": {
+      "translation": ["偏见", "成见"],
+      "plural": ["prejudices"]
+    },
+    "vt": {
+      "translation": ["损害", "有损于", "使怀有(或形成)偏见"],
+      "singular": ["prejudices"],
+      "present": ["prejudicing"],
+      "past": ["prejudiced"]
+    }
+  },
+  "preliminary": {
+    "adj": {
+      "translation": ["预备性的, 初步的, 开始的"]
+    },
+    "n": {
+      "translation": ["准备工作, 初步行动(或活动)", "预试, 预赛", "序言, 开场白"],
+      "plural": ["preliminaries"]
+    },
+    "adv": {
+      "translation": ["初步地, 作为起始/预备地"]
+    }
+  },
+  "premier": {
+    "n": {
+      "translation": ["总理", "(尤用于报章等)首相", "(加拿大的)省总理", "地区总理"],
+      "plural": ["premiers"]
+    },
+    "adj": {
+      "translation": ["第一的", "首要的", "最著名的", "最成功的"]
+    }
+  },
+  "preparation": {
+    "n": {
+      "translation": ["准备", "(医药、化妆品等)配制品，制剂", "准备工作", "预备"],
+      "plural": ["preparations"]
+    }
+  },
+  "prepare": {
+    "v": {
+      "translation": ["准备", "做(饭)", "调制，配制（药品等）", "预备(饭菜)", "使(自己)有准备", "防范", "把…预备好"],
+      "singular": ["prepares"],
+      "present": ["preparing"],
+      "past": ["prepared"]
+    }
+  },
+  "preposition": {
+    "n": {
+      "translation": ["介词"],
+      "plural": ["prepositions"]
+    }
+  },
+  "prescribe": {
+    "vt": {
+      "translation": ["规定", "开(处方)", "给…开(药)", "让…采用(疗法)", "命令", "指示", "开药方"],
+      "singular": ["prescribes"],
+      "present": ["prescribing"],
+      "past": ["prescribed"]
+    }
+  },
+  "presence": {
+    "n": {
+      "translation": [
+        "在场", "出现", "存在", "出席", "(尤指执行任务的)部队", "仪态", "(派遣的)一个队", "感觉在附近的人（或鬼魂）"
+      ],
+      "plural": ["presences"]
+    }
+  },
+  "present": {
+    "n": {
+      "translation": ["目前", "现在", "礼物", "礼品"],
+      "plural": ["presents"]
+    },
+    "adj": {
+      "translation": ["存在", "当前的", "出现", "出席", "在场", "现存的"]
+    },
+    "vt": {
+      "translation": [
+        "提出", "(以某种方式)展现，显示，表现", "表达，表示", "提交", "使发生", "颁发", "交付", "授予", "把…交给", "上演",
+        "正式介绍", "突然出现", "主持播放", "正式出席"
+      ],
+      "singular": ["presents"],
+      "present": ["presenting"],
+      "past": ["presented"]
+    }
+  },
+  "presently": {
+    "adv": {
+      "translation": ["目前", "现在", "眼下", "此刻", "表示马上就已发生了", "表示即将发生"]
+    }
+  },
+  "preserve": {
+    "vt": {
+      "translation": ["保存", "保护", "保留", "维护", "保鲜", "保养", "贮存", "维持…的原状", "使继续存活"],
+      "singular": ["preserves"],
+      "present": ["preserving"],
+      "past": ["preserved"]
+    },
+    "n": {
+      "translation": ["果酱", "泡菜", "腌菜", "(某人或群体活动、工作等的)专门领域", "私人渔猎场（或保留地）"]
+    }
+  },
+  "press": {
+    "v": {
+      "translation": [
+        "按", "(被)压", "推", "施加压力", "坚持", "把…压成", "把…压平", "催促", "熨平", "紧握（某人的手或臂）",
+        "（向…）拥挤，推搡着移动", "把…榨汁", "将…塞进"
+      ],
+      "singular": ["presses"],
+      "present": ["pressing"],
+      "past": ["pressed"]
+    },
+    "n": {
+      "translation": [
+        "挤压", "出版社", "记者", "报道", "新闻界", "印刷机", "报刊", "评论", "新闻工作者", "印刷媒体", "报章杂志",
+        "（分层）大壁橱，衣柜，书柜，碗柜", "拥挤的人群（或大批事物）", "压平机"
+      ],
+      "plural": ["presses"]
+    }
+  },
+  "pressure": {
+    "n": {
+      "translation": ["压力", "压强", "大气压", "挤压", "心理压力", "催促"],
+      "plural": ["pressures"]
+    },
+    "vt": {
+      "translation": ["使（机舱等）增压", "施加压力", "迫使"],
+      "singular": ["pressures"],
+      "present": ["pressuring"],
+      "past": ["pressured"]
+    }
+  },
+  "pretend": {
+    "v": {
+      "translation": ["假装", "佯装", "(在游戏中)装扮，扮作，模拟", "自称", "自诩", "自认为"],
+      "singular": ["pretends"],
+      "present": ["pretending"],
+      "past": ["pretended"]
+    },
+    "adj": {
+      "translation": ["假装的", "想象的"]
+    }
+  },
+  "pretty": {
+    "adj": {
+      "translation": ["漂亮的", "精致的", "美观的", "标致的", "动人的", "动听的", "赏心悦目的", "妩媚的"],
+      "comparative": ["prettier"],
+      "superlative": ["prettiest"]
+    },
+    "adv": {
+      "translation": ["非常", "相当", "十分", "极", "颇", "很"]
+    },
+    "n": {
+      "translation": ["漂亮的人（或东西）"],
+      "plural": ["pretties"]
+    }
+  },
+  "prevail": {
+    "vi": {
+      "translation": ["盛行", "流行", "普遍存在", "(尤指长时间斗争后)战胜，挫败", "战胜", "被接受", "压倒"],
+      "singular": ["prevails"],
+      "present": ["prevailing"],
+      "past": ["prevailed"]
+    }
+  },
+  "prevent": {
+    "vt": {
+      "translation": ["防止", "阻止", "阻碍", "阻挠"],
+      "singular": ["prevents"],
+      "present": ["preventing"],
+      "past": ["prevented"]
+    }
+  },
+  "previous": {
+    "adj": {
+      "translation": ["上一次的, 上一个的", "以前的, 先前的, 以往的", "<口>过早的, 过急的", "(时间上)稍前的"]
+    }
+  },
+  "previously": {
+    "adv": {
+      "translation": ["先前", "(一段时间)以前"]
+    }
+  },
+  "price": {
+    "n": {
+      "translation": ["价格", "物价", "代价", "价钱", "投注赔率"],
+      "plural": ["prices"]
+    },
+    "vt": {
+      "translation": ["给…定价", "(在商品上)标价，贴价格标签", "比较…的价格", "为…作价"],
+      "singular": ["prices"],
+      "present": ["pricing"],
+      "past": ["priced"]
+    }
+  },
+  "pride": {
+    "n": {
+      "translation": ["自豪", "骄傲", "自尊心", "自尊", "尊严", "自负", "狮群", "得意感", "值得自豪的人(或事物)"],
+      "plural": ["prides"]
+    },
+    "v": {
+      "translation": ["使得意，以...自豪"],
+      "singular": ["prides"],
+      "present": ["priding"],
+      "past": ["prided"]
+    }
+  },
+  "priest": {
+    "n": {
+      "translation": ["牧师", "(非基督教会的)教士，祭司，僧侣", "(天主教、圣公会、东正教的)司祭，神父，司铎"],
+      "plural": ["priests"]
+    },
+    "v": {
+      "translation": ["使成为教士", "任命…为祭司[神父]"]
+    }
+  },
+  "primarily": {
+    "adv": {
+      "translation": ["主要地", "根本地"]
+    }
+  },
+  "primary": {
+    "adj": {
+      "translation": ["主要的", "初级的", "基本的", "初等教育的", "小学教育的", "最初的", "最重要的", "最早的"]
+    },
+    "n": {
+      "translation": ["(美国)初选"],
+      "plural": ["primaries"]
+    }
+  },
+  "prime": {
+    "adj": {
+      "translation": ["主要的", "首要的", "基本的", "优质的", "典型的", "优异的", "有代表性的", "最可能的", "上乘的"]
+    },
+    "n": {
+      "translation": ["盛年", "鼎盛时期", "年富力强的时期", "[数]质数"],
+      "plural": ["primes"]
+    },
+    "vt": {
+      "translation": ["把(事物)准备好", "使(某人)做好准备", "在(金属、木材等上)打底漆", "事先指点"],
+      "singular": ["primes"],
+      "present": ["priming"],
+      "past": ["primed"]
+    },
+    "adv": {
+      "translation": ["妙极"]
+    }
+  },
+  "primitive": {
+    "adj": {
+      "translation": ["原始的", "落后的", "远古的", "原始本能的", "人类或动物发展早期的", "发展水平低的"]
+    },
+    "n": {
+      "translation": ["文艺复兴前的艺术家(或作品)", "原始派画家(或作品)"],
+      "plural": ["primitives"]
+    }
+  },
+  "prince": {
+    "n": {
+      "translation": [
+        "王子", "亲王", "(小国的)国王，王室男性成员", "(某些欧洲国家的)贵族", "王孙", "（某一领域的）杰出人物，巨子，大王"
+      ],
+      "plural": ["princes"]
+    }
+  },
+  "princess": {
+    "n": {
+      "translation": [
+        "(尤指)公主", "王妃", "大小姐", "(受宠溺而自以为优越的)娇小姐", "(除女王或王后外的)王室女成员", "王公贵族夫人"
+      ],
+      "plural": ["princesses"]
+    }
+  },
+  "principal": {
+    "adj": {
+      "translation": ["主要的", "最重要的"]
+    },
+    "n": {
+      "translation": ["本金", "当事人，委托人", "资本", "主角", "学院院长", "大学校长", "主要演员"],
+      "plural": ["principals"]
+    }
+  },
+  "principle": {
+    "n": {
+      "translation": ["原则", "原理", "规范", "(行动、思想的)理由，信条", "法则", "观念", "道德原则", "定律", "行为准则"],
+      "plural": ["principles"]
+    }
+  },
+  "print": {
+    "v": {
+      "translation": [
+        "打印", "印刷", "印（图案）", "（在松软的表面）压印，印出", "发表", "刊登", "洗印", "登载", "用印刷体写", "在纸上印"
+      ],
+      "singular": ["prints"],
+      "present": ["printing"],
+      "past": ["printed"]
+    },
+    "n": {
+      "translation": [
+        "指纹", "版画", "（用底片洗印的）相片", "印刷行业", "脚印", "印刷字体", "足迹", "手印", "印花棉布（或图案）", "出版界"
+      ],
+      "plural": ["prints"]
+    }
+  },
+  "prior": {
+    "adj": {
+      "translation": ["先前的，较早的，在前的", "优先的，占先的", "<统>先验的", "在前面的", "（证券）有优先权的", "较重要的"]
+    },
+    "n": {
+      "translation": [
+        "<口>前科", "(小隐修院)院长", "(隐修院)会长，副院长", "（中世纪佛罗伦萨及其他意大利共和国的）最高执政官"
+      ],
+      "plural": ["priors"]
+    }
+  },
+  "prison": {
+    "n": {
+      "translation": ["监狱", "监禁", "关押", "牢狱", "看守所", "牢笼", "关押制度", "樊笼", "难以脱身的地方(或处境)"],
+      "plural": ["prisons"]
+    },
+    "v": {
+      "translation": ["监禁", "关押", "紧紧抱住"]
+    }
+  },
+  "prisoner": {
+    "n": {
+      "translation": ["囚犯", "犯人", "战俘", "俘虏", "被(敌人等)关起来的人", "羁押候审者"],
+      "plural": ["prisoners"]
+    }
+  },
+  "private": {
+    "adj": {
+      "translation": [
+        "私人的", "私有的", "私立的", "私下的", "秘密的", "私用的", "隐秘的", "内心的", "僻静的",
+        "与工作（或官职）无关的", "为一部分人的", "不愿吐露心思的", "由财产增溢的"
+      ]
+    },
+    "n": {
+      "translation": ["二等兵，列兵(级别最低的士兵)"],
+      "plural": ["privates"]
+    }
+  },
+  "privilege": {
+    "n": {
+      "translation": ["特权", "荣幸", "荣耀", "(有钱有势者的)特殊待遇", "优惠待遇", "光荣", "特殊利益", "免责特权"],
+      "plural": ["privileges"]
+    },
+    "vt": {
+      "translation": ["给予特权", "特别优待"],
+      "singular": ["privileges"],
+      "present": ["privileging"],
+      "past": ["privileged"]
+    }
+  },
+  "prize": {
+    "n": {
+      "translation": ["奖", "奖金", "奖品", "奖励", "奖赏", "难能可贵的事物", "难以争取的重要事物"],
+      "plural": ["prizes"]
+    },
+    "adj": {
+      "translation": ["优秀的", "出类拔萃的", "应获奖的", "好得足以得奖的", "典范性的"]
+    },
+    "vt": {
+      "translation": ["珍视", "高度重视"],
+      "singular": ["prizes"],
+      "present": ["prizing"],
+      "past": ["prized"]
+    }
+  },
+  "probability": {
+    "n": {
+      "translation": ["可能性", "概率", "几率", "或然率", "或然性", "很可能发生的事"],
+      "plural": ["probabilities"]
+    }
+  },
+  "probable": {
+    "adj": {
+      "translation": ["可能的", "很可能发生(或存在等)的"]
+    },
+    "n": {
+      "translation": ["可能获胜的人(或动物)", "可能入选者"],
+      "plural": ["probables"]
+    }
+  },
+  "probably": {
+    "adv": {
+      "translation": ["可能", "大概", "几乎肯定"]
+    }
+  },
+  "problem": {
+    "n": {
+      "translation": ["问题", "难题", "困难", "棘手的问题", "数学题", "逻辑题"],
+      "plural": ["problems"]
+    },
+    "adj": {
+      "translation": ["找麻烦的", "成问题的", "惹乱子的"]
+    }
+  },
+  "procedure": {
+    "n": {
+      "translation": ["(商业、法律或政治上的)程序", "步骤", "(正常)手续", "手术"],
+      "plural": ["procedures"]
+    }
+  },
+  "proceed": {
+    "vi": {
+      "translation": ["继续", "行进", "前往", "接着做"],
+      "singular": ["proceeds"],
+      "present": ["proceeding"],
+      "past": ["proceeded"]
+    },
+    "n": {
+      "translation": ["收益", "(从事某种活动或变卖财物等的)收入", "卖得金额"]
+    }
+  },
+  "process": {
+    "n": {
+      "translation": [
+        "(为达到某一目标的)过程", "进程", "流程", "工序", "工艺流程", "(事物发展，尤指自然变化的)步骤", "做事方法"
+      ],
+      "plural": ["processes"]
+    },
+    "v": {
+      "translation": ["列队行进", "缓缓前进"],
+      "singular": ["processes"],
+      "present": ["processing"],
+      "past": ["processed"]
+    },
+    "adj": {
+      "translation": ["(用化学方法等)处理过的", "照相制版的", "经过特殊加工的", "三色版的"]
+    }
+  },
+  "procession": {
+    "n": {
+      "translation": ["(人或车辆的)队列，行列", "游行", "列队行进", "(一个接着一个而来的)一队人，一列人"],
+      "plural": ["processions"]
+    }
+  },
+  "proclaim": {
+    "v": {
+      "translation": ["宣布", "宣告", "声明", "表明", "成为标志", "明确显示"],
+      "singular": ["proclaims"],
+      "present": ["proclaiming"],
+      "past": ["proclaimed"]
+    }
+  },
+  "produce": {
+    "vt": {
+      "translation": [
+        "生产", "制造", "(运用技巧)制作，造出", "制作，拍摄（电影、戏剧等）", "引起", "出示", "生长", "出产", "栽培", "繁育"
+      ],
+      "singular": ["produces"],
+      "present": ["producing"],
+      "past": ["produced"]
+    },
+    "n": {
+      "translation": ["产品", "(尤指)农产品"]
+    }
+  },
+  "product": {
+    "n": {
+      "translation": ["产品", "产物", "(自然、化学或工业过程的)产物，生成物", "制品", "结果", "乘积", "产儿"],
+      "plural": ["products"]
+    }
+  },
+  "production": {
+    "n": {
+      "translation": ["生产", "制造", "(自然的)产生，分泌", "上映，上演，播出，制作", "制作", "产量"],
+      "plural": ["productions"]
+    }
+  },
+  "productive": {
+    "adj": {
+      "translation": ["(尤指)多产的", "导致", "引起", "富有成效的", "生产的", "唤起", "有效益的"]
+    }
+  },
+  "profession": {
+    "n": {
+      "translation": [
+        "(统称，指需要较高教育水平的)职业", "同业", "声明", "业内人士", "(某)职业界", "同人", "同行",
+        "(需要专门技能，尤指需要较高教育水平的某一)行业"
+      ],
+      "plural": ["professions"]
+    }
+  },
+  "professional": {
+    "adj": {
+      "translation": ["专业的", "职业的", "训练有素的", "职业性的", "职业上的", "娴熟的", "有职业的", "精通业务的"]
+    },
+    "n": {
+      "translation": [
+        "(从事某活动的)专业人员", "专业人士", "专家", "职业运动员", "专门人才", "专门人员", "内行", "技术精湛者", "老练的人"
+      ],
+      "plural": ["professionals"]
+    }
+  },
+  "professor": {
+    "n": {
+      "translation": ["教授", "(大学的)讲师，教员"],
+      "plural": ["professors"]
+    }
+  },
+  "profit": {
+    "n": {
+      "translation": ["利润", "收益", "利益", "赢利", "好处", "裨益"],
+      "plural": ["profits"]
+    },
+    "v": {
+      "translation": ["获益", "对…有用(或有益)", "得到好处"],
+      "singular": ["profits"],
+      "present": ["profiting"],
+      "past": ["profited"]
+    }
+  },
+  "program": {
+    "n": {
+      "translation": ["程序", "编码指令", "节目"],
+      "plural": ["programs"]
+    },
+    "v": {
+      "translation": ["编写程序"],
+      "singular": ["programs"],
+      "present": ["programming"],
+      "past": ["programmed"]
+    }
+  },
+  "progress": {
+    "n": {
+      "translation": ["进展", "进步", "进程", "前进", "行进"]
+    },
+    "vi": {
+      "translation": ["进展", "进步", "前进", "改进", "行进", "(时间上)推移，流逝"],
+      "singular": ["progresses"],
+      "present": ["progressing"],
+      "past": ["progressed"]
+    }
+  },
+  "progressive": {
+    "adj": {
+      "translation": ["进步的", "逐步的", "先进的", "稳步的", "(动词)进行时的", "开明的", "稳定发展的"]
+    },
+    "n": {
+      "translation": ["进步人士", "改革派", "开明人士"],
+      "plural": ["progressives"]
+    }
+  },
+  "prohibit": {
+    "vt": {
+      "translation": ["(尤指以法令)禁止", "阻止", "使不可能"],
+      "singular": ["prohibits"],
+      "present": ["prohibiting"],
+      "past": ["prohibited"]
+    }
+  },
+  "project": {
+    "n": {
+      "translation": ["项目", "工程", "计划", "方案", "生产(或研究等)项目", "(大、中学学生的)专题研究"],
+      "plural": ["projects"]
+    },
+    "v": {
+      "translation": [
+        "计划", "投影", "突出", "规划", "预测", "预计", "投射", "放映", "展现", "投掷", "拟订方案", "推想"
+      ],
+      "singular": ["projects"],
+      "present": ["projecting"],
+      "past": ["projected"]
+    }
+  },
+  "prominent": {
+    "adj": {
+      "translation": ["显眼的，显著的，突出的", "重要的", "著名的，杰出的", "凸现的"]
+    },
+    "n": {
+      "translation": ["<昆>舟蛾"]
+    }
+  },
+  "promise": {
+    "v": {
+      "translation": ["许诺", "保证", "答应", "承诺", "使很可能", "预示"],
+      "singular": ["promises"],
+      "present": ["promising"],
+      "past": ["promised"]
+    },
+    "n": {
+      "translation": ["承诺", "诺言", "许诺", "迹象", "获得成功的迹象", "吉兆"],
+      "plural": ["promises"]
+    }
+  },
+  "promising": {
+    "adj": {
+      "translation": ["有希望的", "有前途的", "有出息的"]
+    },
+    "v": {
+      "translation": ["承诺", "保证", "答应", "许诺", "使很可能", "预示"]
+    }
+  },
+  "promote": {
+    "vt": {
+      "translation": ["促进", "推动", "提升", "促销", "晋升", "推销", "将（体育运动队）晋级"],
+      "singular": ["promotes"],
+      "present": ["promoting"],
+      "past": ["promoted"]
+    }
+  },
+  "prompt": {
+    "v": {
+      "translation": ["鼓励，提示，提醒(某人说话)", "促使", "导致", "激起", "给(演员)提词"],
+      "singular": ["prompts"],
+      "present": ["prompting"],
+      "past": ["prompted"]
+    },
+    "adj": {
+      "translation": ["迅速的", "及时的", "立即", "准时的", "敏捷的"]
+    },
+    "n": {
+      "translation": ["(给演员的)提词，提示", "提示符"]
+    },
+    "adv": {
+      "translation": ["准时地"]
+    }
+  },
+  "pronoun": {
+    "n": {
+      "translation": ["代词(代替名词或名词词组的单词)"],
+      "plural": ["pronouns"]
+    }
+  },
+  "pronounce": {
+    "v": {
+      "translation": ["发音", "读(音)", "正式宣布(或公布、授予等)"],
+      "singular": ["pronounces"],
+      "present": ["pronouncing"],
+      "past": ["pronounced"]
+    }
+  },
+  "pronunciation": {
+    "n": {
+      "translation": ["读音", "(某人的)发音"],
+      "plural": ["pronunciations"]
+    }
+  },
+  "proof": {
+    "n": {
+      "translation": ["证明", "证据", "检验", "证实", "校样", "验算", "求证", "（酒的）标准酒精度"],
+      "plural": ["proofs"]
+    },
+    "adj": {
+      "translation": ["防…的", "抗…的", "能抵御", "可防护", "能防范"]
+    },
+    "vt": {
+      "translation": ["使防水(或防火等)", "印…的校样", "给(织物等)做防护处理"],
+      "singular": ["proofs"],
+      "present": ["proofing"],
+      "past": ["proofed"]
+    }
+  },
+  "proper": {
+    "adj": {
+      "translation": [
+        "适当的", "正确的", "恰当的", "正当的", "完全的", "真正的", "像样的", "严格意义上的", "规矩的", "名副其实的",
+        "符合规则的", "独具的", "符合习俗(或体统)的"
+      ]
+    },
+    "n": {
+      "translation": ["[宗教][常用P-]特定节日等用的仪式", "弥撒（祈祷、礼仪等）书的章节", "特赞"],
+      "plural": ["propers"]
+    },
+    "adv": {
+      "translation": ["非常", "好好地", "彻底地", "完完全全地"]
+    }
+  },
+  "properly": {
+    "adv": {
+      "translation": ["适当地", "正确地", "恰当地", "实际上", "真正地", "得体地", "符合习俗地"]
+    }
+  },
+  "property": {
+    "n": {
+      "translation": ["财产", "性质", "房地产", "不动产", "财物", "庄园", "所有物", "房屋及院落"],
+      "plural": ["properties"]
+    }
+  },
+  "proportion": {
+    "n": {
+      "translation": ["比例", "部分", "面积", "份额", "均衡", "匀称", "正确的比例", "倍数关系", "等比关系"],
+      "plural": ["proportions"]
+    },
+    "v": {
+      "translation": ["分配", "使相称"]
+    }
+  },
+  "proportional": {
+    "adj": {
+      "translation": ["成比例的", "相称的", "均衡的"]
+    },
+    "n": {
+      "translation": ["[数]比例项", "比例量"],
+      "plural": ["proportionals"]
+    }
+  },
+  "proposal": {
+    "n": {
+      "translation": ["建议", "提议", "动议", "求婚"],
+      "plural": ["proposals"]
+    }
+  },
+  "propose": {
+    "v": {
+      "translation": ["建议", "提议", "提供（解释）", "计划", "打算", "求婚", "提名", "希冀"],
+      "singular": ["proposes"],
+      "present": ["proposing"],
+      "past": ["proposed"]
+    }
+  },
+  "prospect": {
+    "n": {
+      "translation": ["前景", "展望", "希望", "前途", "可能性", "设想", "风景", "成功的机会", "（竞赛中的）有望获胜者"],
+      "plural": ["prospects"]
+    },
+    "vi": {
+      "translation": ["探矿", "勘探"],
+      "singular": ["prospects"],
+      "present": ["prospecting"],
+      "past": ["prospected"]
+    }
+  },
+  "prosperity": {
+    "n": {
+      "translation": ["繁荣", "成功", "兴旺", "昌盛"],
+      "plural": ["prosperities"]
+    }
+  },
+  "prosperous": {
+    "adj": {
+      "translation": ["繁荣的", "成功的", "兴旺的"]
+    }
+  },
+  "protect": {
+    "v": {
+      "translation": ["防护", "(通过征关税)保护(国内企业)", "投保", "实行贸易保护"],
+      "singular": ["protects"],
+      "present": ["protecting"],
+      "past": ["protected"]
+    }
+  },
+  "protection": {
+    "n": {
+      "translation": ["保护", "保险", "贸易保护", "防卫", "保护费", "保护物", "护身符"],
+      "plural": ["protections"]
+    }
+  },
+  "protective": {
+    "adj": {
+      "translation": ["防护的，保护的", "（对人）关切保护的，爱护的", "出于(对…的)保护", "有贸易保护倾向的，实行关税保护的"]
+    },
+    "n": {
+      "translation": ["保护物，防护物"]
+    }
+  },
+  "protein": {
+    "n": {
+      "translation": ["蛋白质"],
+      "plural": ["proteins"]
+    },
+    "adj": {
+      "translation": ["（含）蛋白质的"]
+    }
+  },
+  "protest": {
+    "n": {
+      "translation": ["抗议", "反对", "抗议书(或行动)"],
+      "plural": ["protests"]
+    },
+    "v": {
+      "translation": ["(公开)反对", "抗议", "坚决地表示", "申辩"],
+      "singular": ["protests"],
+      "present": ["protesting"],
+      "past": ["protested"]
+    }
+  },
+  "proud": {
+    "adj": {
+      "translation": ["自豪的", "骄傲的", "得意的", "傲慢的", "引以为荣的", "满足的", "自尊的", "秀丽的"],
+      "comparative": ["prouder"],
+      "superlative": ["proudest"]
+    }
+  },
+  "prove": {
+    "v": {
+      "translation": [
+        "证明，证实", "证明是，被发现是，显示（自己）是", "<法>检验，认证（遗嘱）", "展现，展示，显示(自己的才能)",
+        "<数>证（明），验算", "<古>经历，体验", "对…作技术检验，鉴定", "钻探，勘探", "（面团）发酵", "后来被发现是，最终显现为",
+        "试印"
+      ],
+      "singular": ["proves"],
+      "present": ["proving"],
+      "past": ["proved", "proven"]
+    }
+  },
+  "provide": {
+    "vt": {
+      "translation": ["提供", "规定", "供应", "给予"],
+      "singular": ["provides"],
+      "present": ["providing"],
+      "past": ["provided"]
+    }
+  },
+  "provided": {
+    "conj": {
+      "translation": ["假如，如果", "只要", "在…条件下"]
+    }
+  },
+  "province": {
+    "n": {
+      "translation": ["省份", "领域", "(某些国家的)一级行政区", "首都以外的地区", "知识(或兴趣、职责)范围"],
+      "plural": ["provinces"]
+    }
+  },
+  "provision": {
+    "n": {
+      "translation": [
+        "提供", "（法律文件的）规定，条款", "(为将来做的)准备", "供给", "(尤指旅途中的)粮食", "给养", "供应品", "饮食供应"
+      ],
+      "plural": ["provisions"]
+    },
+    "vt": {
+      "translation": ["为…提供所需物品(尤指食物)"]
+    }
+  },
+  "psychological": {
+    "adj": {
+      "translation": ["心理的", "心理学的", "心灵的", "精神上的", "关于心理学的"]
+    }
+  },
+  "public": {
+    "adj": {
+      "translation": [
+        "公共的", "公众的", "政府的", "大众的", "公立的", "公开场合的", "平民的", "公之于众的", "百姓的", "人人皆知的",
+        "有关政府所提供服务的"
+      ]
+    },
+    "n": {
+      "translation": ["民众", "平民", "百姓", "志趣相同(或从事同一类活动)的群体"],
+      "plural": ["publics"]
+    }
+  },
+  "publication": {
+    "n": {
+      "translation": ["出版物", "公布", "出版", "发表", "(书刊等的)发行", "刊登"],
+      "plural": ["publications"]
+    }
+  },
+  "publish": {
+    "v": {
+      "translation": ["出版", "发表（作品）", "(在报刊)发表，刊登，登载", "(在互联网上)发表，公布", "公布", "发行"],
+      "singular": ["publishes"],
+      "present": ["publishing"],
+      "past": ["published"]
+    }
+  },
+  "pudding": {
+    "n": {
+      "translation": [
+        "布丁", "甜点", "(餐末的)甜食", "冷布丁", "热布丁饼(用面粉、油、蛋制作，通常用肉填充)", "热布丁糕(用面粉、油、蛋制作，加水果、果酱等)"
+      ],
+      "plural": ["puddings"]
+    }
+  },
+  "puff": {
+    "n": {
+      "translation": [
+        "泡芙", "吸，抽(把气体经口或鼻引到体内的动作)", "呼吸", "奶油酥", "(烟、气等的)一缕，少量", "千层酥", "吹捧的文章（或讲话）"
+      ],
+      "plural": ["puffs"]
+    },
+    "v": {
+      "translation": ["吸，抽(香烟、烟斗等)", "使喷出，冒出(烟或蒸汽)", "气喘吁吁", "急促喘息", "喷着汽（或烟）移动"],
+      "singular": ["puffs"],
+      "present": ["puffing"],
+      "past": ["puffed"]
+    }
+  },
+  "pull": {
+    "v": {
+      "translation": [
+        "拉", "拔出", "抽出", "拖", "吸引", "扯", "拽", "（使车辆）转向，打斜", "扳动", "拉上", "取消，撤销（活动、广告等）",
+        "拉伤", "划", "扭转", "（耍手腕）得逞", "将…拖在身后", "吸引异性", "吃力地运转"
+      ],
+      "singular": ["pulls"],
+      "present": ["pulling"],
+      "past": ["pulled"]
+    },
+    "n": {
+      "translation": [
+        "拉", "力", "影响", "扯", "拽", "拉手", "引力", "吸引力", "拉伤", "磁力", "诱惑", "深吸", "艰难攀登"
+      ]
+    }
+  },
+  "pulse": {
+    "n": {
+      "translation": ["脉搏", "脉冲", "脉率", "豆果果实", "强劲的音乐节拍"],
+      "plural": ["pulses"]
+    },
+    "vi": {
+      "translation": ["跳动", "搏动", "充满(激情等)", "震动", "洋溢着"],
+      "singular": ["pulses"],
+      "present": ["pulsing"],
+      "past": ["pulsed"]
+    }
+  },
+  "pump": {
+    "n": {
+      "translation": [
+        "抽水机，泵", "<电>抽运（装置），泵激（器）", "抽取，抽送", "心脏", "打气筒", "轻软舞鞋",
+        "<美>带有拉推枪栓式装置的猎枪 ", "轻便帆布鞋"
+      ],
+      "plural": ["pumps"]
+    },
+    "v": {
+      "translation": [
+        "灌输，注入", "泵激，激发（原子等）", "涌出", "用泵抽送", "<口>盘问", "涌流，奔流", "间歇地喷出", "用泵充气",
+        "接连发射", "急速摇晃", "快速上下（或内外）运动"
+      ],
+      "singular": ["pumps"],
+      "present": ["pumping"],
+      "past": ["pumped"]
+    }
+  },
+  "punch": {
+    "vt": {
+      "translation": ["用拳猛击", "给…打孔", "压(按钮)", "按(键)", "拳打", "(用打孔器等)打孔", "以拳痛击"],
+      "singular": ["punches"],
+      "present": ["punching"],
+      "past": ["punched"]
+    },
+    "n": {
+      "translation": ["冲床", "打孔机", "穿孔器", "潘趣酒，宾治酒", "吸引力", "用力的捶打", "重拳击打"],
+      "plural": ["punches"]
+    }
+  },
+  "punctual": {
+    "adj": {
+      "translation": ["准时的", "守时的", "按时的"]
+    }
+  },
+  "punish": {
+    "vt": {
+      "translation": ["惩罚", "处罚", "对…判罪", "自责", "责怪(自己)", "判定…的处罚方式"],
+      "singular": ["punishes"],
+      "present": ["punishing"],
+      "past": ["punished"]
+    }
+  },
+  "punishment": {
+    "n": {
+      "translation": ["惩罚", "处罚", "刑罚", "虐待", "粗暴对待"],
+      "plural": ["punishments"]
+    }
+  },
+  "pupil": {
+    "n": {
+      "translation": ["学生", "瞳孔", "(尤指)小学生", "弟子", "眸子", "门生", "瞳人"],
+      "plural": ["pupils"]
+    }
+  },
+  "puppet": {
+    "n": {
+      "translation": ["木偶", "傀儡"],
+      "plural": ["puppets"]
+    }
+  },
+  "purchase": {
+    "n": {
+      "translation": ["购买", "采购", "购买项目", "购买的东西", "抓牢", "握紧", "蹬稳"]
+    },
+    "vt": {
+      "translation": ["购买", "采购", "买"],
+      "singular": ["purchases"],
+      "present": ["purchasing"],
+      "past": ["purchased"]
+    }
+  },
+  "pure": {
+    "adj": {
+      "translation": [
+        "纯的", "纯粹的", "纯净的", "完全的", "纯真的", "干净的", "纯理论的", "清晰的", "不含有害物质的", "血统纯的"
+      ],
+      "comparative": ["purer"],
+      "superlative": ["purest"]
+    }
+  },
+  "purely": {
+    "adv": {
+      "translation": ["完全", "仅仅"]
+    }
+  },
+  "purify": {
+    "vt": {
+      "translation": ["使(某物)洁净", "提纯", "净化(心灵)", "洗涤(思想)", "精炼"],
+      "singular": ["purifies"],
+      "present": ["purifying"],
+      "past": ["purified"]
+    }
+  },
+  "purity": {
+    "n": {
+      "translation": ["纯洁", "纯净", "纯粹"]
+    }
+  },
+  "purple": {
+    "n": {
+      "translation": ["紫色", "紫（红）衣，紫袍", "皇族", "帝位，皇权"],
+      "plural": ["purples"]
+    },
+    "adj": {
+      "translation": ["紫色的", "华丽的文辞", "雕琢的章句"],
+      "comparative": ["purpler"],
+      "superlative": ["purplest"]
+    },
+    "vi": {
+      "translation": ["使成紫色变紫"],
+      "singular": ["purples"],
+      "present": ["purpling"],
+      "past": ["purpled"]
+    }
+  },
+  "purpose": {
+    "n": {
+      "translation": ["目的", "用途", "目标", "意图", "意志", "重要意义", "情势的需要", "有价值的意义"],
+      "plural": ["purposes"]
+    },
+    "vt": {
+      "translation": ["有意", "打算", "企图（做）", "决意（做）"],
+      "singular": ["purposes"],
+      "present": ["purposing"],
+      "past": ["purposed"]
+    }
+  },
+  "purse": {
+    "n": {
+      "translation": ["钱包", "资金", "(拳击赛的)奖金", "皮夹子(尤指女用的)", "财源", "备用款"],
+      "plural": ["purses"]
+    },
+    "vt": {
+      "translation": ["撅嘴", "撮起嘴唇(以表示反对等)"],
+      "singular": ["purses"],
+      "present": ["pursing"],
+      "past": ["pursed"]
+    }
+  },
+  "pursue": {
+    "v": {
+      "translation": ["追求", "执行", "致力于", "追逐", "追赶", "贯彻", "跟踪", "继续探讨(或追究、从事)"],
+      "singular": ["pursues"],
+      "present": ["pursuing"],
+      "past": ["pursued"]
+    }
+  },
+  "pursuit": {
+    "n": {
+      "translation": ["追求", "事业", "追捕", "寻找", "追赶", "跟踪", "爱好", "消遣"],
+      "plural": ["pursuits"]
+    }
+  },
+  "push": {
+    "v": {
+      "translation": [
+        "推", "推动(人或物)", "按", "推进(道路)", "移动(身体部位)", "促使(达到某程度或状态)", "说服", "鞭策", "挺进",
+        "挤开", "贩卖毒品", "迫使…生气（或不安）", "力劝…接受"
+      ],
+      "singular": ["pushes"],
+      "present": ["pushing"],
+      "past": ["pushed"]
+    },
+    "n": {
+      "translation": ["推", "鼓励", "进攻", "攻势", "搡", "挺进", "矢志的追求", "坚定的努力"]
+    }
+  },
+  "put": {
+    "vt": {
+      "translation": [
+        "放", "说", "使处于（某状态或情况）", "使与…连接", "给予", "推（铅球）", "安置", "把…视为（或列为）",
+        "（在…上）书写，记，做标记", "使…前往", "使感觉到", "将…送往", "用力插入", "猛推"
+      ],
+      "singular": ["puts"],
+      "present": ["putting"],
+      "past": ["put"]
+    },
+    "n": {
+      "translation": ["投掷", "推", "【股票】put option（出售期货选择权）的简称"]
+    },
+    "adj": {
+      "translation": ["不动的"]
+    }
+  },
+  "puzzle": {
+    "n": {
+      "translation": ["谜", "智力游戏", "疑问", "不解之谜", "令人费解的事"],
+      "plural": ["puzzles"]
+    },
+    "vt": {
+      "translation": ["迷惑", "使困惑"],
+      "singular": ["puzzles"],
+      "present": ["puzzling"],
+      "past": ["puzzled"]
+    }
+  }
+}

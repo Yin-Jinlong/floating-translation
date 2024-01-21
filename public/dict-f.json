@@ -1,0 +1,2350 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "facility": {
+    "n": {
+      "translation": [
+        "设施", "设备", "(供特定用途的)场所", "（学习、做事的）天资，才能，天赋", "(服务等的)特色", "(机器等的)特别装置"
+      ],
+      "plural": ["facilities"]
+    }
+  },
+  "fact": {
+    "n": {
+      "translation": ["事实", "现实", "(可证实的)真相", "实际情况", "真实情况", "真实的事物"],
+      "plural": ["facts"]
+    }
+  },
+  "factor": {
+    "n": {
+      "translation": ["因素", "因子", "系数", "因数", "要素", "(增或减的)数量，倍数", "凝血因子"],
+      "plural": ["factors"]
+    },
+    "v": {
+      "translation": [
+        "（数学）分解…的因子，将…分解成因子", "做代理商（或管家）", "把…因素包括进去", "以代理商（或管家等）的身份行事"
+      ],
+      "singular": ["factors"],
+      "present": ["factoring"],
+      "past": ["factored"]
+    }
+  },
+  "factory": {
+    "n": {
+      "translation": ["工厂", "制造厂"],
+      "plural": ["factories"]
+    }
+  },
+  "faculty": {
+    "n": {
+      "translation": ["(高等院校的)系，院", "能力", "才能", "官能", "天赋", "全体教师", "（某高等院校的）全体教师"],
+      "plural": ["faculties"]
+    }
+  },
+  "fade": {
+    "v": {
+      "translation": [
+        "褪色", "逐渐消失", "凋谢", "变得默默无闻", "（使）（电影或电视画面）淡入（或淡出）另一画面", "（高尔夫球）偏离直线",
+        "（车辆的刹车因摩擦发热而）暂时失灵"
+      ],
+      "singular": ["fades"],
+      "present": ["fading"],
+      "past": ["faded"]
+    },
+    "n": {
+      "translation": ["淡入，淡出", "褪色，变暗"]
+    },
+    "adj": {
+      "translation": ["平淡的，乏味的"]
+    }
+  },
+  "fahrenheit": {
+    "adj": {
+      "translation": ["华氏的", "华氏温度计的(冰点为32度，沸点为212度)"]
+    },
+    "n": {
+      "translation": ["飞轮海"]
+    }
+  },
+  "fail": {
+    "v": {
+      "translation": [
+        "失败", "未能(做到)", "不足", "不及格", "倒闭", "使失望", "未履行(某事)", "出故障", "衰退", "未做", "评定不及格"
+      ],
+      "singular": ["fails"],
+      "present": ["failing"],
+      "past": ["failed"]
+    },
+    "n": {
+      "translation": ["(考试)不及格"]
+    }
+  },
+  "failure": {
+    "n": {
+      "translation": ["失败", "故障", "倒闭", "未做，未履行(应做之事)", "歉收", "失败的人(或事物)"],
+      "plural": ["failures"]
+    }
+  },
+  "faint": {
+    "vi": {
+      "translation": ["昏倒", "昏厥"],
+      "singular": ["faints"],
+      "present": ["fainting"],
+      "past": ["fainted"]
+    },
+    "adj": {
+      "translation": ["(光、声、味)微弱的，不清楚的", "微小的", "昏眩", "不热情的", "可能性不大的", "不积极的"],
+      "comparative": ["fainter"],
+      "superlative": ["faintest"]
+    },
+    "n": {
+      "translation": ["昏厥"],
+      "plural": ["faints"]
+    }
+  },
+  "fair": {
+    "adj": {
+      "translation": [
+        "公平的", "(按法律、规定)平等待人的，秉公办事的，公正的", "合理的", "适当的", "美丽的", "恰当的", "晴朗的",
+        "(数量、大小)相当大的", "浅色的", "顺风的", "相当好的"
+      ],
+      "comparative": ["fairer"],
+      "superlative": ["fairest"]
+    },
+    "adv": {
+      "translation": ["公正地", "公平合理地", "按照规则"]
+    },
+    "n": {
+      "translation": ["(评比农畜产品的)集市", "展销会", "商品交易会", "露天游乐场", "职业介绍会", "（旧时）牲畜市场"],
+      "plural": ["fairs"]
+    },
+    "vi": {
+      "translation": ["（飞机）装配平整", "使（飞机接合部）平滑转晴", "（动作）衔接协调", "（卡通制作）顺利接合"],
+      "singular": ["fairs"],
+      "present": ["fairing"],
+      "past": ["faired"]
+    }
+  },
+  "fairly": {
+    "adv": {
+      "translation": ["相当地", "(用以强调)简直，竟然", "公正地", "公平合理地", "一定地"]
+    }
+  },
+  "faith": {
+    "n": {
+      "translation": ["信仰", "信心", "(某一)宗教", "相信", "信任", "诚意", "宗教信仰"],
+      "plural": ["faiths"]
+    },
+    "int": {
+      "translation": ["真正"]
+    }
+  },
+  "faithful": {
+    "adj": {
+      "translation": ["忠实的", "忠诚的", "如实的", "忠贞的", "(宗教的)忠实信徒", "可信任的", "(政党的)忠诚支持者"]
+    },
+    "n": {
+      "translation": ["信徒"],
+      "plural": ["faithfuls"]
+    }
+  },
+  "fall": {
+    "v": {
+      "translation": [
+        "落下", "落(到)", "下跌", "跌倒", "变成", "降临", "堕落", "<古>(对异性)倾倒，倾心", "陷落", "出生", "下垂",
+        "<俚>被逮捕", "被说出", "失势", "阵亡"
+      ],
+      "singular": ["falls"],
+      "present": ["falling"],
+      "past": ["fell", "fallen"]
+    },
+    "vt": {
+      "translation": ["杀死", "击倒", "砍倒(树木)"],
+      "singular": ["falls"],
+      "present": ["falling"],
+      "past": ["fell", "fallen"]
+    },
+    "n": {
+      "translation": [
+        "秋天", "(地位、声誉等的)降低", "落下，跌落", "跌倒, 摔倒", "瀑布", "(雨、雪等的)降落，降落量", "降临", "落差",
+        "斜坡", "陷落", "阵亡", "落下的位置", "下崽"
+      ]
+    }
+  },
+  "false": {
+    "adj": {
+      "translation": [
+        "假的", "错误的", "伪造的", "不真实的", "不正确的", "人造的", "不忠实的", "表里不一的", "非天生的"
+      ],
+      "comparative": ["falser"],
+      "superlative": ["falsest"]
+    },
+    "adv": {
+      "translation": ["欺诈地", "叛卖地"]
+    }
+  },
+  "fame": {
+    "n": {
+      "translation": ["名声", "名气", "声誉"],
+      "plural": ["fames"]
+    },
+    "vt": {
+      "translation": ["使闻名", "使出名", "使有名望", "<古>盛传"],
+      "singular": ["fames"],
+      "present": ["faming"],
+      "past": ["famed"]
+    }
+  },
+  "familiar": {
+    "adj": {
+      "translation": ["熟悉的", "熟悉", "通晓", "随便的", "常见到的", "常听说的"]
+    },
+    "n": {
+      "translation": ["常客", "密友", "[天主]教皇[主教]的仆人", "高级官吏的家属"],
+      "plural": ["familiars"]
+    }
+  },
+  "family": {
+    "n": {
+      "translation": ["(大)家庭(包括父母子女及近亲)", "家族", "家(包括父母子女)", "子女", "（动植物）科", "亲属"],
+      "plural": ["families"]
+    },
+    "adj": {
+      "translation": ["家庭的", "适合全家人的", "一家所有的"]
+    }
+  },
+  "famine": {
+    "n": {
+      "translation": ["饥荒"],
+      "plural": ["famines"]
+    }
+  },
+  "famous": {
+    "adj": {
+      "translation": ["著名的", "出名的"]
+    }
+  },
+  "fan": {
+    "n": {
+      "translation": ["风扇", "迷", "扇子", "狂热爱好者", "狂热仰慕者"],
+      "plural": ["fans"]
+    },
+    "vt": {
+      "translation": ["扇(风)", "扇，吹(使火更旺)", "煽起", "激起"],
+      "singular": ["fans"],
+      "present": ["fanning"],
+      "past": ["fanned"]
+    }
+  },
+  "fancy": {
+    "v": {
+      "translation": [
+        "想要", "认为", "设想", "真想不到，竟然", "自负", "爱慕(异性)", "自认为是", "想做", "自命不凡", "认为…会成功"
+      ],
+      "singular": ["fancies"],
+      "present": ["fancying"],
+      "past": ["fancied"]
+    },
+    "n": {
+      "translation": ["想象(力)", "想要", "爱好", "想象的事物", "花色小蛋糕"],
+      "plural": ["fancies"]
+    },
+    "adj": {
+      "translation": [
+        "花哨的", "昂贵的", "精致的", "奢华的", "优质的", "太花哨的", "绚丽的", "异常复杂的", "有精美装饰的"
+      ],
+      "comparative": ["fancier"],
+      "superlative": ["fanciest"]
+    }
+  },
+  "far": {
+    "adj": {
+      "translation": ["远的", "遥远的", "远端的", "远方的", "(某方向的)最远的"],
+      "comparative": ["farther"]
+    },
+    "adv": {
+      "translation": ["远", "非常", "(问到或谈及距离时说)有多远", "久", "（问到或谈及程度时说）有多大，直（至）", "进展程度"]
+    }
+  },
+  "fare": {
+    "n": {
+      "translation": ["(飞机)票价", "车费", "船费", "饭菜", "出租车乘客"],
+      "plural": ["fares"]
+    },
+    "vi": {
+      "translation": ["成功(或不成功、更好等)"],
+      "singular": ["fares"],
+      "present": ["faring"],
+      "past": ["fared"]
+    }
+  },
+  "farewell": {
+    "int": {
+      "translation": ["再见", "再会"]
+    },
+    "n": {
+      "translation": ["告别", "辞行"],
+      "plural": ["farewells"]
+    },
+    "adj": {
+      "translation": ["告别的"]
+    }
+  },
+  "farm": {
+    "n": {
+      "translation": ["农场", "养殖场", "农舍", "饲养场"],
+      "plural": ["farms"]
+    },
+    "v": {
+      "translation": ["务农", "种田", "从事畜牧业"],
+      "singular": ["farms"],
+      "present": ["farming"],
+      "past": ["farmed"]
+    }
+  },
+  "farmer": {
+    "n": {
+      "translation": ["农民", "农场主", "农人"],
+      "plural": ["farmers"]
+    }
+  },
+  "farther": {
+    "adj": {
+      "translation": ["更远的", "(空间、方向或时间上)较远的"]
+    },
+    "adv": {
+      "translation": ["(时间或空间上)较远"]
+    }
+  },
+  "fashion": {
+    "n": {
+      "translation": ["时尚", "时装业", "(行为、活动等的)时兴", "(衣服、发式等的)流行款式"],
+      "plural": ["fashions"]
+    },
+    "vt": {
+      "translation": ["(尤指用手工)制作", "塑造"],
+      "singular": ["fashions"],
+      "present": ["fashioning"],
+      "past": ["fashioned"]
+    }
+  },
+  "fashionable": {
+    "adj": {
+      "translation": ["流行的", "时髦人物使用的", "(尤指)有钱人常光顾的"]
+    },
+    "n": {
+      "translation": ["时髦人物"]
+    }
+  },
+  "fast": {
+    "adj": {
+      "translation": [
+        "快速的", "快的", "迅速的", "敏捷的", "走得快", "动作迅速的", "迅速发生的", "不退色的", "系牢的", "头脑灵活的",
+        "立即发生的", "可供快速运动的", "感光快的"
+      ],
+      "comparative": ["faster"],
+      "superlative": ["fastest"]
+    },
+    "adv": {
+      "translation": ["快速", "快", "迅速", "立即", "不久", "牢固地", "完全地"]
+    },
+    "vi": {
+      "translation": ["禁食", "斋戒", "节食"],
+      "singular": ["fasts"],
+      "present": ["fasting"],
+      "past": ["fasted"]
+    },
+    "n": {
+      "translation": ["禁食期", "斋戒期"]
+    }
+  },
+  "fasten": {
+    "v": {
+      "translation": [
+        "系牢", "扣紧", "（使两物）系牢，扎牢，结牢，扣牢", "使固定", "(使两部分)扎牢", "握住", "盖好", "(使)关紧", "盯住"
+      ],
+      "singular": ["fastens"],
+      "present": ["fastening"],
+      "past": ["fastened"]
+    }
+  },
+  "fatal": {
+    "adj": {
+      "translation": ["致命的", "毁灭性的", "灾难性的", "导致失败的"]
+    }
+  },
+  "fate": {
+    "n": {
+      "translation": ["命运", "命运的安排", "天意", "定数", "天数", "命中注定的事(尤指坏事)"],
+      "plural": ["fates"]
+    },
+    "v": {
+      "translation": ["注定"],
+      "singular": ["fates"],
+      "present": ["fating"],
+      "past": ["fated"]
+    }
+  },
+  "father": {
+    "n": {
+      "translation": ["父亲", "爸爸", "神父", "天父", "祖先", "创始人", "鼻祖", "先驱", "奠基者"],
+      "plural": ["fathers"]
+    },
+    "vt": {
+      "translation": ["创造，发明(新方法)", "创立(新思想)", "做…的父亲", "成为…的父亲"],
+      "singular": ["fathers"],
+      "present": ["fathering"],
+      "past": ["fathered"]
+    }
+  },
+  "fatigue": {
+    "n": {
+      "translation": ["劳累", "(金属或木材的)疲劳", "厌倦", "（士兵穿的）工作服", "士兵杂役"],
+      "plural": ["fatigues"]
+    },
+    "v": {
+      "translation": ["使疲乏", "使劳累", "使（肌肉，器官）衰竭"],
+      "singular": ["fatigues"],
+      "present": ["fatiguing"],
+      "past": ["fatigued"]
+    },
+    "adj": {
+      "translation": ["令人身心交瘁的", "劳心劳力的"]
+    }
+  },
+  "fault": {
+    "n": {
+      "translation": ["过错", "（地壳岩层的）断层", "故障", "责任", "缺陷", "过失", "缺点", "毛病", "弱点", "发球失误"],
+      "plural": ["faults"]
+    },
+    "vt": {
+      "translation": ["发现错误", "找出缺点"],
+      "singular": ["faults"],
+      "present": ["faulting"],
+      "past": ["faulted"]
+    }
+  },
+  "faulty": {
+    "adj": {
+      "translation": ["错误的", "有缺陷的", "有错误的", "不完美的"],
+      "comparative": ["faultier"],
+      "superlative": ["faultiest"]
+    }
+  },
+  "favour": {
+    "n": {
+      "translation": ["支持", "赞同", "帮助", "偏袒", "偏爱", "恩惠", "好事", "特别照顾", "同意性交"],
+      "plural": ["favours"]
+    },
+    "vt": {
+      "translation": ["有利于", "优惠", "选择", "有助于", "偏袒", "特别照顾", "外貌像，长得像（父母或长辈）", "较喜欢"],
+      "singular": ["favours"],
+      "present": ["favouring"],
+      "past": ["favoured"]
+    }
+  },
+  "favourable": {
+    "adj": {
+      "translation": ["有利的", "支持的", "赞同的", "有助于…的", "肯定的", "好而不贵的", "给人好印象的"]
+    }
+  },
+  "favourite": {
+    "adj": {
+      "translation": ["最喜欢的", "特别受喜爱的"]
+    },
+    "n": {
+      "translation": [
+        "特别喜爱的人(或事物)", "受宠的人", "得到偏爱的人", "(比赛中)被认为最有希望的获胜者", "（取得职位等的）最有希望者"
+      ],
+      "plural": ["favourites"]
+    }
+  },
+  "fear": {
+    "n": {
+      "translation": ["害怕", "担忧", "惧怕"]
+    },
+    "v": {
+      "translation": ["担心", "害怕", "担忧", "惧怕", "畏惧", "(引出不好的事情)恐怕"],
+      "singular": ["fears"],
+      "present": ["fearing"],
+      "past": ["feared"]
+    }
+  },
+  "fearful": {
+    "adj": {
+      "translation": ["恐惧的", "担心", "担忧", "可怕的", "忧虑", "吓人的", "极坏的", "极糟的"]
+    }
+  },
+  "feasible": {
+    "adj": {
+      "translation": ["可行的", "行得通的"]
+    }
+  },
+  "feast": {
+    "n": {
+      "translation": ["盛宴", "宴会", "(宗教的)节日，节期", "使人欢快的事物(或活动)"],
+      "plural": ["feasts"]
+    },
+    "vi": {
+      "translation": ["尽情享用(美味佳肴)"],
+      "singular": ["feasts"],
+      "present": ["feasting"],
+      "past": ["feasted"]
+    }
+  },
+  "feather": {
+    "n": {
+      "translation": ["羽毛", "翎毛"],
+      "plural": ["feathers"]
+    },
+    "v": {
+      "translation": ["为(箭等)装上羽毛(或箭翎)", "给…以薄边，削薄(木板、剃刀等)的边", "平掠回桨"],
+      "singular": ["feathers"],
+      "present": ["feathering"],
+      "past": ["feathered"]
+    }
+  },
+  "feature": {
+    "n": {
+      "translation": [
+        "特色", "特点", "特征", "(报章、电视等的)特写，专题节目", "（电影的）正片，故事片", "面容的一部分(如鼻、口、眼)"
+      ],
+      "plural": ["features"]
+    },
+    "v": {
+      "translation": ["以…为特色", "由…主演", "占重要地位", "起重要作用", "以…为主要组成"],
+      "singular": ["features"],
+      "present": ["featuring"],
+      "past": ["featured"]
+    }
+  },
+  "february": {
+    "n": {
+      "translation": ["二月"],
+      "plural": ["Februaries"]
+    }
+  },
+  "federal": {
+    "adj": {
+      "translation": ["联邦的", "(在美国、加拿大等联邦制下)联邦政府的", "联邦制的"]
+    },
+    "n": {
+      "translation": ["联邦主义者", "同盟盟友"],
+      "plural": ["federals"]
+    }
+  },
+  "fee": {
+    "n": {
+      "translation": ["费用", "(加入组织或做某事付的)费", "报酬", "咨询费", "专业服务费"],
+      "plural": ["fees"]
+    },
+    "vt": {
+      "translation": ["聘请", "〈英〉雇用", "给小费", "付给报酬"],
+      "singular": ["fees"],
+      "present": ["feeding"],
+      "past": ["feed"]
+    }
+  },
+  "feeble": {
+    "adj": {
+      "translation": ["虚弱的", "无力的", "衰弱的", "无效的", "缺乏决心的"],
+      "comparative": ["feebler"],
+      "superlative": ["feeblest"]
+    }
+  },
+  "feed": {
+    "v": {
+      "translation": [
+        "喂养", "提供（意见或信息等）", "供给", "给(人或动物)食物", "饲养", "满足", "养，养活(全家、一群人)", "进食",
+        "施（肥等）", "把…放进机器"
+      ],
+      "singular": ["feeds"],
+      "present": ["feeding"],
+      "past": ["fed"]
+    },
+    "n": {
+      "translation": [
+        "(机器的)进料", "（机器的）进料装置，进料器", "动物的饲料", "(婴儿的)一次喂奶，一餐", "植物的肥料",
+        "(动物的)一次喂给的饲料", "（电视中心台）网络供给节目（系统）", "丰盛的一餐"
+      ]
+    }
+  },
+  "feedback": {
+    "n": {
+      "translation": ["反馈", "反馈的意见(或信息)", "(电器的)反馈噪音"]
+    }
+  },
+  "feel": {
+    "v": {
+      "translation": [
+        "感觉到，体会到", "觉得，相信", "以为", "使人感觉……", "摸索，探索", "察觉到，意识到", "摸起来", "触", "受（强烈）影响"
+      ],
+      "singular": ["feels"],
+      "present": ["feeling"],
+      "past": ["felt"]
+    },
+    "n": {
+      "translation": ["感觉，气氛", "感知，理解", "触觉，手感", "触摸", "特性，特质", "熟练使用"]
+    }
+  },
+  "feeling": {
+    "n": {
+      "translation": [
+        "感觉", "情感", "想法", "态度", "意见", "看法", "同情", "气氛", "激动", "(内心和感官的)感触", "信念", "理解力"
+      ],
+      "plural": ["feelings"]
+    },
+    "v": {
+      "translation": ["觉得", "感到", "感觉到(抽象事物)", "体会到", "(通过触觉)注意到"]
+    }
+  },
+  "fellow": {
+    "n": {
+      "translation": [
+        "家伙", "同事", "同伴", "会员", "小伙子", "（接受奖学金的）研究生", "同类", "(某些学院或大学的)董事", "男人",
+        "男孩", "同辈", "哥儿们", "配对物"
+      ],
+      "plural": ["fellows"]
+    },
+    "adj": {
+      "translation": ["同事的", "同伴的", "同类的", "同情况的"]
+    }
+  },
+  "female": {
+    "adj": {
+      "translation": ["女的", "女性的", "妇女的", "阴的", "母的", "雌的", "女性特有的", "能结果实的"]
+    },
+    "n": {
+      "translation": ["女子", "雌性动物", "雌株", "雌性植物"],
+      "plural": ["females"]
+    }
+  },
+  "fence": {
+    "n": {
+      "translation": ["围栏", "栅栏", "篱笆", "(障碍赛马中的)障碍物", "销赃犯", "买卖赃物者"],
+      "plural": ["fences"]
+    },
+    "v": {
+      "translation": ["(用栅栏、篱笆或围栏)围住，隔开", "回避", "搪塞", "参加击剑运动", "支吾"],
+      "singular": ["fences"],
+      "present": ["fencing"],
+      "past": ["fenced"]
+    }
+  },
+  "fertile": {
+    "adj": {
+      "translation": ["肥沃的", "促进的", "富饶的", "能生育的", "可繁殖的", "能结果的", "点子多的", "能产生好结果的"]
+    }
+  },
+  "fertilizer": {
+    "n": {
+      "translation": ["肥料"],
+      "plural": ["fertilizers"]
+    }
+  },
+  "festival": {
+    "n": {
+      "translation": ["节日", "(音乐、戏剧、电影等的)会演，节", "节期", "喜庆日"],
+      "plural": ["festivals"]
+    },
+    "adj": {
+      "translation": ["节日的"]
+    }
+  },
+  "fetch": {
+    "vt": {
+      "translation": ["取来", "(去)拿来", "(去)请来", "售得，卖得(某价)"],
+      "singular": ["fetches"],
+      "present": ["fetching"],
+      "past": ["fetched"]
+    },
+    "n": {
+      "translation": ["拿来", "范围", "相同物", "活人的魂"]
+    }
+  },
+  "fever": {
+    "n": {
+      "translation": ["发烧", "发热", "热(病)", "狂热", "兴奋紧张", "激动不安"],
+      "plural": ["fevers"]
+    },
+    "v": {
+      "translation": ["使发高烧", "使狂热", "煽动"],
+      "singular": ["fevers"],
+      "present": ["fevering"],
+      "past": ["fevered"]
+    }
+  },
+  "few": {
+    "det/adj": {
+      "translation": ["有些，几个", "很少的"],
+      "comparative": ["fewer"],
+      "superlative": ["fewest"]
+    },
+    "pron": {
+      "translation": ["很少数，几乎没有", "少数，几个"]
+    },
+    "n": {
+      "translation": ["少数人"]
+    }
+  },
+  "fibre": {
+    "n": {
+      "translation": ["(人或动物身体组织及天然物质的)纤维", "(食物中的)纤维素", "(织物或绳等的)纤维制品"],
+      "plural": ["fibres"]
+    }
+  },
+  "fiction": {
+    "n": {
+      "translation": ["小说", "虚构的事", "假想之物"],
+      "plural": ["fictions"]
+    }
+  },
+  "field": {
+    "n": {
+      "translation": [
+        "领域", "字段", "场", "地", "实地", "专业", "行业", "田", "(作某种用途的)场地", "运动场", "牧场", "守队",
+        "(覆盖…的或有…的)大片地方", "（比赛项目的）全体参赛者"
+      ],
+      "plural": ["fields"]
+    },
+    "v": {
+      "translation": ["处理，应付（问题或意见）", "接，截，传(球)", "使参加比赛", "使参加竞选", "任守方", "担任守队(队员)"],
+      "singular": ["fields"],
+      "present": ["fielding"],
+      "past": ["fielded"]
+    },
+    "adj": {
+      "translation": ["野生的", "野外的", "实地的"]
+    }
+  },
+  "fierce": {
+    "adj": {
+      "translation": [
+        "凶猛的", "猛烈的", "狂热的", "(外表上)险恶的", "(机械装置等)作用强烈(或猛烈)的", "不友好的，难接近的",
+        "<英方>精力旺盛的", "极不好的"
+      ],
+      "comparative": ["fiercer"],
+      "superlative": ["fiercest"]
+    },
+    "adv": {
+      "translation": ["可厌地", "非常，很"]
+    }
+  },
+  "fit": {
+    "v": {
+      "translation": [
+        "适合，合身", "安置，安装（在某处）", "和……相称，符合", "适应，合得来", "试穿（衣服）", "（疾病）发作", "可容纳，装进",
+        "安排时间会面，安排时间做（某事）", "为放置（于……）而设计"
+      ],
+      "singular": ["fits"],
+      "present": ["fitting"],
+      "past": ["fitted"]
+    },
+    "adj": {
+      "translation": ["合适的，适当的", "健康的，健壮的", "合格的，胜任的", "<非正式>快要，就要", "<俚>性感的"],
+      "comparative": ["fitter"],
+      "superlative": ["fittest"]
+    },
+    "n": {
+      "translation": ["适合，合身", "匹配，相配", "一阵，突发", "痉挛，昏厥"],
+      "plural": ["fits"]
+    }
+  },
+  "fifth": {
+    "adj": {
+      "translation": ["第五的", "五分之一的"]
+    },
+    "n": {
+      "translation": ["第五", "五分之一"],
+      "plural": ["fifths"]
+    },
+    "num": {
+      "translation": ["第五"],
+      "plural": ["fifths"]
+    }
+  },
+  "fifty": {
+    "num": {
+      "translation": ["五十", "五十个", "五十岁", "五十年代", "五十个人", "编号为五十的东西"],
+      "plural": ["fifties"]
+    },
+    "n": {
+      "translation": ["五十几", "五十年代"],
+      "plural": ["fifties"]
+    },
+    "adj": {
+      "translation": ["许多的"]
+    }
+  },
+  "fight": {
+    "v": {
+      "translation": [
+        "战斗", "作战", "打架", "参加(竞赛)", "参加（拳击比赛）", "打斗", "打仗", "竞争", "搏斗", "努力争取", "争辩",
+        "极力反对", "（为…）和某人打官司"
+      ],
+      "singular": ["fights"],
+      "present": ["fighting"],
+      "past": ["fought"]
+    },
+    "n": {
+      "translation": ["战斗", "斗争", "打架", "(尤指体育运动)比赛，竞赛", "打斗", "搏斗", "争论", "斗志"]
+    }
+  },
+  "figure": {
+    "n": {
+      "translation": [
+        "图形", "人物", "人，动物", "（书中的）图，表", "身材", "位数", "花样", "（远处人的）轮廓", "（人、动物的）雕像，塑像",
+        "算术", "数字符号", "字码", "(代表数量，尤指官方资料中的)数字"
+      ],
+      "plural": ["figures"]
+    },
+    "v": {
+      "translation": ["是…的部分", "计算(数量或成本)", "认为，认定(某事将发生或属实)", "是重要部分"],
+      "singular": ["figures"],
+      "present": ["figuring"],
+      "past": ["figured"]
+    }
+  },
+  "file": {
+    "n": {
+      "translation": ["(计算机的)文件", "档案", "文件夹", "锉", "卷宗", "排成一行的人（或物）"],
+      "plural": ["files"]
+    },
+    "v": {
+      "translation": [
+        "提出(申请)", "发送(报道给报社)", "把(文件等)归档", "提起(诉讼)", "送交(备案)", "锉平", "排成一行行走"
+      ],
+      "singular": ["files"],
+      "present": ["filing"],
+      "past": ["filed"]
+    }
+  },
+  "fill": {
+    "v": {
+      "translation": [
+        "填满", "充满…的", "(使)充满", "填补(洞、孔)", "使充满(感情)", "装满", "满足", "（按订单）供应", "担任", "堵塞",
+        "（使）吃饱", "使遍及", "派人担任", "耗去"
+      ],
+      "singular": ["fills"],
+      "present": ["filling"],
+      "past": ["filled"]
+    },
+    "n": {
+      "translation": ["填满…的量", "足够…的量", "吃饱的量", "喝足的量"],
+      "plural": ["fills"]
+    }
+  },
+  "film": {
+    "n": {
+      "translation": ["电影", "影片", "胶片", "电影业", "新闻片", "薄薄的一层", "电影制作艺术"],
+      "plural": ["films"]
+    },
+    "v": {
+      "translation": ["拍摄电影"],
+      "singular": ["films"],
+      "present": ["filming"],
+      "past": ["filmed"]
+    }
+  },
+  "filter": {
+    "n": {
+      "translation": ["滤器", "过滤器", "滤光器", "滤波器", "筛选(过滤)程序", "滤声器", "分流指示灯"],
+      "plural": ["filters"]
+    },
+    "v": {
+      "translation": ["过滤", "(用程序)筛选", "渗入", "慢慢传开", "缓行", "仅可左转行驶"],
+      "singular": ["filters"],
+      "present": ["filtering"],
+      "past": ["filtered"]
+    }
+  },
+  "final": {
+    "adj": {
+      "translation": ["最后的", "(指结果)最终的", "决定性的", "不可改变的"]
+    },
+    "n": {
+      "translation": ["决赛", "期终考试", "大学毕业考试", "期终结业考试"],
+      "plural": ["finals"]
+    }
+  },
+  "finally": {
+    "adv": {
+      "translation": ["(用于列举)最后", "最终", "终于", "彻底地", "决定性地"]
+    }
+  },
+  "finance": {
+    "n": {
+      "translation": ["金融", "资金", "财务", "财政", "(个人、组织、国家的)财力，财源，财务管理"]
+    },
+    "vt": {
+      "translation": ["提供资金"],
+      "singular": ["finances"],
+      "present": ["financing"],
+      "past": ["financed"]
+    }
+  },
+  "financial": {
+    "adj": {
+      "translation": ["金融的", "财务的", "财政的", "有钱的"]
+    },
+    "n": {
+      "translation": ["金融统计数据", "金融公司的股票"]
+    }
+  },
+  "find": {
+    "v": {
+      "translation": [
+        "找到", "发现（某事属实）", "(意外或偶然地)发现，碰到", "(经寻找、研究或思考)发现，查明，找出，求得", "认为",
+        "（在某处）存在，生长", "现有（可用）", "裁决", "找回", "自然到达"
+      ],
+      "singular": ["finds"],
+      "present": ["finding"],
+      "past": ["found"]
+    },
+    "n": {
+      "translation": ["发现物，被发现的人(尤指有趣、有价值或有用者)"]
+    }
+  },
+  "finding": {
+    "v": {
+      "translation": ["找到", "(经寻找、研究或思考)发现", "查明", "找回", "求得", "(意外或偶然地)碰到"]
+    },
+    "n": {
+      "translation": ["裁决", "判决", "调查发现", "调研结果"],
+      "plural": ["findings"]
+    }
+  },
+  "fine": {
+    "adj": {
+      "translation": [
+        "好的", "（表示满意）很好，不错，满意", "美好的", "健康的", "漂亮的", "晴朗的", "纯的", "纤细的", "高质量的",
+        "精巧的", "好看的", "(指行为、建议、决定)可接受", "值得尊敬的", "小颗粒制成的", "难以看出的"
+      ],
+      "comparative": ["finer"],
+      "superlative": ["finest"]
+    },
+    "adv": {
+      "translation": ["可接受", "够好", "蛮不错"]
+    },
+    "n": {
+      "translation": ["罚款", "罚金"],
+      "plural": ["fines"]
+    },
+    "vt": {
+      "translation": ["处…以罚金"],
+      "singular": ["fines"],
+      "present": ["fining"],
+      "past": ["fined"]
+    }
+  },
+  "finger": {
+    "n": {
+      "translation": ["手指", "(手套的)指部", "有(或用)…手指的", "狭长物"],
+      "plural": ["fingers"]
+    },
+    "vt": {
+      "translation": ["用手指触摸", "告发", "告密"],
+      "singular": ["fingers"],
+      "present": ["fingering"],
+      "past": ["fingered"]
+    }
+  },
+  "finish": {
+    "v": {
+      "translation": ["完成", "(使)结束", "吃完，喝光，用尽(所剩之物)", "做好", "使筋疲力尽", "（赛跑、竞赛）得…名"],
+      "singular": ["finishes"],
+      "present": ["finishing"],
+      "past": ["finished"]
+    },
+    "n": {
+      "translation": ["抛光", "结尾", "结局", "(漆完抛光后的)成品表面", "末道漆", "最后部分", "最后精细加工"]
+    }
+  },
+  "fire": {
+    "n": {
+      "translation": ["火", "火灾", "射击", "失火", "炉火", "激情", "取暖器", "灶火"],
+      "plural": ["fires"]
+    },
+    "v": {
+      "translation": [
+        "射击", "解雇", "开火", "点火", "开枪", "烧制（陶器、砖等）", "射(箭)", "射出(子弹)", "激励", "以…为燃料的"
+      ],
+      "singular": ["fires"],
+      "present": ["firing"],
+      "past": ["fired"]
+    }
+  },
+  "fireman": {
+    "n": {
+      "translation": ["消防队员"],
+      "plural": ["firemen"]
+    }
+  },
+  "firm": {
+    "n": {
+      "translation": ["公司", "商号", "商行"],
+      "plural": ["firms"]
+    },
+    "adj": {
+      "translation": [
+        "坚定的", "牢固的", "确定的", "坚决的", "坚固的", "稳固的", "结实的", "坚硬的", "坚挺的", "强有力的", "牢牢控制的"
+      ],
+      "comparative": ["firmer"],
+      "superlative": ["firmest"]
+    },
+    "adv": {
+      "translation": ["稳固地"]
+    },
+    "v": {
+      "translation": ["使坚实", "使坚固", "坚挺", "使强壮", "稳步上涨"],
+      "singular": ["firms"],
+      "present": ["firming"],
+      "past": ["firmed"]
+    }
+  },
+  "first": {
+    "det": {
+      "translation": [
+        "第一位的，最先的", "首（次）的", "（用于工作或职位的头衔中）最高的", "最重要的", "（一列中）最前面的",
+        "最迫切的，最合适的", "（某一时间或某事后的）紧接着来到的"
+      ]
+    },
+    "adv": {
+      "translation": [
+        "第一，最初", "（列举时用）首先", "第一次", "起初", "（强调不愿意）宁可", "以身体的某一部位（或某人）在先（或为首）"
+      ]
+    },
+    "n": {
+      "translation": [
+        "第一个人(或事物)", "一等品", "(汽车、自行车等的)一挡，最低挡", "（棒球）第一垒", "前所未有的事情", "（英国大学学位）最高成绩"
+      ],
+      "plural": ["firsts"]
+    },
+    "pron": {
+      "translation": ["第一次"]
+    }
+  },
+  "fish": {
+    "n": {
+      "translation": ["鱼", "鱼肉"],
+      "plural": ["fishes"]
+    },
+    "v": {
+      "translation": ["捕鱼", "在…捕鱼(或钓鱼)", "钓鱼", "摸找"],
+      "singular": ["fishes"]
+    }
+  },
+  "fisherman": {
+    "n": {
+      "translation": ["渔夫", "渔民", "钓鱼的人"],
+      "plural": ["fishermen"]
+    }
+  },
+  "fist": {
+    "n": {
+      "translation": ["拳头", "拳"],
+      "plural": ["fists"]
+    },
+    "vt": {
+      "translation": ["紧握", "握成拳", "用拳打"],
+      "singular": ["fists"],
+      "present": ["fisting"],
+      "past": ["fisted"]
+    }
+  },
+  "fifteen": {
+    "n": {
+      "translation": ["十五", "第十五", "十五人组成的橄揽球队"],
+      "plural": ["fifteens"]
+    },
+    "adj": {
+      "translation": ["十五(的)", "十五个(的)"]
+    }
+  },
+  "five": {
+    "n": {
+      "translation": ["五，五个", "五美元钞票"],
+      "plural": ["fives"]
+    },
+    "num": {
+      "translation": ["五，五个"],
+      "plural": ["fives"]
+    },
+    "adj": {
+      "translation": ["五的", "五个的"]
+    }
+  },
+  "fix": {
+    "v": {
+      "translation": [
+        "修理", "安装", "提供，准备（尤指食物）", "找到，确定，说出", "决定，确定(日期、时间、数量等)", "定（影）", "组织",
+        "使固定", "安排", "操纵", "惩罚", "梳洗", "阉割（家畜）"
+      ],
+      "singular": ["fixes"],
+      "present": ["fixing"],
+      "past": ["fixed"]
+    },
+    "n": {
+      "translation": [
+        "（船或飞机的）方位确定，定位", "理解", "(尤指简单、暂时的)解决方法", "困境", "窘境",
+        "(致瘾的东西，尤指毒品的)一次用量", "受操纵的事"
+      ],
+      "plural": ["fixes"]
+    }
+  },
+  "flag": {
+    "n": {
+      "translation": ["旗", "旗帜(指某国家或组织及其信仰和价值观)", "(体育运动的)信号旗，标志旗", "菖蒲"],
+      "plural": ["flags"]
+    },
+    "v": {
+      "translation": ["标示(重要处)", "疲乏", "热情衰减", "变弱"],
+      "singular": ["flags"],
+      "present": ["flagging"],
+      "past": ["flagged"]
+    }
+  },
+  "flame": {
+    "n": {
+      "translation": ["火焰", "激情", "火舌", "橘红色", "强烈的感情", "橙黄色", "鲜红色", "火药味电邮（或互联网信息）"],
+      "plural": ["flames"]
+    },
+    "v": {
+      "translation": ["燃烧", "(因强烈情绪而)变红，使变红", "向(某人)发送火药味电邮(或互联网信息)"],
+      "singular": ["flames"],
+      "present": ["flaming"],
+      "past": ["flamed"]
+    }
+  },
+  "flare": {
+    "v": {
+      "translation": [
+        "(火光)闪耀", "（尤指因气愤）使（鼻孔）张开，（鼻孔）张开", "(摇曳着)燃烧", "加剧", "突发", "发怒地说", "粗暴地说",
+        "底部展开", "(短暂)烧旺"
+      ],
+      "singular": ["flares"],
+      "present": ["flaring"],
+      "past": ["flared"]
+    },
+    "n": {
+      "translation": [
+        "照明弹", "喇叭形", "(摇曳的)光", "喇叭裤", "(闪耀的)火光", "闪光装置", "逐渐展开", "闪光信号灯", "(短暂的)旺火"
+      ]
+    }
+  },
+  "flash": {
+    "v": {
+      "translation": [
+        "闪光", "（使）闪现，映出，显示", "(快速地)显示", "(使)闪耀", "突然想到", "飞速运动",
+        "（通过无线电、计算机等）快速发送（信息）", "(向…)用光发出(信号)", "突然显露（强烈情感）"
+      ],
+      "singular": ["flashes"],
+      "present": ["flashing"],
+      "past": ["flashed"]
+    },
+    "n": {
+      "translation": [
+        "闪光", "闪光灯", "（明亮的东西）闪现", "(尤指信号灯)闪亮", "闪耀", "(情感的)突发", "徽章，肩章，臂章", "彩条",
+        "(想法的)突现", "Flash网站动画制作程序"
+      ]
+    },
+    "adj": {
+      "translation": ["昂贵的", "庞大的", "穿着奢华的"]
+    }
+  },
+  "flat": {
+    "adj": {
+      "translation": [
+        "平的", "扁平的", "水平的", "平滑的", "平淡的", "瘪了的", "断然的", "不景气的", "枯燥的", "降音的",
+        "色彩单调的", "走了气的", "电用完了的", "低于标准音高的"
+      ],
+      "comparative": ["flatter"],
+      "superlative": ["flattest"]
+    },
+    "n": {
+      "translation": [
+        "公寓", "(尤指水边的)平地", "(某物的)平面部分", "一套房间", "降半音", "低洼地", "瘪了的轮胎", "单元房",
+        "平面布景", "无障碍平地赛马季节"
+      ],
+      "plural": ["flats"]
+    },
+    "adv": {
+      "translation": ["断然", "直截了当地", "(尤指贴着另一表面)平躺地", "低于标准音高"]
+    },
+    "vi": {
+      "translation": ["合住公寓"],
+      "singular": ["flats"],
+      "present": ["flatting"],
+      "past": ["flatted"]
+    }
+  },
+  "flavour": {
+    "n": {
+      "translation": ["风味", "(食物或饮料的)味道", "特色", "特点", "气氛", "像…的想法", "衍生系统"],
+      "plural": ["flavours"]
+    },
+    "vt": {
+      "translation": ["给(食物或饮料)调味", "加味于"],
+      "singular": ["flavours"],
+      "present": ["flavouring"],
+      "past": ["flavoured"]
+    }
+  },
+  "fleet": {
+    "n": {
+      "translation": ["舰队", "机群，车队", "(一国的)全部军舰，海军", "捕鱼船队"],
+      "plural": ["fleets"]
+    },
+    "adj": {
+      "translation": ["跑得快的", "快速的"]
+    },
+    "adv": {
+      "translation": ["浅"]
+    },
+    "v": {
+      "translation": ["掠过", "(船员)变换位置", "消磨(时间)"]
+    }
+  },
+  "flesh": {
+    "n": {
+      "translation": ["(动物或人的)肉", "肉体", "果肉", "(人体的)皮肤", "蔬菜的可食部分"]
+    },
+    "v": {
+      "translation": ["使发胖", "长胖", "喂肉给……"],
+      "singular": ["fleshes"],
+      "present": ["fleshing"],
+      "past": ["fleshed"]
+    }
+  },
+  "flexible": {
+    "adj": {
+      "translation": ["灵活的", "柔韧的", "有弹性的", "可弯曲的", "可变动的", "能适应新情况的"]
+    }
+  },
+  "flight": {
+    "n": {
+      "translation": [
+        "航班", "飞行", "（物体的）飞行，飞行方向", "班机", "航程", "飞翔", "逃避，躲避", "一段楼梯",
+        "(尤指乘飞机的)空中航行", "异想天开", "（一起飞行的）鸟群（或机群）"
+      ],
+      "plural": ["flights"]
+    },
+    "vt": {
+      "translation": ["(熟练地踢、击或掷)使(球)在空中飞行"],
+      "singular": ["flights"],
+      "present": ["flighting"],
+      "past": ["flighted"]
+    }
+  },
+  "float": {
+    "v": {
+      "translation": [
+        "浮动", "漂浮", "提出，提请考虑（想法或计划）", "（使货币汇率）自由浮动", "使漂流", "飘动", "飘移",
+        "（公司或企业）发行（股票）上市", "轻盈走动"
+      ],
+      "singular": ["floats"],
+      "present": ["floating"],
+      "past": ["floated"]
+    },
+    "n": {
+      "translation": ["浮子", "(学游泳用的)浮板", "彩车", "鱼漂", "（商店的）备用零钱", "加冰激凌的饮料"],
+      "plural": ["floats"]
+    }
+  },
+  "flock": {
+    "n": {
+      "translation": [
+        "(尤指同类人的)一大群", "(羊或鸟)群", "（植绒用的）短绒，绒屑", "(常跟随某圣职人员等学习的)信众", "小块软填料"
+      ],
+      "plural": ["flocks"]
+    },
+    "vi": {
+      "translation": ["聚集", "蜂拥", "群集"],
+      "singular": ["flocks"],
+      "present": ["flocking"],
+      "past": ["flocked"]
+    }
+  },
+  "flood": {
+    "n": {
+      "translation": ["洪水", "水灾", "大批，大量(的人或事物)"],
+      "plural": ["floods"]
+    },
+    "v": {
+      "translation": [
+        "淹没", "泛滥", "（使）充斥，充满", "（使）溢流", "大量涌入", "照进", "(使)灌满水", "蜂拥而出", "大量送至", "使大受感动"
+      ],
+      "singular": ["floods"],
+      "present": ["flooding"],
+      "past": ["flooded"]
+    }
+  },
+  "floor": {
+    "n": {
+      "translation": [
+        "地板", "地面", "楼层", "(车厢内的)底板", "（海等的）底", "（建筑物内的）场地", "（工资或物价的）最低额，底价", "议员席"
+      ],
+      "plural": ["floors"]
+    },
+    "vt": {
+      "translation": ["给…安装地板", "(尤指体育运动中)击倒，打倒", "使惊奇", "使困惑", "给…铺设地面"],
+      "singular": ["floors"],
+      "present": ["flooring"],
+      "past": ["floored"]
+    }
+  },
+  "flour": {
+    "n": {
+      "translation": ["(尤指小麦的)面粉", "(谷物磨成的)粉"]
+    },
+    "vt": {
+      "translation": ["在…上撒(或覆以)面粉"],
+      "singular": ["flours"],
+      "present": ["flouring"],
+      "past": ["floured"]
+    }
+  },
+  "flourish": {
+    "v": {
+      "translation": ["繁荣", "兴旺", "茁壮成长", "(为引起注意)挥舞", "昌盛", "健康幸福"],
+      "singular": ["flourishes"],
+      "present": ["flourishing"],
+      "past": ["flourished"]
+    },
+    "n": {
+      "translation": [
+        "(讲话或文章的)华丽辞藻，修饰", "(为引起注意的)夸张动作", "给人深刻印象的行动", "令人难忘的方式", "花彩号声",
+        "（尤指手写体的）装饰曲线"
+      ]
+    }
+  },
+  "flow": {
+    "n": {
+      "translation": ["流", "流动", "连贯", "涨潮", "滔滔不绝", "持续生产", "不断供应"]
+    },
+    "vi": {
+      "translation": ["流动", "流", "流畅", "涌流", "有的是", "涨", "飘垂", "被强烈感到"],
+      "singular": ["flows"],
+      "present": ["flowing"],
+      "past": ["flowed"]
+    }
+  },
+  "flower": {
+    "n": {
+      "translation": ["花", "花朵", "开花植物", "(已摘)带梗的花"],
+      "plural": ["flowers"]
+    },
+    "vi": {
+      "translation": ["开花", "成熟", "繁荣", "兴旺"],
+      "singular": ["flowers"],
+      "present": ["flowering"],
+      "past": ["flowered"]
+    }
+  },
+  "flu": {
+    "n": {
+      "translation": ["流感", "流行性感冒"],
+      "plural": ["flus"]
+    }
+  },
+  "fluent": {
+    "adj": {
+      "translation": ["（说话）流利的", "(文体) 流畅的", "(河水等) 畅流的", "(动作、曲线等) 优美自然的"]
+    }
+  },
+  "fluid": {
+    "n": {
+      "translation": ["液体", "流体", "液"],
+      "plural": ["fluids"]
+    },
+    "adj": {
+      "translation": ["流体的", "流动的", "不稳定的", "易变的", "流畅优美的"]
+    }
+  },
+  "flush": {
+    "v": {
+      "translation": ["(用水)冲洗净，冲洗", "冲(抽水马桶)", "脸红", "发红", "（用水）冲走"],
+      "singular": ["flushes"],
+      "present": ["flushing"],
+      "past": ["flushed"]
+    },
+    "n": {
+      "translation": ["冲(抽水马桶)", "脸红", "潮红", "(流露出的)一阵激情", "一阵强烈情感", "同花的一手牌"],
+      "plural": ["flushes"]
+    },
+    "adj": {
+      "translation": ["富有，很有钱(通常为短期的)", "完全齐平"]
+    },
+    "adv": {
+      "translation": ["齐平地", "直接地"]
+    }
+  },
+  "fly": {
+    "v": {
+      "translation": [
+        "飞", "(在空中或宇宙)飞行，航行", "(乘飞行器或航天器)航行，飞行", "飞翔", "驾驶（飞机等）", "成功", "（旗）飘扬",
+        "空运（货物或乘客）", "飞逝", "（从…）逃走，逃跑", "疾驰", "流传", "自由移动", "乘飞行器飞越（海洋或陆地）",
+        "猛然移动", "击（球）腾空"
+      ],
+      "singular": ["flies"],
+      "present": ["flying"],
+      "past": ["flew", "flown"]
+    },
+    "n": {
+      "translation": ["苍蝇", "(作钓饵的)苍蝇，假蝇", "蝇", "门帘", "(裤子的)前裆开口"],
+      "plural": ["flies"]
+    },
+    "adj": {
+      "translation": ["漂亮的", "机灵的", "机警的", "不会上当的", "时髦迷人的"]
+    }
+  },
+  "focus": {
+    "v": {
+      "translation": ["集中(注意力、精力等于)", "聚焦(于)", "(使)调节焦距"],
+      "singular": ["focuses"],
+      "present": ["focusing"],
+      "past": ["focused"]
+    },
+    "n": {
+      "translation": ["(光、声等的)焦点，中心点，源", "(眼睛或镜头的)焦距，调焦", "（地震的）震源", "中心点(指人或事物)"],
+      "plural": ["foci"]
+    }
+  },
+  "fog": {
+    "n": {
+      "translation": ["雾", "困惑", "迷惘"]
+    },
+    "v": {
+      "translation": ["使困惑", "(使)雾气笼罩", "使迷惘", "使混淆不清"],
+      "singular": ["fogs"],
+      "present": ["fogging"],
+      "past": ["fogged"]
+    }
+  },
+  "fold": {
+    "v": {
+      "translation": ["折叠", "对折(纸、织物等)", "包", "倒闭", "裹", "叠平", "可折小(以便贮存或携带)"],
+      "singular": ["folds"],
+      "present": ["folding"],
+      "past": ["folded"]
+    },
+    "n": {
+      "translation": [
+        "（地壳岩石层的）褶皱", "折叠部分", "褶", "羊圈", "褶痕", "羊栏", "褶层", "褶线", "褶缝", "山坳", "志趣相同的人们"
+      ]
+    }
+  },
+  "folk": {
+    "n": {
+      "translation": ["人们", "民间音乐", "各位", "普通百姓", "亲属", "家属", "大伙儿", "(尤指)爹妈"],
+      "plural": ["folks"]
+    },
+    "adj": {
+      "translation": ["传统民间的", "民俗的", "流传民间的", "普通百姓的"]
+    }
+  },
+  "follow": {
+    "v": {
+      "translation": [
+        "跟随", "接受，遵循，听从（忠告、指示等）", "接着是", "跟着", "沿着（道路、小径等）", "理解，明白（说明或意思）",
+        "(指时间或顺序)在…后发生，因…而发生", "密切注视", "是…的必然结果", "在…后做", "沿着…延伸", "涉及…生活",
+        "接受…为指导（或领导、榜样）", "对…产生浓厚兴趣而关注", "按…方式（或方向）发展"
+      ],
+      "singular": ["follows"],
+      "present": ["following"],
+      "past": ["followed"]
+    },
+    "n": {
+      "translation": ["跟随", "(撞球)跟球", "添菜"]
+    }
+  },
+  "following": {
+    "adj": {
+      "translation": ["下列的", "下述的", "(时间上)接着的"]
+    },
+    "n": {
+      "translation": ["下列", "如下", "下述", "(统称)拥护者，追随者"],
+      "plural": ["followings"]
+    },
+    "prep": {
+      "translation": ["由于", "在(某事)以后"]
+    },
+    "v": {
+      "translation": ["跟随", "跟着", "(指时间或顺序)在…后发生，因…而发生", "在…后做"]
+    }
+  },
+  "fond": {
+    "adj": {
+      "translation": ["喜欢的", "喜欢(做令人不快的事)", "喜爱(尤指长期喜爱的事物)", "深情的", "（指希望）难以实现的"],
+      "comparative": ["fonder"],
+      "superlative": ["fondest"]
+    }
+  },
+  "food": {
+    "n": {
+      "translation": ["食物"],
+      "plural": ["foods"]
+    }
+  },
+  "fool": {
+    "n": {
+      "translation": ["傻瓜", "蠢人", "(旧时国王或王后豢养供人娱乐的)小丑，弄臣", "奶油果泥，蛋奶果泥(甜食)"],
+      "plural": ["fools"]
+    },
+    "v": {
+      "translation": ["欺骗", "愚弄", "说蠢话，干傻事(常为逗乐)"],
+      "singular": ["fools"],
+      "present": ["fooling"],
+      "past": ["fooled"]
+    },
+    "adj": {
+      "translation": ["愚蠢的", "傻的"]
+    }
+  },
+  "foolish": {
+    "adj": {
+      "translation": ["愚蠢的", "傻的", "出丑", "显得尴尬", "感到荒谬"]
+    }
+  },
+  "foot": {
+    "n": {
+      "translation": ["脚，足", "英尺", "基础，底部", "<文>步态，步伐", "袜底", "袜底", "（缝纫机的）压脚板"],
+      "plural": ["feet"]
+    },
+    "adj": {
+      "translation": ["（刹车或泵）用脚操作的，脚踏的", "（巡逻队）步行的，步（兵）的"]
+    },
+    "v": {
+      "translation": ["<非正式>支付（尤指大额或不合理账单）"],
+      "singular": ["foots"],
+      "present": ["footing"],
+      "past": ["footed"]
+    }
+  },
+  "football": {
+    "n": {
+      "translation": ["足球", "橄榄球", "足球运动", "被踢来踢去的难题", "屡起争议的问题"],
+      "plural": ["footballs"]
+    }
+  },
+  "footstep": {
+    "n": {
+      "translation": ["脚步", "脚步声"],
+      "plural": ["footsteps"]
+    }
+  },
+  "for": {
+    "prep": {
+      "translation": [
+        "（表示对象、用途等）给，对", "为了，以帮助", "（表示感情所针对的人或事物）为，对", "代表 （某团体或机构）", "受雇于",
+        "意思是", "支持，拥护", "以（提及物）为目的（或功能）", "（表示结果）因为，由于", "为得到，为获取",
+        "以……为交换，以……为代价", "就…而言", "……后（更好、更快乐等）", "（表示去向）往，向（表示去向）往，向",
+        "（表示一段时间）达，计", "（安排或预定）在…时", "为 （某场合）", "用于表示延伸的距离",
+        "对（某人）来说（困难、必需、愉快等）", "是……的义务（或责任）", "要不是", "对应 （用于比较不同事物间的价值或品质）", "想要"
+      ]
+    },
+    "conj": {
+      "translation": ["因为", "由于"]
+    }
+  },
+  "forbid": {
+    "vt": {
+      "translation": ["禁止", "不准", "阻止", "阻碍", "妨碍"],
+      "singular": ["forbids"],
+      "present": ["forbidding"],
+      "past": ["forbade", "forbidden"]
+    }
+  },
+  "force": {
+    "n": {
+      "translation": [
+        "力", "力量", "武力", "武装部队", "暴力", "权力", "兵力，武装力量（陆海空三军）", "风力", "警察部门", "一群人",
+        "巨大影响", "强大效力", "力量大的人（或事物）"
+      ],
+      "plural": ["forces"]
+    },
+    "vt": {
+      "translation": [
+        "强迫，迫使(某人做某事)", "使发生(尤指趁他人尚未准备)", "用力，强行(把…移动)", "强作（笑颜）", "人工催长"
+      ],
+      "singular": ["forces"],
+      "present": ["forcing"],
+      "past": ["forced"]
+    }
+  },
+  "forecast": {
+    "n": {
+      "translation": ["预测", "预报"],
+      "plural": ["forecasts"]
+    },
+    "vt": {
+      "translation": ["预测", "预报"],
+      "singular": ["forecasts"],
+      "present": ["forecasting"],
+      "past": ["forecasted"]
+    }
+  },
+  "forehead": {
+    "n": {
+      "translation": ["额头", "前额", "额"],
+      "plural": ["foreheads"]
+    }
+  },
+  "foreign": {
+    "adj": {
+      "translation": ["外国的", "外交的", "异物", "涉外的", "陌生的", "非典型的"]
+    }
+  },
+  "foreigner": {
+    "n": {
+      "translation": ["外国人", "外地人", "外来人"],
+      "plural": ["foreigners"]
+    }
+  },
+  "foremost": {
+    "adj": {
+      "translation": ["最重要的", "最前的", "最著名的"]
+    },
+    "adv": {
+      "translation": ["首先", "居于首位地"]
+    }
+  },
+  "forest": {
+    "n": {
+      "translation": ["森林", "林区", "(森林似的)一丛，一片"],
+      "plural": ["forests"]
+    },
+    "v": {
+      "translation": ["在…造林", "使长满树"]
+    }
+  },
+  "forever": {
+    "adv": {
+      "translation": ["永远", "(与进行时态连用)老是，不断地", "长久地"]
+    },
+    "n": {
+      "translation": ["极长的一段时间", "永恒"]
+    }
+  },
+  "forget": {
+    "v": {
+      "translation": [
+        "忘记", "遗忘", "忘记做(或带、买等)", "不再想", "不再把…放在心上", "不再考虑…的可能", "（举止）不得体"
+      ],
+      "singular": ["forgets"],
+      "present": ["forgetting"],
+      "past": ["forgot", "forgotten"]
+    }
+  },
+  "forgive": {
+    "v": {
+      "translation": ["原谅", "宽恕", "请原谅", "对不起", "免除(债务)"],
+      "singular": ["forgives"],
+      "present": ["forgiving"],
+      "past": ["forgave", "forgiven"]
+    }
+  },
+  "fork": {
+    "n": {
+      "translation": ["叉(挖掘用的园艺工具)", "餐叉", "岔路", "叉状物", "(道路、河流等的)分岔处", "车叉子"],
+      "plural": ["forks"]
+    },
+    "v": {
+      "translation": ["分岔", "叉运", "岔开两条分支", "走岔路中的一条", "叉掘"],
+      "singular": ["forks"],
+      "present": ["forking"],
+      "past": ["forked"]
+    }
+  },
+  "form": {
+    "n": {
+      "translation": [
+        "表格，表", "（尤指艺术作品或文章的）结构", "形状，外形", "良好表现", "类别，种类", "惯常做法，习俗",
+        "（英国的）班级，年级", "体形", "体能，良好的健康状态", "体能", "（存在的）形态，形式", "不礼貌的行为"
+      ],
+      "plural": ["forms"]
+    },
+    "v": {
+      "translation": ["构成，是……的组成部分", "组织，建立", "(使)出现", "陶冶，培养", "使）（关系、习惯或想法）形成"],
+      "singular": ["forms"],
+      "present": ["forming"],
+      "past": ["formed"]
+    }
+  },
+  "formal": {
+    "adj": {
+      "translation": ["正式的", "正规的", "庄重的", "整齐的", "适合正式场合的", "方式上的", "合乎规矩的"]
+    },
+    "n": {
+      "translation": ["<美>须穿礼服的社交集会", "<口>夜礼服"],
+      "plural": ["formals"]
+    }
+  },
+  "formation": {
+    "n": {
+      "translation": ["形成", "组成", "编队", "队形", "形成物", "组成物"],
+      "plural": ["formations"]
+    }
+  },
+  "former": {
+    "n": {
+      "translation": ["模型", "样板", "创造者", "构成者", "起形成作用的人", "[无线]线圈架"],
+      "plural": ["formers"]
+    },
+    "adj": {
+      "translation": ["前", "(两者中)前者的", "（两者中的）前者", "以前的", "昔日的"]
+    },
+    "pron": {
+      "translation": ["（两者中的）前者"]
+    }
+  },
+  "formula": {
+    "n": {
+      "translation": [
+        "公式", "配方，处方", "计划，方案", "方程式", "分子式，结构式", "计算式", "配方奶", "(尤指机械遵循的) 惯例，常规",
+        "(日常礼节用的) 惯用语句，俗套话"
+      ],
+      "plural": ["formulas"]
+    }
+  },
+  "forth": {
+    "adv": {
+      "translation": ["向前, 向前方", "以后", " 露出着", "出外, 离家", "往外"]
+    }
+  },
+  "fortnight": {
+    "n": {
+      "translation": ["两星期"],
+      "plural": ["fortnights"]
+    }
+  },
+  "fortunate": {
+    "adj": {
+      "translation": ["幸运的", "吉利的", "交好运的"]
+    },
+    "n": {
+      "translation": ["有好运的人"],
+      "plural": ["fortunates"]
+    }
+  },
+  "fortunately": {
+    "adv": {
+      "translation": ["幸运地", "交好运地", "吉利地"]
+    }
+  },
+  "fortune": {
+    "n": {
+      "translation": [
+        "财富", "(个人、家庭、国家等的)发展变化的趋势，命运，际遇", "（个人的）命运，前途", "(尤指影响人生的)机会，运气",
+        "巨款", "大笔的钱"
+      ],
+      "plural": ["fortunes"]
+    },
+    "vi": {
+      "translation": ["给予财富偶然发生"],
+      "singular": ["fortunes"],
+      "present": ["fortuning"],
+      "past": ["fortuned"]
+    }
+  },
+  "forty": {
+    "n": {
+      "translation": ["四十"],
+      "plural": ["forties"]
+    },
+    "adj": {
+      "translation": ["四十的", "四十个的"]
+    }
+  },
+  "forward": {
+    "adv": {
+      "translation": ["向前", "前进", "进展", "提前", "往后", "在（或向）船头", "向前地", "向将来"]
+    },
+    "adj": {
+      "translation": ["向前的", "前进的", "未来的", "(尤指船、飞机或其他交通工具)前部的，前面的", "将来的", "鲁莽的"]
+    },
+    "vt": {
+      "translation": ["发送，寄(商品或信息)", "促进", "(按新地址)转寄，转投，转交", "增进", "有助于…的发展"],
+      "singular": ["forwards"],
+      "present": ["forwarding"],
+      "past": ["forwarded"]
+    },
+    "n": {
+      "translation": ["(运动队的)前锋"],
+      "plural": ["forwards"]
+    }
+  },
+  "found": {
+    "vt": {
+      "translation": ["创办，成立", "根据，以……为基础", "建造，兴建", "熔铸，铸造"],
+      "singular": ["founds"],
+      "present": ["founding"],
+      "past": ["founded"]
+    },
+    "adj": {
+      "translation": ["偶然（或意外）发现的", "（艺术）原汁原味的", "装备好的", "<英>（用餐、供暖）不另外收费的"]
+    }
+  },
+  "foundation": {
+    "n": {
+      "translation": [
+        "基础", "基金会", "地基", "根据", "（机构或组织的）创建，创办", "基本原理", "（化妆打底用的）粉底霜", "房基"
+      ],
+      "plural": ["foundations"]
+    }
+  },
+  "fountain": {
+    "n": {
+      "translation": ["喷泉", "喷水池", "源泉", "(液体或其他物质的)喷射，涌流", "人工喷泉", "丰富来源"],
+      "plural": ["fountains"]
+    }
+  },
+  "four": {
+    "num": {
+      "translation": ["四，四个"],
+      "plural": ["fours"]
+    },
+    "n": {
+      "translation": ["四，四个 (人或物)", "四个人（或事）的一组", "表示四的符号", "（板球）四分的一击"],
+      "plural": ["fours"]
+    },
+    "adj": {
+      "translation": ["四的", "四个的"]
+    }
+  },
+  "fourteen": {
+    "num": {
+      "translation": ["十四", "十四岁", "十四个"],
+      "plural": ["fourteens"]
+    },
+    "n": {
+      "translation": ["十四", "十四岁", "十四个 (人或物) ", "表示十四的符号", "十四点钟"],
+      "plural": ["fourteens"]
+    }
+  },
+  "fourth": {
+    "adj": {
+      "translation": ["第四的，第四个的", "四分之一的"]
+    },
+    "n": {
+      "translation": ["第四，月的第四日", "四分之一"],
+      "plural": ["fourths"]
+    },
+    "num": {
+      "translation": ["第四"],
+      "plural": ["fourths"]
+    }
+  },
+  "fox": {
+    "n": {
+      "translation": ["狐狸", "狐", "老狐狸", "狐皮", "狡猾的人", "老滑头", "漂亮的年轻女子"],
+      "plural": ["foxes"]
+    },
+    "vt": {
+      "translation": ["使迷惑", "把…难住", "使上当", "使猜不透"],
+      "singular": ["foxes"],
+      "present": ["foxing"],
+      "past": ["foxed"]
+    }
+  },
+  "fraction": {
+    "n": {
+      "translation": ["小部分", "分数", "小数", "少量", "一点儿"],
+      "plural": ["fractions"]
+    }
+  },
+  "fragment": {
+    "n": {
+      "translation": ["片段", "碎片"],
+      "plural": ["fragments"]
+    },
+    "v": {
+      "translation": ["(使)碎裂，破裂，分裂"],
+      "singular": ["fragments"],
+      "present": ["fragmenting"],
+      "past": ["fragmented"]
+    }
+  },
+  "frame": {
+    "n": {
+      "translation": [
+        "(图画、门、玻璃等的)框架", "帧", "(家具、建筑物、车辆等的)构架，支架，骨架", "总的思想，体系，体制，模式", "眼镜框",
+        "体形", "一轮", "（连环漫画中的）一幅画"
+      ],
+      "plural": ["frames"]
+    },
+    "vt": {
+      "translation": ["（以某种方式）表达", "制订", "拟订", "给…镶边", "给…做框", "作伪证陷害"],
+      "singular": ["frames"],
+      "present": ["framing"],
+      "past": ["framed"]
+    },
+    "adj": {
+      "translation": ["木结构的"]
+    }
+  },
+  "framework": {
+    "n": {
+      "translation": [
+        "框架", "(体系的)结构", "机制", "(建筑物或物体的)构架", "准则", "观点", "(作为判断、决定等基础的)信仰"
+      ],
+      "plural": ["frameworks"]
+    }
+  },
+  "france": {
+    "n": {
+      "translation": ["法国", "法兰西"]
+    }
+  },
+  "frank": {
+    "adj": {
+      "translation": ["坦率的", "直率的"],
+      "comparative": ["franker"],
+      "superlative": ["frankest"]
+    },
+    "vt": {
+      "translation": ["(在信件上)盖邮资已付印记，盖免付邮资印记"],
+      "singular": ["franks"],
+      "present": ["franking"],
+      "past": ["franked"]
+    },
+    "n": {
+      "translation": ["弗兰克", "免费邮寄的信件", "免费邮寄权", "免费邮戳或签名"],
+      "plural": ["franks"]
+    }
+  },
+  "free": {
+    "adj": {
+      "translation": [
+        "自由的", "免费的", "空闲的", "(货物等) 免税的", "自然的, 不拘束的", "自愿的, 主动的", "未固定的，松开的",
+        "不受阻碍的", "丰盛的", "直爽的, 坦率的", "受准许的, 可允许的", "(用钱) 大手大脚的"
+      ],
+      "comparative": ["freer"],
+      "superlative": ["freest"]
+    },
+    "adv": {
+      "translation": ["自由地", "免费地", "帆脚索被松开地"]
+    },
+    "v": {
+      "translation": ["释放", "使免于", "使可用于", "使解脱出来", "使能腾出时间"],
+      "singular": ["frees"],
+      "present": ["freeing"],
+      "past": ["freed"]
+    }
+  },
+  "freedom": {
+    "n": {
+      "translation": ["(指状态或权利)自由", "自由使用权", "没有…的情况", "自由民地位(不是囚犯或奴隶)"],
+      "plural": ["freedoms"]
+    }
+  },
+  "freely": {
+    "adv": {
+      "translation": [
+        "自由地", "无拘无束地", "不受限制地", "自愿地", "慷慨地", "直率地", "无阻碍地", "畅通地", "甘心情愿地", "以意译方法"
+      ]
+    }
+  },
+  "freeze": {
+    "v": {
+      "translation": [
+        "冻结", "（屏幕）冻结", "(使)结冰", "冰冻", "严寒", "使定格", "(使)冻堵", "极冷", "冷冻贮藏",
+        "（因害怕等）停住不动", "使固定不动", "能冷冻贮藏"
+      ],
+      "singular": ["freezes"],
+      "present": ["freezing"],
+      "past": ["froze", "frozen"]
+    },
+    "n": {
+      "translation": ["冻结", "停止", "霜冻", "冰冻期", "严寒期"]
+    }
+  },
+  "freight": {
+    "n": {
+      "translation": ["货运", "(海运、空运或陆运的)货物"],
+      "plural": ["freights"]
+    },
+    "vt": {
+      "translation": ["寄送，运送(货物)", "货运", "使充满(某种心情或口气)"],
+      "singular": ["freights"],
+      "present": ["freighting"],
+      "past": ["freighted"]
+    }
+  },
+  "french": {
+    "n": {
+      "translation": ["法语", "法国人"]
+    },
+    "adj": {
+      "translation": ["法国的", "法语的", "法国人的"]
+    }
+  },
+  "frequency": {
+    "n": {
+      "translation": ["(声波或电磁波振动的)频率", "频繁", "发生率", "出现率", "重复率"],
+      "plural": ["frequencies"]
+    }
+  },
+  "frequent": {
+    "adj": {
+      "translation": ["频繁的", "经常发生的"]
+    },
+    "vt": {
+      "translation": ["常去，常到(某处)"],
+      "singular": ["frequents"],
+      "present": ["frequenting"],
+      "past": ["frequented"]
+    }
+  },
+  "frequently": {
+    "adv": {
+      "translation": ["经常", "频繁地"]
+    }
+  },
+  "fresh": {
+    "adj": {
+      "translation": [
+        "新鲜的", "清新的", "新的", "不同的", "洁净的", "淡的", "清凉的", "新近的", "精力充沛", "刚摘的", "刚从…来",
+        "新产的", "凉飕飕的", "粗鲁", "新近出现的", "新近体验的"
+      ],
+      "comparative": ["fresher"],
+      "superlative": ["freshest"]
+    },
+    "adv": {
+      "translation": ["刚刚，才，最新地"]
+    },
+    "n": {
+      "translation": ["(一天,一年等的)开始", "(河流的)暴涨", "(流入咸水中的)淡水流"]
+    }
+  },
+  "friction": {
+    "n": {
+      "translation": ["摩擦", "摩擦力", "分歧", "不和", "争执"],
+      "plural": ["frictions"]
+    }
+  },
+  "friday": {
+    "n": {
+      "translation": ["星期五"],
+      "plural": ["Fridays"]
+    }
+  },
+  "fridge": {
+    "n": {
+      "translation": ["冰箱"],
+      "plural": ["fridges"]
+    }
+  },
+  "friend": {
+    "n": {
+      "translation": [
+        "朋友", "朋友，阁下，同人", "友人", "同志", "支持者", "同伙", "自己人", "同盟者", "赞助者", "（新教）公谊会成员"
+      ],
+      "plural": ["friends"]
+    },
+    "v": {
+      "translation": ["<诗>与…为友"],
+      "singular": ["friends"],
+      "present": ["friending"],
+      "past": ["friended"]
+    }
+  },
+  "friendly": {
+    "adj": {
+      "translation": [
+        "亲切的，友爱的", "（国家或政府）友好的，无敌意的", "朋友（般）的，要好的", "（部队，装备）我军的，友军的", "善意的",
+        "好用的", "（支持的，提供帮助的"
+      ],
+      "comparative": ["friendlier"],
+      "superlative": ["friendliest"]
+    },
+    "n": {
+      "translation": ["友谊赛"],
+      "plural": ["friendlies"]
+    }
+  },
+  "friendship": {
+    "n": {
+      "translation": ["友谊", "友好", "友情", "朋友关系"],
+      "plural": ["friendships"]
+    }
+  },
+  "frighten": {
+    "v": {
+      "translation": ["吓唬", "使惊吓", "使惊恐"],
+      "singular": ["frightens"],
+      "present": ["frightening"],
+      "past": ["frightened"]
+    }
+  },
+  "frog": {
+    "n": {
+      "translation": ["青蛙", "蛙", "法国佬(对法国人的蔑称)"],
+      "plural": ["frogs"]
+    }
+  },
+  "from": {
+    "prep": {
+      "translation": [
+        "（表示来源）来自，源于，出自，从…来", "（表示所用的原料）由…（制成）", "不在，没来", "根据，从…来看",
+        "（表示开始的时间）从…开始", "（表示原因）由于，因为", "（表示起始点）从…起，始于", "（表示两者之间的距离）离",
+        "（表示防止）使免遭，使免受", "妨碍，不准", "（表示被阻止或防备的人或事物）以防，以免",
+        "（表示由某人发出或给出）寄自，得自", "从", "（表示幅度或范围）从…（到）", "（表示改变前的状态或形式）从…（到）",
+        "（区别二者时用）与…（不同）"
+      ]
+    }
+  },
+  "front": {
+    "n": {
+      "translation": [
+        "前面", "表面", "前部", "正面", "面", "前线", "阵线", "正前方", "（冷暖空气团接触的）锋", "海滨", "身体前部",
+        "活动领域", "非法（或秘密）活动掩护者"
+      ],
+      "plural": ["fronts"]
+    },
+    "adj": {
+      "translation": ["在前的", "前面的", "前部的", "正面的", "舌前的", "舌前位发的"]
+    },
+    "v": {
+      "translation": [
+        "在…前面", "向", "朝", "前置", "面向", "领导，代表(团体、组织等)", "主持", "用…作正面", "用…覆盖正面"
+      ],
+      "singular": ["fronts"],
+      "present": ["fronting"],
+      "past": ["fronted"]
+    },
+    "adv": {
+      "translation": ["在[向]前面"]
+    }
+  },
+  "frontier": {
+    "n": {
+      "translation": [
+        "边境", "边界", "国界", "(学科或活动的)尖端，边缘", "(尤指19世纪美国西部的)开发地区边缘地带，边远地区"
+      ],
+      "plural": ["frontiers"]
+    },
+    "adj": {
+      "translation": ["边疆的", "边地的"]
+    }
+  },
+  "frost": {
+    "n": {
+      "translation": ["霜", "霜冻", "严寒天气", "冰点以下的温度"],
+      "plural": ["frosts"]
+    },
+    "v": {
+      "translation": ["(使)蒙上霜，结霜", "给(糕饼)覆上糖霜"],
+      "singular": ["frosts"],
+      "present": ["frosting"],
+      "past": ["frosted"]
+    }
+  },
+  "frown": {
+    "v": {
+      "translation": ["皱眉", "蹙额"],
+      "singular": ["frowns"],
+      "present": ["frowning"],
+      "past": ["frowned"]
+    },
+    "n": {
+      "translation": ["皱眉", "蹙额"]
+    }
+  },
+  "fruit": {
+    "n": {
+      "translation": ["水果", "果实", "农产品", "(大地的)产物", "男同性恋者"],
+      "plural": ["fruits"]
+    },
+    "vi": {
+      "translation": ["结果"],
+      "singular": ["fruits"]
+    }
+  },
+  "fruitful": {
+    "adj": {
+      "translation": ["富有成效的", "硕果累累的", "成果丰硕的", "丰产的", "富饶的"]
+    }
+  },
+  "fry": {
+    "v": {
+      "translation": ["油炸", "油煎", "油炒", "(被阳光)灼伤，晒伤"],
+      "singular": ["fries"],
+      "present": ["frying"],
+      "past": ["fried"]
+    },
+    "n": {
+      "translation": ["鱼苗", "鱼秧子"],
+      "plural": ["fries"]
+    }
+  },
+  "fuel": {
+    "n": {
+      "translation": ["燃料", "(尤指使争论等继续或更加激烈的)刺激性言行"],
+      "plural": ["fuels"]
+    },
+    "v": {
+      "translation": ["增加", "给(交通工具)加油", "给…提供燃料", "加强", "刺激"],
+      "singular": ["fuels"],
+      "present": ["fuelling"],
+      "past": ["fuelled"]
+    }
+  },
+  "fulfil": {
+    "vt": {
+      "translation": ["履行", "实现", "完成", "执行", "符合", "目的是", "具备", "使高兴", "起…作用"],
+      "singular": ["fulfills"]
+    }
+  },
+  "full": {
+    "adj": {
+      "translation": [
+        "满的", "完全的", "满是…的", "充满的", "(有)许多的", "丰富的", "(有)大量的", "（强调数量）足足的，整整的",
+        "丰满的", "圆的", "吃饱了的", "忙的", "宽松的", "最高级的", "圆浑的", "(关于某事物)想得很多，谈得很多"
+      ],
+      "comparative": ["fuller"],
+      "superlative": ["fullest"]
+    },
+    "adv": {
+      "translation": ["直接地", "径直地"]
+    },
+    "n": {
+      "translation": ["完全", "极盛时"]
+    }
+  },
+  "fun": {
+    "n": {
+      "translation": ["乐趣", "快乐", "玩笑", "享乐", "嬉戏", "逗乐", "享乐的事"]
+    },
+    "adj": {
+      "translation": ["逗乐的", "有趣的", "使人快乐的"]
+    },
+    "vi": {
+      "translation": ["嬉闹", "开玩笑"],
+      "singular": ["funs"],
+      "present": ["funning"],
+      "past": ["funned"]
+    }
+  },
+  "function": {
+    "n": {
+      "translation": ["功能", "函数", "作用", "职能", "机能", "宴会", "典礼", "社交聚会", "子例行程序"],
+      "plural": ["functions"]
+    },
+    "v": {
+      "translation": ["起作用", "运转", "正常工作"],
+      "singular": ["functions"],
+      "present": ["functioning"],
+      "past": ["functioned"]
+    }
+  },
+  "fund": {
+    "n": {
+      "translation": ["基金", "资金", "储备", "(相当)数量", "专款", "现款"],
+      "plural": ["funds"]
+    },
+    "vt": {
+      "translation": ["为…提供资金", "拨款给"],
+      "singular": ["funds"],
+      "present": ["funding"],
+      "past": ["funded"]
+    }
+  },
+  "fundamental": {
+    "adj": {
+      "translation": ["基本的", "根本的", "基础的", "十分重大的", "不能再分的"]
+    },
+    "n": {
+      "translation": ["基础", "基本原理", "基本规律", "根本法则"],
+      "plural": ["fundamentals"]
+    }
+  },
+  "funeral": {
+    "n": {
+      "translation": ["葬礼", "丧礼", "出殡"],
+      "plural": ["funerals"]
+    },
+    "adj": {
+      "translation": ["葬礼的", "出殡时的", "出殡用的"]
+    }
+  },
+  "funny": {
+    "adj": {
+      "translation": ["滑稽可笑地，古怪地"],
+      "comparative": ["funnier"],
+      "superlative": ["funniest"]
+    },
+    "n": {
+      "translation": [
+        "<口>笑话", "有趣的故事", "滑稽人物", "滑稽戏，令人捧腹的演出", "<美>滑稽连环漫画栏", "（英）（比赛用）单人双桨小艇",
+        "反常的怪事"
+      ],
+      "plural": ["funnies"]
+    }
+  },
+  "fur": {
+    "n": {
+      "translation": ["(动物的)毛皮", "人造毛皮", "(动物浓厚的)软毛", "舌苔", "毛皮衣服，裘皮衣服"],
+      "plural": ["furs"]
+    },
+    "vt": {
+      "translation": ["用毛皮覆盖", "除去（锅上的）水垢"],
+      "singular": ["furs"],
+      "present": ["furring"],
+      "past": ["furred"]
+    }
+  },
+  "furious": {
+    "adj": {
+      "translation": ["狂怒的", "激烈的", "暴怒的", "猛烈的", "盛怒的", "高速的"]
+    }
+  },
+  "furnace": {
+    "n": {
+      "translation": ["熔炉"],
+      "plural": ["furnaces"]
+    }
+  },
+  "furnish": {
+    "vt": {
+      "translation": ["向(某人 / 某事物)供应，提供", "布置家具"],
+      "singular": ["furnishes"],
+      "present": ["furnishing"],
+      "past": ["furnished"]
+    }
+  },
+  "furniture": {
+    "n": {
+      "translation": ["(可移动的)家具"]
+    }
+  },
+  "further": {
+    "adj": {
+      "translation": ["进一步的", "更多的", "附加的"]
+    },
+    "adv": {
+      "translation": ["进一步", "此外", "(空间距离)较远", "(过去或未来)更久远", "在更大程度上", "在更大范围内"]
+    },
+    "vt": {
+      "translation": ["促进", "增进"],
+      "singular": ["furthers"],
+      "present": ["furthering"],
+      "past": ["furthered"]
+    }
+  },
+  "furthermore": {
+    "adv": {
+      "translation": ["此外", "而且", "再者"]
+    }
+  },
+  "future": {
+    "n": {
+      "translation": [
+        "未来", "将来", "期货", "前景", "前途", "前程", "（动词的）将来时，将来式， 未来式", "未来的事", "将来发生的事"
+      ],
+      "plural": ["futures"]
+    },
+    "adj": {
+      "translation": ["将来的", "未来的", "将来发生的"]
+    }
+  }
+}

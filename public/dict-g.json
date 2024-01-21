@@ -1,0 +1,1376 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "gain": {
+    "v": {
+      "translation": [
+        "获得", "得到(好处)", "取得", "增加", "增长", "赢得", "(从…中)受益，获益", "增值", "（经过努力）到达", "增进",
+        "博得", "增添", "走得太快"
+      ],
+      "singular": ["gains"],
+      "present": ["gaining"],
+      "past": ["gained"]
+    },
+    "n": {
+      "translation": ["(尤指财富、重量的)增值，增加", "利益", "利润", "好处", "改进", "经济收益"],
+      "plural": ["gains"]
+    }
+  },
+  "gallery": {
+    "n": {
+      "translation": [
+        "画廊", "(艺术作品的)陈列室，展览馆", "长廊", "(大厅的)楼座，楼上旁听席", "顶层楼座", "水平巷道", "私家画店"
+      ],
+      "plural": ["galleries"]
+    }
+  },
+  "gallon": {
+    "n": {
+      "translation": ["加仑(液量单位，在英国、加拿大及其他一些国家约等于4.5升，在美国约等于3.8升，一加仑为四夸脱)"],
+      "plural": ["gallons"]
+    }
+  },
+  "game": {
+    "n": {
+      "translation": [
+        "(一项)游戏", "（网球等比赛的）一局，一场", "(有规则的)运动", "运动会", "娱乐", "猎物", "比赛项目",
+        "（学校的）体育课，体育活动", "儿童游戏", "诡计", "行当", "比赛(或游戏)时用的手法和技巧"
+      ],
+      "plural": ["games"]
+    },
+    "adj": {
+      "translation": ["甘愿尝试", "有冒险精神"],
+      "comparative": ["gamer"],
+      "superlative": ["gamest"]
+    },
+    "v": {
+      "translation": ["打赌", "赌输赢"],
+      "singular": ["games"],
+      "present": ["gaming"],
+      "past": ["gamed"]
+    }
+  },
+  "gang": {
+    "n": {
+      "translation": [
+        "帮派", "一群，一伙(闹事、斗殴的年轻人)", "一帮，一伙(罪犯)", "一伙(经常聚在一起的朋友)", "一队，一组"
+      ],
+      "plural": ["gangs"]
+    },
+    "v": {
+      "translation": [
+        "结伙", "（一群人）联合起来（多为了威慑别人）", "成群", "（同轴）联接", "编组", "接合", "使结成一帮",
+        "将（电气设备或机器）连接", "合伙攻击", "使成套排列"
+      ],
+      "singular": ["gangs"],
+      "present": ["ganging"],
+      "past": ["ganged"]
+    }
+  },
+  "gap": {
+    "n": {
+      "translation": ["间隙", "差距", "缺口", "间隔", "开口", "分歧", "隔阂", "间断", "裂口", "豁口"],
+      "plural": ["gaps"]
+    },
+    "vi": {
+      "translation": ["有缺口", "张开", "造成缝隙", "使成缺口", "使豁裂豁开", "露出裂口"],
+      "singular": ["gaps"],
+      "present": ["gapping"],
+      "past": ["gapped"]
+    }
+  },
+  "garage": {
+    "n": {
+      "translation": ["车库", "(兼营汽车销售、修理及加油的)汽车修理厂", "停车房", "车库音乐，加拉奇音乐(货仓音乐的一种)"],
+      "plural": ["garages"]
+    },
+    "vt": {
+      "translation": ["把…送入车库(或修车厂)", "把…存放在车库(或修车厂)"],
+      "singular": ["garages"],
+      "present": ["garaging"],
+      "past": ["garaged"]
+    }
+  },
+  "garbage": {
+    "n": {
+      "translation": ["(生活)垃圾", "垃圾桶", "废物", "垃圾箱", "垃圾场", "废话", "无聊的东西"],
+      "plural": ["garbages"]
+    }
+  },
+  "garden": {
+    "n": {
+      "translation": [
+        "（住宅旁或周围的）花园，果园，菜园", "公园", "公园", "（用于街名）园，街，广场", "庭园，园子", "（住宅旁或周围的）园圃"
+      ],
+      "plural": ["gardens"]
+    },
+    "v": {
+      "translation": [
+        "做园艺工作，从事园艺活动", "种植花木，（在园中）栽培植物", "使成为花园（或菜园、果园等）", "用花园点缀"
+      ],
+      "singular": ["gardens"],
+      "present": ["gardening"],
+      "past": ["gardened"]
+    },
+    "adj": {
+      "translation": [
+        "花园的，菜园的，果园的", "普通的, 平常的", "耐寒的", "生长在园圃中的，非野生的", "园圃中使用的", "周围有园圃（或绿化地带）的"
+      ]
+    }
+  },
+  "gardener": {
+    "n": {
+      "translation": ["园丁", "花匠", "园艺爱好者", "园艺工人"],
+      "plural": ["gardeners"]
+    }
+  },
+  "gas": {
+    "n": {
+      "translation": [
+        "气体", "煤气，天然气", "（战争用）毒气，（警察用）瓦斯", "汽油", "气体燃料", "（外科手术用）麻醉气",
+        "<主美> 胃气，肠气", "<口> 空谈，闲聊，吹牛", "有趣的人（或事物）"
+      ],
+      "plural": ["gases"]
+    },
+    "v": {
+      "translation": ["<美口> （给汽车等）加汽油 ", "使吸入毒气", "<口> 闲聊，空谈，瞎扯", "用毒气杀伤（或杀死）"],
+      "singular": ["gasses"],
+      "present": ["gassing"],
+      "past": ["gassed"]
+    }
+  },
+  "gaseous": {
+    "adj": {
+      "translation": ["气态的", "含气体的", "似气体的"]
+    }
+  },
+  "gasoline": {
+    "n": {
+      "translation": ["汽油", "同petrol"],
+      "plural": ["gasolines"]
+    }
+  },
+  "gasp": {
+    "v": {
+      "translation": [
+        "喘息", "(尤指由于惊讶或疼痛而)喘气", "气喘吁吁地说", "渴望(尤指饮料或香烟)", "透不过气", "倒抽气"
+      ],
+      "singular": ["gasps"],
+      "present": ["gasping"],
+      "past": ["gasped"]
+    },
+    "n": {
+      "translation": ["(常指由强烈情感引起的)深吸气", "倒抽气"]
+    }
+  },
+  "gate": {
+    "n": {
+      "translation": [
+        "大门口", "大门，栅栏门，围墙门", "<俚> 嘴，口", "登机门，登机口", "闸门，阀门", "（体育比赛的）门票收入",
+        "（体育比赛的）观众人数", "政治丑闻"
+      ],
+      "plural": ["gates"]
+    },
+    "v": {
+      "translation": [
+        "<美俚> 解雇，逐出", "给…装（大）门（或牌楼、闸门等）", "<英>（作为大学里的一种处分）不准（学生）离校外出", "用门控制"
+      ],
+      "singular": ["gates"],
+      "present": ["gating"],
+      "past": ["gated"]
+    }
+  },
+  "gather": {
+    "v": {
+      "translation": [
+        "聚集", "搜集，收集(情报)", "聚集，积聚（力量、精神等）", "采集（植物、水果等）", "集合", "认为", "召集",
+        "增加（速度、力量等）", "收割", "收拢，归拢(分散的东西)", "收紧，拢起（衣服）", "逐渐增加", "拉近", "给…打褶子"
+      ],
+      "singular": ["gathers"],
+      "present": ["gathering"],
+      "past": ["gathered"]
+    },
+    "n": {
+      "translation": ["聚集", "收缩", "衣褶"]
+    }
+  },
+  "gauge": {
+    "vt": {
+      "translation": ["(用仪器)测量", "判定，判断(尤指人的感情或态度)", "估计", "估算"],
+      "singular": ["gauges"],
+      "present": ["gauging"],
+      "past": ["gauged"]
+    },
+    "n": {
+      "translation": [
+        "事实，依据，尺度，标准", "（铁道的）轨距", "厚度", "计量器", "宽度", "测量仪器(或仪表)", "(枪管的)口径"
+      ],
+      "plural": ["gauges"]
+    }
+  },
+  "gay": {
+    "n": {
+      "translation": ["同性恋者(尤指男性)"],
+      "plural": ["gays"]
+    },
+    "adj": {
+      "translation": ["同性恋的", "快乐的", "愉快的", "鲜艳的", "充满乐趣的", "与同性恋者有关的"],
+      "comparative": ["gayer"],
+      "superlative": ["gayest"]
+    }
+  },
+  "gaze": {
+    "vi": {
+      "translation": ["凝视", "注视", "盯着"],
+      "singular": ["gazes"],
+      "present": ["gazing"],
+      "past": ["gazed"]
+    },
+    "n": {
+      "translation": ["凝视", "注视"]
+    }
+  },
+  "general": {
+    "adj": {
+      "translation": [
+        "一般的", "总的", "普遍的", "大致的，大概的（方向或地区）", "常规的", "大体的", "整体的", "正常的", "全体的",
+        "首席的", "笼统的", "概括性的", "非专门的"
+      ]
+    },
+    "n": {
+      "translation": ["将军", "(陆军、海军陆战队或美国空军)上将"],
+      "plural": ["generals"]
+    }
+  },
+  "generally": {
+    "adv": {
+      "translation": ["通常", "一般地", "大体上", "大概", "广泛地", "概括地", "普遍地", "笼统地", "通常地"]
+    }
+  },
+  "generate": {
+    "vt": {
+      "translation": ["产生", "生成", "引起"],
+      "singular": ["generates"],
+      "present": ["generating"],
+      "past": ["generated"]
+    }
+  },
+  "generation": {
+    "n": {
+      "translation": ["一代", "代", "产生", "(统称)一代人", "一批，一届", "一辈(通常认为大约30年)", "同辈人"],
+      "plural": ["generations"]
+    }
+  },
+  "generator": {
+    "n": {
+      "translation": ["发电机", "发生器", "电力公司"],
+      "plural": ["generators"]
+    }
+  },
+  "generous": {
+    "adj": {
+      "translation": ["慷慨的", "大的", "丰富的", "充足的", "大方的", "宽厚的", "仁慈的", "宽宏大量的", "慷慨给予的"]
+    }
+  },
+  "genius": {
+    "n": {
+      "translation": [
+        "天才，天资，天赋", "天才人物，（某领域的）天才", "（特别的）才能，本领", "（民族、时代、语言等的）特征，精神，传统",
+        "（古罗马神话等中的）守护神 ", "神魔，妖怪", "（掌管人的命运的）善神，恶神", "对别人有巨大影响的人"
+      ],
+      "plural": ["geniuses"]
+    }
+  },
+  "gentle": {
+    "adj": {
+      "translation": ["温和的", "温柔的", "平缓的", "柔和的", "平和的", "文静的", "小心的", "慈祥的", "徐缓的"],
+      "comparative": ["gentler"],
+      "superlative": ["gentlest"]
+    },
+    "vt": {
+      "translation": ["使温和", "使驯服"],
+      "singular": ["gentles"],
+      "present": ["gentling"],
+      "past": ["gentled"]
+    },
+    "n": {
+      "translation": ["绅士", "(作鱼饵用的)蛆"]
+    }
+  },
+  "gentleman": {
+    "n": {
+      "translation": [
+        "绅士", "(对立法机构男性议员的称呼)先生，阁下", "君子", "有教养的人", "有身份的人", "彬彬有礼的人",
+        "(称呼或指男子，尤其是不认识的)先生"
+      ],
+      "plural": ["gentlemen"]
+    }
+  },
+  "gently": {
+    "adv": {
+      "translation": ["轻轻地", "温柔地", "温和地", "慢点", "和缓地", "文静地", "小心点", "注意点"]
+    }
+  },
+  "genuine": {
+    "adj": {
+      "translation": ["真正的", "真诚的", "真的", "名副其实的", "诚实的", "可信赖的"]
+    }
+  },
+  "geography": {
+    "n": {
+      "translation": ["地理(学)", "地理环境", "地形", "地貌", "地势"],
+      "plural": ["geographies"]
+    }
+  },
+  "geometry": {
+    "n": {
+      "translation": ["几何学", "几何形状", "几何图形", "几何结构", "几何(学)"],
+      "plural": ["geometries"]
+    }
+  },
+  "germ": {
+    "n": {
+      "translation": ["细菌", "病菌", "胚芽", "胚胎", "微生物", "萌芽", "芽孢", "起源", "发端", "胚原基"],
+      "plural": ["germs"]
+    }
+  },
+  "german": {
+    "adj": {
+      "translation": ["同父母的", "同祖父母的，同外祖父母的，嫡亲的"]
+    },
+    "n": {
+      "translation": ["德语", "德国人"],
+      "plural": ["Germans"]
+    }
+  },
+  "germany": {
+    "n": {
+      "translation": ["德国"]
+    }
+  },
+  "gesture": {
+    "n": {
+      "translation": ["手势", "姿势", "(表明感情或意图的)姿态，表示", "示意动作"],
+      "plural": ["gestures"]
+    },
+    "v": {
+      "translation": ["做手势", "用手势表示", "用动作示意"],
+      "singular": ["gestures"],
+      "present": ["gesturing"],
+      "past": ["gestured"]
+    }
+  },
+  "get": {
+    "v": {
+      "translation": [
+        "得到", "获得", "（考试）获得，达到", "准备，做（饭）", "开始", "（使）达到，进入", "（使）到达，离开，沿…移动，艰难地移动",
+        "（定期）买，购买", "使（某事）发生", "抵达，到达（某地或某点）", "受到", "收到", "理解", "有机会（做…）", "接（电话）",
+        "抓住，捉住，逮住", "搭乘，乘坐", "接到", "使烦恼", "使困惑", "去取（或带来）", "击中", "(卖某物)挣得",
+        "与（某人）电话联系", "感染上", "使，让"
+      ],
+      "singular": ["gets"],
+      "present": ["getting"],
+      "past": ["got"]
+    },
+    "n": {
+      "translation": ["(煤炭)产量", "薪资", "赢利", "幼畜"]
+    }
+  },
+  "ghost": {
+    "n": {
+      "translation": [
+        "鬼", "鬼魂", "幽灵", "（电视屏幕上的）重影", "(某物残留的)一丝，一点", "(尤指可怕事物的)记忆，回忆", "隐约的一点点"
+      ],
+      "plural": ["ghosts"]
+    },
+    "vi": {
+      "translation": ["无声地行进"],
+      "singular": ["ghosts"],
+      "present": ["ghosting"],
+      "past": ["ghosted"]
+    }
+  },
+  "giant": {
+    "n": {
+      "translation": ["(故事中常为残酷而愚蠢的)巨人", "大公司", "伟人", "巨兽", "巨型植物", "强大的组织"],
+      "plural": ["giants"]
+    },
+    "adj": {
+      "translation": ["巨大的", "伟大的", "特大的"]
+    }
+  },
+  "gift": {
+    "n": {
+      "translation": ["礼物", "天赋", "赠品", "天才", "才能", "轻而易举的事", "极便宜的东西"],
+      "plural": ["gifts"]
+    },
+    "vt": {
+      "translation": ["白送", "白给"]
+    }
+  },
+  "girl": {
+    "n": {
+      "translation": [
+        "女孩", "姑娘", "女儿", "女郎", "（男人的）女朋友", "（女子的）女伴，女友", "女工", "年轻女子", "老婆"
+      ],
+      "plural": ["girls"]
+    }
+  },
+  "give": {
+    "v": {
+      "translation": [
+        "给", "使产生（某种感觉）", "交给", "支付，付款，付出", "给（某人）打（电话）", "送给", "举办", "赠送", "表演", "让步",
+        "捐助", "裁定，判", "（在压力下）弯曲，伸长", "给…评定（等级）", "赠与", "把（疾病）传染给", "将（时间、精力等）用于",
+        "使受…惩罚", "(为某人)提供，供给，供应", "预计将持续（时间）"
+      ],
+      "singular": ["gives"],
+      "present": ["giving"],
+      "past": ["gave", "given"]
+    },
+    "n": {
+      "translation": ["伸展性", "弹性"]
+    }
+  },
+  "glad": {
+    "adj": {
+      "translation": [
+        "高兴的，欢喜的，愉快的", "乐意的，情愿的，非常愿意的", "感激的，感谢的", "令人愉快的，令人高兴的", "明媚的",
+        "<古> 乐天的", "骄傲的、自豪的、得意的、满足的"
+      ]
+    },
+    "v": {
+      "translation": ["<古> （使）高兴"],
+      "singular": ["glads"],
+      "present": ["gladding"],
+      "past": ["gladded"]
+    },
+    "n": {
+      "translation": ["唐菖蒲，菖兰，剑兰"]
+    }
+  },
+  "glance": {
+    "n": {
+      "translation": ["一瞥", "扫视", "匆匆一看"]
+    },
+    "vi": {
+      "translation": ["浏览", "扫视", "瞥一眼", "粗略地看", "匆匆一看"],
+      "singular": ["glances"],
+      "present": ["glancing"],
+      "past": ["glanced"]
+    }
+  },
+  "glare": {
+    "vi": {
+      "translation": ["怒目而视", "发出刺眼的光"],
+      "singular": ["glares"],
+      "present": ["glaring"],
+      "past": ["glared"]
+    },
+    "n": {
+      "translation": ["刺眼的光", "(长久的)怒视，瞪眼"]
+    },
+    "v": {
+      "translation": ["怒目而视", "发出刺眼的光"],
+      "singular": ["glares"],
+      "present": ["glaring"],
+      "past": ["glared"]
+    },
+    "adj": {
+      "translation": ["光滑的"]
+    }
+  },
+  "glass": {
+    "n": {
+      "translation": ["玻璃", "眼镜", "一杯(的量)", "玻璃杯", "酒杯", "玻璃制品", "镜子", "气压表", "玻璃保护面"],
+      "plural": ["glasses"]
+    },
+    "vt": {
+      "translation": ["用玻璃杯击(某人)的脸部"],
+      "singular": ["glasses"],
+      "present": ["glassing"],
+      "past": ["glassed"]
+    }
+  },
+  "glide": {
+    "vi": {
+      "translation": ["滑行", "滑翔", "滑动", "掠过"],
+      "singular": ["glides"],
+      "present": ["gliding"],
+      "past": ["glided"]
+    },
+    "n": {
+      "translation": ["滑动", "滑翔", "滑行", "滑音", "音渡", "过渡音"],
+      "plural": ["glides"]
+    }
+  },
+  "glimpse": {
+    "n": {
+      "translation": ["一瞥", "一看", "短暂的感受(或体验、领会)"],
+      "plural": ["glimpses"]
+    },
+    "vt": {
+      "translation": ["瞥见", "看一眼", "开始领悟", "开始认识到"],
+      "singular": ["glimpses"],
+      "present": ["glimpsing"],
+      "past": ["glimpsed"]
+    }
+  },
+  "glitter": {
+    "n": {
+      "translation": [
+        "闪烁", "闪耀", "魅力", "(眼睛里某种感情的)闪现，流露", "吸引力", "诱惑力", "灿烂的光辉", "（装饰用的）小发光物"
+      ]
+    },
+    "vi": {
+      "translation": ["闪耀", "闪亮", "光彩夺目", "闪现(某种强烈情感)"],
+      "singular": ["glitters"],
+      "present": ["glittering"],
+      "past": ["glittered"]
+    }
+  },
+  "globe": {
+    "n": {
+      "translation": ["地球", "世界(尤用以强调其大)", "地球仪", "球体", "球状物"],
+      "plural": ["globes"]
+    },
+    "v": {
+      "translation": ["（使）成球状"],
+      "singular": ["globes"],
+      "present": ["globing"],
+      "past": ["globed"]
+    }
+  },
+  "gloomy": {
+    "adj": {
+      "translation": ["悲观的", "沮丧的", "阴暗的", "忧郁的", "黑暗的", "幽暗的", "前景黯淡的", "无望的"],
+      "comparative": ["gloomier"],
+      "superlative": ["gloomiest"]
+    }
+  },
+  "glorious": {
+    "adj": {
+      "translation": [
+        "值得称道的", "辉煌的", "荣耀的", "壮丽的", "光辉灿烂的", "光荣的", "热的", "极其令人愉快的", "极为宜人的"
+      ]
+    }
+  },
+  "glory": {
+    "n": {
+      "translation": [
+        "荣誉，光荣，桂冠", "壮丽，辉煌，灿烂", "（对上帝的）赞颂，赞美，崇拜", "鼎盛，全盛", "光轮，彩光环",
+        "天国的荣耀（或幸福）", "值得称赞的事，杰出的人", "产生骄傲（或崇敬、愉快）的理由", "<美俚> （铁路用语） 一列空车"
+      ],
+      "plural": ["glories"]
+    },
+    "v": {
+      "translation": ["得意，骄傲，自豪", "狂喜，喜悦", "夸耀", "<废> 吹嘘"],
+      "singular": ["glories"],
+      "present": ["glorying"],
+      "past": ["gloried"]
+    }
+  },
+  "glove": {
+    "n": {
+      "translation": ["(分手指的)手套"],
+      "plural": ["gloves"]
+    },
+    "vt": {
+      "translation": ["给…戴手套", "用…的手套"],
+      "singular": ["gloves"],
+      "present": ["gloving"],
+      "past": ["gloved"]
+    }
+  },
+  "glow": {
+    "v": {
+      "translation": [
+        "发光", "(尤指运动后或因情绪激动、尴尬等而)发红，发热，显得红，感觉热", "心满意足", "色彩鲜艳", "喜形于色",
+        "发出暗淡的光", "发出微弱而稳定的光"
+      ],
+      "singular": ["glows"],
+      "present": ["glowing"],
+      "past": ["glowed"]
+    },
+    "n": {
+      "translation": [
+        "红色", "(运动、高兴或激动时)满面红光，容光焕发，满脸通红", "金色", "喜悦", "暗淡的光", "微弱稳定的光"
+      ]
+    }
+  },
+  "glue": {
+    "n": {
+      "translation": ["胶", "胶水"],
+      "plural": ["glues"]
+    },
+    "vt": {
+      "translation": ["(用胶水)粘合，粘牢，粘贴"],
+      "singular": ["glues"],
+      "present": ["glueing"]
+    }
+  },
+  "go": {
+    "v": {
+      "translation": [
+        "去，走，", "奄奄一息，去世", "（为某目的）去（某处）", "上，参加（电视或电台节目）", "（事情）进展，进行", "开始（活动）",
+        "（在某种状态下）生活，过活，移动", "将要，打算", "离开，离去，出发", "（时间）过去，流逝", "变成，变为，变得",
+        "移动，旅行，行走（指方式或距离）", "（钱）用于，花掉", "运行", "（以某种方式）移动，在移动中做", "去做（某事）",
+        "去参加，去从事（某活动）", "（官能）衰退，下降", "发出（某种声音）", "被发送，被传递", "被放入，包含于", "有助于",
+        "除尽，除", "<口> 喜爱，享用", "（常指被迫）辞职", "<口>（通常用于否定句）忍受，容忍，负担得起",
+        "<口> 上厕所，小便，大便", "被放置，被置于，被安放", "（尤指与某人）去（某处或出席某项活动）", "进入…状态",
+        "（从…）通向，延伸到", "（与…）相配，（与…）相称", "变坏", "不复存在", "可得到", "（铃等）鸣响", "做动作",
+        "装得进，装得下", "拿…打赌", "说（代替say，表示引述他人的话或认为他们要说的话）"
+      ],
+      "singular": ["goes"],
+      "present": ["going"],
+      "past": ["went", "gone"]
+    },
+    "n": {
+      "translation": [
+        "去，离去", "<口> 成功", "（做某事的）尝试，一番努力", "许可", "热情，干劲", "<英口> 劲头，精力，活力", "<口> 约定",
+        "<主英口> 一举，一下子", "<美口> 得到批准的项目", "（游戏或活动中）轮到的机会"
+      ],
+      "plural": ["goes"]
+    },
+    "adj": {
+      "translation": ["<俚> 好的，行的", "<口> 完全准备好的，运行正常的"]
+    }
+  },
+  "goal": {
+    "n": {
+      "translation": ["目标", "目的", "射门", "球门", "进球得分"],
+      "plural": ["goals"]
+    }
+  },
+  "goat": {
+    "n": {
+      "translation": ["山羊", "老色鬼", "色狼", "好色之徒"],
+      "plural": ["goats"]
+    }
+  },
+  "god": {
+    "n": {
+      "translation": [
+        "神像，偶像", "神，男神", "上帝，天主，真主", "（某些宗教中主宰某个领域的）神", "极受崇拜的人，被崇拜的偶像",
+        "（剧院中的）顶层楼座，最高楼座", "极度受欢迎的人", "受到过分崇尚（或推崇）的事物", "威权统治者"
+      ],
+      "plural": ["gods"]
+    },
+    "v": {
+      "translation": ["神化", "尊崇"]
+    },
+    "int": {
+      "translation": ["（表示惊奇、愤怒、沮丧等一系列感情）天哪", "（表示对所要讲的话作强调）确实"]
+    }
+  },
+  "gold": {
+    "n": {
+      "translation": ["金", "金色", "金币", "金黄色", "金饰品", "黄金制品"],
+      "plural": ["golds"]
+    },
+    "adj": {
+      "translation": ["金色的"]
+    }
+  },
+  "golden": {
+    "adj": {
+      "translation": [
+        "金色的，金黄色的", "金的，金制的，金质的", "特别的，美好的", "繁荣的，兴盛的", "金币的，金钱的", "（声音）亮的，铿锵的",
+        "闪金光的，发亮的", "极好的，有发展前途的，有益的", "<口>处境好的，富裕的", "含金的，产金的", "大受欢迎的"
+      ]
+    },
+    "v": {
+      "translation": ["使成金色，成为金色"]
+    }
+  },
+  "golf": {
+    "n": {
+      "translation": ["高尔夫球运动"]
+    },
+    "vi": {
+      "translation": ["打高尔夫球"],
+      "singular": ["golfs"],
+      "present": ["golfing"],
+      "past": ["golfed"]
+    }
+  },
+  "good": {
+    "adj": {
+      "translation": [
+        "好的", "有效的", "健康的", "优质的", "（对…）有用，有好处", "合适的", "有趣的", "彻底的", "令人满意的",
+        "可接受的", "赞同的", "（数量或程度）相当大的", "不少于", "能干的", "令人愉快的", "符合标准的", "有说服力的",
+        "温顺的", "灵巧的", "循规蹈矩的", "助人为乐的", "符合道德的", "足以维持…的", "合情理的"
+      ],
+      "comparative": ["better"],
+      "superlative": ["best"]
+    },
+    "n": {
+      "translation": ["好处", "好人", "益处", "善行", "用处", "高尚的人", "有道德的人", "合乎道德的行为", "正直的行为"],
+      "plural": ["goods"]
+    },
+    "adv": {
+      "translation": ["好"]
+    }
+  },
+  "goodbye": {
+    "int/n": {
+      "translation": ["再见", "再会"],
+      "plural": ["goodbyes"]
+    }
+  },
+  "goodness": {
+    "n": {
+      "translation": ["善良，优良，美德", "（质量方面的）优良，佳", "上帝（God的委婉语）", "(尤指有益健康的)精华，营养，养分"]
+    },
+    "int": {
+      "translation": ["（用于表示惊讶）天哪，啊呀"]
+    }
+  },
+  "goods": {
+    "n": {
+      "translation": ["商品", "货品", "动产", "(铁路或公路)运载的货物", "私人财产"]
+    }
+  },
+  "goose": {
+    "n": {
+      "translation": ["鹅", "鹅肉", "傻瓜", "雌鹅"],
+      "plural": ["geese"]
+    },
+    "vt": {
+      "translation": ["促进", "推动", "激励", "触摸(或捏)(某人)的臀部"],
+      "singular": ["gooses"],
+      "present": ["goosing"],
+      "past": ["goosed"]
+    }
+  },
+  "govern": {
+    "v": {
+      "translation": ["管理", "治理", "影响", "控制", "统治", "支配(词或短语的形式或用法)"],
+      "singular": ["governs"],
+      "present": ["governing"],
+      "past": ["governed"]
+    }
+  },
+  "government": {
+    "n": {
+      "translation": ["政府", "(一国的)统治，治理，统治方式，管理方法", "内阁", "政体", "国家体制"],
+      "plural": ["governments"]
+    }
+  },
+  "governor": {
+    "n": {
+      "translation": ["统治者", "(美国的)州长", "(学校、学院、医院等机构的)董事，理事", "主管", "总督", "管辖者"],
+      "plural": ["governors"]
+    }
+  },
+  "gown": {
+    "n": {
+      "translation": [
+        "长袍", "(尤指在医院穿的)罩衣", "(法官、英国律师、大学学生在特别仪式上穿的)长外衣", "女礼服", "女长服",
+        "(尤指特别场合穿的)女裙"
+      ],
+      "plural": ["gowns"]
+    },
+    "v": {
+      "translation": ["给…穿宽大的长袍", "使穿睡衣"],
+      "singular": ["gowns"],
+      "present": ["gowning"],
+      "past": ["gowned"]
+    }
+  },
+  "grace": {
+    "n": {
+      "translation": [
+        "优美", "宽限期", "优雅", "风度", "高雅", "恩宠", "文雅", "大人，阁下，夫人", "体面", "（饭前的）谢恩祈祷"
+      ]
+    },
+    "vt": {
+      "translation": ["使荣耀", "装饰", "使生辉", "为锦上添花", "为增色", "承蒙光临"],
+      "singular": ["graces"],
+      "present": ["gracing"],
+      "past": ["graced"]
+    }
+  },
+  "graceful": {
+    "adj": {
+      "translation": ["优雅的", "优美的", "雅致的", "(尤指在困境中)得体的，有风度的"]
+    }
+  },
+  "gracious": {
+    "adj": {
+      "translation": [
+        "亲切的", "（上帝）仁慈的，宽恕的", "（对王族及其行为的敬语）仁慈的，宽厚的",
+        "（尤指对社会地位较低者）和蔼的，慈祥的，有礼貌的，宽厚的", "<古>优美的, 雅致的", "<废>虔诚的，受眷顾的",
+        "豪华舒适的，富贵安逸的"
+      ]
+    },
+    "int": {
+      "translation": ["（表示惊异）天哪，老天爷，啊呀"]
+    }
+  },
+  "grade": {
+    "n": {
+      "translation": [
+        "等级", "（美国学制）年级", "(官衔的)级别", "（音乐考试的）级别，水平", "（疾病的）程度，阶段", "(产品、材料的)品级",
+        "评分等级", "成绩等级", "职别"
+      ],
+      "plural": ["grades"]
+    },
+    "vt": {
+      "translation": ["(按能力、质量、大小等将…)分级", "分等", "给…评分"],
+      "singular": ["grades"],
+      "present": ["grading"],
+      "past": ["graded"]
+    }
+  },
+  "gradual": {
+    "adj": {
+      "translation": ["逐渐的", "逐步的", "渐进的", "平缓的", "不陡的"]
+    },
+    "n": {
+      "translation": ["弥撒圣歌", "弥撒圣歌集"]
+    }
+  },
+  "gradually": {
+    "adv": {
+      "translation": ["逐渐地", "逐步地", "渐进地"]
+    }
+  },
+  "graduate": {
+    "v": {
+      "translation": ["毕业(尤指中学)", "大学毕业", "获得学位(尤指学士)", "授予(某人)学位(或毕业文凭等)", "逐渐发展"],
+      "singular": ["graduates"],
+      "present": ["graduating"],
+      "past": ["graduated"]
+    },
+    "n": {
+      "translation": ["毕业生", "大学毕业生", "学士学位获得者"],
+      "plural": ["graduates"]
+    },
+    "adj": {
+      "translation": ["刻度的", "得学士称号的"]
+    }
+  },
+  "grain": {
+    "n": {
+      "translation": ["粮食", "颗粒", "谷物", "细粒", "纹理", "谷粒", "少量", "（表面的）质地", "微量", "格令", "一点儿"],
+      "plural": ["grains"]
+    },
+    "v": {
+      "translation": ["把…作成细粒", "使(皮等)表面粗糙", "染透", "刮去(皮上的)毛"]
+    }
+  },
+  "grammar": {
+    "n": {
+      "translation": ["语法", "文法", "语法书", "(人的)语言知识及运用能力"],
+      "plural": ["grammars"]
+    }
+  },
+  "grammatical": {
+    "adj": {
+      "translation": ["语法的", "文法的", "符合语法规则的"]
+    }
+  },
+  "gramme": {
+    "n": {
+      "translation": ["克（重量单位）"],
+      "plural": ["grammes"]
+    }
+  },
+  "grand": {
+    "adj": {
+      "translation": [
+        "(用于大建筑物等的名称)大", "宏伟的", "宏大的", "重大的", "壮丽的", "堂皇的", "极好的", "傲慢的", "有气派的"
+      ],
+      "comparative": ["grander"],
+      "superlative": ["grandest"]
+    },
+    "n": {
+      "translation": ["1 000元", "1 000英镑"],
+      "plural": ["grands"]
+    }
+  },
+  "granddaughter": {
+    "n": {
+      "translation": ["(外)孙女"],
+      "plural": ["granddaughters"]
+    }
+  },
+  "grandfather": {
+    "n": {
+      "translation": ["(外)祖父", "爷爷", "外公"],
+      "plural": ["grandfathers"]
+    }
+  },
+  "grandmother": {
+    "n": {
+      "translation": ["(外)祖母", "奶奶", "外婆"],
+      "plural": ["grandmothers"]
+    }
+  },
+  "grandson": {
+    "n": {
+      "translation": ["孙子", "外孙"],
+      "plural": ["grandsons"]
+    }
+  },
+  "grant": {
+    "vt": {
+      "translation": ["授予", "(尤指正式地或法律上)同意，准予，允许", "(勉强)承认，同意"],
+      "singular": ["grants"],
+      "present": ["granting"],
+      "past": ["granted"]
+    },
+    "n": {
+      "translation": ["(政府、机构的)拨款"],
+      "plural": ["grants"]
+    }
+  },
+  "grape": {
+    "n": {
+      "translation": ["葡萄"],
+      "plural": ["grapes"]
+    }
+  },
+  "graph": {
+    "n": {
+      "translation": ["图", "曲线图", "图表"],
+      "plural": ["graphs"]
+    },
+    "v": {
+      "translation": ["用图表表示", "用胶版印刷"]
+    }
+  },
+  "grasp": {
+    "vt": {
+      "translation": ["抓住", "理解", "领会", "领悟", "抓牢", "毫不犹豫地抓住(机会)"],
+      "singular": ["grasps"],
+      "present": ["grasping"],
+      "past": ["grasped"]
+    },
+    "n": {
+      "translation": ["理解(力)", "控制", "领会", "紧握", "紧抓", "能力所及"]
+    }
+  },
+  "grass": {
+    "n": {
+      "translation": [
+        "草", "草地", "草坪", "青草", "牧草", "草场", "牧场", "禾本科植物", "大麻", "向警方告密的人（通常指罪犯）"
+      ],
+      "plural": ["grasses"]
+    },
+    "vi": {
+      "translation": ["(向警方)告密，告发"],
+      "singular": ["grasses"],
+      "present": ["grassing"],
+      "past": ["grassed"]
+    }
+  },
+  "grateful": {
+    "adj": {
+      "translation": ["感激的", "(尤用于书信或正式场合提出请求)感激不尽，请", "表示感谢的"]
+    }
+  },
+  "gratitude": {
+    "n": {
+      "translation": ["感激", "感谢"]
+    }
+  },
+  "grave": {
+    "n": {
+      "translation": ["钝重音符", "沉音符", "抑音符"],
+      "plural": ["graves"]
+    },
+    "adj": {
+      "translation": ["严重的", "重大的", "严峻的", "严肃的", "深切的", "庄严的", "表情沉重的"]
+    },
+    "vt": {
+      "translation": ["雕刻", "铭记"],
+      "singular": ["graves"],
+      "present": ["graving"],
+      "past": ["graved", "graven"]
+    },
+    "v": {
+      "translation": ["刻", "铭记", "对(船底)作清洗并涂上沥青等涂料"],
+      "singular": ["graves"],
+      "present": ["graving"],
+      "past": ["graved", "graven"]
+    },
+    "adv": {
+      "translation": ["庄重地", "极慢地"]
+    }
+  },
+  "gravity": {
+    "n": {
+      "translation": ["重力", "严重性", "地球引力", "严肃", "庄严"]
+    }
+  },
+  "gray": {
+    "n": {
+      "translation": ["灰色", "暗淡", "灰暗"]
+    },
+    "adj": {
+      "translation": ["灰色的", "灰白的", "老练的", "阴沉的", "〈美俚〉广告商的"]
+    },
+    "v": {
+      "translation": ["（使）变灰色", "成为灰色或灰白"],
+      "singular": ["grays"],
+      "present": ["graying"],
+      "past": ["grayed"]
+    }
+  },
+  "great": {
+    "adj": {
+      "translation": [
+        "伟大的", "大的", "大", "重要的", "巨大的", "非常的", "极大的", "很多的", "适合的", "众多的", "美妙的", "擅长",
+        "身心健康的", "数量大的", "地位高的", "(强调尺寸、体积或质量等)很", "（强调某种情况）"
+      ],
+      "comparative": ["greater"],
+      "superlative": ["greatest"]
+    },
+    "n": {
+      "translation": ["名人", "伟人", "伟大的事物"],
+      "plural": ["greats"]
+    },
+    "adv": {
+      "translation": ["很好地", "极好地", "很棒地"]
+    }
+  },
+  "greatly": {
+    "adv": {
+      "translation": ["非常", "大大地", "很"]
+    }
+  },
+  "greedy": {
+    "adj": {
+      "translation": ["贪婪的", "贪心的", "贪吃的", "渴望的"],
+      "comparative": ["greedier"],
+      "superlative": ["greediest"]
+    }
+  },
+  "greek": {
+    "n": {
+      "translation": ["希腊人", "希腊语", "古希腊人", "(大学的)学生联谊会会员", "女生联谊会会员"],
+      "plural": ["Greeks"]
+    },
+    "adj": {
+      "translation": ["希腊(人)的", "希腊语的", "东正教的", "希腊式的"]
+    }
+  },
+  "green": {
+    "n": {
+      "translation": ["绿色", "绿党", "球穴区，果岭", "绿色蔬菜", "(尤指城镇或村庄中心的)公共绿地"],
+      "plural": ["greens"]
+    },
+    "adj": {
+      "translation": ["绿色的", "青的", "生的", "环境保护的", "青葱的", "苍白的", "未成熟的", "不成熟的", "长满青草的"],
+      "comparative": ["greener"],
+      "superlative": ["greenest"]
+    },
+    "vt": {
+      "translation": ["绿化", "使善待环境", "使增强环境保护意识"]
+    }
+  },
+  "greenhouse": {
+    "n": {
+      "translation": ["温室，暖房", "温室效应", "<俚>（飞机上）镶有玻璃的座舱（例如轰炸员座舱）"],
+      "plural": ["greenhouses"]
+    }
+  },
+  "greet": {
+    "vt": {
+      "translation": ["打招呼", "欢迎", "迎接", "映入…的眼帘", "(以某种方式)对…作出反应", "传入…的耳中(或鼻中)"],
+      "singular": ["greets"],
+      "present": ["greeting"],
+      "past": ["greeted"]
+    }
+  },
+  "greeting": {
+    "n": {
+      "translation": ["问候", "迎接", "招呼", "致意", "贺词", "祝词", "问候的话"],
+      "plural": ["greetings"]
+    },
+    "v": {
+      "translation": [
+        "迎接", "欢迎", "映入…的眼帘", "(以某种方式)对…作出反应", "和(某人)打招呼(或问好)", "传入…的耳中(或鼻中)"
+      ]
+    }
+  },
+  "grey": {
+    "n": {
+      "translation": ["灰色", "灰白色", "烟灰色", "灰马", "白马"],
+      "plural": ["greys"]
+    },
+    "adj": {
+      "translation": [
+        "灰色的", "灰白色的", "苍白的", "头发花白", "老年人的", "烟灰色的", "昏暗的", "单调乏味的", "没趣味的"
+      ],
+      "comparative": ["greyer"],
+      "superlative": ["greyest"]
+    },
+    "vi": {
+      "translation": ["变灰白", "变花白"],
+      "singular": ["greys"],
+      "present": ["greying"],
+      "past": ["greyed"]
+    }
+  },
+  "grieve": {
+    "v": {
+      "translation": ["悲伤", "(尤指因某人的去世而)悲痛", "使伤心"],
+      "singular": ["grieves"],
+      "present": ["grieving"],
+      "past": ["grieved"]
+    },
+    "n": {
+      "translation": ["监工"]
+    }
+  },
+  "grind": {
+    "v": {
+      "translation": [
+        "磨碎", "磨(粉)", "磨光", "碾碎", "磨擦（发出刺耳声）", "使锋利", "把…磨成粉", "磨快", "用力挤压，用力擦（入表层）",
+        "摇动手柄（操纵机器）"
+      ],
+      "singular": ["grinds"],
+      "present": ["grinding"],
+      "past": ["ground"]
+    },
+    "n": {
+      "translation": ["苦差事", "刺耳的摩擦声", "令人疲劳(或厌倦)的工作"],
+      "plural": ["grinds"]
+    }
+  },
+  "grip": {
+    "n": {
+      "translation": [
+        "紧握", "(对…的)控制，影响力", "把手", "了解", "理解", "紧抓", "不打滑", "旅行袋", "（拍摄电影时）摄影机和照明设备管理人员"
+      ],
+      "plural": ["grips"]
+    },
+    "v": {
+      "translation": ["紧握", "抓牢", "紧抓", "使激动", "使感兴趣", "吸引住(某人)的注意", "对…产生强有力的影响"],
+      "singular": ["grips"],
+      "present": ["gripping"],
+      "past": ["gripped"]
+    }
+  },
+  "groan": {
+    "v": {
+      "translation": ["呻吟", "叹息", "哼哼", "发出似呻吟的声音"],
+      "singular": ["groans"],
+      "present": ["groaning"],
+      "past": ["groaned"]
+    },
+    "n": {
+      "translation": ["呻吟声", "叹息声", "嘎吱声", "哼哼声"],
+      "plural": ["groans"]
+    }
+  },
+  "grocer": {
+    "n": {
+      "translation": ["杂货商", "食物杂货店", "食物杂货商"],
+      "plural": ["grocers"]
+    }
+  },
+  "grocery": {
+    "n": {
+      "translation": ["杂货店", "食品杂货店(在美国英语中grocery store常用以指supermarket)"],
+      "plural": ["groceries"]
+    }
+  },
+  "gross": {
+    "adj": {
+      "translation": ["总的", "严重的", "毛的", "粗鲁的", "令人恶心的", "令人不快的", "使人厌恶的", "肥胖而丑陋的"],
+      "comparative": ["grosser"],
+      "superlative": ["grossest"]
+    },
+    "adv": {
+      "translation": ["总共", "全部"]
+    },
+    "vt": {
+      "translation": ["总收入为", "总共赚得"],
+      "singular": ["grosses"],
+      "present": ["grossing"],
+      "past": ["grossed"]
+    },
+    "n": {
+      "translation": ["一罗(144个)", "(尤指影片的)毛收入，总收入"],
+      "plural": ["grosses"]
+    }
+  },
+  "ground": {
+    "n": {
+      "translation": [
+        "地面", "范围，领域", "（建筑物周围的）场地，庭院，花园", "（特定用途的）场地", "土地", "（绘画或印刷的）背景，底子",
+        "（某种用途的）地域，水域", "充分的理由", "渣滓", "开阔地"
+      ],
+      "plural": ["grounds"]
+    },
+    "v": {
+      "translation": ["使停飞", "(使)搁浅，触海底", "阻止…起飞", "罚(儿童)不准出门"],
+      "singular": ["grounds"],
+      "present": ["grounding"],
+      "past": ["grounded"]
+    },
+    "adj": {
+      "translation": ["磨细的", "磨碎的"]
+    }
+  },
+  "group": {
+    "n": {
+      "translation": ["组", "集团", "群", "类", "批", "(尤指流行音乐的)演奏组，乐团，乐队", "簇"],
+      "plural": ["groups"]
+    },
+    "v": {
+      "translation": ["把…分组", "(使)成群，成组，聚集", "将…分类"],
+      "singular": ["groups"],
+      "present": ["grouping"],
+      "past": ["grouped"]
+    }
+  },
+  "grow": {
+    "v": {
+      "translation": [
+        "扩大，增加，增强", "（使）生长，（使）发育", "长大，长高，发育，成长", "<主美>使增长，发展", "栽种，种植", "饲养，生产",
+        "发生，产生", "逐渐变得，逐渐成为", "（使）留长，蓄长", "逐渐开始", "提升品质"
+      ],
+      "singular": ["grows"],
+      "present": ["growing"],
+      "past": ["grew", "grown"]
+    }
+  },
+  "growth": {
+    "n": {
+      "translation": [
+        "增长，发展", "发育，成长，生长", "经济增长，经济发展", "增加，增多，增强", "生长物，草木，植物", "扩大，扩张",
+        "<医>赘生物，肿瘤", "栽培，种植", "旁枝，分枝"
+      ],
+      "plural": ["growths"]
+    },
+    "adj": {
+      "translation": ["发展的，增长的"]
+    }
+  },
+  "guarantee": {
+    "n": {
+      "translation": ["保证", "担保", "保证金", "保修单", "起保证作用的事物", "保用证书"],
+      "plural": ["guarantees"]
+    },
+    "v": {
+      "translation": [
+        "保证", "保障", "担保", "确保", "使必然发生", "提供(产品)保修单(免费掉换或修理有问题的产品)",
+        "承诺对…负法律责任", "肯定…必然发生"
+      ],
+      "singular": ["guarantees"],
+      "present": ["guaranteeing"],
+      "past": ["guaranteed"]
+    }
+  },
+  "guard": {
+    "n": {
+      "translation": [
+        "保护", "警卫", "看守", "后卫", "保卫", "(统称)卫兵", "防护罩", "警戒", "禁军，御林军，近卫军", "警卫员",
+        "防御姿势", "﹙中锋两侧的﹚哨锋"
+      ],
+      "plural": ["guards"]
+    },
+    "vt": {
+      "translation": ["警卫", "守卫", "看守", "保卫", "监视"],
+      "singular": ["guards"],
+      "present": ["guarding"],
+      "past": ["guarded"]
+    }
+  },
+  "guess": {
+    "v": {
+      "translation": ["猜测", "想", "猜对", "猜到", "估计", "你猜", "以为", "猜中"],
+      "singular": ["guesses"],
+      "present": ["guessing"],
+      "past": ["guessed"]
+    },
+    "n": {
+      "translation": ["猜测", "猜想"],
+      "plural": ["guesses"]
+    }
+  },
+  "guest": {
+    "n": {
+      "translation": ["客人", "宾客", "旅客", "房客", "特邀嘉宾", "特别嘉宾", "客串演员"],
+      "plural": ["guests"]
+    },
+    "vi": {
+      "translation": ["做特邀嘉宾", "做客串", "做特约演员"],
+      "singular": ["guests"],
+      "present": ["guesting"],
+      "past": ["guested"]
+    }
+  },
+  "guidance": {
+    "n": {
+      "translation": ["指导", "引导", "(火箭等的)制导，导航", "咨询"],
+      "plural": ["guidances"]
+    }
+  },
+  "guide": {
+    "vt": {
+      "translation": [
+        "指导", "指引", "影响(某人的行为)", "(向某人)解释", "阐明", "搀扶（某人朝…方向）走", "给某人领路(或导游)"
+      ],
+      "singular": ["guides"],
+      "present": ["guiding"],
+      "past": ["guided"]
+    },
+    "n": {
+      "translation": ["指南", "导游", "向导", "手册", "指导者", "女童子军", "有指导意义的事物"],
+      "plural": ["guides"]
+    }
+  },
+  "guilty": {
+    "adj": {
+      "translation": ["内疚的", "犯了罪", "感到惭愧的", "有过失的"],
+      "comparative": ["guiltier"],
+      "superlative": ["guiltiest"]
+    }
+  },
+  "gulf": {
+    "n": {
+      "translation": ["海湾", "波斯湾", "鸿沟", "分歧", "隔阂", "（地面的）裂口，深坑，沟壑"],
+      "plural": ["gulfs"]
+    }
+  },
+  "gum": {
+    "n": {
+      "translation": [
+        "口香糖", "牙龈", "树胶", "齿龈", "树脂", "牙床", "黏胶，胶质物(用以粘轻东西，如纸等)", "透明果味糖"
+      ]
+    },
+    "vt": {
+      "translation": ["在…上涂胶", "用黏胶粘"],
+      "singular": ["gums"],
+      "present": ["gumming"],
+      "past": ["gummed"]
+    }
+  },
+  "gun": {
+    "n": {
+      "translation": ["枪", "喷枪", "炮", "喷射器", "发令枪声", "起跑信号", "受雇杀人的枪手"],
+      "plural": ["guns"]
+    },
+    "v": {
+      "translation": ["快速运转", "使(车辆)加速"],
+      "singular": ["guns"],
+      "present": ["gunning"],
+      "past": ["gunned"]
+    }
+  },
+  "gunpowder": {
+    "n": {
+      "translation": ["火药"]
+    }
+  },
+  "gymnasium": {
+    "n": {
+      "translation": ["体育馆", "同 gym"],
+      "plural": ["gymnasia"]
+    }
+  }
+}

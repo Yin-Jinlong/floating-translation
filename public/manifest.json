@@ -1,0 +1,26 @@
+{
+  "name": "悬浮翻译",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "description": "",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "server.js"
+  },
+  "content_scripts": [
+    {
+      "world": "ISOLATED",
+      "js": ["content.js"],
+      "css": ["main.css"],
+      "matches": ["*://*/*"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "unlimitedStorage"
+  ]
+}

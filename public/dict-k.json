@@ -1,0 +1,304 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "keen": {
+    "adj": {
+      "translation": [
+        "渴望", "激烈的", "热衷于", "强烈的", "热切的", "热切", "热心的", "热情的", "锋利的", "喜爱", "灵敏的",
+        "(对…)着迷，有兴趣", "低廉的", "思维敏捷的", "寒冷刺骨的"
+      ],
+      "comparative": ["keener"],
+      "superlative": ["keenest"]
+    },
+    "vi": {
+      "translation": ["(为死者)恸哭，哀号"],
+      "singular": ["keens"],
+      "present": ["keening"],
+      "past": ["keened"]
+    },
+    "n": {
+      "translation": ["恸哭", "(号哭着唱出的)挽歌"]
+    }
+  },
+  "keep": {
+    "v": {
+      "translation": [
+        "保持", "继续(做某事)", "（为某人）保留，留下", "记下，记录，记载", "开设，经营，管理（商店或餐馆）", "保护", "(使)处于",
+        "遵守", "保守（秘密）", "放，存放，贮存（在某处）", "养", "保有", "供养", "使耽搁", "守门", "健康状况如何", "保持不坏"
+      ],
+      "singular": ["keeps"],
+      "present": ["keeping"],
+      "past": ["kept"]
+    },
+    "n": {
+      "translation": ["生活费用", "生活必需品", "城堡主楼"],
+      "plural": ["keeps"]
+    }
+  },
+  "keeper": {
+    "n": {
+      "translation": ["保管人", "看守人", "(尤指动物园的)饲养员"],
+      "plural": ["keepers"]
+    }
+  },
+  "kettle": {
+    "n": {
+      "translation": ["水壶", "(烧水用的)壶"],
+      "plural": ["kettles"]
+    }
+  },
+  "key": {
+    "n": {
+      "translation": ["钥匙", "(计算机或打字机的)键", "关键", "符号说明，图例", "调", "答案", "要诀"],
+      "plural": ["keys"]
+    },
+    "vt": {
+      "translation": ["用键盘输入", "键入", "用钥匙划坏(汽车)"],
+      "singular": ["keys"],
+      "present": ["keying"],
+      "past": ["keyed"]
+    },
+    "adj": {
+      "translation": ["关键的", "主要的", "最重要的"]
+    }
+  },
+  "keyboard": {
+    "n": {
+      "translation": ["(计算机或打字机的)键盘", "(钢琴或其他乐器的)琴键", "键盘式电子乐器"],
+      "plural": ["keyboards"]
+    },
+    "v": {
+      "translation": ["用键盘输入", "将(信息)键入计算机"],
+      "singular": ["keyboards"],
+      "present": ["keyboarding"],
+      "past": ["keyboarded"]
+    }
+  },
+  "kick": {
+    "v": {
+      "translation": ["踹", "踢(腿)", "(因干了蠢事、失去良机等)对(自己)生气", "踢蹬", "踢球得分"],
+      "singular": ["kicks"],
+      "present": ["kicking"],
+      "past": ["kicked"]
+    },
+    "n": {
+      "translation": ["踢", "踢腿", "踢脚", "极大的乐趣", "(毒品或酒精的)效力，刺激性", "极度兴奋", "极度刺激"],
+      "plural": ["kicks"]
+    }
+  },
+  "kid": {
+    "n": {
+      "translation": ["小孩", "年轻人", "小山羊", "小山羊皮革"],
+      "plural": ["kids"]
+    },
+    "v": {
+      "translation": ["开玩笑", "欺骗", "哄骗", "戏弄"],
+      "singular": ["kids"],
+      "present": ["kidding"],
+      "past": ["kidded"]
+    },
+    "adj": {
+      "translation": ["妹妹", "弟弟"]
+    }
+  },
+  "kill": {
+    "v": {
+      "translation": [
+        "杀死", "破坏", "扼杀", "使停止", "使痛苦", "毁灭", "弄死", "导致死亡", "使疼痛", "使受折磨", "使笑得前仰后合"
+      ],
+      "singular": ["kills"],
+      "present": ["killing"],
+      "past": ["killed"]
+    },
+    "n": {
+      "translation": ["杀死，捕杀(尤指动物)", "猎物", "被捕杀的动物"]
+    }
+  },
+  "kilogram": {
+    "n": {
+      "translation": ["公斤", "千克"],
+      "plural": ["kilograms"]
+    }
+  },
+  "kilometer": {
+    "n": {
+      "translation": ["公里", "千米"],
+      "plural": ["kilometers"]
+    }
+  },
+  "kind": {
+    "adj": {
+      "translation": ["友好的", "友善的", "宽容的", "体贴的", "慈祥的", "客气请求或命令"],
+      "comparative": ["kinder"],
+      "superlative": ["kindest"]
+    },
+    "n": {
+      "translation": ["种类", "同类的人(或事物)"],
+      "plural": ["kinds"]
+    }
+  },
+  "kindness": {
+    "n": {
+      "translation": ["善良", "仁慈", "宽容", "体贴", "友好的举动"],
+      "plural": ["kindnesses"]
+    }
+  },
+  "king": {
+    "n": {
+      "translation": [
+        "国王", "（国际象棋中的）王", "(与动植物名称连用构成复合词，表示巨型)…之最，…之王，巨型…",
+        "(人、动物、事物中的)首屈一指者，最重要者，大王", "君主", "（纸牌中的）老K"
+      ],
+      "plural": ["kings"]
+    },
+    "v": {
+      "translation": ["统治", "做国王", "立…为王"]
+    }
+  },
+  "kingdom": {
+    "n": {
+      "translation": ["王国", "领域", "界", "管辖范围", "自然三界之一"],
+      "plural": ["kingdoms"]
+    }
+  },
+  "kiss": {
+    "v": {
+      "translation": ["吻", "接吻", "轻拂", "轻触"],
+      "singular": ["kisses"],
+      "present": ["kissing"],
+      "past": ["kissed"]
+    },
+    "n": {
+      "translation": ["吻"],
+      "plural": ["kisses"]
+    }
+  },
+  "kitchen": {
+    "n": {
+      "translation": [
+        "厨房", "(全体)厨师，(全体)炊事人员", "全套炊具", "坏人出没的地方", "<俚>(管弦乐队的)打击乐器组", "烹调法，烹调的菜肴"
+      ],
+      "plural": ["kitchens"]
+    },
+    "adj": {
+      "translation": ["厨房的，炊事的", "厨房里用的，在厨房里工作的", "<口>（语言）混杂的，不标准的"]
+    }
+  },
+  "kite": {
+    "n": {
+      "translation": ["风筝", "鸢(猛禽)"],
+      "plural": ["kites"]
+    },
+    "vt": {
+      "translation": ["使用(非法支票)骗钱", "涂改(支票)"],
+      "singular": ["kites"],
+      "present": ["kiting"],
+      "past": ["kited"]
+    }
+  },
+  "knee": {
+    "n": {
+      "translation": ["膝", "膝关节", "膝盖", "(裤子的)膝部", "(坐下时)大腿朝上的面"],
+      "plural": ["knees"]
+    },
+    "vt": {
+      "translation": ["用膝盖顶(或撞)"],
+      "singular": ["knees"],
+      "present": ["kneeing"],
+      "past": ["kneed"]
+    }
+  },
+  "kneel": {
+    "v": {
+      "translation": ["跪", "跪下", "跪着"],
+      "singular": ["kneels"],
+      "present": ["kneeling"],
+      "past": ["knelt"]
+    },
+    "n": {
+      "translation": ["跪"]
+    }
+  },
+  "knife": {
+    "n": {
+      "translation": ["刀"],
+      "plural": ["knives"]
+    },
+    "vt": {
+      "translation": ["用刀伤害(或杀害)"],
+      "singular": ["knives"],
+      "present": ["knifing"],
+      "past": ["knifed"]
+    }
+  },
+  "knit": {
+    "v": {
+      "translation": ["针织", "编织", "机织", "(使)紧密结合，严密，紧凑", "（使）愈合，接合", "织平针"],
+      "singular": ["knits"],
+      "present": ["knitting"],
+      "past": ["knitted"]
+    },
+    "n": {
+      "translation": ["针织衫", "编织的衣服"],
+      "plural": ["knits"]
+    }
+  },
+  "knob": {
+    "n": {
+      "translation": ["(用以开关电视机等的)旋钮", "节", "(门或抽屉的)球形把手", "小块（黄油等）", "疙瘩", "阴茎"],
+      "plural": ["knobs"]
+    },
+    "v": {
+      "translation": ["鼓起", "使有球形突出物", "给（门等）装球形把手"],
+      "singular": ["knobs"],
+      "present": ["knobbing"],
+      "past": ["knobbed"]
+    }
+  },
+  "knock": {
+    "v": {
+      "translation": [
+        "敲", "打，凿（洞）", "(常为无意地)碰，撞", "击", "打掉", "（不公平地）批评", "（尤指因故障）发碰撞声，嘭嘭作响",
+        "（心）怦怦跳", "把…撞击成(某种状态)"
+      ],
+      "singular": ["knocks"],
+      "present": ["knocking"],
+      "past": ["knocked"]
+    },
+    "n": {
+      "translation": ["敲击", "敲门(或窗等)声", "撞击", "敲击声", "捶击"],
+      "plural": ["knocks"]
+    }
+  },
+  "knot": {
+    "n": {
+      "translation": ["(用绳索等打的)结", "节", "节疤", "节子", "发髻", "一小群人", "痉挛，郁结，哽咽，哽塞"],
+      "plural": ["knots"]
+    },
+    "v": {
+      "translation": ["把…打成结(或扎牢)", "缠结", "打发髻", "痉挛，紧缩，使痉挛"],
+      "singular": ["knots"],
+      "present": ["knotting"],
+      "past": ["knotted"]
+    }
+  },
+  "know": {
+    "v": {
+      "translation": [
+        "知道，知悉，了解", "熟悉，认识", "把……看作是，认为……是", "认识到，懂得，意识到", "懂，会说（某种语言）",
+        "精通，熟悉（书、音乐或艺术等）", "确信，确知，肯定", "学会，掌握", "熟知（过程或系统）", "看到过，听到过",
+        "普遍认为，皆知", "亲身体验", "能认出", "能区分", "将……称为"
+      ],
+      "singular": ["knows"],
+      "present": ["knowing"],
+      "past": ["knew", "known"]
+    },
+    "n": {
+      "translation": ["知识", "知晓，知情"]
+    }
+  },
+  "knowledge": {
+    "n": {
+      "translation": ["知识", "了解", "知晓", "学问", "知悉", "学识"]
+    }
+  }
+}

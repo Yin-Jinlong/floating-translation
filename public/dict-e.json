@@ -1,0 +1,1839 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "each": {
+    "det/pron": {
+      "translation": ["每个", "各个", "(两个或两个以上的人或物中)各自"]
+    },
+    "adv": {
+      "translation": ["每个"]
+    },
+    "adj": {
+      "translation": ["每"]
+    }
+  },
+  "eager": {
+    "adj": {
+      "translation": ["渴望的", "热切的", "渴求的"]
+    }
+  },
+  "eagle": {
+    "n": {
+      "translation": ["鹰", "雕", "鹰击(比标准杆少打两杆)"],
+      "plural": ["eagles"]
+    },
+    "v": {
+      "translation": ["[高]低于标准杆数两杆"],
+      "singular": ["eagles"],
+      "present": ["eagling"],
+      "past": ["eagled"]
+    }
+  },
+  "ear": {
+    "n": {
+      "translation": ["耳朵", "耳朵…的", "（谷类植物的）穗", "有…耳朵的", "辨音力", "灵敏的听力"],
+      "plural": ["ears"]
+    }
+  },
+  "early": {
+    "adj": {
+      "translation": ["早期的", "初期的", "提前的", "提早的", "早先的", "早到的"],
+      "comparative": ["earlier"],
+      "superlative": ["earliest"]
+    },
+    "adv": {
+      "translation": ["在早期", "在初期", "提前", "…之前", "提早", "早些时候", "先前", "在开始阶段"]
+    },
+    "n": {
+      "translation": ["厄利"]
+    }
+  },
+  "earn": {
+    "v": {
+      "translation": ["赚", "赢得", "挣钱", "获(利)", "生(利)", "应得", "博得"],
+      "singular": ["earns"],
+      "present": ["earning"],
+      "past": ["earned"]
+    }
+  },
+  "earnest": {
+    "adj": {
+      "translation": ["认真的", "真诚的", "诚实的"]
+    },
+    "n": {
+      "translation": ["认真", "保证金", "诚挚", "热心", "定钱"],
+      "plural": ["earnests"]
+    }
+  },
+  "earth": {
+    "n": {
+      "translation": ["地球", "土", "世界", "大地", "地面", "泥土", "（接）地线", "陆地", "泥", "兽穴"],
+      "plural": ["earths"]
+    },
+    "vt": {
+      "translation": ["把(电线)接地"],
+      "singular": ["earths"],
+      "present": ["earthing"],
+      "past": ["earthed"]
+    }
+  },
+  "earthquake": {
+    "n": {
+      "translation": ["地震"],
+      "plural": ["earthquakes"]
+    }
+  },
+  "ease": {
+    "v": {
+      "translation": ["缓解", "减轻", "缓和", "降低", "(使)宽慰", "使…容易些", "(使)小心缓缓地移动"],
+      "singular": ["eases"],
+      "present": ["easing"],
+      "past": ["eased"]
+    },
+    "n": {
+      "translation": ["容易", "自在", "舒适", "安逸", "轻易", "无忧无虑", "不费劲"],
+      "plural": ["eases"]
+    }
+  },
+  "easily": {
+    "adv": {
+      "translation": ["容易地", "很可能", "轻易地", "肯定", "无疑", "不费力地", "多半", "一会儿"]
+    }
+  },
+  "east": {
+    "n": {
+      "translation": ["东", "东部", "东方", "东边", "亚洲国家，东方国家(尤指中国、日本和印度)", "（旧时）东欧共产主义国家"]
+    },
+    "adj": {
+      "translation": ["东部的", "东方的", "向东的", "东风的", "东方吹来的"]
+    },
+    "adv": {
+      "translation": ["向东", "朝东"]
+    }
+  },
+  "eastern": {
+    "adj": {
+      "translation": ["东部的", "东方的", "向东的", "(欧洲以东的)亚洲国家的，东方国家的"]
+    },
+    "n": {
+      "translation": ["东方人", "（美国）东部地区的人", "东正教信徒"],
+      "plural": ["easterns"]
+    }
+  },
+  "easy": {
+    "adj": {
+      "translation": [
+        "容易的，不费力的", "舒适的，安逸的", "随和的", "从容的", "不严厉的，宽容的", "安心的", "易受攻击的", "易说服的"
+      ],
+      "comparative": ["easier"],
+      "superlative": ["easiest"]
+    },
+    "adv": {
+      "translation": ["容易地", "小心地"]
+    }
+  },
+  "eat": {
+    "v": {
+      "translation": ["吃", "咬，蛀", "侵蚀", "收回，取消", "烦扰", "向…欢呼"],
+      "singular": ["eats"],
+      "present": ["eating"],
+      "past": ["ate", "eaten"]
+    },
+    "n": {
+      "translation": ["少量食物，点心"]
+    }
+  },
+  "echo": {
+    "n": {
+      "translation": ["回声", "回音", "回响", "重复", "附和", "共鸣", "反响", "暗示", "启示", "映现"],
+      "plural": ["echoes"]
+    },
+    "v": {
+      "translation": ["回响", "回荡", "重复，附和(想法或看法)", "重复…话，模仿", "发出回声", "产生回响", "充满回声"],
+      "singular": ["echoes"],
+      "present": ["echoing"],
+      "past": ["echoed"]
+    }
+  },
+  "economic": {
+    "adj": {
+      "translation": ["经济的", "经济学的", "经济上的", "合算的", "有利可图的", "可赚钱的"]
+    }
+  },
+  "economical": {
+    "adj": {
+      "translation": ["经济的", "节约的", "实惠的", "节俭的", "省钱的", "简洁的", "精打细算的"]
+    }
+  },
+  "economy": {
+    "n": {
+      "translation": ["经济", "组织，系统", "经济结构，经济制度", "节约，省俭", "经济情况", "经济舱位", "简练，干净利落"],
+      "plural": ["economies"]
+    },
+    "adj": {
+      "translation": ["经济的，廉价的", "(客机、车、船等的舱位)经济的，二等的", "节约的"]
+    },
+    "adv": {
+      "translation": ["(在客机、车、船上)乘坐经济舱位"]
+    }
+  },
+  "edge": {
+    "n": {
+      "translation": [
+        "边", "(尤指灾难的)边缘", "边沿", "（微弱的）优势", "刀刃", "刀口", "锐利", "边线", "有…边的", "利刃", "尖刻的声调"
+      ],
+      "plural": ["edges"]
+    },
+    "v": {
+      "translation": ["(使)徐徐移动，渐渐移动", "给…加边", "略为增加(或减少)"],
+      "singular": ["edges"],
+      "present": ["edging"],
+      "past": ["edged"]
+    }
+  },
+  "edition": {
+    "n": {
+      "translation": [
+        "版本(出版形式)", "(广播、电视节目的)一期，一辑", "(报纸、杂志的)一份", "(书、报、杂志等的)一版印刷总数，版次"
+      ],
+      "plural": ["editions"]
+    }
+  },
+  "editor": {
+    "n": {
+      "translation": [
+        "编辑", "记者，编辑", "(报刊、杂志的)主编", "（书籍的）编者", "编辑程序", "剪接师", "(影片、广播电视节目的)剪辑员",
+        "(书籍的)校订者", "审校者"
+      ],
+      "plural": ["editors"]
+    }
+  },
+  "educate": {
+    "vt": {
+      "translation": ["(在学校)教育", "训练", "教养", "教导"],
+      "singular": ["educates"],
+      "present": ["educating"],
+      "past": ["educated"]
+    }
+  },
+  "education": {
+    "n": {
+      "translation": ["(尤指学校)教育", "培养", "教育机构", "训练", "教育学", "教育界人士", "有教益的经历"],
+      "plural": ["educations"]
+    }
+  },
+  "effect": {
+    "n": {
+      "translation": [
+        "影响", "(艺术家或作家所要创造的特定)外观，声响，印象，效果", "效应", "结果", "(个人)财产，所有物，财物"
+      ],
+      "plural": ["effects"]
+    },
+    "vt": {
+      "translation": ["使发生", "实现", "引起"],
+      "singular": ["effects"],
+      "present": ["effecting"],
+      "past": ["effected"]
+    }
+  },
+  "effective": {
+    "adj": {
+      "translation": ["有效的", "生效的", "实际的", "事实上的", "起作用的", "产生预期结果的"]
+    },
+    "n": {
+      "translation": ["有生力量", "精兵", "[军]现役兵额"],
+      "plural": ["effectives"]
+    }
+  },
+  "efficiency": {
+    "n": {
+      "translation": ["效率", "功率", "效能", "功效", "提高功效的方法"],
+      "plural": ["efficiencies"]
+    }
+  },
+  "efficient": {
+    "adj": {
+      "translation": ["有效率的", "效率高的", "有能力的"]
+    }
+  },
+  "effort": {
+    "n": {
+      "translation": ["努力", "尽力", "试图", "努力的结果", "气力", "有组织的活动", "艰难的尝试", "费力的事"],
+      "plural": ["efforts"]
+    }
+  },
+  "egg": {
+    "n": {
+      "translation": ["(尤指)鸡蛋", "(鸟类的)蛋", "(鱼、昆虫等的)卵", "卵子", "卵细胞", "(用作食物的)禽蛋"],
+      "plural": ["eggs"]
+    },
+    "v": {
+      "translation": ["怂恿", "鼓励"],
+      "singular": ["eggs"],
+      "present": ["egging"],
+      "past": ["egged"]
+    }
+  },
+  "eight": {
+    "n": {
+      "translation": ["八", "八个", "第八", "八人划船队", "表示八的符号"],
+      "plural": ["eights"]
+    },
+    "adj": {
+      "translation": ["八(的)", "八个(的)"]
+    }
+  },
+  "eighteen": {
+    "n": {
+      "translation": ["十八", "十八个"],
+      "plural": ["eighteens"]
+    },
+    "adj": {
+      "translation": ["十八(的)", "十八个(的)", "(英)(电影)适于年满18岁者观看的"]
+    }
+  },
+  "eighth": {
+    "adj": {
+      "translation": ["第八的", "八分之一的"]
+    },
+    "n": {
+      "translation": ["第八(个)", "八分之一", "<音>第八音级，八度音", "月的第八日"],
+      "plural": ["eighths"]
+    },
+    "adv": {
+      "translation": ["第八(用于列举条目等)", "居第八位"]
+    }
+  },
+  "eighty": {
+    "n": {
+      "translation": ["八十", "八十个", "第八十", "表示八十的符号"],
+      "plural": ["eighties"]
+    },
+    "adj": {
+      "translation": ["八十(的)", "八十个(的)"]
+    }
+  },
+  "either": {
+    "det/pron": {
+      "translation": ["(两者中的)任何一个", "(两者中的)每个，各方"]
+    },
+    "adv": {
+      "translation": ["(补充时说)而且", "(对两事物的选择)要么…要么，不是…就是，或者…或者", "(用于否定词组后)也"]
+    },
+    "adj": {
+      "translation": ["两者之一的", "(两者之中)随便哪一个的", "两者中任何一方的"]
+    },
+    "conj": {
+      "translation": ["…呢还是…"]
+    }
+  },
+  "elaborate": {
+    "adj": {
+      "translation": ["复杂的", "详尽的", "精心制作的"]
+    },
+    "v": {
+      "translation": ["精心制作", "详细描述", "详尽阐述", "详细制订"],
+      "singular": ["elaborates"],
+      "present": ["elaborating"],
+      "past": ["elaborated"]
+    }
+  },
+  "elastic": {
+    "adj": {
+      "translation": ["有弹性的", "灵活的", "可伸缩的", "有弹力的", "橡皮圈(或带)的", "可改变的"]
+    },
+    "n": {
+      "translation": ["橡皮圈(或带)", "松紧带"],
+      "plural": ["elastics"]
+    }
+  },
+  "elbow": {
+    "n": {
+      "translation": ["(衣服的)肘部", "肘", "(管子、烟囱等的)弯处，弯头"],
+      "plural": ["elbows"]
+    },
+    "vt": {
+      "translation": ["用肘推", "用肘挤"],
+      "singular": ["elbows"],
+      "present": ["elbowing"],
+      "past": ["elbowed"]
+    }
+  },
+  "elder": {
+    "n": {
+      "translation": ["长者", "(某些基督教会中的)长老", "长辈", "元老", "接骨木", "比…年长的人"],
+      "plural": ["elders"]
+    },
+    "adj": {
+      "translation": [
+        "年纪较长的", "(后面不紧跟名词，指两者中的)年长者", "(用于人名前或后，指同名的两个人中)年龄大的一个"
+      ]
+    }
+  },
+  "elect": {
+    "v": {
+      "translation": ["选举", "选择，决定(做某事)", "推选"],
+      "singular": ["elects"],
+      "present": ["electing"],
+      "past": ["elected"]
+    },
+    "adj": {
+      "translation": ["(用于名词后)当选而尚未就职的，候任的", "上帝的选民"]
+    },
+    "n": {
+      "translation": ["被选的人"],
+      "plural": ["elects"]
+    }
+  },
+  "election": {
+    "n": {
+      "translation": ["选举", "当选", "推选(尤指从政)"],
+      "plural": ["elections"]
+    }
+  },
+  "electric": {
+    "adj": {
+      "translation": ["电的", "电动的", "发电的", "用电的", "令人激动的", "充满刺激的"]
+    },
+    "n": {
+      "translation": ["供电"],
+      "plural": ["electrics"]
+    }
+  },
+  "electrical": {
+    "adj": {
+      "translation": ["电的", "发电的", "用电的", "发生电的", "电气科学的"]
+    }
+  },
+  "electricity": {
+    "n": {
+      "translation": ["电", "电能", "兴奋", "激动", "强烈的感情"]
+    }
+  },
+  "electron": {
+    "n": {
+      "translation": ["电子"],
+      "plural": ["electrons"]
+    }
+  },
+  "electronic": {
+    "adj": {
+      "translation": ["电子的", "电子设备的", "电子器件的"]
+    }
+  },
+  "electronics": {
+    "n": {
+      "translation": ["电子器件", "电子电路", "电子学", "电子学的应用"],
+      "plural": ["electronicses"]
+    }
+  },
+  "element": {
+    "n": {
+      "translation": [
+        "要素", "元素（如金、氧、碳）", "（学科的）基本原理，基础，纲要", "(大团体或社会中的)一组，一群，一伙", "有些",
+        "（尤指恶劣的）天气", "少量", "电热元件", "（尤指动物的）自然环境，适宜的环境", "有点", "基本部分", "典型部分"
+      ],
+      "plural": ["elements"]
+    }
+  },
+  "elementary": {
+    "adj": {
+      "translation": ["基本的", "基础的", "初级的", "简单的", "容易的"]
+    }
+  },
+  "elephant": {
+    "n": {
+      "translation": ["大象", "象"],
+      "plural": ["elephants"]
+    }
+  },
+  "elevator": {
+    "n": {
+      "translation": ["电梯", "(飞行器的)升降舵"],
+      "plural": ["elevators"]
+    }
+  },
+  "eleven": {
+    "n": {
+      "translation": ["十一", "十一个", "第十一"],
+      "plural": ["elevens"]
+    },
+    "adj": {
+      "translation": ["十一(的)", "十一个(的)"]
+    }
+  },
+  "eleventh": {
+    "adj": {
+      "translation": ["第十一的", "十一分之一的"]
+    },
+    "n": {
+      "translation": ["第十一(个)", "十一分之一", "<音>十一度", "月的第十一日"],
+      "plural": ["elevenths"]
+    }
+  },
+  "eliminate": {
+    "vt": {
+      "translation": ["消除", "排除", "消灭，干掉(尤指敌人或对手)", "清除", "(比赛中)淘汰"],
+      "singular": ["eliminates"],
+      "present": ["eliminating"],
+      "past": ["eliminated"]
+    }
+  },
+  "elimination": {
+    "n": {
+      "translation": ["消除", "消灭", "淘汰", "丢弃", "略去", "排泄废物", "排粪", "（英格兰古法）放逐"],
+      "plural": ["eliminations"]
+    }
+  },
+  "else": {
+    "adv": {
+      "translation": ["其他的", "别的", "另外的", "不同的"]
+    },
+    "adj": {
+      "translation": ["别的"]
+    },
+    "n": {
+      "translation": ["女子名"]
+    }
+  },
+  "elsewhere": {
+    "adv": {
+      "translation": ["在别处，去别处"]
+    },
+    "pron": {
+      "translation": ["别处，别的地方"]
+    }
+  },
+  "embarrass": {
+    "vt": {
+      "translation": ["尴尬", "(尤指在社交场合)使窘迫", "使为难", "使困惑", "使陷入困境"],
+      "singular": ["embarrasses"],
+      "present": ["embarrassing"],
+      "past": ["embarrassed"]
+    }
+  },
+  "embrace": {
+    "v": {
+      "translation": ["拥抱", "包括", "包含", "抱", "信奉(宗教、信仰等)", "欣然接受，乐意采纳(思想、建议等)"],
+      "singular": ["embraces"],
+      "present": ["embracing"],
+      "past": ["embraced"]
+    },
+    "n": {
+      "translation": ["拥抱，怀抱"]
+    }
+  },
+  "emerge": {
+    "v": {
+      "translation": [
+        "(从隐蔽处或暗处)出现", "浮现", "显现", "暴露", "露出", "显露", "被知晓", "幸存下来，摆脱出来", "露头", "露出真相"
+      ],
+      "singular": ["emerges"],
+      "present": ["emerging"],
+      "past": ["emerged"]
+    }
+  },
+  "emergency": {
+    "n": {
+      "translation": ["突发事件，紧急情况", "<美>急诊室", "急症(病人)"],
+      "plural": ["emergencies"]
+    },
+    "adj": {
+      "translation": ["紧急情况下使用(或出现)的, 紧急的", "应急的"]
+    }
+  },
+  "emit": {
+    "vt": {
+      "translation": ["发出", "射出", "散发(光、热、声音、气等)"],
+      "singular": ["emits"],
+      "present": ["emitting"],
+      "past": ["emitted"]
+    }
+  },
+  "emotion": {
+    "n": {
+      "translation": ["情感", "情绪", "激情", "强烈的感情"],
+      "plural": ["emotions"]
+    }
+  },
+  "emotional": {
+    "adj": {
+      "translation": [
+        "情感的", "情绪的", "感情的", "情绪激动的", "激动人心的", "感情冲动的", "有感染力的", "激起感情的"
+      ]
+    }
+  },
+  "emperor": {
+    "n": {
+      "translation": ["皇帝"],
+      "plural": ["emperors"]
+    }
+  },
+  "emphasis": {
+    "n": {
+      "translation": ["强调", "(对某个词或短语的)强调，加重语气，重读", "重视", "重要性"],
+      "plural": ["emphases"]
+    }
+  },
+  "empire": {
+    "n": {
+      "translation": ["帝国", "大企业", "最高统治权，君权"],
+      "plural": ["empires"]
+    }
+  },
+  "employ": {
+    "vt": {
+      "translation": ["使用", "雇用", "应用", "运用"],
+      "singular": ["employs"],
+      "present": ["employing"],
+      "past": ["employed"]
+    },
+    "n": {
+      "translation": ["工作，职业", "雇用，受雇", "服务"]
+    }
+  },
+  "employee": {
+    "n": {
+      "translation": ["雇员", "雇工", "受雇者"],
+      "plural": ["employees"]
+    }
+  },
+  "employer": {
+    "n": {
+      "translation": ["雇主", "老板", "雇用者"],
+      "plural": ["employers"]
+    }
+  },
+  "employment": {
+    "n": {
+      "translation": ["就业", "工作", "职业", "雇用", "使用", "受雇"],
+      "plural": ["employments"]
+    }
+  },
+  "empty": {
+    "adj": {
+      "translation": ["空的", "没有", "空虚的", "空洞的", "无意义的", "无目的的", "无诚意的", "说话不算数的"],
+      "comparative": ["emptier"],
+      "superlative": ["emptiest"]
+    },
+    "v": {
+      "translation": ["倒空", "腾空", "流入", "掏空", "变空", "把…移出，把…腾出(置于别处)", "（把…）撤出，撤离"],
+      "singular": ["empties"],
+      "present": ["emptying"],
+      "past": ["emptied"]
+    },
+    "n": {
+      "translation": ["空车", "空的东西"],
+      "plural": ["empties"]
+    }
+  },
+  "enable": {
+    "vt": {
+      "translation": ["使能够", "使实现", "使可能", "使成为可能", "使可行", "使有机会"],
+      "singular": ["enables"],
+      "present": ["enabling"],
+      "past": ["enabled"]
+    }
+  },
+  "enclose": {
+    "vt": {
+      "translation": ["围住", "随函(或包裹等)附上", "(用墙、篱笆等)把…围起来", "附入"],
+      "singular": ["encloses"],
+      "present": ["enclosing"],
+      "past": ["enclosed"]
+    }
+  },
+  "encounter": {
+    "vt": {
+      "translation": ["遭遇", "遇到(尤指令人不快或困难的事)", "与…邂逅", "偶然碰到", "意外地遇见"],
+      "singular": ["encounters"],
+      "present": ["encountering"],
+      "past": ["encountered"]
+    },
+    "n": {
+      "translation": ["遭遇", "(意外、突然或暴力的)相遇", "邂逅", "冲突", "(体育)比赛", "交锋"],
+      "plural": ["encounters"]
+    }
+  },
+  "encourage": {
+    "vt": {
+      "translation": ["鼓励", "支持", "促进", "激励", "刺激", "助长", "怂恿", "鼓动", "劝告"],
+      "singular": ["encourages"],
+      "present": ["encouraging"],
+      "past": ["encouraged"]
+    }
+  },
+  "end": {
+    "n": {
+      "translation": [
+        "结束", "部分，方面", "末端", "(时间、事件、活动或故事等的)终止，终结，结局，结尾", "目的", "尽头", "端点", "末梢",
+        "破灭", "辞世，过世", "剩余物", "半边球场"
+      ],
+      "plural": ["ends"]
+    },
+    "v": {
+      "translation": ["结束", "终止"],
+      "singular": ["ends"],
+      "present": ["ending"],
+      "past": ["ended"]
+    }
+  },
+  "ending": {
+    "n": {
+      "translation": ["结束", "(故事、电影等的)结尾，结局", "终结", "词尾", "最后部分"],
+      "plural": ["endings"]
+    },
+    "v": {
+      "translation": ["结束", "终止"]
+    }
+  },
+  "endless": {
+    "adj": {
+      "translation": [
+        "无休止的", "无穷无尽的", "不断的", "环状的", "无止境的", "无垠的", "不计其数的", "永久的", "两端连接的"
+      ]
+    }
+  },
+  "endure": {
+    "v": {
+      "translation": ["忍受", "持久", "持续", "忍耐"],
+      "singular": ["endures"],
+      "present": ["enduring"],
+      "past": ["endured"]
+    }
+  },
+  "enemy": {
+    "n": {
+      "translation": ["敌人", "敌军", "敌国", "仇人", "大敌", "敌兵", "反对者", "危害物"],
+      "plural": ["enemies"]
+    },
+    "adj": {
+      "translation": ["敌人的"]
+    }
+  },
+  "energy": {
+    "n": {
+      "translation": ["能量", "能源", "能", "精力", "活力", "力量", "干劲"],
+      "plural": ["energies"]
+    }
+  },
+  "enforce": {
+    "vt": {
+      "translation": ["执行", "强制执行", "强迫", "迫使", "强行实施(法律或规定)"],
+      "singular": ["enforces"],
+      "present": ["enforcing"],
+      "past": ["enforced"]
+    }
+  },
+  "engage": {
+    "v": {
+      "translation": [
+        "从事", "（使）衔接，啮合", "聘用", "雇用", "与（某人）交战", "吸引住(注意力、兴趣)", "与…建立密切关系", "尽力理解"
+      ],
+      "singular": ["engages"],
+      "present": ["engaging"],
+      "past": ["engaged"]
+    }
+  },
+  "engine": {
+    "n": {
+      "translation": ["发动机", "引擎", "机车", "火车头", "有…个引擎的", "有…型发动机的"],
+      "plural": ["engines"]
+    },
+    "vt": {
+      "translation": ["给…安装发动机"],
+      "singular": ["engines"],
+      "present": ["engining"],
+      "past": ["engined"]
+    }
+  },
+  "engineer": {
+    "n": {
+      "translation": ["工程师", "设计师", "技师", "工兵", "技工", "(飞机上的)机械师", "机修工", "(船上的)轮机手"],
+      "plural": ["engineers"]
+    },
+    "vt": {
+      "translation": ["密谋策划", "设计制造", "改变…的基因(或遗传)结构"],
+      "singular": ["engineers"],
+      "present": ["engineering"],
+      "past": ["engineered"]
+    }
+  },
+  "engineering": {
+    "n": {
+      "translation": ["工程", "工程学"]
+    },
+    "v": {
+      "translation": ["密谋策划", "设计制造", "改变…的基因(或遗传)结构"]
+    }
+  },
+  "england": {
+    "n": {
+      "translation": ["英格兰", "英格兰（英国的主要部分），（泛指）英国"]
+    }
+  },
+  "english": {
+    "adj": {
+      "translation": ["英文的", "英国的", "英国人的"]
+    },
+    "n": {
+      "translation": ["英语", "英文", "英国人", "英格兰人"]
+    },
+    "vt": {
+      "translation": ["把……译成英语"]
+    }
+  },
+  "englishman": {
+    "n": {
+      "translation": ["英国人", "英格兰人", "英国男人", "英吉利人"],
+      "plural": ["englishmen"]
+    }
+  },
+  "enjoy": {
+    "v": {
+      "translation": [
+        "享受", "享有", "欣赏", "喜爱", "享受…的乐趣", "（祝愿时说）玩痛快些，过愉快些，好好欣赏", "得到乐趣", "玩得痛快",
+        "过得快活"
+      ],
+      "singular": ["enjoys"],
+      "present": ["enjoying"],
+      "past": ["enjoyed"]
+    }
+  },
+  "enlarge": {
+    "v": {
+      "translation": ["扩大", "放大(照片或文件)", "增大", "扩展", "扩充"],
+      "singular": ["enlarges"],
+      "present": ["enlarging"],
+      "past": ["enlarged"]
+    }
+  },
+  "enormous": {
+    "adj": {
+      "translation": ["巨大的", "庞大的", "极大的"]
+    }
+  },
+  "enough": {
+    "det": {
+      "translation": ["(用于复数或不可数名词前)足够的，充足的，充分的", "足够地"]
+    },
+    "pron": {
+      "translation": ["足够", "充分", "充足"]
+    },
+    "adv": {
+      "translation": ["相当", "十分", "尚", "充分地", "足够地", "充足地", "很"]
+    },
+    "n": {
+      "translation": ["足够"]
+    },
+    "int": {
+      "translation": ["够了"]
+    },
+    "adj": {
+      "translation": ["充足的"]
+    }
+  },
+  "ensure": {
+    "v": {
+      "translation": ["确保", "保证", "担保"],
+      "singular": ["ensures"],
+      "present": ["ensuring"],
+      "past": ["ensured"]
+    }
+  },
+  "enter": {
+    "v": {
+      "translation": ["进入", "登记，输入", "参加，报名", "登场", "开始从事，开始做", "正式提出"],
+      "singular": ["enters"],
+      "present": ["entering"],
+      "past": ["entered"]
+    },
+    "n": {
+      "translation": ["回车键"]
+    }
+  },
+  "entertain": {
+    "v": {
+      "translation": ["娱乐", "(尤指在自己家中)招待，款待", "使快乐", "使有兴趣", "心存，怀有(想法、希望、感觉等)"],
+      "singular": ["entertains"],
+      "present": ["entertaining"],
+      "past": ["entertained"]
+    }
+  },
+  "enthusiasm": {
+    "n": {
+      "translation": ["热情", "热忱", "热心", "热衷的事物", "激发热情的事物"],
+      "plural": ["enthusiasms"]
+    }
+  },
+  "enthusiastic": {
+    "adj": {
+      "translation": ["热情的", "热心的", "热烈的", "满腔热忱的"]
+    }
+  },
+  "entire": {
+    "adj": {
+      "translation": ["整个的", "完全的", "全部的"]
+    },
+    "n": {
+      "translation": ["全部", "整体", "种马", "一种黑啤酒"]
+    }
+  },
+  "entitle": {
+    "vt": {
+      "translation": ["使享有权利", "给…命名(或题名)", "使符合资格", "赋予权利"],
+      "singular": ["entitles"],
+      "present": ["entitling"],
+      "past": ["entitled"]
+    }
+  },
+  "entrance": {
+    "n": {
+      "translation": [
+        "入口(处)", "进入", "通道", "大门(口)", "出场", "登场", "准许加入，进入许可", "卷入", "进入权", "进入机会"
+      ],
+      "plural": ["entrances"]
+    },
+    "vt": {
+      "translation": ["使狂喜", "使入迷"],
+      "singular": ["entrances"],
+      "present": ["entrancing"],
+      "past": ["entranced"]
+    }
+  },
+  "entry": {
+    "n": {
+      "translation": [
+        "（词典等的）条目", "进入(指权利等)", "参与，加入(指权利、机会)", "登记", "参赛", "参赛作品", "大门", "参赛人数"
+      ],
+      "plural": ["entries"]
+    }
+  },
+  "envelope": {
+    "n": {
+      "translation": ["信封", "塑料封皮", "塑料封套"],
+      "plural": ["envelopes"]
+    }
+  },
+  "environment": {
+    "n": {
+      "translation": ["(影响个体或事物行为或发展的)环境", "生态环境", "自然环境", "客观环境", "软件包", "工作平台"],
+      "plural": ["environments"]
+    }
+  },
+  "envy": {
+    "n": {
+      "translation": ["嫉妒", "羡慕", "忌妒"],
+      "plural": ["envies"]
+    },
+    "vt": {
+      "translation": ["羡慕", "忌妒", "庆幸不必做别人非做不可的事"],
+      "singular": ["envies"],
+      "present": ["envying"],
+      "past": ["envied"]
+    }
+  },
+  "equal": {
+    "adj": {
+      "translation": [
+        "(在大小、数量、价值、程度、能力等方面)相等的, 同样的", "平等的", "平均的，势均力敌的", "胜任的，合适的"
+      ]
+    },
+    "v": {
+      "translation": ["(在质量、数量、价值等方面)跟…相同", "比得上，敌得过"],
+      "singular": ["equals"],
+      "present": ["equalling"],
+      "past": ["equalled"]
+    },
+    "n": {
+      "translation": ["同等的人", "相等物"],
+      "plural": ["equals"]
+    }
+  },
+  "equality": {
+    "n": {
+      "translation": ["平等", "相等", "均等"],
+      "plural": ["equalities"]
+    }
+  },
+  "equation": {
+    "n": {
+      "translation": ["方程", "等式", "方程式", "(多种因素的)平衡，综合体", "相等", "等同看待"],
+      "plural": ["equations"]
+    }
+  },
+  "equip": {
+    "vt": {
+      "translation": ["配备", "装备", "使有能力", "使有所准备"],
+      "singular": ["equips"],
+      "present": ["equipping"],
+      "past": ["equipped"]
+    }
+  },
+  "equipment": {
+    "n": {
+      "translation": ["设备", "装备", "配备", "器材"]
+    }
+  },
+  "equivalent": {
+    "adj": {
+      "translation": ["(价值、数量、意义、重要性等)相同的", "相等的"]
+    },
+    "n": {
+      "translation": ["等量", "对应词", "相等的东西"],
+      "plural": ["equivalents"]
+    }
+  },
+  "era": {
+    "n": {
+      "translation": ["时代", "年代", "纪元", "代(地质年代，宙下分代)"],
+      "plural": ["eras"]
+    }
+  },
+  "erect": {
+    "adj": {
+      "translation": ["直立的", "(因性兴奋)勃起的，坚挺的", "垂直的", "竖直的"]
+    },
+    "vt": {
+      "translation": ["竖立", "建造", "建立", "设立", "搭起", "创立"],
+      "singular": ["erects"],
+      "present": ["erecting"],
+      "past": ["erected"]
+    }
+  },
+  "error": {
+    "n": {
+      "translation": ["错误", "差错", "谬误"],
+      "plural": ["errors"]
+    }
+  },
+  "escape": {
+    "v": {
+      "translation": [
+        "逃跑", "(从不愉快或危险处境中)逃脱", "逃避", "逃脱，幸免于难", "摆脱", "(从监禁或管制中)逃走", "逃出",
+        "避免(不愉快或危险的事物)", "漏出", "被忘掉", "（不自觉地）由…发出"
+      ],
+      "singular": ["escapes"],
+      "present": ["escaping"],
+      "past": ["escaped"]
+    },
+    "n": {
+      "translation": ["逃脱", "逃避", "漏出", "逃避现实", "解脱", "Esc键", "消遣", "渗出(量)"],
+      "plural": ["escapes"]
+    }
+  },
+  "especially": {
+    "adv": {
+      "translation": ["特别", "尤其", "非常", "十分", "专门", "格外", "特地", "尤其地"]
+    }
+  },
+  "essay": {
+    "n": {
+      "translation": ["散文", "(作为课程作业，学生写的)文章，短文", "小品文", "尝试", "(用来刊登的)论说文", "企图"],
+      "plural": ["essays"]
+    },
+    "vt": {
+      "translation": ["企图", "试图"],
+      "singular": ["essays"],
+      "present": ["essaying"],
+      "past": ["essayed"]
+    }
+  },
+  "essential": {
+    "adj": {
+      "translation": ["基本的", "本质的", "必不可少的", "根本的", "极其重要的", "完全必要的"]
+    },
+    "n": {
+      "translation": ["要素", "实质", "要点", "必需品", "必不可少的东西"],
+      "plural": ["essentials"]
+    }
+  },
+  "establish": {
+    "vt": {
+      "translation": ["建立(尤指正式关系)", "设立", "确立", "创立", "使立足", "使稳固", "查实", "获得接受"],
+      "singular": ["establishes"],
+      "present": ["establishing"],
+      "past": ["established"]
+    }
+  },
+  "establishment": {
+    "n": {
+      "translation": [
+        "机构", "建立", "企业", "确立", "创立", "旅馆", "(通常反对变革的)当权派，权势集团", "(统称)权威人士", "大型组织"
+      ],
+      "plural": ["establishments"]
+    }
+  },
+  "estimate": {
+    "v": {
+      "translation": ["估计", "估算", "估价"],
+      "singular": ["estimates"],
+      "present": ["estimating"],
+      "past": ["estimated"]
+    },
+    "n": {
+      "translation": ["估价", "(对数量、成本等的)估计", "估计的成本"],
+      "plural": ["estimates"]
+    }
+  },
+  "europe": {
+    "n": {
+      "translation": ["欧洲", "欧盟", "(除英国以外的)全欧洲"]
+    }
+  },
+  "european": {
+    "adj": {
+      "translation": ["欧洲的", "欧盟的", "全欧的"]
+    },
+    "n": {
+      "translation": ["欧洲人", "欧洲人的后裔", "欧盟拥护者", "欧盟支持者", "祖籍欧洲的人"],
+      "plural": ["Europeans"]
+    }
+  },
+  "evaluate": {
+    "vt": {
+      "translation": ["评价", "评估", "估计"],
+      "singular": ["evaluates"],
+      "present": ["evaluating"],
+      "past": ["evaluated"]
+    }
+  },
+  "evaporate": {
+    "v": {
+      "translation": ["蒸发", "(使)挥发", "(逐渐)消失", "衰减"],
+      "singular": ["evaporates"],
+      "present": ["evaporating"],
+      "past": ["evaporated"]
+    }
+  },
+  "eve": {
+    "n": {
+      "translation": ["前夕", "(尤指宗教节假日的)前夜", "黄昏", "傍晚"],
+      "plural": ["eves"]
+    }
+  },
+  "even": {
+    "adv": {
+      "translation": [
+        "(强调出乎意料)甚至", "即使", "还", "连", "(用以加强比较)甚至更", "实际上", "(引出更精确的说法)甚至可以说"
+      ]
+    },
+    "adj": {
+      "translation": [
+        "均匀的", "偶数的", "平的", "均衡的", "平坦的", "平稳的", "平滑的", "相等的", "均等的", "双数的", "镇静的",
+        "匀称的", "(数量、速度等)变化不大的"
+      ]
+    },
+    "v": {
+      "translation": ["（使）平", "（使）相等", "（使）变平"],
+      "singular": ["evens"],
+      "present": ["evening"],
+      "past": ["evened"]
+    },
+    "n": {
+      "translation": ["黄昏"]
+    }
+  },
+  "evening": {
+    "n": {
+      "translation": ["傍晚", "晚上", "晚会，晚间活动", "后期", "衰落期"],
+      "plural": ["evenings"]
+    },
+    "int": {
+      "translation": ["晚上好( = good evening)"]
+    },
+    "adj": {
+      "translation": ["(在)晚上的", "晚上用的"]
+    }
+  },
+  "event": {
+    "n": {
+      "translation": ["事件", "(尤指)重要事情，大事", "(体育运动的)比赛项目", "发生的事情", "公开活动", "社交场合"],
+      "plural": ["events"]
+    }
+  },
+  "eventually": {
+    "adv": {
+      "translation": ["最后", "终于"]
+    }
+  },
+  "ever": {
+    "adv": {
+      "translation": [
+        "曾经", "(进行比较时用以加强语气)以往任何时候", "总是", "始终", "究竟，到底", "不断地",
+        "(用于否定句和疑问句，或与if连用的句子)在任何时候"
+      ]
+    }
+  },
+  "every": {
+    "adj": {
+      "translation": ["每个", "每…一次的，每隔…的", "完全的", "所有能的"]
+    },
+    "pron": {
+      "translation": ["每一个"]
+    }
+  },
+  "everybody": {
+    "pron": {
+      "translation": ["(某个群体中的)每个人", "所有人", "人们"]
+    }
+  },
+  "everyday": {
+    "adj": {
+      "translation": ["日常的", "每天的"]
+    },
+    "adv": {
+      "translation": ["每天，天天"]
+    }
+  },
+  "everyone": {
+    "pron": {
+      "translation": ["每个人", "所有人", "人人", "每人"]
+    }
+  },
+  "everything": {
+    "pron": {
+      "translation": ["每件事", "情况", "所有事物", "最重要的东西"]
+    }
+  },
+  "everywhere": {
+    "adv": {
+      "translation": ["到处", "在所有地方", "彻头彻尾地, 完完全全地"]
+    },
+    "n": {
+      "translation": ["每个地方"]
+    }
+  },
+  "evidence": {
+    "n": {
+      "translation": ["证据", "(法庭上的)证据，证词，人证，物证", "证明", "根据"],
+      "plural": ["evidences"]
+    },
+    "vt": {
+      "translation": ["证明", "表明", "作为…的证据"],
+      "singular": ["evidences"],
+      "present": ["evidencing"],
+      "past": ["evidenced"]
+    }
+  },
+  "evident": {
+    "adj": {
+      "translation": ["明显的", "显然的", "清楚的", "显而易见的"]
+    }
+  },
+  "evil": {
+    "adj": {
+      "translation": ["邪恶的", "不幸的", "恶毒的", "有害的", "讨厌的", "道德败坏的", "脾气坏的"],
+      "comparative": ["eviler"]
+    },
+    "n": {
+      "translation": ["邪恶", "罪恶", "不幸", "祸害", "害处", "坏处"],
+      "plural": ["evils"]
+    }
+  },
+  "evolution": {
+    "n": {
+      "translation": ["演变", "进化", "发展", "渐进"],
+      "plural": ["evolutions"]
+    }
+  },
+  "evolve": {
+    "v": {
+      "translation": ["发展", "进化", "(使)逐渐形成", "逐渐演变"],
+      "singular": ["evolves"],
+      "present": ["evolving"],
+      "past": ["evolved"]
+    }
+  },
+  "exact": {
+    "adj": {
+      "translation": ["准确的", "精确的", "严格的", "精密的", "严谨的", "严密的", "一丝不苟的"],
+      "comparative": ["exacter"],
+      "superlative": ["exactest"]
+    },
+    "vt": {
+      "translation": ["要求", "强迫", "索取", "迫使", "强求"],
+      "singular": ["exacts"],
+      "present": ["exacting"],
+      "past": ["exacted"]
+    }
+  },
+  "exactly": {
+    "adv": {
+      "translation": [
+        "确切地", "准确地", "精确地", "(要求得到更多信息)究竟，到底", "(答语，表示赞同或强调正确)一点不错，正是如此，完全正确"
+      ]
+    }
+  },
+  "exaggerate": {
+    "v": {
+      "translation": ["夸张", "夸大", "言过其实"],
+      "singular": ["exaggerates"],
+      "present": ["exaggerating"],
+      "past": ["exaggerated"]
+    }
+  },
+  "exam": {
+    "n": {
+      "translation": ["(笔头、口头或操作)考试", "(对身体特定部位进行的)检查", "体检"],
+      "plural": ["exams"]
+    }
+  },
+  "examination": {
+    "n": {
+      "translation": ["检查", "审查", "(仔细的)检验", "调查", "考察", "考查"],
+      "plural": ["examinations"]
+    }
+  },
+  "examine": {
+    "vt": {
+      "translation": ["检查", "审查", "(仔细地)检验", "调查", "考察", "考查", "测验(某人)", "（尤指在法庭上）审问，查问"],
+      "singular": ["examines"],
+      "present": ["examining"],
+      "past": ["examined"]
+    }
+  },
+  "example": {
+    "n": {
+      "translation": ["例子", "实例", "范例", "典型", "榜样", "样品", "例证", "样板", "模范", "楷模"],
+      "plural": ["examples"]
+    },
+    "v": {
+      "translation": ["作为…的示范"]
+    }
+  },
+  "exceed": {
+    "vt": {
+      "translation": ["超过(数量)", "超越(法律、命令等)的限制"],
+      "singular": ["exceeds"],
+      "present": ["exceeding"],
+      "past": ["exceeded"]
+    }
+  },
+  "exceedingly": {
+    "adv": {
+      "translation": ["非常", "极其", "特别"]
+    }
+  },
+  "excellent": {
+    "adj": {
+      "translation": ["极好的", "杰出的", "非凡的", "(用以表示愉快或赞同)好极了，妙极了"]
+    }
+  },
+  "except": {
+    "prep": {
+      "translation": ["除了", "(用于所言不包括的人或事物前)除…之外"]
+    },
+    "conj": {
+      "translation": ["除了", "只是"]
+    },
+    "vt": {
+      "translation": ["不包括", "不计", "把…除外"],
+      "singular": ["excepts"],
+      "present": ["excepting"],
+      "past": ["excepted"]
+    }
+  },
+  "exception": {
+    "n": {
+      "translation": ["例外", "规则的例外", "一般情况以外的人(或事物)", "例外的事物"],
+      "plural": ["exceptions"]
+    }
+  },
+  "excess": {
+    "n": {
+      "translation": ["过度", "过量的", "超过", "过分", "免赔额", "超过的量", "自负额", "过多的量", "放肆行为"],
+      "plural": ["excesses"]
+    },
+    "adj": {
+      "translation": ["过度的", "超额的", "额外的", "附加的"]
+    }
+  },
+  "excessive": {
+    "adj": {
+      "translation": ["过度的", "过分的"]
+    }
+  },
+  "exchange": {
+    "n": {
+      "translation": ["交换", "交流", "交流，互访", "交易所", "兑换", "汇兑", "对话", "互换", "交谈", "争论", "掉换"],
+      "plural": ["exchanges"]
+    },
+    "vt": {
+      "translation": ["交换(尤指房屋或土地买卖的契约)", "交流", "交易", "兑换", "更换", "掉换"],
+      "singular": ["exchanges"],
+      "present": ["exchanging"],
+      "past": ["exchanged"]
+    }
+  },
+  "excite": {
+    "vt": {
+      "translation": ["使兴奋", "激发", "激发（性欲）", "使激动", "刺激", "引起", "使活动", "引发", "使紧张不安"],
+      "singular": ["excites"],
+      "present": ["exciting"],
+      "past": ["excited"]
+    }
+  },
+  "exciting": {
+    "adj": {
+      "translation": ["令人兴奋的", "令人激动的", "使人兴奋的"]
+    },
+    "v": {
+      "translation": ["使兴奋", "激发", "使激动", "刺激", "引起", "引发", "使紧张不安"]
+    }
+  },
+  "exclaim": {
+    "v": {
+      "translation": ["呼喊", "(由于强烈的情感或痛苦而)惊叫"],
+      "singular": ["exclaims"],
+      "present": ["exclaiming"],
+      "past": ["exclaimed"]
+    }
+  },
+  "exclude": {
+    "vt": {
+      "translation": [
+        "排除(…的可能性)", "不包括", "把…排斥在外", "防止…进入", "不放在考虑之列", "认为…不可能", "阻止…参加"
+      ],
+      "singular": ["excludes"],
+      "present": ["excluding"],
+      "past": ["excluded"]
+    }
+  },
+  "exclusively": {
+    "adv": {
+      "translation": ["唯一地", "排他地", "专有地", "完全地", "独占地"]
+    }
+  },
+  "excursion": {
+    "n": {
+      "translation": ["远足", "(尤指集体)短途旅行", "(短期的)涉足", "涉猎"],
+      "plural": ["excursions"]
+    }
+  },
+  "excuse": {
+    "n": {
+      "translation": ["借口", "(正当的)理由", "辩解", "假条", "蹩脚货", "拙劣样品"],
+      "plural": ["excuses"]
+    },
+    "vt": {
+      "translation": ["原谅", "宽恕", "为…辩解(或找理由)", "(离开前)请求原谅", "请求准予离开", "同意免除", "准许…离开"],
+      "singular": ["excuses"],
+      "present": ["excusing"],
+      "past": ["excused"]
+    }
+  },
+  "execute": {
+    "vt": {
+      "translation": [
+        "执行（法令）", "执行", "实施", "(尤指依法)处决，处死", "实行", "制作，做成（艺术品）", "成功地完成(技巧或动作)"
+      ],
+      "singular": ["executes"],
+      "present": ["executing"],
+      "past": ["executed"]
+    }
+  },
+  "executive": {
+    "n": {
+      "translation": [
+        "(公司或机构的)经理，主管领导，管理人员", "(政府的)行政部门", "总经理", "(统称公司或机构的)行政领导，领导层"
+      ],
+      "plural": ["executives"]
+    },
+    "adj": {
+      "translation": ["行政的", "实施的", "高级的", "经理的", "决策的", "经营管理的", "有执行权的", "供重要人物使用的"]
+    }
+  },
+  "exercise": {
+    "n": {
+      "translation": [
+        "运动", "行使", "锻炼", "练习", "(身体或脑力的)活动", "（士兵的）操练，演习，演练", "习题", "典礼", "训练活动",
+        "(保持健康或培养技能的)一套动作"
+      ],
+      "plural": ["exercises"]
+    },
+    "v": {
+      "translation": ["行使", "锻炼(身体某部位)", "训练", "使用", "运用", "操练", "使焦虑"],
+      "singular": ["exercises"],
+      "present": ["exercising"],
+      "past": ["exercised"]
+    }
+  },
+  "exert": {
+    "vt": {
+      "translation": ["施加", "发挥", "努力", "运用", "行使", "竭力"],
+      "singular": ["exerts"],
+      "present": ["exerting"],
+      "past": ["exerted"]
+    }
+  },
+  "exhaust": {
+    "vt": {
+      "translation": ["耗尽", "使筋疲力尽", "用完", "使疲惫不堪", "花光", "详尽讨论(或研究)"],
+      "singular": ["exhausts"],
+      "present": ["exhausting"],
+      "past": ["exhausted"]
+    },
+    "n": {
+      "translation": ["排气管", "(车辆、发动机或机器排出的)废气"]
+    }
+  },
+  "exhibit": {
+    "v": {
+      "translation": ["展览", "表现，显示，显出(感情、品质或能力)", "展出"],
+      "singular": ["exhibits"],
+      "present": ["exhibiting"],
+      "past": ["exhibited"]
+    },
+    "n": {
+      "translation": ["(一件)展览品，陈列品", "(在法庭上出示的)物证，证据"]
+    }
+  },
+  "exhibition": {
+    "n": {
+      "translation": ["展览", "(技能、感情、行为等的)表现，显示，表演", "展出", "(一批)展览品", "奖学金"],
+      "plural": ["exhibitions"]
+    }
+  },
+  "exist": {
+    "vi": {
+      "translation": ["存在", "(尤指在困境或贫困中)生活，生存", "实际上有"],
+      "singular": ["exists"],
+      "present": ["existing"],
+      "past": ["existed"]
+    }
+  },
+  "existence": {
+    "n": {
+      "translation": ["存在", "(尤指艰难或无聊的)生活，生活方式", "实有"],
+      "plural": ["existences"]
+    }
+  },
+  "exit": {
+    "n": {
+      "translation": [
+        "出口", "退出", "通道", "(尤指演员)退场", "(车辆可以从一道路驶出进入另一道路的)出路", "离去", "太平门"
+      ],
+      "plural": ["exits"]
+    },
+    "v": {
+      "translation": ["退出(计算机程序)", "出去", "(剧本里的指示)退场", "离去"],
+      "singular": ["exits"],
+      "present": ["exiting"],
+      "past": ["exited"]
+    }
+  },
+  "expand": {
+    "v": {
+      "translation": ["扩大", "扩展(业务)", "增加", "增强(尺码、数量或重要性)", "详述", "详细阐明", "细谈"],
+      "singular": ["expands"],
+      "present": ["expanding"],
+      "past": ["expanded"]
+    }
+  },
+  "expansion": {
+    "n": {
+      "translation": ["膨胀", "扩展", "扩张", "扩大"],
+      "plural": ["expansions"]
+    }
+  },
+  "expect": {
+    "v": {
+      "translation": ["预料", "预计", "期待", "要求", "指望", "预期", "等待", "盼望", "猜想"],
+      "singular": ["expects"],
+      "present": ["expecting"],
+      "past": ["expected"]
+    }
+  },
+  "expectation": {
+    "n": {
+      "translation": ["预期", "期望", "希望", "期待", "指望", "预料", "盼望"],
+      "plural": ["expectations"]
+    }
+  },
+  "expense": {
+    "n": {
+      "translation": ["费用", "（由雇主报销的）费用，开支，花销，业务费", "开支", "花费", "开销", "价钱", "花钱的东西"],
+      "plural": ["expenses"]
+    },
+    "vt": {
+      "translation": ["向…收取费用", "把…作为开支勾销"],
+      "singular": ["expenses"],
+      "present": ["expensing"],
+      "past": ["expensed"]
+    }
+  },
+  "expensive": {
+    "adj": {
+      "translation": ["昂贵的", "价格高的", "花钱多的"]
+    }
+  },
+  "experience": {
+    "n": {
+      "translation": ["(由实践得来的)经验", "(一次)经历，体验", "经历", "实践", "传统", "阅历"],
+      "plural": ["experiences"]
+    },
+    "vt": {
+      "translation": ["体验", "经历", "体会", "感受", "遭受", "经受"],
+      "singular": ["experiences"],
+      "present": ["experiencing"],
+      "past": ["experienced"]
+    }
+  },
+  "experiment": {
+    "n": {
+      "translation": ["实验", "试验", "实践", "尝试"],
+      "plural": ["experiments"]
+    },
+    "vi": {
+      "translation": ["尝试", "进行实验", "试用", "做试验"],
+      "singular": ["experiments"],
+      "present": ["experimenting"],
+      "past": ["experimented"]
+    }
+  },
+  "experimental": {
+    "adj": {
+      "translation": ["实验的", "试验性的", "根据经验的"]
+    }
+  },
+  "expert": {
+    "n": {
+      "translation": ["专家", "行家", "能手"],
+      "plural": ["experts"]
+    },
+    "adj": {
+      "translation": ["专家的", "经验(或知识)丰富的", "熟练的", "内行的"]
+    },
+    "vi": {
+      "translation": [
+        "担任专家", "成为高手（或能手）", "由专家审读（书籍等）做专家工作", "以专家身份研究（或检查）", "像专家那样研究（或检查）"
+      ],
+      "singular": ["experts"],
+      "present": ["experting"],
+      "past": ["expertsed", "experted"]
+    }
+  },
+  "explain": {
+    "v": {
+      "translation": ["解释", "说明", "阐明", "说明(…的)原因", "解释(…的)理由"],
+      "singular": ["explains"],
+      "present": ["explaining"],
+      "past": ["explained"]
+    }
+  },
+  "explanation": {
+    "n": {
+      "translation": ["解释", "说明", "阐述", "说明性文字", "解释性说法"],
+      "plural": ["explanations"]
+    }
+  },
+  "explode": {
+    "v": {
+      "translation": [
+        "爆炸", "爆破", "爆裂", "推翻", "突然爆发，迸发(感情)", "突然发生(危险)", "大发(雷霆)", "突增", "突然做起…来",
+        "勃然(大怒)", "突然发出巨响"
+      ],
+      "singular": ["explodes"],
+      "present": ["exploding"],
+      "past": ["exploded"]
+    }
+  },
+  "exploit": {
+    "vt": {
+      "translation": ["开发", "利用(…为自己谋利)", "剥削", "发挥", "运用", "压榨"],
+      "singular": ["exploits"],
+      "present": ["exploiting"],
+      "past": ["exploited"]
+    },
+    "n": {
+      "translation": ["英勇(或激动人心、引人注目)的行为"]
+    }
+  },
+  "explore": {
+    "v": {
+      "translation": ["探讨", "探索", "勘探", "探究", "勘查", "考察", "(用手或身体某部)探察，探查", "调查研究"],
+      "singular": ["explores"],
+      "present": ["exploring"],
+      "past": ["explored"]
+    }
+  },
+  "explosion": {
+    "n": {
+      "translation": ["爆炸", "爆破", "激增", "爆裂(声)", "(感情，尤指愤怒的)突然爆发，迸发", "突增"],
+      "plural": ["explosions"]
+    }
+  },
+  "explosive": {
+    "adj": {
+      "translation": [
+        "爆炸的", "爆发的", "易爆炸的", "可能引起爆炸的", "暴躁的", "易爆发的", "突增的", "可能引起冲动的"
+      ]
+    },
+    "n": {
+      "translation": ["炸药", "爆炸物"],
+      "plural": ["explosives"]
+    }
+  },
+  "export": {
+    "v": {
+      "translation": ["出口", "输出", "传播，输出(思想或活动)", "调出", "移出"],
+      "singular": ["exports"],
+      "present": ["exporting"],
+      "past": ["exported"]
+    },
+    "n": {
+      "translation": ["出口", "输出", "出口产品", "输出品"],
+      "plural": ["exports"]
+    },
+    "adj": {
+      "translation": ["出口的"]
+    }
+  },
+  "expose": {
+    "vt": {
+      "translation": [
+        "暴露", "露出", "使接触", "曝光", "揭露", "使面临，使遭受(危险或不快)", "显露", "揭穿", "当众露阴"
+      ],
+      "singular": ["exposes"],
+      "present": ["exposing"],
+      "past": ["exposed"]
+    },
+    "n": {
+      "translation": ["(尤指对令人震惊或故意保密的事实的)陈述，阐述，揭露"]
+    }
+  },
+  "exposure": {
+    "n": {
+      "translation": [
+        "暴露", "曝光时间", "面临，遭受(危险或不快)", "（照一张照片的）软片，底片，胶片", "揭露",
+        "(在电视、报纸等上的)亮相，被报道", "挨冻"
+      ],
+      "plural": ["exposures"]
+    }
+  },
+  "express": {
+    "vt": {
+      "translation": [
+        "表达(自己的思想感情)", "（用符号等）表示，代表", "表示", "表露", "显而易见", "压榨，挤压出（空气或液体）",
+        "快递邮寄（或发送）", "不言自明"
+      ],
+      "singular": ["expresses"],
+      "present": ["expressing"],
+      "past": ["expressed"]
+    },
+    "adj": {
+      "translation": ["明确的", "快递的", "快速的", "特快的", "提供快递服务的", "用快递寄送的"]
+    },
+    "adv": {
+      "translation": ["使用快速服务"]
+    },
+    "n": {
+      "translation": ["快递服务", "特快列车", "快运服务", "快件服务"],
+      "plural": ["expresses"]
+    }
+  },
+  "expression": {
+    "n": {
+      "translation": ["表达", "表示", "式", "表情", "感情，表情", "表达方式", "词语", "措辞", "表露", "神色"],
+      "plural": ["expressions"]
+    }
+  },
+  "extend": {
+    "v": {
+      "translation": [
+        "延伸", "扩展", "延长", "提供", "扩大", "伸展，舒展，展开（尤指手臂或腿）", "适用于", "使延期", "使伸长", "使达到",
+        "涉及（范围）", "扩大…的范围(或影响)", "使竭尽全力"
+      ],
+      "singular": ["extends"],
+      "present": ["extending"],
+      "past": ["extended"]
+    }
+  },
+  "extension": {
+    "n": {
+      "translation": [
+        "延伸", "延长", "延期", "扩展名", "扩大", "扩建部分", "进修部，进修课", "增加的房间", "增建部分", "电话分机线"
+      ],
+      "plural": ["extensions"]
+    }
+  },
+  "extensive": {
+    "adj": {
+      "translation": ["广泛的", "大量的", "广阔的", "广大的", "广博的"]
+    }
+  },
+  "extent": {
+    "n": {
+      "translation": ["程度", "范围", "大小", "限度", "面积"],
+      "plural": ["extents"]
+    }
+  },
+  "exterior": {
+    "n": {
+      "translation": ["外部", "(尤指建筑物的)外观", "(人的)外表", "外貌"],
+      "plural": ["exteriors"]
+    },
+    "adj": {
+      "translation": ["外部的", "外表的", "外面的"]
+    }
+  },
+  "external": {
+    "adj": {
+      "translation": ["外部的", "在外的", "外界的", "外来的", "外面的", "来自(学校或机构)以外的", "与外国有关的"]
+    },
+    "n": {
+      "translation": ["外部", "外观", "外面", "外部情况"],
+      "plural": ["externals"]
+    }
+  },
+  "extra": {
+    "adj": {
+      "translation": ["额外的", "附加的", "外加的", "分外的"]
+    },
+    "n": {
+      "translation": ["(电影里的)临时演员，群众演员", "额外的事物", "另外收费的事物"],
+      "plural": ["extras"]
+    },
+    "adv": {
+      "translation": ["额外", "特别", "另外", "格外", "外加", "分外"]
+    }
+  },
+  "extraordinary": {
+    "adj": {
+      "translation": ["异乎寻常的，令人惊奇的", "非凡的，卓越的", "特别的，临时的", "特大（或多）的", "特派的，特命的"]
+    },
+    "n": {
+      "translation": ["(公司正常业务活动之外的)特别项目"]
+    }
+  },
+  "extreme": {
+    "n": {
+      "translation": ["极端", "极度", "极限", "完全相反的事物", "极端不同的感情(或境况、行为方式等)"],
+      "plural": ["extremes"]
+    },
+    "adj": {
+      "translation": ["极端的", "极度的", "严重的", "极大的", "偏激的", "过分的", "严厉的", "异乎寻常的", "远离中心的"]
+    }
+  },
+  "extremely": {
+    "adv": {
+      "translation": ["极其", "非常", "极端"]
+    }
+  },
+  "eye": {
+    "n": {
+      "translation": ["眼睛", "视力", "眼光", "有…眼睛的", "眼力", "风眼", "有…只眼的", "芽眼", "针鼻儿", "风纪扣扣眼"],
+      "plural": ["eyes"]
+    },
+    "vt": {
+      "translation": ["注视", "审视", "细看"],
+      "singular": ["eyes"],
+      "present": ["eyeing"]
+    }
+  },
+  "eyesight": {
+    "n": {
+      "translation": ["视力", "目力"]
+    }
+  }
+}

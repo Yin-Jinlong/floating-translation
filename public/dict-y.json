@@ -1,0 +1,171 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "yard": {
+    "n": {
+      "translation": ["院子", "(某种用途的)区域，场地", "帆桁", "码(长度单位，等于3英尺或0.9144米)"],
+      "plural": ["yards"]
+    },
+    "v": {
+      "translation": ["把(家畜)赶进栏里"]
+    }
+  },
+  "yawn": {
+    "vi": {
+      "translation": ["打哈欠", "非常宽", "难以逾越"],
+      "singular": ["yawns"],
+      "present": ["yawning"],
+      "past": ["yawned"]
+    },
+    "n": {
+      "translation": ["哈欠", "乏味的事情", "令人厌烦的观点(等)"],
+      "plural": ["yawns"]
+    }
+  },
+  "year": {
+    "n": {
+      "translation": ["年", "年度", "年级", "一年时间", "日历年", "很久", "年岁", "与某事相关的一年"],
+      "plural": ["years"]
+    }
+  },
+  "yearly": {
+    "adj": {
+      "translation": ["每年的", "年度的", "一年的", "一年一次的"]
+    },
+    "adv": {
+      "translation": ["每年，一年一度", "在那一年间"]
+    },
+    "n": {
+      "translation": ["年鉴", "年利"],
+      "plural": ["yearlies"]
+    }
+  },
+  "yell": {
+    "v": {
+      "translation": ["大喊", "叫喊", "吼叫"],
+      "singular": ["yells"],
+      "present": ["yelling"],
+      "past": ["yelled"]
+    },
+    "n": {
+      "translation": ["大喊", "喊叫", "叫嚷", "(为运动队加油的)呐喊，欢呼"],
+      "plural": ["yells"]
+    }
+  },
+  "yellow": {
+    "adj": {
+      "translation": ["黄的", "黄色的", "黄皮肤的，黄色人种的", "胆怯的"]
+    },
+    "n": {
+      "translation": ["黄", "黄色"],
+      "plural": ["yellows"]
+    },
+    "v": {
+      "translation": ["(使)变黄"],
+      "singular": ["yellows"],
+      "present": ["yellowing"],
+      "past": ["yellowed"]
+    }
+  },
+  "yes": {
+    "n": {
+      "translation": ["是的", "对", "表示同意的答复", "表示同意的人"],
+      "plural": ["yeses"]
+    },
+    "int": {
+      "translation": [
+        "哦，对了", "真的", "好啊", "（强调所说的话）一点不假", "往下说", "表示同意所说的话", "答话时表示正确或真实",
+        "（询问某人所需）", "反驳否定的话"
+      ]
+    },
+    "adv": {
+      "translation": ["(怀疑或促人往下讲)真的吗", "(回答问话、招呼等)是"]
+    }
+  },
+  "yesterday": {
+    "n": {
+      "translation": ["昨天", "近日，日前，不久以前", "往昔", "不久前"],
+      "plural": ["yesterdays"]
+    },
+    "adv": {
+      "translation": ["在昨天", "日前，前不久"]
+    }
+  },
+  "yet": {
+    "conj": {
+      "translation": ["然而", "但是"]
+    },
+    "adv": {
+      "translation": [
+        "还", "现在", "更", "迄今为止，到当时为止", "马上", "早晚，总有一天", "即刻",
+        "用于否定句和疑问句，谈论尚未发生但可能发生的事", "从现在起直至某一时间"
+      ]
+    }
+  },
+  "yield": {
+    "n": {
+      "translation": ["产量", "产出", "利润"],
+      "plural": ["yields"]
+    },
+    "v": {
+      "translation": [
+        "产生(收益、效益等)", "屈服", "提供", "（受压）活动，变形，弯曲，折断", "让步", "放弃", "出产(作物)",
+        "给（大路上的车辆）让路", "缴出"
+      ],
+      "singular": ["yields"],
+      "present": ["yielding"],
+      "past": ["yielded"]
+    }
+  },
+  "you": {
+    "pron": {
+      "translation": [
+        "你", "你，任何人", "您", "你们", "你自己，你们自己", "你这个，你们这些", "与名词及形容词连用，直接称呼某人",
+        "泛指任何人"
+      ]
+    },
+    "n": {
+      "translation": ["<口>你这个人，你这样的人"],
+      "plural": ["yous"]
+    }
+  },
+  "young": {
+    "adj": {
+      "translation": [
+        "年轻的", "年轻人的", "青年的", "幼小的", "相对年轻的", "未成熟的", "适合青年人的", "由年轻人（或儿童）构成的",
+        "岁数不大的"
+      ],
+      "comparative": ["younger"],
+      "superlative": ["youngest"]
+    },
+    "n": {
+      "translation": ["(统称)年轻人，青年人", "幼崽", "幼鸟", "幼兽"],
+      "plural": ["youngs"]
+    }
+  },
+  "your": {
+    "det/pron": {
+      "translation": [
+        "你的", "您的", "你们的", "<口>（表示强调）—个", "（泛指）大家的，人们的，任何人的", "指有名或经常被谈论的人或事物"
+      ]
+    }
+  },
+  "yourself": {
+    "pron": {
+      "translation": ["你自己", "你", "您", "您自己", "你们自己", "强调说话对象做某事"],
+      "plural": ["yourselves"]
+    }
+  },
+  "youth": {
+    "n": {
+      "translation": [
+        "（统称）青年，年轻人", "青年", "青春", "年轻", "青年时期(尤指成年以前)", "小伙子", "朝气", "青年男子"
+      ],
+      "plural": ["youths"]
+    }
+  },
+  "youthful": {
+    "adj": {
+      "translation": ["青年的", "青春的", "年轻人的", "年轻的", "显得年轻的"]
+    }
+  }
+}

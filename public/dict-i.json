@@ -1,0 +1,1467 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "i": {
+    "n": {
+      "translation": ["英文字母中的第九个字母", "虚数的单位"]
+    },
+    "abbr": {
+      "translation": ["电流密度", "焓", "热函", "英寸"]
+    }
+  },
+  "ice": {
+    "n": {
+      "translation": [
+        "冰，冰块，冰层", "溜冰场，冰球场", "（糕饼外面的）糖衣, 糖霜", "〈俚〉冰毒", "冰冻甜食，冰糕", "〈口〉钻石，珠宝",
+        "（态度、气氛等的）冷冰冰，冷淡", "一份冰激凌", "冰状物", "〈美俚〉（尤指给警方的）贿赂",
+        "（为弄到好票）私下塞给剧场工作人员的钱，开后门卖票所得酬金"
+      ],
+      "plural": ["ices"]
+    },
+    "v": {
+      "translation": [
+        "（使）结冰，（使）变成冰，变得冰冷", "（用冰或冰水）使凉，冰镇，使冰冷", "〈美口〉确保（胜利等）", "〈美口〉杀死", "用冰覆盖",
+        "在（糕饼上）加糖霜", "〈美口〉彻底打败", "〈冰〉把（球）射过对方球门线"
+      ],
+      "singular": ["ices"],
+      "present": ["icing"],
+      "past": ["iced"]
+    },
+    "adj": {
+      "translation": ["冰的", "冰上（进行）的", "冰制的", "（用以）放置冰的"]
+    }
+  },
+  "idea": {
+    "n": {
+      "translation": ["想法", "主意", "概念", "意见", "目标", "看法", "构思", "感觉", "信念", "印象"],
+      "plural": ["ideas"]
+    }
+  },
+  "ideal": {
+    "adj": {
+      "translation": ["理想的", "完美的", "想象的", "不切实际的", "最合适的"]
+    },
+    "n": {
+      "translation": ["理想", "完美的人(或事物)", "看似完美的思想(或标准)"],
+      "plural": ["ideals"]
+    }
+  },
+  "identical": {
+    "adj": {
+      "translation": ["完全相同的", "相同的", "同一的", "完全同样的"]
+    }
+  },
+  "identify": {
+    "vt": {
+      "translation": ["识别", "确认", "发现", "鉴定", "显示", "找到", "认出", "说明身份"],
+      "singular": ["identifies"],
+      "present": ["identifying"],
+      "past": ["identified"]
+    }
+  },
+  "idiom": {
+    "n": {
+      "translation": ["习语", "成语", "惯用语", "(写作、音乐、艺术等的)典型风格", "(某时期或某地区的人的)语言和语法"],
+      "plural": ["idioms"]
+    }
+  },
+  "idle": {
+    "adj": {
+      "translation": ["空闲的", "闲置的", "懒惰的", "闲散的", "懈怠的", "没有工作的", "漫无目的的"],
+      "comparative": ["idler"],
+      "superlative": ["idlest"]
+    },
+    "v": {
+      "translation": ["空转", "无所事事", "(尤指暂时地)关闭工厂，使(工人)闲着", "挂空挡", "闲荡", "未熄火", "混时间"],
+      "singular": ["idles"],
+      "present": ["idling"],
+      "past": ["idled"]
+    }
+  },
+  "if": {
+    "conj": {
+      "translation": [
+        "如果", "假若", "倘若", "当", "无论何时", "每次", "与will或would连用，表示客气地请求", "是否", "即使，虽然"
+      ]
+    },
+    "n": {
+      "translation": ["不确定的情况"],
+      "plural": ["ifs"]
+    }
+  },
+  "ignorant": {
+    "adj": {
+      "translation": ["无知的", "愚昧的", "(对某事物)不了解的", "很无礼的", "十分不懂规矩的", "无学识的"]
+    }
+  },
+  "ignore": {
+    "vt": {
+      "translation": ["忽视", "不予理睬", "对…不予理会", "佯装未见"],
+      "singular": ["ignores"],
+      "present": ["ignoring"],
+      "past": ["ignored"]
+    }
+  },
+  "ill": {
+    "adj": {
+      "translation": [
+        "生病的，有病的，不健康的", "不良的", "不良的", "〈美俚〉（因嫌疑而）被捕的，被拘留的", "坏的，邪恶的，有害的", "不舒服",
+        "〈古〉难的", "冷酷无情的，残酷的", "拙劣的", "不吉利的，不祥的", "不恰当的", "不友善的", "令人讨厌的",
+        "不符标准的，不完美的", "不熟练的", "要呕吐的"
+      ],
+      "comparative": ["worse"],
+      "superlative": ["worst"]
+    },
+    "adv": {
+      "translation": [
+        "不足", "恶劣地，坏", "不幸地", "几乎不", "差劲", "不利地", "拙劣地", "不恰当地", "冷酷无情地", "困难地",
+        "讨厌地", "有害地", "不友善地"
+      ]
+    },
+    "n": {
+      "translation": [
+        "病，疾病", "问题，弊端", "伤害", "坏，恶行", "困难", "不幸，厄运", "坏话", "苦恼", "祸害", "不利的意见"
+      ],
+      "plural": ["ills"]
+    }
+  },
+  "illegal": {
+    "adj": {
+      "translation": ["非法的", "违法的", "不合法的"]
+    },
+    "n": {
+      "translation": ["非法移民", "非法劳工"],
+      "plural": ["illegals"]
+    }
+  },
+  "illness": {
+    "n": {
+      "translation": ["疾病", "(身体或精神上的)病", "患病期"],
+      "plural": ["illnesses"]
+    }
+  },
+  "illustrate": {
+    "vt": {
+      "translation": ["说明", "(用示例、图画等)解释", "显示…存在", "加插图于", "表明…真实", "给(书等)做图表"],
+      "singular": ["illustrates"],
+      "present": ["illustrating"],
+      "past": ["illustrated"]
+    }
+  },
+  "illustration": {
+    "n": {
+      "translation": ["插图", "(说明事实的)示例", "图解", "图示", "(书、杂志等中的)图表", "例释"],
+      "plural": ["illustrations"]
+    }
+  },
+  "image": {
+    "n": {
+      "translation": ["(心目中的)形象", "镜像", "印象", "画像", "声誉", "比喻", "雕像", "塑像"],
+      "plural": ["images"]
+    },
+    "vt": {
+      "translation": ["反映", "象征", "想像", "作…的像"],
+      "singular": ["images"],
+      "present": ["imaging"],
+      "past": ["imaged"]
+    }
+  },
+  "imaginary": {
+    "adj": {
+      "translation": ["想象中的", "虚构的", "幻想的"]
+    }
+  },
+  "imagination": {
+    "n": {
+      "translation": ["想象力", "想象", "创造力", "创作力", "想象的事物", "幻想物"],
+      "plural": ["imaginations"]
+    }
+  },
+  "imagine": {
+    "v": {
+      "translation": ["想象", "设想", "认为", "猜测", "料想", "误以为", "胡乱猜想"],
+      "singular": ["imagines"],
+      "present": ["imagining"],
+      "past": ["imagined"]
+    }
+  },
+  "imitate": {
+    "vt": {
+      "translation": ["模仿(某人的讲话、举止)", "仿效", "作滑稽模仿"],
+      "singular": ["imitates"],
+      "present": ["imitating"],
+      "past": ["imitated"]
+    }
+  },
+  "immediate": {
+    "adj": {
+      "translation": [
+        "立即的", "立刻的", "（关系或级别）最接近的，直系的，直接的", "（作用）直接的", "紧接的", "当前的", "目前的",
+        "附近的", "迫切的", "接近的"
+      ]
+    }
+  },
+  "immediately": {
+    "adv": {
+      "translation": ["立即", "马上", "即刻", "紧接", "附近", "接近", "直接地", "紧接地"]
+    },
+    "conj": {
+      "translation": ["一…就", "即刻"]
+    }
+  },
+  "immense": {
+    "adj": {
+      "translation": ["巨大的", "极大的"]
+    }
+  },
+  "impact": {
+    "n": {
+      "translation": ["影响", "撞击", "冲击力", "冲撞", "强大作用"],
+      "plural": ["impacts"]
+    },
+    "v": {
+      "translation": ["冲击", "撞击", "(对某事物)有影响"],
+      "singular": ["impacts"],
+      "present": ["impacting"],
+      "past": ["impacted"]
+    }
+  },
+  "impatient": {
+    "adj": {
+      "translation": ["不耐烦的", "没有耐心的", "急于", "(对不愉快的事)不能容忍，不愿接受", "热切期待"]
+    }
+  },
+  "implication": {
+    "n": {
+      "translation": ["可能的影响(或作用、结果)", "含意", "(被)牵连，牵涉", "暗指"],
+      "plural": ["implications"]
+    }
+  },
+  "imply": {
+    "v": {
+      "translation": ["意味着", "暗示", "表明", "说明", "暗指", "使有必要", "必然包含", "含有…的意思"],
+      "singular": ["implies"],
+      "present": ["implying"],
+      "past": ["implied"]
+    }
+  },
+  "import": {
+    "n": {
+      "translation": ["进口", "(产品、劳务的)进口，输入，引进", "重要性", "意思", "输入的产品(或劳务)"],
+      "plural": ["imports"]
+    },
+    "vt": {
+      "translation": ["进口", "导入", "输入", "引进", "移入"],
+      "singular": ["imports"],
+      "present": ["importing"],
+      "past": ["imported"]
+    }
+  },
+  "importance": {
+    "n": {
+      "translation": ["重要性", "重要", "重大"],
+      "plural": ["importances"]
+    }
+  },
+  "important": {
+    "adj": {
+      "translation": ["重要的", "权威的", "影响很大的", "有重大影响的", "有巨大价值的"]
+    }
+  },
+  "impose": {
+    "v": {
+      "translation": [
+        "把…强加于", "使接受，使意识到", "推行，采用(规章制度)", "迫使", "强制实行", "勉强（某人做某事）", "使(别人)接受自己的意见"
+      ],
+      "singular": ["imposes"],
+      "present": ["imposing"],
+      "past": ["imposed"]
+    }
+  },
+  "impossible": {
+    "adj": {
+      "translation": ["不可能的", "(似乎)不可能的事", "不可能存在(或做到)的", "很难对付的", "难处理的"]
+    },
+    "n": {
+      "translation": ["不可能", "不可能的事"],
+      "plural": ["impossibles"]
+    }
+  },
+  "impress": {
+    "v": {
+      "translation": [
+        "给…留下深刻印象", "使钦佩", "使铭记", "使意识到(重要性或严重性等)", "使敬仰", "给…留下深刻的好印象"
+      ],
+      "singular": ["impresses"],
+      "present": ["impressing"],
+      "past": ["impressed"]
+    },
+    "n": {
+      "translation": ["印象", "印记", "特征", "铭刻"]
+    }
+  },
+  "impression": {
+    "n": {
+      "translation": ["印象", "影响", "效果", "压痕", "（虚假的）外观", "感想", "滑稽模仿", "印象画", "重印本"],
+      "plural": ["impressions"]
+    }
+  },
+  "impressive": {
+    "adj": {
+      "translation": ["给人印象深刻的", "令人赞叹的", "令人敬佩的"]
+    }
+  },
+  "imprison": {
+    "vt": {
+      "translation": ["监禁", "关押"],
+      "singular": ["imprisons"],
+      "present": ["imprisoning"],
+      "past": ["imprisoned"]
+    }
+  },
+  "improve": {
+    "v": {
+      "translation": ["改善", "改进"],
+      "singular": ["improves"],
+      "present": ["improving"],
+      "past": ["improved"]
+    }
+  },
+  "improvement": {
+    "n": {
+      "translation": ["改善", "改进", "改进处", "改善的事物"],
+      "plural": ["improvements"]
+    }
+  },
+  "in": {
+    "prep": {
+      "translation": [
+        "（表示地点、场所、部位等）在……里面， 在……之内", "在……上", "（表示时间）在……期间，在……过程中，在（一段时间）之内，过……之久",
+        "（表示领域、范围）在……之内，在……方面，关于", "（表示状态、情况）处于……中", "（表示职业、活动等）从事于",
+        "（表示形式、方式、排列等）以，按照，符合于", "（表示表达方式、手段和原材料等）用", "（表示服饰）穿着，戴着，带着",
+        "（表示数量、程度、比例）以，按", "（表示能力、性格、含量等）在……之中，在……身上", "（表示同一性）即，就是",
+        "（表示方向）向，朝", "（表示动作的方向或结果）入……中，成为", "（表示原因、目的）由于，为了，作为", "（表示动作的对象）于",
+        "在(某范围或空间内的)某一点", "在(某物的形体或范围)中", "进入", "构成……的整体（或部分）",
+        "带着，充满（某种情感或愿望）", "参与，参加（演出、比赛等）", "做……时", "（裂缝或洞）在……表面上",
+        "（表示排列或形状）成一排，呈球形", "以（……颜色）的"
+      ]
+    },
+    "adv": {
+      "translation": [
+        "进，入", "朝里，向（或至）某地，向某一方向", "在里面", "在附近，接近", "在里面", "（加）人，（搀）入",
+        "在屋里，在家，在办公室", "（运气等）在好转", "（潮）在上涨", "在朝，当致，当选", "（火等）燃烧着，（灯）亮着",
+        "〈板〉轮到击球", "〈网〉（球）在界内", "同意", "一致", "相称", "在工作单位", "在车站", "收到"
+      ]
+    },
+    "adj": {
+      "translation": ["流行的，时髦的"]
+    },
+    "n": {
+      "translation": ["在朝派，执政者", "门路", "（与重要人物的）交情", "影响", "知情者", "（网球等运动中的）界内球"],
+      "plural": ["ins"]
+    }
+  },
+  "inch": {
+    "n": {
+      "translation": ["英寸(长度单位，等于2.54厘米，1英尺等于12英寸)", "短距离", "少量"],
+      "plural": ["inches"]
+    },
+    "v": {
+      "translation": ["(使朝某方向)谨慎移动"],
+      "singular": ["inches"],
+      "present": ["inching"],
+      "past": ["inched"]
+    }
+  },
+  "incident": {
+    "n": {
+      "translation": [
+        "发生的事情(尤指不寻常的或讨厌的)", "(两国间的)摩擦，冲突", "严重事件，暴力事件(如犯罪、事故、袭击等)", "(常指)军事冲突"
+      ],
+      "plural": ["incidents"]
+    },
+    "adj": {
+      "translation": ["附带的", "入射的", "易起的", "附随的"]
+    }
+  },
+  "incline": {
+    "v": {
+      "translation": ["(使)倾向于，有…的趋势", "(使)倾斜", "点头(尤指以示同意、欢迎等)"],
+      "singular": ["inclines"],
+      "present": ["inclining"],
+      "past": ["inclined"]
+    },
+    "n": {
+      "translation": ["斜坡", "倾斜", "斜度"],
+      "plural": ["inclines"]
+    }
+  },
+  "include": {
+    "vt": {
+      "translation": ["包括", "包含", "使成为…的一部分"],
+      "singular": ["includes"],
+      "present": ["including"],
+      "past": ["included"]
+    }
+  },
+  "income": {
+    "n": {
+      "translation": ["收入", "收益", "所得"],
+      "plural": ["incomes"]
+    }
+  },
+  "incorrect": {
+    "adj": {
+      "translation": ["不正确的", "(说话或举止)不合规矩的，不当的，不端的", "不准确的", "不真实的"]
+    }
+  },
+  "increase": {
+    "v": {
+      "translation": ["增加", "(使)增长，增多"],
+      "singular": ["increases"],
+      "present": ["increasing"],
+      "past": ["increased"]
+    },
+    "n": {
+      "translation": ["增加", "增长", "增多"],
+      "plural": ["increases"]
+    }
+  },
+  "increasingly": {
+    "adv": {
+      "translation": ["越来越多地", "不断增加地"]
+    }
+  },
+  "indeed": {
+    "adv": {
+      "translation": ["的确", "其实", "强调肯定的陈述或答复", "(用于very和形容词或副词之后，强调叙述、描写等)真正地"]
+    }
+  },
+  "indefinite": {
+    "adj": {
+      "translation": ["无限期的", "不明确的", "模糊不清的", "期限不定的"]
+    }
+  },
+  "independence": {
+    "n": {
+      "translation": ["独立(之日)", "自主", "自立"]
+    }
+  },
+  "independent": {
+    "adj": {
+      "translation": [
+        "独立的", "自主的", "公正的", "自治的", "自立的", "私营的", "不相关的", "无党派的", "不受影响的", "无关联的",
+        "无偏见的", "不相干的人所做的(或提供的)"
+      ]
+    },
+    "n": {
+      "translation": ["无党派议员(或候选人等)"],
+      "plural": ["independents"]
+    }
+  },
+  "index": {
+    "n": {
+      "translation": ["(物价和工资等的)指数", "索引", "指标", "标志", "表征", "量度"],
+      "plural": ["indices"]
+    },
+    "vt": {
+      "translation": ["使指数化", "将…编入索引", "为…编索引", "将(工资等)与(物价水平等)挂钩"],
+      "singular": ["indexes"]
+    }
+  },
+  "india": {
+    "n": {
+      "translation": ["印度"]
+    }
+  },
+  "indian": {
+    "adj": {
+      "translation": ["印度的", "印第安人的"]
+    },
+    "n": {
+      "translation": ["印度人", "加拿大印第安人", "(非因纽特人或米提人的)加拿大土著"],
+      "plural": ["Indians"]
+    }
+  },
+  "indicate": {
+    "v": {
+      "translation": [
+        "表明", "指示", "显示", "暗示", "示意", "有必要", "写明", "象征", "间接提及", "（用灯光或手臂）打行车转向信号"
+      ],
+      "singular": ["indicates"],
+      "present": ["indicating"],
+      "past": ["indicated"]
+    }
+  },
+  "indication": {
+    "n": {
+      "translation": ["指示", "表明", "显示", "标示", "象征"],
+      "plural": ["indications"]
+    }
+  },
+  "indifferent": {
+    "adj": {
+      "translation": ["漠不关心的", "漠不关心", "一般的", "不感兴趣", "不很好的"]
+    },
+    "n": {
+      "translation": ["(对政治,宗教等)冷淡的人"]
+    }
+  },
+  "indignant": {
+    "adj": {
+      "translation": ["愤慨的", "愤怒的", "义愤的"]
+    }
+  },
+  "indirect": {
+    "adj": {
+      "translation": ["间接的", "附带的", "迂回的", "拐弯抹角的", "弯曲的", "闪烁其词的"]
+    }
+  },
+  "indispensable": {
+    "adj": {
+      "translation": ["不可或缺的", "必不可少的"]
+    },
+    "n": {
+      "translation": ["不可缺少的人或物"],
+      "plural": ["indispensables"]
+    }
+  },
+  "individual": {
+    "n": {
+      "translation": ["个人", "有个性的人", "与众不同的人", "(尤指)古怪的人", "某种类型的人"],
+      "plural": ["individuals"]
+    },
+    "adj": {
+      "translation": ["单独的", "个别的", "独特的", "一个人的", "与众不同的", "供一人用的"]
+    }
+  },
+  "indoors": {
+    "adv": {
+      "translation": ["在室内，在屋里", "往室内，进入户内"]
+    },
+    "n": {
+      "translation": ["室内空间（或场所）"]
+    }
+  },
+  "industrial": {
+    "adj": {
+      "translation": ["工业的", "产业的", "用于工业的", "工业发达的", "有很多产业的"]
+    },
+    "n": {
+      "translation": ["产业工人", "工业公司", "工业股票"]
+    }
+  },
+  "industrialize": {
+    "v": {
+      "translation": ["(使国家或地区)工业化"],
+      "singular": ["industrializes"],
+      "present": ["industrializing"],
+      "past": ["industrialized"]
+    }
+  },
+  "industry": {
+    "n": {
+      "translation": ["工业", "行业", "勤奋", "勤劳", "生产制造"],
+      "plural": ["industries"]
+    }
+  },
+  "inefficient": {
+    "adj": {
+      "translation": ["效率低的", "浪费的", "能力差的"]
+    }
+  },
+  "inevitable": {
+    "adj": {
+      "translation": ["不可避免的", "不可避免的事", "惯常的", "必然发生的事", "不能防止的", "总会发生的", "照例必有的"]
+    },
+    "n": {
+      "translation": ["必然发生的事", "不可避免的事"]
+    }
+  },
+  "inexpensive": {
+    "adj": {
+      "translation": ["廉价的", "不昂贵的"]
+    }
+  },
+  "infant": {
+    "n": {
+      "translation": ["婴儿", "幼儿", "0-1岁的幼儿"],
+      "plural": ["infants"]
+    },
+    "adj": {
+      "translation": ["供婴幼儿用的", "初期的", "初创期的"]
+    }
+  },
+  "infect": {
+    "vt": {
+      "translation": ["传染", "使感染（某种感情）", "使感染(计算机病毒)", "使携带病菌"],
+      "singular": ["infects"],
+      "present": ["infecting"],
+      "past": ["infected"]
+    }
+  },
+  "infer": {
+    "v": {
+      "translation": ["推断", "推理", "推论", "暗示", "意指", "间接地提出"],
+      "singular": ["infers"],
+      "present": ["inferring"],
+      "past": ["inferred"]
+    }
+  },
+  "inferior": {
+    "adj": {
+      "translation": ["较差的", "次的", "较低的", "比不上…的", "级别低的"]
+    },
+    "n": {
+      "translation": ["不如别人的人", "级别(或地位)低的人"],
+      "plural": ["inferiors"]
+    }
+  },
+  "infinite": {
+    "adj": {
+      "translation": ["无限的", "极大的", "无穷尽的", "无法衡量的"]
+    },
+    "n": {
+      "translation": ["上帝", "无限的事物", "无穷尽的事物"]
+    }
+  },
+  "influence": {
+    "n": {
+      "translation": ["影响", "作用", "影响力", "控制力", "有影响的人(或事物)", "支配力"],
+      "plural": ["influences"]
+    },
+    "vt": {
+      "translation": ["影响", "左右", "支配", "对…起作用"],
+      "singular": ["influences"],
+      "present": ["influencing"],
+      "past": ["influenced"]
+    }
+  },
+  "influential": {
+    "adj": {
+      "translation": ["有很大影响（力）的", "有权势的", "有支配力的"]
+    },
+    "n": {
+      "translation": ["有影响的人", "有权势的人"]
+    }
+  },
+  "information": {
+    "n": {
+      "translation": ["信息", "资料", "消息", "资讯", "情报"]
+    }
+  },
+  "inhabit": {
+    "vt": {
+      "translation": ["居住在", "栖居于"],
+      "singular": ["inhabits"],
+      "present": ["inhabiting"],
+      "past": ["inhabited"]
+    }
+  },
+  "inhabitant": {
+    "n": {
+      "translation": ["居民", "(某地的)栖息动物"],
+      "plural": ["inhabitants"]
+    }
+  },
+  "inherit": {
+    "v": {
+      "translation": ["继承(金钱、财产等)", "继任", "接替(责任等)", "经遗传获得(品质、身体特征等)"],
+      "singular": ["inherits"],
+      "present": ["inheriting"],
+      "past": ["inherited"]
+    }
+  },
+  "initial": {
+    "adj": {
+      "translation": ["开始的", "最初的", "第一的"]
+    },
+    "n": {
+      "translation": ["(名字的)首字母"],
+      "plural": ["initials"]
+    },
+    "vt": {
+      "translation": ["用姓名的首字母作标记(或签名)于"],
+      "singular": ["initials"],
+      "present": ["initialling"],
+      "past": ["initialled"]
+    }
+  },
+  "injection": {
+    "n": {
+      "translation": ["注射", "(液体)注入，喷入", "大量资金的投入"],
+      "plural": ["injections"]
+    }
+  },
+  "injure": {
+    "vt": {
+      "translation": ["(尤指在事故中)伤害，使受伤", "损害，伤害(名誉、自尊等)"],
+      "singular": ["injures"],
+      "present": ["injuring"],
+      "past": ["injured"]
+    }
+  },
+  "injury": {
+    "n": {
+      "translation": ["损伤", "(对躯体的)伤害"],
+      "plural": ["injuries"]
+    }
+  },
+  "ink": {
+    "n": {
+      "translation": ["墨水", "油墨", "墨汁"]
+    },
+    "vt": {
+      "translation": ["给…上油墨(以供印刷)", "签署，签订(合同等)"],
+      "singular": ["inks"],
+      "present": ["inking"],
+      "past": ["inked"]
+    }
+  },
+  "inn": {
+    "n": {
+      "translation": [
+        "(通常指乡村的)小旅馆，客栈", "小酒馆", "(通常指乡村的，常可夜宿的)小酒店", "用于客栈、旅馆和饭店的名称中"
+      ],
+      "plural": ["inns"]
+    }
+  },
+  "inner": {
+    "adj": {
+      "translation": ["内部的", "内心的", "向内的", "里面的", "隐藏的", "接近中心的", "未表达出来的"]
+    },
+    "n": {
+      "translation": ["内部", "里面", "射中接近靶心部分的一发"],
+      "plural": ["inners"]
+    }
+  },
+  "innocent": {
+    "adj": {
+      "translation": [
+        "无辜的", "无罪的", "清白的", "天真无邪的", "无恶意的", "无辜受害的", "成为牺牲品的", "无冒犯之意的"
+      ]
+    },
+    "n": {
+      "translation": ["无辜者，单纯的人(尤指天真无邪的孩子)"],
+      "plural": ["innocents"]
+    }
+  },
+  "input": {
+    "n": {
+      "translation": ["输入", "(电、数据等的)输入端", "投入", "输入的信息", "投入资源(指时间、知识、思想等)"],
+      "plural": ["inputs"]
+    },
+    "vt": {
+      "translation": ["输入(信息)"],
+      "singular": ["inputs"],
+      "present": ["inputting"],
+      "past": ["input"]
+    }
+  },
+  "inquire": {
+    "v": {
+      "translation": ["询问", "调查", "查究", "审查", "查问"],
+      "singular": ["inquires"],
+      "present": ["inquiring"],
+      "past": ["inquired"]
+    }
+  },
+  "inquiry": {
+    "n": {
+      "translation": ["调查", "查询", "询问", "打听", "(官方的)查问", "询问过程"],
+      "plural": ["inquiries"]
+    }
+  },
+  "insect": {
+    "n": {
+      "translation": ["昆虫，虫", "可鄙的人", "渺小的人"],
+      "plural": ["insects"]
+    },
+    "adj": {
+      "translation": ["虫的", "虫子一样的", "对付虫子的"]
+    }
+  },
+  "insert": {
+    "vt": {
+      "translation": ["插入", "嵌入", "(在文章中)添加，加插"],
+      "singular": ["inserts"],
+      "present": ["inserting"],
+      "past": ["inserted"]
+    },
+    "n": {
+      "translation": ["(书报的)插页，广告附加页", "插入物", "添加物"]
+    }
+  },
+  "inside": {
+    "prep": {
+      "translation": ["在(或向)…内", "在(或向)…里", "少于(某时间)"]
+    },
+    "adv": {
+      "translation": ["在(或向)里面", "在监狱里", "被监禁"]
+    },
+    "n": {
+      "translation": [
+        "内部", "内侧", "(道路或跑道拐弯处的)内侧，里道，内圈", "里面", "（人的）肠胃，内脏", "(靠近路边的)慢车道"
+      ],
+      "plural": ["insides"]
+    },
+    "adj": {
+      "translation": ["内部的", "里面的", "从内部了解到的", "内线干的"]
+    }
+  },
+  "insist": {
+    "v": {
+      "translation": ["坚持", "坚持说", "坚决要求", "固执己见"],
+      "singular": ["insists"],
+      "present": ["insisting"],
+      "past": ["insisted"]
+    }
+  },
+  "inspect": {
+    "vt": {
+      "translation": ["检查", "视察", "查看", "审视"],
+      "singular": ["inspects"],
+      "present": ["inspecting"],
+      "past": ["inspected"]
+    }
+  },
+  "inspection": {
+    "n": {
+      "translation": ["检查", "视察", "查看", "审视"],
+      "plural": ["inspections"]
+    }
+  },
+  "inspire": {
+    "vt": {
+      "translation": ["激励", "鼓舞", "使产生(感觉或情感)", "赋予灵感", "启发思考", "引起联想"],
+      "singular": ["inspires"],
+      "present": ["inspiring"],
+      "past": ["inspired"]
+    }
+  },
+  "install": {
+    "vt": {
+      "translation": ["安装", "设置", "建立(程序)", "(常以正式仪式)使就职，任命", "安顿"],
+      "singular": ["installs"],
+      "present": ["installing"],
+      "past": ["installed"]
+    }
+  },
+  "installation": {
+    "n": {
+      "translation": ["安装", "设置", "设施", "安装的设备(或机器)", "就职", "现代雕塑装置"],
+      "plural": ["installations"]
+    }
+  },
+  "instance": {
+    "n": {
+      "translation": ["例子", "实例", "事例"],
+      "plural": ["instances"]
+    },
+    "vt": {
+      "translation": ["举…为例"],
+      "singular": ["instances"],
+      "present": ["instancing"],
+      "past": ["instanced"]
+    }
+  },
+  "instant": {
+    "n": {
+      "translation": ["瞬息，顷刻，刹那", "（某一）时刻", "当时", "〈口〉速溶饮料（尤指速溶咖啡）"],
+      "plural": ["instants"]
+    },
+    "adj": {
+      "translation": [
+        "立即的，即刻的", "速溶的", "速食的，（食品）已配制好的，调制快速而方便的", "紧急的，急迫的，迫在眉睫的", "短暂的",
+        "现时的，目下的，此刻的", "坚持的，不屈不挠的", "瞬间产生（或发生）的", "事先未准备（或考虑）的，即兴的，当场完成任务的",
+        "节奏太快的，瞬息万变的", "本月的（商业及正式函件用语）", "（东西）使用方便的", "效果快速的", "顷刻间可以得到的",
+        "纠缠不休的"
+      ]
+    },
+    "adv": {
+      "translation": ["〈诗〉立即，立刻"]
+    }
+  },
+  "instantly": {
+    "adv": {
+      "translation": ["立即", "立刻", "马上"]
+    },
+    "conj": {
+      "translation": ["一…就"]
+    }
+  },
+  "instead": {
+    "adv": {
+      "translation": ["代替", "相反", "反而", "顶替", "却"]
+    }
+  },
+  "instinct": {
+    "n": {
+      "translation": ["本能", "直觉", "天性"],
+      "plural": ["instincts"]
+    },
+    "adj": {
+      "translation": ["充满的"]
+    }
+  },
+  "institute": {
+    "n": {
+      "translation": ["(教育、专业等)机构，机构建筑", "研究所"],
+      "plural": ["institutes"]
+    },
+    "vt": {
+      "translation": ["建立，制定(体系、政策等)", "开始", "实行"],
+      "singular": ["institutes"],
+      "present": ["instituting"],
+      "past": ["instituted"]
+    }
+  },
+  "institution": {
+    "n": {
+      "translation": [
+        "(大学、银行等规模大的)机构", "制度", "建立", "慈善机构", "社会福利机构", "(由来已久的)风俗习惯", "出名的人"
+      ],
+      "plural": ["institutions"]
+    }
+  },
+  "instruct": {
+    "v": {
+      "translation": ["指导", "指示", "命令", "通知", "告知", "委托（律师）", "教授，传授(技能等)", "吩咐"],
+      "singular": ["instructs"],
+      "present": ["instructing"],
+      "past": ["instructed"]
+    }
+  },
+  "instruction": {
+    "n": {
+      "translation": ["用法说明", "指示", "命令", "教授", "操作指南", "吩咐", "(计算机的)指令"],
+      "plural": ["instructions"]
+    },
+    "adj": {
+      "translation": ["说明用法的", "操作指南的"]
+    }
+  },
+  "instrument": {
+    "n": {
+      "translation": [
+        "器械", "(车辆、机器的)仪器，仪表", "仪器", "手段", "器具", "文据", "促成某事的人(或事物)", "受利用（或控制）的人"
+      ],
+      "plural": ["instruments"]
+    },
+    "v": {
+      "translation": ["用仪器装备", "为管弦乐队编(曲)", "向…提交法律文件"]
+    }
+  },
+  "insufficient": {
+    "adj": {
+      "translation": ["不足的", "不充分的", "不够重要的"]
+    }
+  },
+  "insult": {
+    "vt": {
+      "translation": ["侮辱", "辱骂", "冒犯"],
+      "singular": ["insults"],
+      "present": ["insulting"],
+      "past": ["insulted"]
+    },
+    "n": {
+      "translation": ["辱骂", "侮辱", "冒犯"],
+      "plural": ["insults"]
+    }
+  },
+  "insurance": {
+    "n": {
+      "translation": ["〈体〉（巩固领先局面）保证最后获胜的"],
+      "plural": ["insurances"]
+    }
+  },
+  "insure": {
+    "v": {
+      "translation": ["投保", "给…保险", "承保", "接受投保"],
+      "singular": ["insures"],
+      "present": ["insuring"],
+      "past": ["insured"]
+    }
+  },
+  "intellectual": {
+    "adj": {
+      "translation": ["智力的", "理智的", "脑力的", "有才智的", "智力发达的"]
+    },
+    "n": {
+      "translation": ["知识分子", "脑力劳动者"],
+      "plural": ["intellectuals"]
+    }
+  },
+  "intelligence": {
+    "n": {
+      "translation": ["智力", "(尤指关于敌对国家的)情报", "智慧", "情报人员", "才智"]
+    }
+  },
+  "intelligent": {
+    "adj": {
+      "translation": ["聪明的", "智能的", "有才智的", "有智力的", "有理解和学习能力的", "悟性强的"]
+    }
+  },
+  "intend": {
+    "v": {
+      "translation": ["打算", "计划", "想要", "意指"],
+      "singular": ["intends"],
+      "present": ["intending"],
+      "past": ["intended"]
+    }
+  },
+  "intense": {
+    "adj": {
+      "translation": ["强烈的", "激烈的", "很大的", "尖锐的", "热切的", "严肃紧张的", "有强烈感情(或意见、想法)的"],
+      "comparative": ["intenser"],
+      "superlative": ["intensest"]
+    }
+  },
+  "intensity": {
+    "n": {
+      "translation": ["强度", "强烈", "紧张", "烈度", "剧烈"],
+      "plural": ["intensities"]
+    }
+  },
+  "intensive": {
+    "adj": {
+      "translation": ["密集的", "集约的", "彻底的", "十分细致的", "短时间内集中紧张进行的"]
+    },
+    "n": {
+      "translation": ["加强器", "[语]强义词", "强调成份"],
+      "plural": ["intensives"]
+    }
+  },
+  "intention": {
+    "n": {
+      "translation": ["打算", "意图", "目的", "计划"],
+      "plural": ["intentions"]
+    }
+  },
+  "intentional": {
+    "adj": {
+      "translation": ["故意的", "有意的", "存心的"]
+    }
+  },
+  "interaction": {
+    "n": {
+      "translation": ["相互作用", "相互影响（作用，制约，配合）", "交互作用（影响）", "交相感应", "干扰（涉）"],
+      "plural": ["interactions"]
+    }
+  },
+  "interest": {
+    "n": {
+      "translation": [
+        "兴趣", "利益", "利息", "关注", "（企业或公司的）股份", "利害关系", "趣味", "好处", "吸引力", "同行", "业余爱好",
+        "引人关注的性质"
+      ],
+      "plural": ["interests"]
+    },
+    "vt": {
+      "translation": ["使感兴趣", "使关注"],
+      "singular": ["interests"],
+      "present": ["interesting"],
+      "past": ["interested"]
+    }
+  },
+  "interesting": {
+    "adj": {
+      "translation": ["有趣的", "有吸引力的"]
+    },
+    "v": {
+      "translation": ["使感兴趣", "使关注"]
+    }
+  },
+  "interfere": {
+    "vi": {
+      "translation": ["干涉", "干预", "介入"],
+      "singular": ["interferes"],
+      "present": ["interfering"],
+      "past": ["interfered"]
+    }
+  },
+  "interference": {
+    "n": {
+      "translation": ["(无线电信号的)干扰", "干涉", "干预", "介入"],
+      "plural": ["interferences"]
+    }
+  },
+  "interior": {
+    "n": {
+      "translation": ["内部", "内陆", "内地", "(国家的)内政，内务", "里面", "腹地"],
+      "plural": ["interiors"]
+    },
+    "adj": {
+      "translation": ["内部的", "里面的"]
+    }
+  },
+  "intermediate": {
+    "adj": {
+      "translation": ["中间的", "(两地、两物、两种状态等)之间的", "中级的", "中等的", "适合中等程度者的"]
+    },
+    "n": {
+      "translation": ["中级学生"],
+      "plural": ["intermediates"]
+    },
+    "v": {
+      "translation": ["起调解作用", "起媒介作用"]
+    }
+  },
+  "internal": {
+    "adj": {
+      "translation": ["里面的", "本身的", "内政的", "体内的", "内心的", "(机构)内部的"]
+    },
+    "n": {
+      "translation": ["内脏", "本质"]
+    }
+  },
+  "international": {
+    "adj": {
+      "translation": ["国际的"]
+    },
+    "n": {
+      "translation": ["外国人", "国际体育比赛", "国际体育比赛选手"],
+      "plural": ["internationals"]
+    }
+  },
+  "interpret": {
+    "v": {
+      "translation": ["解释", "口译", "诠释", "说明", "把…理解为", "演绎", "领会"],
+      "singular": ["interprets"],
+      "present": ["interpreting"],
+      "past": ["interpreted"]
+    }
+  },
+  "interpretation": {
+    "n": {
+      "translation": ["解释", "口译", "理解", "说明", "演绎", "演奏方式", "表演方式"],
+      "plural": ["interpretations"]
+    }
+  },
+  "interpreter": {
+    "n": {
+      "translation": ["口译译员", "解释程序", "口译工作者", "演绎(音乐、戏剧中人物等)的人"],
+      "plural": ["interpreters"]
+    }
+  },
+  "interrupt": {
+    "v": {
+      "translation": ["打断", "使中断", "打扰", "阻断，遮挡(连续线条、平面、景色等)", "使暂停", "插嘴", "打岔"],
+      "singular": ["interrupts"],
+      "present": ["interrupting"],
+      "past": ["interrupted"]
+    }
+  },
+  "interruption": {
+    "n": {
+      "translation": ["中断", "打扰", "中断时间", "插嘴", "打岔", "阻断物"],
+      "plural": ["interruptions"]
+    }
+  },
+  "interval": {
+    "n": {
+      "translation": [
+        "间隔", "(时间上的)间隙", "间歇", "音程", "休息时间", "(戏剧、电影或音乐会的)幕间休息", "(其他事情)穿插出现的间隙"
+      ],
+      "plural": ["intervals"]
+    }
+  },
+  "interview": {
+    "n": {
+      "translation": ["采访", "面试", "面谈", "(常指公开的)记者采访", "(私下的)会谈"],
+      "plural": ["interviews"]
+    },
+    "v": {
+      "translation": ["(媒体)采访", "（私下）提问，面谈", "对(某人)进行面试(或面谈)", "接受面试"],
+      "singular": ["interviews"],
+      "present": ["interviewing"],
+      "past": ["interviewed"]
+    }
+  },
+  "intimate": {
+    "adj": {
+      "translation": [
+        "亲密的", "密切的", "温馨的", "详尽的", "个人隐私的(常指性方面的)", "有性关系的", "便于有性关系的", "宜于密切关系的"
+      ]
+    },
+    "v": {
+      "translation": ["暗示", "(间接)表示", "透露"],
+      "singular": ["intimates"],
+      "present": ["intimating"],
+      "past": ["intimated"]
+    },
+    "n": {
+      "translation": ["密友", "至交", "知己"],
+      "plural": ["intimates"]
+    }
+  },
+  "into": {
+    "prep": {
+      "translation": [
+        "到…里面，进入", "朝，向，对着", "触及，靠在", "持续到，直到", "深入到，伸展到", "成为，转为", "从事", "承担",
+        "融入，渗入", "充满", "〈数〉除，乘", "（穿）上，（换）上", "（说服某人）去做……", "（分）成，（撕）成", "（撞）上，（碰）上", "到达",
+        "进入，转向（某一职业、行业）", "对……很感兴趣，极喜欢", "（道路、入口等）通向，导向", "关于，涉及", "（译）为，（译）成",
+        "陷入（糟糕境地）", "查明，查找", "划分为", "输入", "进入……状态", "欠……债"
+      ]
+    },
+    "adj": {
+      "translation": ["〈数〉（函数或映象）从一集到另一集的"]
+    }
+  },
+  "introduce": {
+    "vt": {
+      "translation": [
+        "介绍(讲演者或演员)", "把…介绍(给)", "引进（动物或植物）", "推行", "使尝试", "引见", "主持(节目)", "将…放进",
+        "使初次了解", "作为（新事物）的开头", "将（法案）提交讨论"
+      ],
+      "singular": ["introduces"],
+      "present": ["introducing"],
+      "past": ["introduced"]
+    }
+  },
+  "introduction": {
+    "n": {
+      "translation": [
+        "介绍", "引进", "推行", "序言", "(正式的)引见", "前奏", "初级读物", "初次投入使用", "初次经历", "新采用(或新引进)的事物"
+      ],
+      "plural": ["introductions"]
+    }
+  },
+  "invade": {
+    "v": {
+      "translation": ["入侵", "侵略", "侵犯", "侵袭", "侵扰", "干扰", "(尤指造成损害或混乱地)涌入", "武装入侵"],
+      "singular": ["invades"],
+      "present": ["invading"],
+      "past": ["invaded"]
+    }
+  },
+  "invasion": {
+    "n": {
+      "translation": ["侵略", "侵犯", "干预", "(尤指烦扰的)涌入", "武装入侵"],
+      "plural": ["invasions"]
+    }
+  },
+  "invent": {
+    "vt": {
+      "translation": ["发明", "创造", "编造", "虚构", "捏造"],
+      "singular": ["invents"],
+      "present": ["inventing"],
+      "past": ["invented"]
+    }
+  },
+  "invention": {
+    "n": {
+      "translation": ["发明", "创造", "创意", "创造力", "编造", "虚构", "虚构的故事"],
+      "plural": ["inventions"]
+    }
+  },
+  "inventor": {
+    "n": {
+      "translation": ["发明者", "发明家", "创造者"],
+      "plural": ["inventors"]
+    }
+  },
+  "invest": {
+    "v": {
+      "translation": ["投资", "投入(时间、精力等)", "授予，给予（权力等）"],
+      "singular": ["invests"],
+      "present": ["investing"],
+      "past": ["invested"]
+    }
+  },
+  "investigate": {
+    "v": {
+      "translation": ["调查(某人)", "研究", "侦查(某事)"],
+      "singular": ["investigates"],
+      "present": ["investigating"],
+      "past": ["investigated"]
+    }
+  },
+  "investigation": {
+    "n": {
+      "translation": ["调查", "(正式的)侦查", "科学研究", "学术研究"],
+      "plural": ["investigations"]
+    }
+  },
+  "investment": {
+    "n": {
+      "translation": ["投资", "（时间、精力的）投入", "投资额", "投资物", "有用的投资物", "值得买的东西"],
+      "plural": ["investments"]
+    }
+  },
+  "invisible": {
+    "adj": {
+      "translation": ["看不见的", "无形的(与服务而非商品有关)", "隐形的"]
+    },
+    "n": {
+      "translation": ["看不见的人"],
+      "plural": ["invisibles"]
+    }
+  },
+  "invitation": {
+    "n": {
+      "translation": ["(口头或书面的)邀请", "鼓励", "请柬", "请帖", "获得邀请"],
+      "plural": ["invitations"]
+    }
+  },
+  "invite": {
+    "vt": {
+      "translation": ["邀请", "(正式)邀请，请求，要求", "招致(尤指坏事)"],
+      "singular": ["invites"],
+      "present": ["inviting"],
+      "past": ["invited"]
+    },
+    "n": {
+      "translation": ["邀请", "请柬"]
+    }
+  },
+  "involve": {
+    "vt": {
+      "translation": [
+        "涉及", "需要", "影响", "(使)参加，加入", "包含", "牵涉", "表明", "牵连", "使成为必然部分(或结果)"
+      ],
+      "singular": ["involves"],
+      "present": ["involving"],
+      "past": ["involved"]
+    }
+  },
+  "inward": {
+    "adj": {
+      "translation": ["向内的", "内心的", "精神的", "向中心的"]
+    },
+    "adv": {
+      "translation": ["向内", "向中心", "向自己", "向内心"]
+    },
+    "n": {
+      "translation": ["(物体的)内部", "内心", "内脏", "进口货"]
+    }
+  },
+  "iron": {
+    "n": {
+      "translation": ["铁", "熨斗", "铁器", "（尤指旧时的）镣铐", "铁头球棒", "金属工具"],
+      "plural": ["irons"]
+    },
+    "v": {
+      "translation": ["(用熨斗)熨，烫平"],
+      "singular": ["irons"],
+      "present": ["ironing"],
+      "past": ["ironed"]
+    },
+    "adj": {
+      "translation": ["坚强的", "强硬坚定的"]
+    }
+  },
+  "irregular": {
+    "adj": {
+      "translation": [
+        "不规则的", "（形式）不规则的", "不正常的", "不平整的", "无规律的", "紊乱的", "不整齐的", "非正规军的",
+        "参差不齐的", "不合乎常规的"
+      ]
+    },
+    "n": {
+      "translation": ["非正规军军人"],
+      "plural": ["irregulars"]
+    }
+  },
+  "island": {
+    "n": {
+      "translation": ["岛"],
+      "plural": ["islands"]
+    },
+    "vt": {
+      "translation": ["使孤立"],
+      "singular": ["islands"],
+      "present": ["islanding"],
+      "past": ["islanded"]
+    },
+    "adj": {
+      "translation": ["岛国的"]
+    }
+  },
+  "isolate": {
+    "v": {
+      "translation": [
+        "（使）隔离", "使(某物质、细胞等)分离", "〈微〉使（细菌）分离", "（使）孤立", "〈电〉使绝缘", "使与世隔绝", "（使）脱离",
+        "〈化〉（使）离析", "单独考虑，区别对待", "（使）与种群隔离", "将……剔出（以便看清和单独处理）"
+      ],
+      "singular": ["isolates"],
+      "present": ["isolating"],
+      "past": ["isolated"]
+    },
+    "n": {
+      "translation": [
+        "分离物", "分离菌", "隔离种群", "单离香料", "孤僻性", "孤僻者", "从句性词（或短语）", "〈语〉抽样成分"
+      ]
+    },
+    "adj": {
+      "translation": ["隔离的，分离的", "孤立的", "单独的"]
+    }
+  },
+  "issue": {
+    "n": {
+      "translation": ["问题", "发行", "一期", "子女", "(有关某事的)担忧", "重要议题", "期号", "一次发行额（或一套）"],
+      "plural": ["issues"]
+    },
+    "vt": {
+      "translation": [
+        "发出", "发行（新的一批）", "(正式)发给", "公布", "宣布", "出版", "供给", "(尤指通过正式文件)将…诉诸法律"
+      ],
+      "singular": ["issues"],
+      "present": ["issuing"],
+      "past": ["issued"]
+    }
+  },
+  "it": {
+    "pron": {
+      "translation": [
+        "（指无生命物、动物、植物，在性别不计或不详时也指人或婴孩）它，这，那", "（指事物、群体、抽象观念、经验、活动等）它，这，那",
+        "（作无人称动词的主语，指天气、时间、距离或虚指情况等）", "（作先行代词，引导作为逻辑主语或宾语的从句或短语等）",
+        "（作先行代词，用以构成强调句型）", "（作某些动词或前置词的宾语，本身词义含糊，用以构成习语）",
+        "（加在主语名词之后,起重复作用，常见于诗歌或非标准语言）", "（常作表语，指重要或绝妙的人或物，或指达极限者）",
+        "（对小儿用语）你", "（笼统指代刚描述过的情景）", "（用于某些名词、形容词、动词前说明对某情况的感受、观点）",
+        "（用于被动句中引出一个情况或事件）", "（用作 be动词的主语，指钟点、星期、日期）", "（尤用于刚接通电话时询问、告知身份）",
+        "（用于指称希望他人做的事情）", "指已知或正在发生的事实或情况", "正好是所需的"
+      ]
+    },
+    "n": {
+      "translation": [
+        "〈口〉性交", "〈口〉性感", "（捉迷藏等游戏的）捉人者，找人者，猜的人", "〈美俚〉傻瓜，笨蛋", "〈英口〉意大利苦艾酒"
+      ]
+    },
+    "adj": {
+      "translation": ["〈方〉它的"]
+    }
+  },
+  "italian": {
+    "n": {
+      "translation": ["意大利人", "意大利语"],
+      "plural": ["Italians"]
+    },
+    "adj": {
+      "translation": ["意大利的", "意大利语的", "意大利人的", "意大利文化的"]
+    }
+  },
+  "item": {
+    "n": {
+      "translation": ["项目", "一则，一条(新闻)", "一件商品(或物品)"],
+      "plural": ["items"]
+    },
+    "adv": {
+      "translation": ["同上"]
+    }
+  },
+  "its": {
+    "det": {
+      "translation": [
+        "（属于上文提到或交际双方互明的物品、思想、地方或动物等所有）它的", "（属于上文提到或交际双方互明的婴儿或幼童所有）他的，她的"
+      ]
+    },
+    "pron": {
+      "translation": ["它的（it的所有格）"]
+    }
+  },
+  "itself": {
+    "pron": {
+      "translation": ["它本身"]
+    }
+  }
+}

@@ -1,0 +1,1580 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "habit": {
+    "n": {
+      "translation": ["习惯", "习性", "(吸毒、喝酒、抽烟的)瘾", "长袍", "惯常行为"],
+      "plural": ["habits"]
+    },
+    "vt": {
+      "translation": ["给…穿衣服", "打扮"],
+      "singular": ["habits"],
+      "present": ["habiting"],
+      "past": ["habited"]
+    }
+  },
+  "habitual": {
+    "adj": {
+      "translation": ["习惯性的", "惯常的", "典型的", "上瘾的", "讨厌的", "积习很深的"]
+    }
+  },
+  "hair": {
+    "n": {
+      "translation": [
+        "汗毛，毛发，（尤指）头发", "（动物的）毛，茸毛", "<废>性质，特性", "（植物叶茎上的）茸毛", "毛状物，发毛织物",
+        "些微，一点儿", "<俚>（计）复杂性"
+      ],
+      "plural": ["hairs"]
+    },
+    "adj": {
+      "translation": ["毛发的，用毛发制的，保护毛发的"]
+    },
+    "v": {
+      "translation": ["去除…的毛发", "产生（或生长）毛发", "形成毛状纤维"]
+    }
+  },
+  "haircut": {
+    "n": {
+      "translation": ["理发", "发型", "发式"],
+      "plural": ["haircuts"]
+    }
+  },
+  "half": {
+    "n": {
+      "translation": ["一半", "半", "(比赛、音乐会等的)半场，半局", "(啤酒等饮料的)半品脱"],
+      "plural": ["halves"]
+    },
+    "det/pron": {
+      "translation": ["半数", "绝大部分(时间、乐趣、麻烦等)"]
+    },
+    "adv": {
+      "translation": ["半", "部分地", "到一半程度"]
+    },
+    "adj": {
+      "translation": ["一半的", "一部分的", "不完全的"]
+    }
+  },
+  "hall": {
+    "n": {
+      "translation": ["大厅", "门厅", "(大楼内的)走廊", "礼堂", "大庄园府邸", "正门过道"],
+      "plural": ["halls"]
+    }
+  },
+  "halt": {
+    "n": {
+      "translation": ["暂停，停止，终止，阻止", "暂停前进，停住", "<古>跛，瘸", "小火车站（只有站台）", "（口令）站住！立定！"]
+    },
+    "v": {
+      "translation": [
+        "使停止前进，使停止，使终止", "停止行进，停止，终止", "踌躇，犹豫", "蹒跚", "（诗的格律等）有缺陷", " <古>跛行",
+        "（论点等）不合逻辑"
+      ],
+      "singular": ["halts"],
+      "present": ["halting"],
+      "past": ["halted"]
+    },
+    "adj": {
+      "translation": ["<古>跛的，瘸的"]
+    }
+  },
+  "hamburger": {
+    "n": {
+      "translation": ["汉堡包", "汉堡牛肉饼"],
+      "plural": ["hamburgers"]
+    }
+  },
+  "hammer": {
+    "n": {
+      "translation": ["锤子", "榔头", "链球", "链球（运动）", "音槌", "(拍卖用的)木槌", "击铁"],
+      "plural": ["hammers"]
+    },
+    "v": {
+      "translation": ["(用锤子)敲，锤打", "猛击", "反复敲打，连续击打(尤指发出大声)", "猛踢", "轻易打败（对方）"],
+      "singular": ["hammers"],
+      "present": ["hammering"],
+      "past": ["hammered"]
+    }
+  },
+  "hand": {
+    "n": {
+      "translation": [
+        "手", "方面，面", "手工", "作用，影响", "帮助，帮忙，协助", "（猿猴的）脚，（甲壳动物的）螯", "（钟表的）指针",
+        "（农场或工厂的）体力劳动者，工人", "角色", "手艺，技能", "签字", "照顾，支配，掌管", "（通常指演出前后的）鼓掌，掌声",
+        "（谈判等中的）实力", "船员", "专业人员，行家", "（纸牌游戏中的）手中的牌，一手牌", "书法", "字迹，手迹", "允婚，答允",
+        "一手之宽"
+      ],
+      "plural": ["hands"]
+    },
+    "vt": {
+      "translation": [
+        "交，给，传，递，提供", "（年长的孩子将不需要的衣服、玩具等）传给，留给（年幼的孩子）", "<废>用手操纵，对付", "搀扶",
+        "<海>收卷（风帆）"
+      ],
+      "singular": ["hands"],
+      "present": ["handing"],
+      "past": ["handed"]
+    },
+    "adj": {
+      "translation": ["用手（表示）的", "手操纵的"]
+    }
+  },
+  "handful": {
+    "n": {
+      "translation": ["少数", "一把(的量)", "少数人(或物)", "难以控制的人(或动物)", "用手抓起的数量"],
+      "plural": ["handfuls"]
+    }
+  },
+  "handkerchief": {
+    "n": {
+      "translation": ["手帕", "纸巾"],
+      "plural": ["handkerchiefs"]
+    }
+  },
+  "handle": {
+    "n": {
+      "translation": [
+        "手柄，柄，柄状物", "（门窗）把手，把，拉手", "（处事等的）途径，方法", "<口>名称，头衔，别号", "<喻>把柄，可乘之机",
+        "（织物等的）手感", "提梁", "<口>（对赛马等所投下的）赌注总额"
+      ],
+      "plural": ["handles"]
+    },
+    "v": {
+      "translation": [
+        "处理，应付（局势、人、工作或感情）", "控制，操纵（车辆、动物、工具等），驾驶", "管理，指挥，训练:",
+        "（受操纵、管理或指挥时以某种方式）活动,行动", "<美>经营，经销", "（用手）触，拿，搬动"
+      ],
+      "singular": ["handles"],
+      "present": ["handling"],
+      "past": ["handled"]
+    }
+  },
+  "handsome": {
+    "adj": {
+      "translation": ["英俊的", "漂亮的", "美观的", "大方的", "健美的", "有魅力的", "悦目的", "数量大的"],
+      "comparative": ["handsomer"],
+      "superlative": ["handsomest"]
+    }
+  },
+  "handwriting": {
+    "n": {
+      "translation": ["手写", "笔迹", "书写", "书法"],
+      "plural": ["handwritings"]
+    }
+  },
+  "handy": {
+    "adj": {
+      "translation": ["方便的", "便利", "便利的", "手巧", "近便", "容易做的", "有手艺", "易使用的"],
+      "comparative": ["handier"],
+      "superlative": ["handiest"]
+    }
+  },
+  "hang": {
+    "v": {
+      "translation": [
+        "悬挂", "吊", "（被）绞死，施以绞刑", "（使）挂在墙上", "(使)低垂，下垂", "垂下", "悬浮（在空中）", "垂落",
+        "挂图画等装饰（某处）", "（在墙上）贴壁纸", "把（门）装在门柱上"
+      ],
+      "singular": ["hangs"],
+      "present": ["hanging"],
+      "past": ["hung"]
+    },
+    "n": {
+      "translation": ["(衣服、织物等的)悬挂方式，下垂"]
+    }
+  },
+  "happen": {
+    "v": {
+      "translation": ["（尤指偶然）发生，出现", "（作为结果）出现，发生", "碰巧，恰好", "<主美>碰巧来（或去），偶然出现"],
+      "singular": ["happens"],
+      "present": ["happening"],
+      "past": ["happened"]
+    }
+  },
+  "happiness": {
+    "n": {
+      "translation": ["幸福", "愉快", "幸运", "(用语等的)适当"]
+    }
+  },
+  "happy": {
+    "adj": {
+      "translation": [
+        "感到（或显得）快乐的，高兴的", "给予（或带来）快乐的，使人高兴的，幸福的", "情愿，乐意（做某事）",
+        "（对某人或事物）满意的，放心的", "幸运的", "合适的，恰当的",
+        "表示祝愿，如Happy Birthday生日快乐、Happy New Year新年好等", "<口>微醉的"
+      ],
+      "comparative": ["happier"],
+      "superlative": ["happiest"]
+    }
+  },
+  "harbour": {
+    "n": {
+      "translation": ["(海)港", "港口", "港湾"],
+      "plural": ["harbours"]
+    },
+    "vt": {
+      "translation": ["窝藏，庇护(罪犯等)", "怀有，心怀(尤指反面感情或想法)", "包含", "藏有"],
+      "singular": ["harbours"],
+      "present": ["harbouring"],
+      "past": ["harboured"]
+    }
+  },
+  "hard": {
+    "adj": {
+      "translation": [
+        "坚固的", "硬的", "坚硬的", "艰难的", "艰苦的", "用力的", "努力的", "确凿的", "结实的", "难懂的", "寒冷的",
+        "难做的", "困苦的", "冷酷无情的", "难以回答的", "硬音的", "耗费体力（或脑力）的", "酒精浓度高的", "准备战斗的"
+      ],
+      "comparative": ["harder"],
+      "superlative": ["hardest"]
+    },
+    "adv": {
+      "translation": ["努力地", "艰难地", "猛烈地", "费力地", "沉重地", "猛力地", "向左 / 右急转弯", "彻底认真地"]
+    },
+    "n": {
+      "translation": ["(囚犯的)强迫苦役", "硬海滩"]
+    }
+  },
+  "harden": {
+    "v": {
+      "translation": ["变硬", "(使)硬化", "更强硬", "(使)更坚定", "更严厉", "使变得无情", "(使声音、面孔等)更严肃"],
+      "singular": ["hardens"],
+      "present": ["hardening"],
+      "past": ["hardened"]
+    },
+    "n": {
+      "translation": ["哈登"]
+    }
+  },
+  "hardly": {
+    "adv": {
+      "translation": ["几乎不", "几乎没有", "才", "刚刚", "尤用于can或could之后，主要动词之前，强调做某事很难"]
+    }
+  },
+  "hardship": {
+    "n": {
+      "translation": ["困难", "艰难", "困苦", "拮据"],
+      "plural": ["hardships"]
+    }
+  },
+  "hardware": {
+    "n": {
+      "translation": ["硬件", "(家庭及园艺用)工具，设备，五金制品", "硬件设备", "机器", "车辆"]
+    }
+  },
+  "hare": {
+    "n": {
+      "translation": ["野兔"],
+      "plural": ["hares"]
+    },
+    "vi": {
+      "translation": ["飞跑", "疾走"],
+      "singular": ["hares"],
+      "present": ["haring"],
+      "past": ["hared"]
+    }
+  },
+  "harm": {
+    "n": {
+      "translation": ["伤害", "损害"],
+      "plural": ["harms"]
+    },
+    "vt": {
+      "translation": ["伤害", "损害"],
+      "singular": ["harms"],
+      "present": ["harming"],
+      "past": ["harmed"]
+    }
+  },
+  "harmful": {
+    "adj": {
+      "translation": ["有害的", "(尤指对健康或环境)导致损害的"]
+    }
+  },
+  "harmony": {
+    "n": {
+      "translation": ["和谐", "协调", "和睦", "和声", "融洽"],
+      "plural": ["harmonies"]
+    }
+  },
+  "harness": {
+    "n": {
+      "translation": ["马具", "挽具", "(用于人，起固定或保护作用的)背带，保护带"],
+      "plural": ["harnesses"]
+    },
+    "vt": {
+      "translation": ["控制，利用(以产生能量等)", "给(马等)上挽具", "用挽具把…套到…上"],
+      "singular": ["harnesses"],
+      "present": ["harnessing"],
+      "past": ["harnessed"]
+    }
+  },
+  "harsh": {
+    "adj": {
+      "translation": ["严厉的", "恶劣的", "严酷的", "残酷的", "刺耳的", "艰苦的", "粗糙的", "丑陋的", "强烈刺眼的"],
+      "comparative": ["harsher"],
+      "superlative": ["harshest"]
+    }
+  },
+  "harvest": {
+    "n": {
+      "translation": ["收获", "收割", "收成", "收获季节", "收获量"],
+      "plural": ["harvests"]
+    },
+    "v": {
+      "translation": ["收割(庄稼)", "捕猎(动物、鱼)", "采集(人体的细胞或组织，以供医学实验等)"],
+      "singular": ["harvests"],
+      "present": ["harvesting"],
+      "past": ["harvested"]
+    }
+  },
+  "haste": {
+    "n": {
+      "translation": ["匆忙", "仓促", "急速"]
+    },
+    "v": {
+      "translation": ["匆忙", "<古>使快", "赶紧", "催促"],
+      "singular": ["hastes"],
+      "present": ["hasting"],
+      "past": ["hasted"]
+    }
+  },
+  "hasten": {
+    "v": {
+      "translation": ["加速", "使加快", "促进", "赶往(某地)", "急忙进行", "赶紧说(或做)"],
+      "singular": ["hastens"],
+      "present": ["hastening"],
+      "past": ["hastened"]
+    }
+  },
+  "hasty": {
+    "adj": {
+      "translation": ["匆忙的", "草率的", "仓促而就的", "草率作出决定", "仓促行事", "考虑不周密"],
+      "comparative": ["hastier"],
+      "superlative": ["hastiest"]
+    }
+  },
+  "hat": {
+    "n": {
+      "translation": ["(常指带檐的)帽子", "(双重的)职位，角色(尤指官职或职业角色)"],
+      "plural": ["hats"]
+    },
+    "vi": {
+      "translation": ["给…戴上帽子", "制造帽子", "为…提供帽子供应帽子"],
+      "singular": ["hats"],
+      "present": ["hatting"],
+      "past": ["hatted"]
+    }
+  },
+  "hatch": {
+    "v": {
+      "translation": ["孵出", "使(小鸟、小鱼、小虫等)孵出", "孵化", "策划", "破壳", "出壳"],
+      "singular": ["hatches"],
+      "present": ["hatching"],
+      "past": ["hatched"]
+    },
+    "n": {
+      "translation": [
+        "(船甲板或飞机底部装货物的)舱口", "(飞机或宇宙飞船的)舱门", "开口，门，盖子", "(尤指厨房和餐厅之间供传递食物的)两室之间的小窗口"
+      ],
+      "plural": ["hatches"]
+    }
+  },
+  "hate": {
+    "v": {
+      "translation": ["憎恨", "仇恨(某人)", "厌恶(某事物)", "(表示不愿说某事，或客气地请求)不愿"],
+      "singular": ["hates"],
+      "present": ["hating"],
+      "past": ["hated"]
+    },
+    "n": {
+      "translation": ["憎恨", "厌恶", "所憎恶的人(或事物)"]
+    }
+  },
+  "hateful": {
+    "adj": {
+      "translation": ["可恶的", "十分讨厌的"]
+    }
+  },
+  "hatred": {
+    "n": {
+      "translation": ["仇恨", "憎恨", "厌恶"],
+      "plural": ["hatreds"]
+    }
+  },
+  "have": {
+    "vt": {
+      "translation": [
+        "有，带着", "拥有，有，持有，占有", "（表示关系）有", "进行（活动）", "做（动作），进行，从事", "说，坚持说", "包括，包含",
+        "必须, 不得不", "产生（效果）", "组织", "收到，得到", "知道，明白，懂", "接受，蒙受", "让，接受（某人承担任务）", "允许",
+        "想起（某个主意），感到", "吃，喝，吸（烟）", "经受，经历", "使处于（某状态）", "显示出，带有（性质、特征）", "生，生得，生育",
+        "患上，遭受", "使放在", "举办（会议、聚会、音乐会等）", "要（或安排）（某人）做（某事）", "须要，有必要（做某事）",
+        "（通过行动）表现出（品质）", "有责任（或义务）", "抓住", " 抓住，紧握", "<口>哄骗，欺骗，使上当",
+        "<口>取得对…的控制，战胜，胜过", "照料，照看", "患病", "能用", "<俚>贿赂，收买", "心存，怀有", "（在家中）招待，款待",
+        "由…组成", "同（某人）在一起", "让（他人）为你做（某事）", "同（某人）性交", "辩过"
+      ],
+      "singular": ["has"],
+      "present": ["having"],
+      "past": ["had"]
+    },
+    "aux": {
+      "translation": ["（与过去分词连用构成完成时）已经，曾经", "用于虚拟语气"]
+    },
+    "n": {
+      "translation": ["有钱人，富人", "（天然资源多的）富国", "<俚>诈骗，欺骗"]
+    }
+  },
+  "hawk": {
+    "n": {
+      "translation": ["鹰", "隼", "主战分子", "鹰派分子"],
+      "plural": ["hawks"]
+    },
+    "v": {
+      "translation": ["沿街叫卖", "咳痰"],
+      "singular": ["hawks"],
+      "present": ["hawking"],
+      "past": ["hawked"]
+    }
+  },
+  "hay": {
+    "n": {
+      "translation": ["干草", "(用作饲料的)草料", "少量的钱"],
+      "plural": ["hays"]
+    },
+    "vi": {
+      "translation": ["把（草）制成干草", "用干草喂割草晒干"],
+      "singular": ["hays"],
+      "present": ["haying"],
+      "past": ["hayed"]
+    }
+  },
+  "hazard": {
+    "n": {
+      "translation": ["危险", "危害"],
+      "plural": ["hazards"]
+    },
+    "v": {
+      "translation": ["使处于危险", "冒…的风险", "冒险猜测", "冒失地提出"],
+      "singular": ["hazards"],
+      "present": ["hazarding"],
+      "past": ["hazarded"]
+    }
+  },
+  "he": {
+    "pron": {
+      "translation": [
+        "他", "它（指雄性动物）", "指上帝", "人（指性别未说明或不知道的男性或女性，尤指曾提过的人或泛指某群体时）"
+      ]
+    },
+    "n": {
+      "translation": ["男孩，男人", "雄性，雄性动物"]
+    },
+    "adj": {
+      "translation": ["雄的，雄健的"]
+    },
+    "int": {
+      "translation": ["（表示感兴趣或嘲笑）嘻"]
+    }
+  },
+  "head": {
+    "n": {
+      "translation": [
+        "头", "头部", "负责人", "磁头", "头脑", "校长", "顶端", "（持续的）头痛", "（河流）源头",
+        "（茎梗顶端的）叶球，头状花序", "脑筋", "硬币正面（有人头像）", "（短语的）中心成分，中心词，主导词", "脓头", "蒸汽压力",
+        "(人或动物的)一头长，一头高", "上座", "领头位置", "啤酒泡沫", "较宽大的一端"
+      ],
+      "plural": ["heads"]
+    },
+    "v": {
+      "translation": [
+        "主管", "领导", "用头顶（球）", "排在前头", "朝(某方向)行进", "位于排行之首", "在（页或篇章的）顶端加标题"
+      ],
+      "singular": ["heads"],
+      "present": ["heading"],
+      "past": ["headed"]
+    },
+    "adj": {
+      "translation": ["头的", "主要的"]
+    }
+  },
+  "headache": {
+    "n": {
+      "translation": ["头痛", "麻烦", "令人头痛的人(或事物)"],
+      "plural": ["headaches"]
+    }
+  },
+  "heading": {
+    "n": {
+      "translation": ["(页首或章节开头的)标题", "(讲话或作品各章节的)主题"],
+      "plural": ["headings"]
+    },
+    "v": {
+      "translation": ["主管", "领导", "排在前头", "朝(某方向)行进", "位于排行之首"]
+    }
+  },
+  "headline": {
+    "n": {
+      "translation": ["(报纸的)大字标题", "(电视或无线电广播的)新闻摘要"],
+      "plural": ["headlines"]
+    },
+    "v": {
+      "translation": ["给(报道、文章)加标题", "是(音乐会或演出的)主角"],
+      "singular": ["headlines"],
+      "present": ["headlining"],
+      "past": ["headlined"]
+    }
+  },
+  "headmaster": {
+    "n": {
+      "translation": ["(尤指私立学校的)校长"],
+      "plural": ["headmasters"]
+    }
+  },
+  "headquarters": {
+    "n": {
+      "translation": ["总部", "司令部", "总公司", "大本营"]
+    }
+  },
+  "heal": {
+    "v": {
+      "translation": ["治愈(病人)", "(使)康复，复原", "(使)结束，较容易忍受", "使又愉快起来"],
+      "singular": ["heals"],
+      "present": ["healing"],
+      "past": ["healed"]
+    }
+  },
+  "health": {
+    "n": {
+      "translation": ["健康", "卫生", "保健", "医疗", "状况", "人的身体(或精神)状况"]
+    }
+  },
+  "healthy": {
+    "adj": {
+      "translation": ["健康的", "健壮的", "有益于健康的", "兴旺的", "正常合理的", "反映健康的", "大而显得成功的"],
+      "comparative": ["healthier"],
+      "superlative": ["healthiest"]
+    }
+  },
+  "heap": {
+    "n": {
+      "translation": ["堆", "(凌乱的)一堆", "大量", "老爷车", "破旧的汽车"],
+      "plural": ["heaps"]
+    },
+    "vt": {
+      "translation": ["堆积(东西)", "对(某人)大加赞扬(或批评等)", "在…上放很多(东西)"],
+      "singular": ["heaps"],
+      "present": ["heaping"],
+      "past": ["heaped"]
+    }
+  },
+  "hear": {
+    "v": {
+      "translation": ["听见", "听", "听到", "听说", "审理", "倾听", "得知", "注意听"],
+      "singular": ["hears"],
+      "present": ["hearing"],
+      "past": ["heard"]
+    }
+  },
+  "heart": {
+    "n": {
+      "translation": [
+        "心", "心脏", "中心", "内心", "(尤指)爱心", "心肠", "重点", "菜心", "心形物", "（统称）红桃牌，红心牌",
+        "（一张）红桃牌，红心牌", "有…性格（或品格）的", "胸部心脏的部位"
+      ],
+      "plural": ["hearts"]
+    },
+    "vi": {
+      "translation": ["鼓励", "<非正式>喜欢"],
+      "singular": ["hearts"],
+      "present": ["hearting"],
+      "past": ["hearted"]
+    }
+  },
+  "heat": {
+    "n": {
+      "translation": ["热", "温度", "(建筑物、车辆等中的)高温，热的环境", "压力", "炉灶", "预赛", "炎热天气", "强烈感情"],
+      "plural": ["heats"]
+    },
+    "v": {
+      "translation": ["加热", "变热", "(使)变暖"],
+      "singular": ["heats"],
+      "present": ["heating"],
+      "past": ["heated"]
+    }
+  },
+  "heating": {
+    "v": {
+      "translation": ["加热", "变热", "(使)变暖"]
+    },
+    "n": {
+      "translation": ["供暖", "供暖系统", "暖气设备"],
+      "plural": ["heatings"]
+    }
+  },
+  "heaven": {
+    "n": {
+      "translation": ["天堂，天国", "天，天空", "上天，上帝", "极乐（之地），天堂般美好（的世界）", "众天神，上帝及众天使"],
+      "plural": ["heavens"]
+    },
+    "int": {
+      "translation": ["（表示惊奇或气恼）天哪，我的天"]
+    }
+  },
+  "heavily": {
+    "adv": {
+      "translation": [
+        "在很大程度上", "沉重地", "大量地", "以猛力", "身材壮实", "缓慢又高声地", "缓慢而忧郁地", "令人心情沉重",
+        "装满（或装载）重物的"
+      ]
+    }
+  },
+  "heavy": {
+    "adj": {
+      "translation": [
+        "重的", "重型的", "沉重的", "厚的", "危险的", "沉的", "（做某事）过量的，超出一般的，过度的", "充满，满载（某物）",
+        "严肃的", "量大的", "苛刻的", "辛苦的", "闷热的", "工作（或活动）多的", "大而结实的", "使用很多…的",
+        "(在数量、程度等方面)超出一般的，比一般严重的", "不精致的", "响而深沉的", "泥泞难挖（或难挪动）的"
+      ],
+      "comparative": ["heavier"],
+      "superlative": ["heaviest"]
+    },
+    "n": {
+      "translation": ["保镖", "打手", "(尤指)苦啤酒", "烈性啤酒"],
+      "plural": ["heavies"]
+    },
+    "adv": {
+      "translation": ["大量地", "笨重地"]
+    }
+  },
+  "hedge": {
+    "n": {
+      "translation": [
+        "树篱，灌木（或小树）树篱", "围栏，障碍（物），界限，限制", "防止损失（尤指金钱）的手段，（避免或减轻经济损失的）保值措施",
+        "模棱两可的话, 不明确的话", "保护（或防御）手段"
+      ],
+      "plural": ["hedges"]
+    },
+    "v": {
+      "translation": [
+        "包围，限制", "避免正面回答，不直接许诺，拐弯抹角", "用树篱围住", "在（田地等周围）植树篱", "以套期保值避免（或减轻）（机、投资等）的损失"
+      ],
+      "singular": ["hedges"],
+      "present": ["hedging"],
+      "past": ["hedged"]
+    },
+    "adj": {
+      "translation": ["套期保值的，两面下注的", "树篱的，树篱下的，树篱旁的", "低档的，次的，差的", "偷偷摸摸的，名声不好的"]
+    }
+  },
+  "heel": {
+    "n": {
+      "translation": [
+        "脚后跟，足跟", "（鞋、靴子等的）后跟", "（袜子等的）后跟", "（园艺学用语）踵", "底部，根部，后部", "（船的）倾侧，倾侧度",
+        "（近腕部的）手掌根", "<旧><俚>卑鄙的家伙，可恶的人", "女高跟鞋", "<美俚>越狱，潜逃", "<船>龙骨后端，桅脚，桅根",
+        "（会议、演说等的）结束部分，末尾", "（马等的）后肢蹄踵，蹄的后部", "（琴弓的）弓根", "（刀刃等的）近柄部分，刀根",
+        "<高尔夫>球杆弯头", "（硬的）面包头，干酪硬皮"
+      ],
+      "plural": ["heels"]
+    },
+    "v": {
+      "translation": [
+        "倾侧，倾斜", "紧跟，紧追", "（船）倾侧，使（船）倾侧", "用脚后跟触地", " <美口>供钱给，武装，使带枪",
+        "用脚后跟踩（或碰、蹬等）", "给（鞋等）修理后跟", "<高尔夫>用球杆弯头击（球） ", "<橄>用脚跟往回传（球）"
+      ],
+      "singular": ["heels"],
+      "present": ["heeling"],
+      "past": ["heeled"]
+    }
+  },
+  "height": {
+    "n": {
+      "translation": ["高度", "高", "(人或物的)身高", "高地", "更好", "极端", "最佳点"],
+      "plural": ["heights"]
+    }
+  },
+  "heir": {
+    "n": {
+      "translation": ["继承人", "(工作或传统的)继承者，承袭者，传人", "后嗣"],
+      "plural": ["heirs"]
+    }
+  },
+  "helicopter": {
+    "n": {
+      "translation": ["直升机"],
+      "plural": ["helicopters"]
+    },
+    "vi": {
+      "translation": ["用直升飞机载送", "乘直升飞机"],
+      "singular": ["helicopters"],
+      "present": ["helicoptering"],
+      "past": ["helicoptered"]
+    }
+  },
+  "hell": {
+    "n": {
+      "translation": ["地狱", "（有人认为含冒犯意）该死，见鬼", "地狱中的人", "恣意的玩闹", "苦难的经历", "悲惨的境况"],
+      "plural": ["hells"]
+    },
+    "v": {
+      "translation": [
+        "<口>（用于诅咒或表示恼怒、惊讶、厌恶、不耐烦、失望等）见鬼，该死", "（车辆）急驰，飞驰", "过放荡生活，欢闹，花天酒地"
+      ],
+      "singular": ["hells"],
+      "present": ["helling"],
+      "past": ["helled"]
+    }
+  },
+  "hello": {
+    "int/n": {
+      "translation": ["你好", "(用于问候、接电话或引起注意)喂", "(表示惊讶或认为别人说了蠢话或没有注意听)嘿"],
+      "plural": ["hellos"]
+    }
+  },
+  "helmet": {
+    "n": {
+      "translation": ["头盔", "防护帽"],
+      "plural": ["helmets"]
+    }
+  },
+  "help": {
+    "v": {
+      "translation": ["帮助", "协助", "促进", "援助", "促使", "带领", "搀扶", "改善状况", "擅自拿走", "为取用"],
+      "singular": ["helps"],
+      "present": ["helping"],
+      "past": ["helped"]
+    },
+    "n": {
+      "translation": ["帮助", "协助", "援助", "有用", "救助", "仆人", "有帮助的人（或事物）", "有助益的东西(如忠告、钱等)"]
+    }
+  },
+  "helpful": {
+    "adj": {
+      "translation": ["有帮助的", "有用的", "有益的", "愿意帮忙的"]
+    }
+  },
+  "helpless": {
+    "adj": {
+      "translation": ["无助的", "不能自立的", "无自理能力的", "无法抑制的"]
+    }
+  },
+  "hen": {
+    "n": {
+      "translation": ["母鸡", "雌禽"],
+      "plural": ["hens"]
+    }
+  },
+  "hence": {
+    "adv": {
+      "translation": [
+        "因此，所以，由此", "从现在，从此时起", "<罕>从今以后，（用在一段时间后）以后", "<古>从这地方，离此地", "从今世，从此生"
+      ]
+    },
+    "n": {
+      "translation": ["另一世界", "将来"]
+    },
+    "int": {
+      "translation": ["<古>去！滚开！"]
+    }
+  },
+  "her": {
+    "pron": {
+      "translation": [
+        "她（指妇女或女孩）", "（用于指国家、船或车）她", "它（指雌性动物）", "（用作动词或介词的宾语，或作表语）她"
+      ]
+    },
+    "det": {
+      "translation": ["她的", "她的，它的（指已提及的国家、船只、车辆等）", "它的（指雌性动物）"]
+    }
+  },
+  "herd": {
+    "n": {
+      "translation": ["兽群", "牧群", "人群", "芸芸众生"],
+      "plural": ["herds"]
+    },
+    "v": {
+      "translation": ["(使)向…移动", "牧放(牲畜、兽群)"],
+      "singular": ["herds"],
+      "present": ["herding"],
+      "past": ["herded"]
+    }
+  },
+  "here": {
+    "adv": {
+      "translation": ["在这里", "现在", "在这一点上", "(用于动词或介词之后)向这里", "给某人东西或指出某物时说"]
+    },
+    "int": {
+      "translation": ["(用以引起注意)喂", "主动提议时说"]
+    },
+    "n": {
+      "translation": ["这里", "这一点"]
+    }
+  },
+  "hero": {
+    "n": {
+      "translation": ["英雄", "(故事、小说、电影等的)男主人公", "豪杰(尤指男性)", "崇拜的对象(尤指男性)"],
+      "plural": ["heroes"]
+    }
+  },
+  "heroic": {
+    "adj": {
+      "translation": ["(关于)英雄的", "英勇的", "不畏艰难的", "非常大的", "有必胜决心的"]
+    },
+    "n": {
+      "translation": ["史诗", "英勇行为", "英雄诗", "夸张的言行", "文诌诌", "咬文嚼字"],
+      "plural": ["heroics"]
+    }
+  },
+  "heroine": {
+    "n": {
+      "translation": ["女主角", "(故事、小说、电影等中的)女主人公", "女英雄", "女偶像", "女豪杰", "崇拜的女人"],
+      "plural": ["heroines"]
+    }
+  },
+  "hers": {
+    "pron": {
+      "translation": ["她的", "属于她的"]
+    }
+  },
+  "herself": {
+    "pron": {
+      "translation": ["她自己", "(用作女性的反身代词)自己", "强调句中的女性主语或宾语"]
+    }
+  },
+  "hesitate": {
+    "v": {
+      "translation": ["犹豫", "(对某事)迟疑不决", "疑虑", "顾虑"],
+      "singular": ["hesitates"],
+      "present": ["hesitating"],
+      "past": ["hesitated"]
+    }
+  },
+  "hi": {
+    "int": {
+      "translation": ["（用于非正式场合）嗨，你好", "（用于打招呼）喂，嗨"]
+    }
+  },
+  "hide": {
+    "v": {
+      "translation": ["隐藏", "藏", "掩盖，隐瞒（尤指感情）", "躲避", "隐匿", "隐蔽", "遮住", "遮挡"],
+      "singular": ["hides"],
+      "present": ["hiding"],
+      "past": ["hid", "hidden"]
+    },
+    "n": {
+      "translation": ["(尤指买卖或用作皮革的)皮，毛皮", "(困境中的)生命，人身安全", "(观看野生动物的)隐蔽处，藏身处"],
+      "plural": ["hides"]
+    }
+  },
+  "high": {
+    "adj": {
+      "translation": [
+        "高的", "(离地面)很高的", "中间的", "高音的", "高尚的", "上层的", "价值高的", "超乎寻常的", "海拔很高的",
+        "十分赞同的", "开始变质的", "含某物多", "有某高度的", "有醉意"
+      ],
+      "comparative": ["higher"],
+      "superlative": ["highest"]
+    },
+    "n": {
+      "translation": [
+        "最高水平", "（毒品引致的）快感", "(某天、某星期等的)最高气温", "反气旋", "最大数量", "高气压区", "（用于中学校名）",
+        "极大欢乐"
+      ],
+      "plural": ["highs"]
+    },
+    "adv": {
+      "translation": ["在高处", "向高处", "(成本、价值)高", "(数量)大", "音调高"]
+    }
+  },
+  "highly": {
+    "adv": {
+      "translation": ["非常", "赞赏地", "大量地", "高标准地", "高级地", "钦佩地", "很"]
+    }
+  },
+  "highway": {
+    "n": {
+      "translation": ["公路", "(尤指城镇间的)干道", "交通要道", "公用通道"],
+      "plural": ["highways"]
+    }
+  },
+  "hill": {
+    "n": {
+      "translation": ["小山", "山丘", "(道路的)斜坡"],
+      "plural": ["hills"]
+    },
+    "v": {
+      "translation": ["培土于…周围"]
+    }
+  },
+  "hillside": {
+    "n": {
+      "translation": ["山坡"],
+      "plural": ["hillsides"]
+    }
+  },
+  "him": {
+    "pron": {
+      "translation": [
+        "他", "（书面英语中泛指人）他，她（有些人不喜欢这种用法，更倾向于使用 him or her 或 them）", "它（指雄性动物）",
+        " （一些宗教中指）上帝"
+      ]
+    },
+    "n": {
+      "translation": ["男子，男孩"]
+    }
+  },
+  "himself": {
+    "pron": {
+      "translation": ["他自己", "(用作男性的反身代词)自己", "强调句中的男性主语或宾语"]
+    }
+  },
+  "hint": {
+    "n": {
+      "translation": ["提示", "暗示", "迹象", "示意", "少许", "少量", "征兆", "秘诀"],
+      "plural": ["hints"]
+    },
+    "v": {
+      "translation": ["暗示", "透露", "示意"],
+      "singular": ["hints"],
+      "present": ["hinting"],
+      "past": ["hinted"]
+    }
+  },
+  "hire": {
+    "v": {
+      "translation": ["雇用", "聘用", "租用", "录用", "租借", "临时雇用"],
+      "singular": ["hires"],
+      "present": ["hiring"],
+      "past": ["hired"]
+    },
+    "n": {
+      "translation": ["租用", "租赁", "新员工", "租借", "新雇员"],
+      "plural": ["hires"]
+    }
+  },
+  "his": {
+    "det": {
+      "translation": [
+        "（指已提及的男性）他的，属于他的，与他有关的", "（指雄性动物）它的", "上帝的",
+        "（泛指任何人，尤用于everyone, someone，anyone 等主语之后）他的", "属于上帝的"
+      ]
+    },
+    "pron": {
+      "translation": ["他的，属于他的", "<古>它的"]
+    }
+  },
+  "historical": {
+    "adj": {
+      "translation": ["(有关)历史的", "历史学的", "历史题材的", "有关历史研究的"]
+    }
+  },
+  "history": {
+    "n": {
+      "translation": [
+        "历史(指过去发生的所有事情)", "（某人的）履历，经历", "(有关某个地方、主题等的)发展史", "历史学", "历史课"
+      ],
+      "plural": ["histories"]
+    }
+  },
+  "hit": {
+    "v": {
+      "translation": [
+        "打", "击中", "达到（某水平）", "撞击(造成损伤)", "攻击", "击（球）", "(用手或器具)击", "按，压（按钮等）", "碰撞",
+        "到达（某地）", "使(身体部位)碰上(某物)", "遇到困难", "使突然想起", "产生不良影响", "击球得分"
+      ],
+      "singular": ["hits"],
+      "present": ["hitting"],
+      "past": ["hit"]
+    },
+    "n": {
+      "translation": [
+        "打", "击中", "命中", "查询结果", "暴力犯罪", "风行一时的流行歌曲（或唱片）", "很受欢迎的人(或事物)", "毒品的一剂"
+      ],
+      "plural": ["hits"]
+    }
+  },
+  "hobby": {
+    "n": {
+      "translation": ["(业余)爱好"],
+      "plural": ["hobbies"]
+    }
+  },
+  "hold": {
+    "v": {
+      "translation": [
+        "持有", "使保持(在某位置)", "怀有，持有（信念、意见）", "认为", "拥有", "捂住，按住(受伤的身体部位等)", "召开",
+        "保存", "获得", "容纳", "担任", "抓住", "拿着", "（打电话时）等待，不挂断", "延长，继续唱（某音符）", "抱住", "托住",
+        "顶住", "保持不变", "监禁", "停下", "守卫", "支撑…的重量", "（船或飞机）保持航线", "平稳行驶", "使保持同样程度",
+        "使（注意力或兴趣）持续不减"
+      ],
+      "singular": ["holds"],
+      "present": ["holding"],
+      "past": ["held"]
+    },
+    "n": {
+      "translation": [
+        "控制", "持", "影响", "支撑", "拿", "抓", "抱", "握", "货舱", "支撑点", "(尤指摔跤、拳击中的)擒拿法", "左右力"
+      ]
+    }
+  },
+  "hole": {
+    "n": {
+      "translation": [
+        "洞", "孔", "开口", "错误，缺陷，漏洞", "坑", "孔眼", "洞穴", "球洞", "裂口", "巢穴", "空缺的地方（或位置）",
+        "糟糕的住所（或处所）"
+      ],
+      "plural": ["holes"]
+    },
+    "v": {
+      "translation": ["(尤指在船上)打洞，造成破洞", "击球入洞"],
+      "singular": ["holes"],
+      "present": ["holing"],
+      "past": ["holed"]
+    }
+  },
+  "holiday": {
+    "n": {
+      "translation": [
+        "〈主英〉假期", "假日，休息天", "公众假日，节日", "（一年中带薪的）休假，年假", "（涂料施工中偶然发生的）漏涂，空斑",
+        "宗教节日，圣日，宗教祭日", "外出度假时期", "〈美军俚〉（一件）忘了做的工作"
+      ],
+      "plural": ["holidays"]
+    },
+    "adj": {
+      "translation": ["（适合）节日的", "欢乐的"]
+    },
+    "vi": {
+      "translation": ["（外出）度假"],
+      "singular": ["holidays"],
+      "present": ["holidaying"],
+      "past": ["holidayed"]
+    }
+  },
+  "hollow": {
+    "adj": {
+      "translation": ["空洞的", "空心的", "中空的", "凹陷的", "空响的", "沉闷回荡的", "无诚意的", "无真正价值的"],
+      "comparative": ["hollower"],
+      "superlative": ["hollowest"]
+    },
+    "n": {
+      "translation": ["孔", "洞", "凹陷处", "坑洼处", "围起来的空间"],
+      "plural": ["hollows"]
+    },
+    "vt": {
+      "translation": ["挖"],
+      "singular": ["hollows"],
+      "present": ["hollowing"],
+      "past": ["hollowed"]
+    },
+    "adv": {
+      "translation": ["彻底"]
+    }
+  },
+  "holy": {
+    "adj": {
+      "translation": ["神圣的", "圣洁的", "与神(或宗教)有关的", "强调惊讶、害怕等"],
+      "comparative": ["holier"],
+      "superlative": ["holiest"]
+    },
+    "n": {
+      "translation": ["神圣的东西"]
+    }
+  },
+  "home": {
+    "n": {
+      "translation": [
+        "家", "家庭", "(可买卖的)房子，住宅，寓所", "家乡", "住所", "故乡", "养老院", "发源地", "收养所", "生息地", "定居地"
+      ],
+      "plural": ["homes"]
+    },
+    "adj": {
+      "translation": ["家庭的", "家的", "国内的", "家用的", "主场的", "本国的", "在家里做的"]
+    },
+    "adv": {
+      "translation": ["在家", "到家", "向家", "到正确的位置"]
+    },
+    "v": {
+      "translation": ["归巢，回家"],
+      "singular": ["homes"],
+      "present": ["homing"],
+      "past": ["homed"]
+    }
+  },
+  "honest": {
+    "adj": {
+      "translation": [
+        "诚实的，老实的", "真诚的，耿直的，坦率的，不隐瞒真相的", "正直的，公正的", "〈主英〉好的，无过错的", "真正的",
+        "简单的，普通的", "用正当手段获得（或挣得）的，正当的", "辛勤挣得的，勤劳的", "（工作）认认真真的，实实在在的",
+        "（妇女）贞洁的", "纯正的，不掺杂的", "可敬的，有声誉的", "可信任的", "显示内心诚意的，表示态度诚恳的"
+      ]
+    },
+    "adv": {
+      "translation": ["的确，确实，真的，实在"]
+    }
+  },
+  "honesty": {
+    "n": {
+      "translation": ["诚实", "正直", "老实"]
+    }
+  },
+  "honey": {
+    "n": {
+      "translation": ["蜂蜜", "(爱称)亲爱的，宝贝", "可爱的人"],
+      "plural": ["honeys"]
+    },
+    "vt": {
+      "translation": ["给…加蜜", "对…甜言蜜语"],
+      "singular": ["honeys"],
+      "present": ["honeying"],
+      "past": ["honeyed"]
+    },
+    "adj": {
+      "translation": ["蜂蜜似的", "〈古〉心爱的"]
+    }
+  },
+  "honeymoon": {
+    "n": {
+      "translation": ["蜜月", "(新活动之初的)和谐时期"]
+    },
+    "vi": {
+      "translation": ["(去某处)度蜜月"],
+      "singular": ["honeymoons"],
+      "present": ["honeymooning"],
+      "past": ["honeymooned"]
+    }
+  },
+  "honour": {
+    "n": {
+      "translation": [
+        "荣誉", "荣幸", "尊敬", "尊重", "光荣", "（为表扬某人的）奖励，荣誉称号，头衔", "道义", "法官大人", "崇敬",
+        "优异成绩", "正义感", "节操", "大学荣誉学位课程", "引起尊敬（或尊重、崇敬）的人（或事物）", "最大点数的牌"
+      ],
+      "plural": ["honours"]
+    },
+    "vt": {
+      "translation": ["信守，执行(承诺)", "尊敬，尊重(某人)", "给予表扬(或奖励、头衔、称号)"],
+      "singular": ["honours"],
+      "present": ["honouring"],
+      "past": ["honoured"]
+    }
+  },
+  "honourable": {
+    "adj": {
+      "translation": [
+        "尊敬的", "体面的", "可敬的", "品格高尚的", "值得钦佩的", "保护声誉的", "（英国某些贵族子女的头衔）",
+        "（英国议会议员辩论时相互间的尊称）", "（高级官员的尊称）"
+      ]
+    }
+  },
+  "hook": {
+    "n": {
+      "translation": ["钩", "挂钩", "鱼钩", "钓钩", "钩拳", "曲线球", "吸引人的东西"],
+      "plural": ["hooks"]
+    },
+    "v": {
+      "translation": ["(尤指用腿、胳膊、手指等)钩住，箍住", "(使)钩住，挂住", "钓(鱼)", "打曲线球"],
+      "singular": ["hooks"],
+      "present": ["hooking"],
+      "past": ["hooked"]
+    }
+  },
+  "hope": {
+    "v": {
+      "translation": ["希望", "期望(某事发生)"],
+      "singular": ["hopes"],
+      "present": ["hoping"],
+      "past": ["hoped"]
+    },
+    "n": {
+      "translation": ["希望", "期望", "希望的东西", "被寄予希望的人(或事物、情况)", "期望的事情"],
+      "plural": ["hopes"]
+    }
+  },
+  "hopeful": {
+    "adj": {
+      "translation": ["充满希望的", "给人以希望的", "满怀希望", "抱有希望", "表现出希望的"]
+    },
+    "n": {
+      "translation": ["希望成功的人", "雄心勃勃的人"],
+      "plural": ["hopefuls"]
+    }
+  },
+  "hopeless": {
+    "adj": {
+      "translation": [
+        "绝望的", "无望的", "无能的", "感到（或显得）无望的", "不能胜任的", "糟糕透顶的", "缺乏技能的",
+        "没有好转(或成功)希望的", "极差的"
+      ]
+    }
+  },
+  "horizon": {
+    "n": {
+      "translation": ["地平线", "(欲望、知识或兴趣的)范围，眼界"],
+      "plural": ["horizons"]
+    }
+  },
+  "horizontal": {
+    "adj": {
+      "translation": ["水平的", "横的", "与地面平行的"]
+    },
+    "n": {
+      "translation": ["水平面", "水平线", "水平位置", "横线", "横切面"],
+      "plural": ["horizontals"]
+    }
+  },
+  "horn": {
+    "n": {
+      "translation": [
+        "喇叭，汽笛，警报器", "（车辆的）喇叭", "(羊、牛等动物的)角，茸角", "号角，羊角号，猎号",
+        "(乐器)号，铜管乐器，（爵士音乐中的）管乐器，小号", "（某些动物头上的）角羽，耳羽，触角", "角质，角质物", "半岛，岬，海角",
+        "号手", "（河流的）分支，（海湾的）分叉", "（仿）角制物，（仿）角制容器", "丰饶角，丰饶的象征", "（弯月的）钩尖，月牙钩",
+        "防卫手段 ", "两难的选择对象", "（基督教《圣经》中）力量（或权力、光荣等）的象征"
+      ],
+      "plural": ["horns"]
+    },
+    "vt": {
+      "translation": [
+        "把...装上角或做成角状物", "用角抵触", "用角刺或伤害", "使船的框架与龙骨成直角", "使成为角状",
+        "把（牛）的角截去（或截短）", "与……的妻子私通，使蒙”绿帽“之耻"
+      ],
+      "singular": ["horns"],
+      "present": ["horning"],
+      "past": ["horned"]
+    },
+    "adj": {
+      "translation": ["角制的"]
+    }
+  },
+  "horror": {
+    "n": {
+      "translation": [
+        "恐怖", "恐惧", "恐怖故事（或电影等）", "震惊", "厌恶", "恐怖性", "对某事物的强烈畏惧(或憎恨)",
+        "(某事物)令人厌恶的性质", "(尤指)震惊性", "极其不愉快的（或可怕的）经历", "调皮捣蛋的孩子"
+      ],
+      "plural": ["horrors"]
+    }
+  },
+  "horse": {
+    "n": {
+      "translation": ["马", "赛马"],
+      "plural": ["horses"]
+    },
+    "v": {
+      "translation": ["为…备马", "猛推或用力向上举"],
+      "singular": ["horses"],
+      "present": ["horsing"],
+      "past": ["horsed"]
+    }
+  },
+  "horsepower": {
+    "n": {
+      "translation": ["马力(功率单位)"],
+      "plural": ["horsepowers"]
+    }
+  },
+  "hospital": {
+    "n": {
+      "translation": ["医院"],
+      "plural": ["hospitals"]
+    }
+  },
+  "host": {
+    "vt": {
+      "translation": ["主办", "主持(电视或广播节目等)", "做东", "存储网站", "作为主人组织(聚会)"],
+      "singular": ["hosts"],
+      "present": ["hosting"],
+      "past": ["hosted"]
+    },
+    "n": {
+      "translation": [
+        "（计算机网络的）主机，服务机", "（寄生动植物的）寄主，宿主", "主人", "许多", "东道主", "(电视或广播的)节目主持人",
+        "主办国(或城市、机构)", "（成圣体的面饼）祭品，祭饼"
+      ],
+      "plural": ["hosts"]
+    }
+  },
+  "hostess": {
+    "n": {
+      "translation": ["女主人", "(夜总会的)女招待", "(电视或广播节目的)女主持人", "女房东", "（餐馆的）女迎宾，女门迎"],
+      "plural": ["hostesses"]
+    },
+    "vt": {
+      "translation": ["作东", "请客"],
+      "singular": ["hostesses"],
+      "present": ["hostessing"],
+      "past": ["hostessed"]
+    }
+  },
+  "hostile": {
+    "adj": {
+      "translation": [
+        "敌对的", "敌意的", "怀有敌意的", "不利的", "敌军的", "不受（被购公司）欢迎的", "强烈反对", "有阻碍的", "坚决否定"
+      ]
+    },
+    "n": {
+      "translation": ["敌对分子", "敌视白人的印第安人"]
+    }
+  },
+  "hot": {
+    "adj": {
+      "translation": [
+        "热的", "辣的", "重视，确保", "最新的，新近的（通常令人兴奋）", "活跃的", "温度高的", "艰难的", "善于（做某事）",
+        "风行的", "（场面、说话等）过激的，过火的", "觉得闷(或燥、湿)热", "使人感到热的", "有望成功的",
+        "偷来（因容易识别）而难以销赃的", "节奏强的", "感到（或引起）性激动的", "易发怒的"
+      ],
+      "comparative": ["hotter"],
+      "superlative": ["hottest"]
+    },
+    "v": {
+      "translation": ["把……加温", "（使）激动起来", "（变，加）热"],
+      "singular": ["hots"],
+      "present": ["hotting"],
+      "past": ["hotted"]
+    },
+    "adv": {
+      "translation": ["趁热", "猛烈地", "愤怒地"]
+    }
+  },
+  "hotel": {
+    "n": {
+      "translation": ["酒店", "旅馆", "酒吧", "餐馆", "旅社", "酒馆"],
+      "plural": ["hotels"]
+    },
+    "vi": {
+      "translation": ["使…在饭店下榻进行旅馆式办公"],
+      "singular": ["hotels"],
+      "present": ["hotelling"],
+      "past": ["hotelled"]
+    }
+  },
+  "hour": {
+    "n": {
+      "translation": [
+        "小时", "长时间", "点钟", "整点", "(工作、办公等的)固定时间", "某个时间", "重要时刻", "约一小时的时间"
+      ],
+      "plural": ["hours"]
+    }
+  },
+  "house": {
+    "n": {
+      "translation": [
+        "房屋，房子", "家，家庭", "住宅，住所", "公司，机构", "商业机构，公司", "（美国）众议院", "房间，室", "（商）号，（商）行",
+        "（用作特定目的的）建筑物，储物房屋，库房", "大厦，大楼", "（日校学生为进行球类等比赛而分的）组", "教堂",
+        "（英国）下议院，上议院", "家族", "（综合大学中的）学院", "议院", "餐馆", "餐馆", "赌场",
+        "（剧场或音乐厅等的）观众，听众", "英国某些学校为进行体育比赛或按宿舍将学生分成的）社，舍", "贵族，皇族",
+        "小酒店，旅店", "（饲养动物的）棚，笼，穴，窝，巢", "剧场", "王朝", "妓院，窑子", "（英国）证券交易所",
+        "住在一所房子里的人，全家人", "娱乐场所", "住宿处，休息处，归宿", "小吃店", "学院的学生", "宗教团体",
+        "（议院开会时的）法定人数", "观众席", "（住供膳寄宿舍的）寄宿生", "赌场经营者",
+        "（政府、教会、大学等的）审议机构，协商机构", "议院大楼，议院会议厅", "（统称）参与辩论的人", "（学校的）供膳寄宿舍",
+        "（戏剧等的）演出场次", "名门世家", "（占星术中分周天为360度、以30度为一宫的）黄道12个宫之一，黄道宫", "宗教会所"
+      ],
+      "plural": ["houses"]
+    },
+    "v": {
+      "translation": [
+        "安置，容纳", "〈海〉安置（桅等）", "覆盖，遮蔽", "收藏", "〈建〉把……嵌入", "包装", "庇护，隐匿",
+        "给……房子住（用），留……住宿，给（某人）提供住处收容", "躲藏", "（建筑物）供……居住，供……下榻", "作为……之用",
+        "是（某物）的贮藏处（或安置处）", "把……储藏在房内"
+      ],
+      "singular": ["houses"],
+      "present": ["housing"],
+      "past": ["housed"]
+    },
+    "adj": {
+      "translation": [
+        "房屋的", "（动物等）家（养）的", "公司的，机构的，社会的", "（医生等）住院的", "（出版物等）供单位内（或行业内）阅读的",
+        "在家中出没为害的", "经常在俱乐部等地表演的", "（餐馆里的葡萄酒）廉价佐餐的，未列入酒水单的"
+      ]
+    }
+  },
+  "household": {
+    "n": {
+      "translation": ["家庭", "一家人", "同住一所房子的人"],
+      "plural": ["households"]
+    },
+    "adj": {
+      "translation": ["家庭的，家内的，一家的", "家喻户晓的", "日常的，家常的，普通的", "王室的"]
+    }
+  },
+  "housewife": {
+    "n": {
+      "translation": ["家庭主妇", "主妇", "家庭妇女"],
+      "plural": ["housewives"]
+    }
+  },
+  "how": {
+    "adv": {
+      "translation": [
+        "（指方式、方法）怎样，怎么，如何", "（指数量、程度）多少，多么", "（指原因、目的）怎么，为什么", "（请求对方加以说明）什么",
+        "（用于感叹句中）多么，何等", "（指状态、情况）怎么样", "价钱多少", "不管用什么方法（或方式）"
+      ]
+    },
+    "n": {
+      "translation": ["方式，方法", "关于方式（或方法）的问题"]
+    },
+    "conj": {
+      "translation": ["不管如何，无论怎样"]
+    },
+    "int": {
+      "translation": ["〈美〉好哇！（原为印第安人的问候语，现亦被其他人诙谐地模仿使用）"]
+    }
+  },
+  "however": {
+    "adv": {
+      "translation": ["然而", "不过", "仍然", "无论如何", "不管怎样", "(与形容词或副词连用)无论到什么程度，不管多么"]
+    },
+    "conj": {
+      "translation": ["不管用什么方法", "虽然"]
+    }
+  },
+  "huge": {
+    "adj": {
+      "translation": ["巨大的", "非常成功的", "极多的", "走红的", "程度高的"],
+      "comparative": ["huger"],
+      "superlative": ["hugest"]
+    }
+  },
+  "human": {
+    "n": {
+      "translation": ["人类", "人"],
+      "plural": ["humans"]
+    },
+    "adj": {
+      "translation": ["人的", "有人情味的", "人本性的", "通人情的", "显示人类特有弱点的"]
+    }
+  },
+  "humble": {
+    "adj": {
+      "translation": ["谦逊的", "(级别或地位)低下的，卑微的", "虚心的", "不大的", "表示谦逊，但不够诚挚或认真"],
+      "comparative": ["humbler"],
+      "superlative": ["humblest"]
+    },
+    "vt": {
+      "translation": ["谦逊", "虚心", "低声下气", "使感到卑微", "贬低", "轻松打败(尤指强大的对手)"],
+      "singular": ["humbles"],
+      "present": ["humbling"],
+      "past": ["humbled"]
+    }
+  },
+  "humid": {
+    "adj": {
+      "translation": ["潮湿的", "湿热的"]
+    }
+  },
+  "humorous": {
+    "adj": {
+      "translation": ["幽默的", "有幽默感的", "滑稽有趣的"]
+    }
+  },
+  "humour": {
+    "n": {
+      "translation": ["幽默", "幽默感", "心情", "感觉", "精神状态", "体液(旧时认为存在人体内，有四种，可影响健康和性格)"],
+      "plural": ["humours"]
+    },
+    "vt": {
+      "translation": ["迁就", "顺应"],
+      "singular": ["humours"],
+      "present": ["humouring"],
+      "past": ["humoured"]
+    }
+  },
+  "hundred": {
+    "num": {
+      "translation": ["一百", "许多", "大量", "百位数", "某个世纪的年代", "一点、两点、三点等整", "100到999间的数目"],
+      "plural": ["hundreds"]
+    },
+    "n": {
+      "translation": ["数以百计", "许多", "一百元", "一百岁"],
+      "plural": ["hundreds"]
+    },
+    "adj": {
+      "translation": ["很多"]
+    }
+  },
+  "hunger": {
+    "n": {
+      "translation": ["饥饿", "(对某事物的)渴望，渴求", "饥荒", "饥饿感", "食欲", "胃口"],
+      "plural": ["hungers"]
+    },
+    "v": {
+      "translation": ["（使）饥饿", "渴望"],
+      "singular": ["hungers"],
+      "present": ["hungering"],
+      "past": ["hungered"]
+    }
+  },
+  "hungry": {
+    "adj": {
+      "translation": ["感到饿的", "挨饿的", "饥饿的", "渴望得到", "使人饥饿的", "(统称)饿民"],
+      "comparative": ["hungrier"],
+      "superlative": ["hungriest"]
+    }
+  },
+  "hunt": {
+    "v": {
+      "translation": ["打猎", "猎杀", "追捕", "搜寻", "搜索", "猎取", "追踪", "（英国）猎狐运动"],
+      "singular": ["hunts"],
+      "present": ["hunting"],
+      "past": ["hunted"]
+    },
+    "n": {
+      "translation": ["打猎", "寻找", "搜寻", "搜索", "(英国)猎狐活动", "猎狐队伍"],
+      "plural": ["hunts"]
+    }
+  },
+  "hurry": {
+    "n": {
+      "translation": ["匆忙", "急忙"]
+    },
+    "v": {
+      "translation": ["赶快，匆忙，急忙(做某事)", "仓促（做某事）", "催促(某人)", "(朝某方向)迅速移动", "迅速处理"],
+      "singular": ["hurries"],
+      "present": ["hurrying"],
+      "past": ["hurried"]
+    }
+  },
+  "hurt": {
+    "v": {
+      "translation": [
+        "伤害", "(使)疼痛，受伤", "使烦恼", "感到疼痛", "使不快", "处于困境", "对…有不良影响", "感到不高兴（或烦恼）"
+      ],
+      "singular": ["hurts"],
+      "present": ["hurting"],
+      "past": ["hurt"]
+    },
+    "adj": {
+      "translation": ["受伤的(身体或感情上)"]
+    },
+    "n": {
+      "translation": ["委屈", "心灵创伤"],
+      "plural": ["hurts"]
+    }
+  },
+  "husband": {
+    "n": {
+      "translation": ["丈夫"],
+      "plural": ["husbands"]
+    },
+    "vt": {
+      "translation": ["节俭使用"],
+      "singular": ["husbands"],
+      "present": ["husbanding"],
+      "past": ["husbanded"]
+    }
+  },
+  "hut": {
+    "n": {
+      "translation": ["小屋", "简陋的小房子(或棚、舍)"],
+      "plural": ["huts"]
+    },
+    "v": {
+      "translation": ["使住临时营房", "驻扎"],
+      "singular": ["huts"],
+      "present": ["hutting"],
+      "past": ["hutted"]
+    }
+  },
+  "hydrogen": {
+    "n": {
+      "translation": ["氢", "氢气"],
+      "plural": ["hydrogens"]
+    }
+  }
+}

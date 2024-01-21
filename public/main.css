@@ -1,0 +1,44 @@
+.translations {
+    position: absolute;
+    width: max-content;
+    z-index: 9999;
+    translate: 15px 10px;
+}
+
+.translation {
+    width: max-content;
+    max-width: 400px;
+    word-break: break-word;
+    white-space: break-spaces;
+    background-color: hsl(22, 68%, 90%);
+    overflow: hidden;
+    border-radius: 5px;
+    color: black;
+    padding: 0.25em;
+    box-shadow: rgba(0, 0, 0, 0.4) 0 0 1em;
+    margin: 5px 0;
+}
+
+.translation > div {
+    margin: 0.25em 0.5em;
+    font-size: 14px;
+}
+
+.translation .word {
+    font-size: 16px;
+}
+
+.translation > div:not(:first-child)::before {
+    content: attr(data-prefix);
+    display: inline-block;
+    width: fit-content;
+    min-width: 35px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 0 5px;
+    color: white;
+}
+
+.translation .word {
+    font-weight: bold;
+}

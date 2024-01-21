@@ -1,0 +1,1682 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "machine": {
+    "n": {
+      "translation": ["(不提全称时的简略说法)机器", "机械装置", "(组织的)核心机构", "机械化的人"],
+      "plural": ["machines"]
+    },
+    "v": {
+      "translation": ["(用机器)制造，加工成型"],
+      "singular": ["machines"],
+      "present": ["machining"],
+      "past": ["machined"]
+    }
+  },
+  "mad": {
+    "adj": {
+      "translation": [
+        "疯狂的", "疯的", "很生气", "气愤", "神经错乱的", "特别喜欢", "不理智的", "很不明智的", "有精神病的", "极愚蠢的"
+      ],
+      "comparative": ["madder"],
+      "superlative": ["maddest"]
+    },
+    "vt": {
+      "translation": ["使疯狂"],
+      "singular": ["mads"],
+      "present": ["madding"],
+      "past": ["madded"]
+    }
+  },
+  "madam": {
+    "n": {
+      "translation": ["女士", "夫人", "老鸨", "鸨母", "妓院女老板", "非常自我的女子", "任性妄为的年轻女子"],
+      "plural": ["madams"]
+    }
+  },
+  "magazine": {
+    "n": {
+      "translation": ["杂志", "期刊", "弹药库", "弹仓", "(电视、广播)专题节目", "弹盒", "弹盘"],
+      "plural": ["magazines"]
+    }
+  },
+  "magic": {
+    "n": {
+      "translation": ["魔法", "神奇", "魔术", "魔力", "魅力", "法术", "巫术", "戏法"]
+    },
+    "adj": {
+      "translation": ["神奇的", "有魔力的", "(施)巫术的", "美好的", "棒极了", "有神奇力量的", "好极了"]
+    },
+    "vt": {
+      "translation": ["(像)用魔法变出(或使消失、使变成…等)"],
+      "singular": ["magics"],
+      "present": ["magicking"],
+      "past": ["magicked"]
+    }
+  },
+  "magnet": {
+    "n": {
+      "translation": ["磁铁", "磁体", "磁石", "磁性物体", "吸铁石", "有吸引力的人(或地方、事物)"],
+      "plural": ["magnets"]
+    }
+  },
+  "magnetic": {
+    "adj": {
+      "translation": ["有磁性的", "磁性的", "磁的", "像磁铁的", "有魅力的", "富有吸引力的"]
+    }
+  },
+  "magnificent": {
+    "adj": {
+      "translation": ["壮丽的", "宏伟的", "值得赞扬的"]
+    }
+  },
+  "maid": {
+    "n": {
+      "translation": ["女仆", "少女", "侍女", "(旅馆里的)女服务员", "年轻姑娘", "未婚年轻女子"],
+      "plural": ["maids"]
+    }
+  },
+  "mail": {
+    "n": {
+      "translation": ["邮件", "电子邮件", "信件", "邮政", "（用作报纸名称）邮报", "邮包", "邮递系统"],
+      "plural": ["mails"]
+    },
+    "vt": {
+      "translation": ["邮寄", "发电邮给", "用电子邮件传送"],
+      "singular": ["mails"],
+      "present": ["mailing"],
+      "past": ["mailed"]
+    }
+  },
+  "main": {
+    "adj": {
+      "translation": ["主要的", "最重要的"]
+    },
+    "n": {
+      "translation": [
+        "电源", "(通往建筑物的)主管道，总管，输电干线", "水源", "(水、煤气、电等的)供应系统", "下水道系统", "煤气源",
+        "(建筑物的)污水总管道"
+      ],
+      "plural": ["mains"]
+    }
+  },
+  "mainland": {
+    "n": {
+      "translation": ["大陆", "(不包括附近岛屿的)国土的主体"],
+      "plural": ["mainlands"]
+    },
+    "adj": {
+      "translation": ["大陆的", "本土的"]
+    }
+  },
+  "mainly": {
+    "adv": {
+      "translation": ["主要地", "大多", "大部分", "首要地"]
+    }
+  },
+  "maintain": {
+    "v": {
+      "translation": ["保持", "维持", "维修", "坚持(意见)", "保养", "供养", "固执己见"],
+      "singular": ["maintains"],
+      "present": ["maintaining"],
+      "past": ["maintained"]
+    }
+  },
+  "maintenance": {
+    "n": {
+      "translation": ["维护", "维修", "保养", "维持", "保持", "抚养费", "(依法应负担的)生活费"]
+    }
+  },
+  "major": {
+    "n": {
+      "translation": ["专业", "少校", "大联盟", "专业课", "主修课程", "主修学生"],
+      "plural": ["majors"]
+    },
+    "adj": {
+      "translation": ["主要的", "重要的", "大的", "严重", "主修的（课程）", "大调的"]
+    },
+    "v": {
+      "translation": ["主修", "专攻"],
+      "singular": ["majors"],
+      "present": ["majoring"],
+      "past": ["majored"]
+    }
+  },
+  "majority": {
+    "n": {
+      "translation": [
+        "大部分，大多数，过半数，大半", "〈英〉（获胜的）票数，（选举中的）多数票（指超出其余各方票数总和的票数）", "多数党，多数派",
+        "成年，（成年的）法定年龄，成年身份", "〈军〉少校级别（或职位、军衔）"
+      ],
+      "plural": ["majorities"]
+    },
+    "adj": {
+      "translation": ["多数（人）的，过半数的，大多数的", "多数党的，多数派的"]
+    }
+  },
+  "make": {
+    "v": {
+      "translation": [
+        "制作，制造", "做，作出（决定、估计等）", "成为", "使成为，任命，委派……为，选举……为", "使形成，使成为", "从事，进行",
+        "认为", "（朝特定方向）走，去，前进", "产生，引起，导致，造成（破坏、破损等）", "使变得", "开始", "采用，择定", "使出现",
+        "使成功", "（尽力）赶往，到达，抵达，达到", "组装，组成，构成", "表现，描绘，（使）显得，（使）看上去成为", "尝试", "发表",
+        "拟订，制订", "促使，劝使", "估计，推测，猜想", "赢得", "等于，相当于", "整理，铺床", "迫使，强迫", "结交",
+        "挣钱，赚得", "〈电〉接通（电路），闭合（电路）", "想做", "说出", "〈牌〉赢（一墩牌）", "（潮）涨，（潮）退", "撰写，编著",
+        "（比赛）得分", "使天生合适，注定", "合计，成为总数", "出产", "与……性交", "使走运", "〈口〉行满，走完（路程、距离）",
+        "（旅途中）顺道访问（某地）", "〈美〉获取（异性）的好感", "保证……发迹"
+      ],
+      "singular": ["makes"],
+      "present": ["making"],
+      "past": ["made"]
+    },
+    "n": {
+      "translation": ["〈英〉伴侣，朋友，配偶，（鸟、兽的）偶", "(机器、设备等的)品牌，型号", "〈英〉同辈，同等地位者", "可以匹敌者"]
+    }
+  },
+  "male": {
+    "adj": {
+      "translation": ["男性的", "雄性的", "男的", "阳的", "凸形的"]
+    },
+    "n": {
+      "translation": ["男性", "雄性", "雄株"],
+      "plural": ["males"]
+    }
+  },
+  "man": {
+    "n": {
+      "translation": [
+        "成年男子", "男人", "人类", "伙计", "丈夫", "士兵", "(特定历史时期的)人", "男仆", "你这家伙", "棋子",
+        "上门服务的人", "勇敢强壮的人"
+      ],
+      "plural": ["men"]
+    },
+    "vt": {
+      "translation": ["配备(人员)", "操纵(机器等)", "在…岗位上工作"],
+      "singular": ["mans"],
+      "present": ["manning"],
+      "past": ["manned"]
+    },
+    "int": {
+      "translation": ["(表示惊奇、气愤等)嘿，天哪"]
+    }
+  },
+  "manage": {
+    "v": {
+      "translation": [
+        "管理，掌管", "使用，运用", "处理", "经营", "完成（困难的事），设法做到，勉力完成", "能解决（问题），应付（困难局面等）",
+        "支撑，勉强维持", "操纵", "控制住，驾驭", "抽出，腾出，安排出（时间、金钱等）", "照管", "（在某一时间）能办到，能做成",
+        "勉强生活下去，凑合着活下去", "〈讽〉竟然搞得，竟做出"
+      ],
+      "singular": ["manages"],
+      "present": ["managing"],
+      "past": ["managed"]
+    }
+  },
+  "management": {
+    "n": {
+      "translation": ["管理", "经营", "管理部门", "经营者", "(有效的)处理能力", "资方", "(成功的)处理手段"],
+      "plural": ["managements"]
+    }
+  },
+  "manager": {
+    "n": {
+      "translation": ["(企业、店铺等的)经理，经营者，老板", "(演员、作曲家等的)经理人，经纪人，个人经理", "(运动队的)主教练"],
+      "plural": ["managers"]
+    }
+  },
+  "mankind": {
+    "n": {
+      "translation": ["人类"]
+    }
+  },
+  "manly": {
+    "adj": {
+      "translation": ["强壮的", "有男子汉气概的"],
+      "comparative": ["manlier"],
+      "superlative": ["manliest"]
+    }
+  },
+  "manner": {
+    "n": {
+      "translation": ["方式", "方法", "态度", "举止", "礼貌", "礼仪", "规矩"],
+      "plural": ["manners"]
+    }
+  },
+  "manual": {
+    "n": {
+      "translation": ["手册", "说明书", "指南"],
+      "plural": ["manuals"]
+    },
+    "adj": {
+      "translation": ["手动的", "手工的", "体力的", "用手的", "手控的", "用手操作的"]
+    }
+  },
+  "manufacture": {
+    "vt": {
+      "translation": ["制造", "产生(一种物质)", "生成", "(用机器)大量生产", "捏造", "编造", "成批制造"],
+      "singular": ["manufactures"],
+      "present": ["manufacturing"],
+      "past": ["manufactured"]
+    },
+    "n": {
+      "translation": ["批量生产", "工业品", "大量制造"],
+      "plural": ["manufactures"]
+    }
+  },
+  "manufacturer": {
+    "n": {
+      "translation": ["制造商", "生产商", "制造者", "生产者"],
+      "plural": ["manufacturers"]
+    }
+  },
+  "many": {
+    "adj": {
+      "translation": ["许多的，大量的"],
+      "comparative": ["more"],
+      "superlative": ["most"]
+    },
+    "pron": {
+      "translation": ["许多人（或物），许多（尤用于否定句或正式用语，表示大量）"]
+    },
+    "det": {
+      "translation": ["许多的，大量的", "多少（用于疑问句以询问数字大小）", "许多，很多"]
+    },
+    "n": {
+      "translation": ["多数人（东西），大多数人", "民众，百姓"]
+    },
+    "adv": {
+      "translation": ["（回答有关数量的提问时）多"]
+    }
+  },
+  "map": {
+    "n": {
+      "translation": ["地图", "图像，〈基〉图谱", "〈数〉映象", "方位图，剖面图", "〈口〉脸，面孔", "天体图", "〈美〉支票"],
+      "plural": ["maps"]
+    },
+    "v": {
+      "translation": [
+        "〈数〉使变换，映射", "绘制……的地图，在地图上标出，定位，似在图上描绘", "（为绘制地图而）勘测（地区等）", "详细安排，筹划",
+        "了解信息，提供信息(尤指其编排或组织方式)", "〈生〉（基因）被安置", "把……与……相联系", "〈生〉将（基因）置入染色体的特定序列"
+      ],
+      "singular": ["maps"],
+      "present": ["mapping"],
+      "past": ["mapped"]
+    }
+  },
+  "marble": {
+    "n": {
+      "translation": ["大理石", "(玻璃)弹子", "理智", "弹子游戏"],
+      "plural": ["marbles"]
+    },
+    "v": {
+      "translation": ["使…显得斑驳", "使…染上大理石花纹"],
+      "singular": ["marbles"],
+      "present": ["marbling"],
+      "past": ["marbled"]
+    },
+    "adj": {
+      "translation": ["大理石(似)的", "无情的", "纯白的", "有大理石纹彩的"]
+    }
+  },
+  "march": {
+    "n": {
+      "translation": ["前进", "行军", "进行曲", "示威游行", "抗议游行", "稳步发展"]
+    },
+    "v": {
+      "translation": ["行进", "游行示威", "(坚定地向某地)进发", "使同行", "齐步走", "强迫(某人)一起走"],
+      "singular": ["marches"],
+      "present": ["marching"],
+      "past": ["marched"]
+    }
+  },
+  "margin": {
+    "n": {
+      "translation": [
+        "边缘", "(获胜者在时间或票数上领先的)幅度，差额，差数", "余地", "边缘部分", "页边空白", "白边",
+        "备用的时间(或空间、金钱等)", "技术津贴，职务补贴"
+      ],
+      "plural": ["margins"]
+    },
+    "v": {
+      "translation": ["给…镶边", "在…加旁注", "【股】为…付保险金"]
+    }
+  },
+  "marine": {
+    "adj": {
+      "translation": ["海的", "海生的", "海产的", "海船的", "货船的", "海上贸易的"]
+    },
+    "n": {
+      "translation": ["(尤指美国或英国皇家)海军陆战队士兵"],
+      "plural": ["marines"]
+    }
+  },
+  "mark": {
+    "v": {
+      "translation": [
+        "做记号", "标示", "（给学生作业）打分，评分，评成绩", "做标记", "是…的迹象", "纪念", "留下痕迹", "留心", "弄污",
+        "标明方位", "使有污点", "钉人防守", "赋予特征"
+      ],
+      "singular": ["marks"],
+      "present": ["marking"],
+      "past": ["marked"]
+    },
+    "n": {
+      "translation": [
+        "(显示质量、所有者等的)标记", "（品质或情感的）标志，迹象，表示", "记号", "符号", "目标", "（重要的）水平，标准点，指标",
+        "成绩", "型号", "斑点", "(人或动物身上有助于识别的)斑点，色斑", "污点", "疤痕", "污渍"
+      ],
+      "plural": ["marks"]
+    }
+  },
+  "market": {
+    "n": {
+      "translation": [
+        "集市，市场，商场，证券市场，商业中心", "交易，（商品）买卖", "市面，市况，行情，市价", "交易量，总销售量",
+        "商品的销售地，行销地区，销路", "消费群体，购买（某种商品）的人数", "（处于竞争中的）市场经营者"
+      ],
+      "plural": ["markets"]
+    },
+    "v": {
+      "translation": ["出售，销售", "推销，促销，进行市场推广", "（在市场上）进行交易，做买卖"],
+      "singular": ["markets"],
+      "present": ["marketing"],
+      "past": ["marketed"]
+    },
+    "adj": {
+      "translation": ["市场的，由市场决定的"]
+    }
+  },
+  "marriage": {
+    "n": {
+      "translation": ["婚姻", "结婚", "婚礼", "婚姻生活", "已婚状态"],
+      "plural": ["marriages"]
+    }
+  },
+  "married": {
+    "adj": {
+      "translation": ["已婚的", "结婚的", "婚姻的", "专心(于某事)", "全神贯注(于某事)"]
+    },
+    "v": {
+      "translation": ["(和某人)结婚", "把…嫁给", "娶", "嫁", "为…主持婚礼", "为…娶亲", "操办婚礼"],
+      "singular": ["marries"],
+      "present": ["marring"],
+      "past": ["married"]
+    }
+  },
+  "marry": {
+    "v": {
+      "translation": [
+        "结婚，娶，嫁", "把……嫁给，为……娶亲", "相结合，结合在一起", "为……主持婚礼，操办婚礼", "〈海〉（不增长围长）插接（绳端）",
+        "使匹配成对，把……混为一体", "（酒等）经存放而变醇美"
+      ],
+      "singular": ["marries"],
+      "present": ["marrying"],
+      "past": ["married"]
+    }
+  },
+  "marvelous": {
+    "adj": {
+      "translation": ["了不起的", "不平常的", "〈美〉了不起的，非凡的", "不可思议的，令人惊异的"]
+    }
+  },
+  "marxisim": {
+    "n": {
+      "translation": ["马克思主义"]
+    }
+  },
+  "marxist": {
+    "n": {
+      "translation": ["马克思主义者", "马克思主义", "马克思主义的", "马克思"]
+    }
+  },
+  "mask": {
+    "n": {
+      "translation": ["面具", "面罩", "面膜", "伪装", "假面具", "护肤膜"],
+      "plural": ["masks"]
+    },
+    "vt": {
+      "translation": ["掩饰", "掩藏"],
+      "singular": ["masks"],
+      "present": ["masking"],
+      "past": ["masked"]
+    }
+  },
+  "mass": {
+    "n": {
+      "translation": [
+        "团", "群众", "大量", "块", "许多", "质量", "大多数", "堆", "(常指混乱的)一群，一堆", "大量的东西"
+      ],
+      "plural": ["masses"]
+    },
+    "adj": {
+      "translation": ["广泛的", "大批的", "数量极多的"]
+    },
+    "v": {
+      "translation": ["集结", "聚集"],
+      "singular": ["masses"],
+      "present": ["massing"],
+      "past": ["massed"]
+    }
+  },
+  "master": {
+    "n": {
+      "translation": [
+        "大师，师傅", "(男)主人，雇主", "（货船的）船长", "主宰", "（英国）校长，院长", "（已故）著名画家，绘画大师", "母带",
+        "能手", "男教师", "擅长…者", "硕士学位（大学里的中级学位", "有控制力的人", "（对年龄小而不便称作“先生”的男孩的称谓"
+      ],
+      "plural": ["masters"]
+    },
+    "vt": {
+      "translation": ["掌握", "控制(动物或人)", "精通"],
+      "singular": ["masters"],
+      "present": ["mastering"],
+      "past": ["mastered"]
+    },
+    "adj": {
+      "translation": ["(描述精于某职业的人)熟练的，灵巧的，有技能的", "最大的", "最重要的"]
+    }
+  },
+  "masterpiece": {
+    "n": {
+      "translation": ["杰作", "代表作", "名著"],
+      "plural": ["masterpieces"]
+    }
+  },
+  "mat": {
+    "n": {
+      "translation": [
+        "垫子，(体育运动用的)厚垫子", "〈美〉（海军用语）地板，甲板", "(装饰或保护桌面的)衬垫，小垫", "地席，席子，草席，蒲席",
+        "团，丛，簇", "小地毯"
+      ],
+      "plural": ["mats"]
+    },
+    "v": {
+      "translation": ["缠结成一团，缠结", "使（金属、玻璃、颜色等）无光", "给……铺上（或盖上）席子（或垫子）"],
+      "singular": ["mats"],
+      "present": ["matting"],
+      "past": ["matted"]
+    },
+    "adj": {
+      "translation": ["无光泽的，暗淡的", "具有粗糙表面的，不光滑的"]
+    }
+  },
+  "match": {
+    "n": {
+      "translation": ["比赛", "火柴", "竞赛", "婚姻", "敌手", "相配的人（或物）", "旗鼓相当的人", "外观相同的东西"],
+      "plural": ["matches"]
+    },
+    "v": {
+      "translation": [
+        "相同", "配对", "相配", "相似", "适应", "相一致", "般配", "使等同于", "与…相匹敌", "找相称(或相关)的人(或物)"
+      ],
+      "singular": ["matches"],
+      "present": ["matching"],
+      "past": ["matched"]
+    }
+  },
+  "mate": {
+    "n": {
+      "translation": [
+        "朋友", "伙伴", "（商船的）大副", "配偶", "(男人之间常用)哥儿们，伙计，老兄", "同伴", "同事", "偶",
+        "（熟练工人的）助手，下手", "一同居住的人"
+      ],
+      "plural": ["mates"]
+    },
+    "v": {
+      "translation": ["交配", "使交配", "交尾"],
+      "singular": ["mates"],
+      "present": ["mating"],
+      "past": ["mated"]
+    }
+  },
+  "material": {
+    "n": {
+      "translation": ["(某一活动所需的)材料", "原料", "素材", "布料", "节目"],
+      "plural": ["materials"]
+    },
+    "adj": {
+      "translation": ["物质的", "重要的", "必要的", "实际的(非精神需求的)", "客观存在的"]
+    }
+  },
+  "materialism": {
+    "n": {
+      "translation": ["实利主义", "物质主义", "唯物论", "唯物主义"]
+    }
+  },
+  "mathematical": {
+    "adj": {
+      "translation": ["数学的", "(具有)数学(头脑)的", "运算能力强的"]
+    }
+  },
+  "mathematics": {
+    "n": {
+      "translation": ["数学", "计算", "运算"]
+    }
+  },
+  "maths": {
+    "n": {
+      "translation": ["数学", "同 mathematics"]
+    }
+  },
+  "matter": {
+    "n": {
+      "translation": [
+        "问题", "（统称）物质", "事情", "(询问某人的情况)怎么了", "（某种）东西，物品，材料", "事态", "课题", "关乎…的事情",
+        "当前的状况"
+      ],
+      "plural": ["matters"]
+    },
+    "v": {
+      "translation": ["要紧", "有重大影响", "事关紧要"],
+      "singular": ["matters"],
+      "present": ["mattering"],
+      "past": ["mattered"]
+    }
+  },
+  "mature": {
+    "v": {
+      "translation": ["(情感和认识)成熟", "到期（应付款）", "长成", "充分发展", "酿成", "有判断力"],
+      "singular": ["matures"],
+      "present": ["maturing"],
+      "past": ["matured"]
+    },
+    "adj": {
+      "translation": [
+        "成熟的", "到期（应该支付）的", "成年的，不再年轻的", "发酵成熟的", "酿成的", "发育完全的", "明白事理的", "像成人似的"
+      ],
+      "comparative": ["maturer"],
+      "superlative": ["maturest"]
+    }
+  },
+  "maximum": {
+    "n": {
+      "translation": [
+        "最大限度，最大量，最大值", "〈数〉极大（值）", "顶点", "（公路行车的）最高速", "（法定的）最高极限", "（发展的）顶峰时期"
+      ],
+      "plural": ["maxima"]
+    },
+    "adj": {
+      "translation": ["最高的", "最多的", "〈教〉极大的", "（数量）极大的，极多的", "最大极限的", "顶点的"]
+    },
+    "adv": {
+      "translation": ["最多，顶多，充其量"]
+    }
+  },
+  "may": {
+    "n": {
+      "translation": ["五月（May）", "山楂花"]
+    }
+  },
+  "maybe": {
+    "adv": {
+      "translation": [
+        "（不确定）大概，或许，可能", "（不置可否）也许，或许，可能吧", "（提出建议）或许，也许", "（赞同并补充信息）或许",
+        "（对数目、数量或价值等作出约略的估计）大概，大约", "（笼统地描述某人的行为或经常发生的事情）有时"
+      ]
+    },
+    "n": {
+      "translation": ["可能性", "不确定性"]
+    }
+  },
+  "mayor": {
+    "n": {
+      "translation": ["市长", "(英格兰、威尔士和北爱尔兰由议员选举产生的)镇长", "郡长"],
+      "plural": ["mayors"]
+    }
+  },
+  "me": {
+    "pron": {
+      "translation": ["(I 的宾格)我"]
+    },
+    "n": {
+      "translation": ["大调音阶的第3音"]
+    }
+  },
+  "meadow": {
+    "n": {
+      "translation": ["草地", "牧场"],
+      "plural": ["meadows"]
+    }
+  },
+  "meal": {
+    "n": {
+      "translation": ["一餐", "早(或午、晚)餐", "一餐所吃的食物", "谷物粗粉(用作饲料或加工面粉)"],
+      "plural": ["meals"]
+    },
+    "v": {
+      "translation": ["吃饭", "碾碎"]
+    }
+  },
+  "mean": {
+    "v": {
+      "translation": [
+        "意思是", "打算", "本意是", "意欲", "表示…的意思", "产生…结果", "有…的目的", "想要某人成为", "对某人重要（或有价值）"
+      ],
+      "singular": ["means"],
+      "present": ["meaning"],
+      "past": ["meant"]
+    },
+    "adj": {
+      "translation": [
+        "平均的", "刻薄", "吝啬的", "熟练的", "小气的", "平庸的", "不善良", "要发狂的", "低劣而肮脏的", "出身卑贱的",
+        "要发怒的"
+      ],
+      "comparative": ["meaner"],
+      "superlative": ["meanest"]
+    },
+    "n": {
+      "translation": ["平均值", "中间", "平均数", "中庸", "折中", "算术中项"],
+      "plural": ["means"]
+    }
+  },
+  "meaning": {
+    "n": {
+      "translation": [
+        "意思", "（人生的）意义，价值，目标", "(声音、文字、信号等传递的)意义", "意义，含义，思想", "价值", "真正重要性"
+      ],
+      "plural": ["meanings"]
+    },
+    "adj": {
+      "translation": ["有意义的意味深长的", "有所企图的"]
+    },
+    "v": {
+      "translation": ["意思是", "打算", "本意是", "意欲", "表示…的意思", "有…的目的"]
+    }
+  },
+  "means": {
+    "n": {
+      "translation": ["方法", "方式", "途径", "财富", "钱财"]
+    },
+    "v": {
+      "translation": ["意思是", "打算", "本意是", "意欲", "表示…的意思", "有…的目的"]
+    }
+  },
+  "meanwhile": {
+    "adv": {
+      "translation": ["同时", "与此同时", "其间", "(比较两方面)对比之下"]
+    },
+    "n": {
+      "translation": ["其时，其间"]
+    }
+  },
+  "measurable": {
+    "adj": {
+      "translation": ["可测量的", "显著的", "可度量的", "有明显影响的"]
+    }
+  },
+  "measure": {
+    "v": {
+      "translation": [
+        "测量，度量，计量", "估量，衡量", "调整，调节", "〈诗〉经过（一段距离），走过", "判定（重要性、价值或影响等）", "斟酌，权衡",
+        "(指尺寸、长短、数量等)量度为，有……长（或宽、高等）", "打量", "拿（自己或自己的力量等）作较量", "用作……的（计）量器",
+        "〈诗〉定……的界，为……定界"
+      ],
+      "singular": ["measures"],
+      "present": ["measuring"],
+      "past": ["measured"]
+    },
+    "n": {
+      "translation": [
+        "措施，方法", "尺度，标准", "判断，衡量", "（一定的）量，固定量", "步骤", "程度", "数量", "比例",
+        "度量单位，计量单位，计量标准", "量器，量具", "议案，法令", "限度，适度，分寸", "〈音〉拍子，小节", "〈诗〉曲调，歌曲",
+        "〈古〉（尤指缓慢而庄重的）舞蹈，舞步", "已知量", "标准量", "〈印〉行宽，页宽"
+      ],
+      "plural": ["measures"]
+    }
+  },
+  "measurement": {
+    "n": {
+      "translation": ["测量", "度量", "(某物的)尺寸，长度，数量"],
+      "plural": ["measurements"]
+    }
+  },
+  "meat": {
+    "n": {
+      "translation": [
+        "（食用的）肉，肉类，（某种）食用肉", "〈美〉（果子、胡桃、蛋等的）可食部分，肉", "内容", "实质", "爱好，特长", "重要的部分",
+        "要旨", "有趣的部分"
+      ],
+      "plural": ["meats"]
+    }
+  },
+  "mechanic": {
+    "n": {
+      "translation": ["技工", "方法", "力学", "机械师", "机械学", "机械修理工"],
+      "plural": ["mechanics"]
+    },
+    "adj": {
+      "translation": ["同“mechanical. mechanic's lien”"]
+    }
+  },
+  "mechanical": {
+    "adj": {
+      "translation": [
+        "机动的，机械的，发动机的，机械驱动的", "（行动等）机械的，呆板的", "机械学的，力学的", "机械方面的，机械原理的",
+        "（人）擅长于机械原理的，精通机械的，有机械方面知识（或技巧）的", "细节上的", "技巧上的", "无思想的，缺乏独创性的",
+        "无表情的"
+      ]
+    },
+    "n": {
+      "translation": ["〈古〉工匠，手艺人", "机器部件", "机械物体"]
+    }
+  },
+  "mechanically": {
+    "adv": {
+      "translation": ["机械地", "用机械"]
+    }
+  },
+  "mechanics": {
+    "n": {
+      "translation": ["力学", "技工", "机械师", "机械学", "机械修理工"]
+    }
+  },
+  "medal": {
+    "n": {
+      "translation": ["奖章", "勋章"],
+      "plural": ["medals"]
+    },
+    "vi": {
+      "translation": ["(在比赛中)获得奖牌(或奖章)"],
+      "singular": ["medals"],
+      "present": ["medaling"],
+      "past": ["medaled"]
+    }
+  },
+  "medical": {
+    "adj": {
+      "translation": ["医疗的", "医学的", "疾病的", "内科的", "伤病的"]
+    },
+    "n": {
+      "translation": ["体格检查"],
+      "plural": ["medicals"]
+    }
+  },
+  "medicine": {
+    "n": {
+      "translation": ["医学", "药", "(尤指)药水"],
+      "plural": ["medicines"]
+    },
+    "v": {
+      "translation": ["下药"]
+    }
+  },
+  "mediterranean": {
+    "adj": {
+      "translation": ["地中海的"]
+    },
+    "n": {
+      "translation": ["地中海", "地中海地区的居民", "地中海沿岸的高加索人"]
+    }
+  },
+  "medium": {
+    "adj": {
+      "translation": ["中等的", "中号的"]
+    },
+    "n": {
+      "translation": ["介质", "方法", "(传播信息的)媒介", "(文艺创作中使用的)材料，形式", "工具", "手段", "通灵的人"],
+      "plural": ["media"]
+    }
+  },
+  "meet": {
+    "v": {
+      "translation": [
+        "满足", "开会", "会晤", "(与…)会面", "迎接", "支付", "遇见", "接触（某物）", "相遇", "经历", "遭遇", "集合",
+        "相逢", "相识"
+      ],
+      "singular": ["meets"],
+      "present": ["meeting"],
+      "past": ["met"]
+    },
+    "n": {
+      "translation": ["体育比赛", "运动会"],
+      "plural": ["meets"]
+    },
+    "adj": {
+      "translation": ["适合的"]
+    }
+  },
+  "meeting": {
+    "n": {
+      "translation": ["会议", "会面", "(统称)与会者", "集会", "运动会", "集合"],
+      "plural": ["meetings"]
+    },
+    "v": {
+      "translation": ["开会", "会晤", "(与…)会面", "遇见", "相遇", "集合", "相逢"]
+    }
+  },
+  "melon": {
+    "n": {
+      "translation": ["甜瓜", "瓜"],
+      "plural": ["melons"]
+    }
+  },
+  "melt": {
+    "v": {
+      "translation": [
+        "（使）溶化，（使）融化", "（使）溶解", "(使)（心等）软化，（使）变得温柔", "（使）融合", "（使）消散，（使）逐渐消失",
+        "（使）逐渐变化", "〈口〉（人）感到极热"
+      ],
+      "singular": ["melts"],
+      "present": ["melting"],
+      "past": ["melted"]
+    },
+    "n": {
+      "translation": [
+        "融化，溶化", "溶解", "溶化的金属，熔化物", "（金属）一次（或一定时间）的融化量",
+        "〈美〉含奶酪的食品（如三明治、汉堡包等）", "（溶炉的）一次装料"
+      ]
+    }
+  },
+  "member": {
+    "n": {
+      "translation": ["成员", "会员", "分子", "身体部位(尤指胳膊或腿)", "（英国）下院议员"],
+      "plural": ["members"]
+    }
+  },
+  "memorial": {
+    "adj": {
+      "translation": ["纪念的", "悼念的"]
+    },
+    "n": {
+      "translation": ["纪念碑(或像等)", "纪念物", "纪念品"],
+      "plural": ["memorials"]
+    }
+  },
+  "memory": {
+    "n": {
+      "translation": ["记忆力", "记忆", "回忆", "存储器", "记性", "对死者的记忆", "记忆所及的时期", "回忆所及的范围"],
+      "plural": ["memories"]
+    }
+  },
+  "mend": {
+    "v": {
+      "translation": ["修补", "修理", "缝补", "愈合", "解决(争端)", "弥合(分歧)", "痊愈", "织补"],
+      "singular": ["mends"],
+      "present": ["mending"],
+      "past": ["mended"]
+    },
+    "n": {
+      "translation": ["修补", "好转", "痊愈"],
+      "plural": ["mends"]
+    }
+  },
+  "mental": {
+    "adj": {
+      "translation": ["精神的", "精神健康的", "智力的", "思想的", "思考的", "精神病治疗的", "疯狂", "发疯"]
+    },
+    "n": {
+      "translation": ["精神病", "精神病患者"]
+    }
+  },
+  "mention": {
+    "vt": {
+      "translation": ["提到", "说到", "写到"],
+      "singular": ["mentions"],
+      "present": ["mentioning"],
+      "past": ["mentioned"]
+    },
+    "n": {
+      "translation": ["提及", "说起", "写上一笔"],
+      "plural": ["mentions"]
+    }
+  },
+  "menu": {
+    "n": {
+      "translation": ["菜单", "(功能选择)菜单，选单"],
+      "plural": ["menus"]
+    }
+  },
+  "merchant": {
+    "n": {
+      "translation": ["商人", "批发商", "(某活动的)爱好者", "(尤指)进出口批发商", "热衷于…的人"],
+      "plural": ["merchants"]
+    },
+    "adj": {
+      "translation": ["海上货运的"]
+    }
+  },
+  "mercury": {
+    "n": {
+      "translation": ["汞", "水银"]
+    }
+  },
+  "mercy": {
+    "n": {
+      "translation": [
+        "怜悯", "仁慈，慈悲", "宽恕", "（神的）恩惠", "幸运，侥幸", "（对犯有死罪者的）宽大处理（指改判死刑为徒刑）",
+        "（从痛苦等中的）解脱", "仁慈行为，善行"
+      ],
+      "plural": ["mercies"]
+    },
+    "int": {
+      "translation": ["〈古〉（表示惊愕、惊恐、烦恼等）嗳呀，哎呀"]
+    },
+    "adj": {
+      "translation": ["慈善的", "救援的", "出于怜悯的"]
+    }
+  },
+  "mere": {
+    "adj": {
+      "translation": ["仅仅的", "只不过", "只凭…就足以"],
+      "superlative": ["merest"]
+    },
+    "n": {
+      "translation": ["小湖", "池塘"],
+      "plural": ["meres"]
+    }
+  },
+  "merely": {
+    "adv": {
+      "translation": ["仅仅", "只不过"]
+    }
+  },
+  "merit": {
+    "n": {
+      "translation": [
+        "优点", "价值", "功绩", "长处", "(学校或大学考试或作业的)良好", "美德", "值得赞扬(或奖励、钦佩)的特点"
+      ],
+      "plural": ["merits"]
+    },
+    "vt": {
+      "translation": ["应得", "值得"],
+      "singular": ["merits"],
+      "present": ["meriting"],
+      "past": ["merited"]
+    }
+  },
+  "merry": {
+    "adj": {
+      "translation": ["愉快的", "(圣诞节祝贺语)圣诞快乐", "高兴的", "微醉"],
+      "comparative": ["merrier"],
+      "superlative": ["merriest"]
+    },
+    "n": {
+      "translation": ["梅丽", "女子名"]
+    }
+  },
+  "mess": {
+    "n": {
+      "translation": [
+        "混乱", "困境", "（军队的）食堂，餐厅", "(组织欠佳等导致的)麻烦", "许多", "杂乱", "肮脏", "（狗、猫等的）粪便",
+        "不整洁", "不整洁(或邋遢、不修边幅)的人", "遇到严重问题且精神状态不佳的人"
+      ],
+      "plural": ["messes"]
+    },
+    "v": {
+      "translation": ["弄乱", "弄脏", "使不整洁", "随地便溺"],
+      "singular": ["messes"],
+      "present": ["messing"],
+      "past": ["messed"]
+    }
+  },
+  "message": {
+    "n": {
+      "translation": ["消息", "(书面或口头的)信息", "购物", "要点", "(书籍、演讲等的)要旨", "电邮(或手机)信息", "音信"],
+      "plural": ["messages"]
+    },
+    "vt": {
+      "translation": ["向(某人)传送(电子信息)"],
+      "singular": ["messages"],
+      "present": ["messaging"],
+      "past": ["messaged"]
+    }
+  },
+  "messenger": {
+    "n": {
+      "translation": ["信使", "送信人", "邮递员", "通信员"],
+      "plural": ["messengers"]
+    }
+  },
+  "metal": {
+    "n": {
+      "translation": [
+        "金属，合金", "金属制品", "本质", "（复数形式）（铁路的）钢轨", "气质", "铸铁溶液，玻璃液，熔融状态的玻璃",
+        "（强节奏、大音量的）重金属摇滚乐", "勇气", "〈印〉活字合金，字铅", "筑路碎石", "〈军〉（一艘军舰的）炮火力，总炮数"
+      ],
+      "plural": ["metals"]
+    },
+    "v": {
+      "translation": ["用金属做，用金属包", "〈英〉用碎石筑（路），用碎石修（路)", "〈美〉演奏重金属摇滚乐"],
+      "singular": ["metals"],
+      "present": ["metalling"],
+      "past": ["metalled"]
+    },
+    "adj": {
+      "translation": ["金属制的"]
+    }
+  },
+  "meter": {
+    "n": {
+      "translation": ["米", "计", "表", "仪", "(用于测量电、煤气、水等，以及时间和距离的)计量器，计量表"],
+      "plural": ["meters"]
+    },
+    "vt": {
+      "translation": ["用仪表计量"],
+      "singular": ["meters"],
+      "present": ["metering"],
+      "past": ["metered"]
+    }
+  },
+  "method": {
+    "n": {
+      "translation": ["方法", "办法", "措施", "有条不紊", "条理"],
+      "plural": ["methods"]
+    }
+  },
+  "metre": {
+    "n": {
+      "translation": ["米", "公尺", "(诗的)格律", "用于竞赛名称"],
+      "plural": ["metres"]
+    }
+  },
+  "metric": {
+    "adj": {
+      "translation": ["公制的", "米制的", "按公制制作的", "用公制测量的"]
+    },
+    "n": {
+      "translation": ["度量标准", "诗体", "韵文", "诗韵", "[数学]度量"],
+      "plural": ["metrics"]
+    }
+  },
+  "microcomputer": {
+    "n": {
+      "translation": ["微型计算机"],
+      "plural": ["microcomputers"]
+    }
+  },
+  "microphone": {
+    "n": {
+      "translation": ["麦克风", "话筒", "传声器"],
+      "plural": ["microphones"]
+    }
+  },
+  "microscope": {
+    "n": {
+      "translation": ["显微镜"],
+      "plural": ["microscopes"]
+    }
+  },
+  "midday": {
+    "n": {
+      "translation": ["中午", "正午"]
+    },
+    "adj": {
+      "translation": ["正午的"]
+    }
+  },
+  "middle": {
+    "adj": {
+      "translation": ["中间的", "中央的", "居中的", "正中的"]
+    },
+    "n": {
+      "translation": ["中间", "中部", "中心", "中央", "腰部"],
+      "plural": ["middles"]
+    }
+  },
+  "midnight": {
+    "n": {
+      "translation": ["午夜，子夜，半夜（12点钟）", "漆黑"]
+    },
+    "adj": {
+      "translation": ["子夜的，午夜的，半夜的", "半夜里似的，漆黑的"]
+    }
+  },
+  "midst": {
+    "n": {
+      "translation": ["中部, 中间, 中央", "当中"]
+    },
+    "prep": {
+      "translation": ["在（做）……中", "在……中间, 在……当中", "在……之中, 和……一起", "在……期间, 当……时候"]
+    }
+  },
+  "might": {
+    "n": {
+      "translation": ["〈方〉大量，许多", "能力", "可能性", "强权，势力，权势", "强大力量，威力"]
+    }
+  },
+  "mild": {
+    "adj": {
+      "translation": ["温和的", "轻微的", "和善的", "和煦的", "不强烈的", "不严厉的", "不浓的"],
+      "comparative": ["milder"],
+      "superlative": ["mildest"]
+    },
+    "n": {
+      "translation": ["淡味啤酒"]
+    }
+  },
+  "mile": {
+    "n": {
+      "translation": [
+        "英里（= 1 609米或1 760码）", "（复数）大面积，长距离", "很长的路程，长距离", "英里赛跑（或跑马）",
+        "〈口〉很大的程度（强调区别或目标与现实的差距）"
+      ],
+      "plural": ["miles"]
+    },
+    "adv": {
+      "translation": ["〈口〉以很大距离", "在很大程度上"]
+    }
+  },
+  "military": {
+    "adj": {
+      "translation": ["军事的", "军队的", "武装的"]
+    },
+    "n": {
+      "translation": ["军队", "军方", "军人"],
+      "plural": ["militaries"]
+    }
+  },
+  "milk": {
+    "n": {
+      "translation": ["牛奶", "(牛或羊等的)奶", "(人或哺乳动物的)奶，乳汁", "(椰子等植物的)白色汁液，乳液"]
+    },
+    "vt": {
+      "translation": ["挤奶", "捞好处", "趁机牟利", "捞一把"],
+      "singular": ["milks"],
+      "present": ["milking"],
+      "past": ["milked"]
+    }
+  },
+  "mill": {
+    "n": {
+      "translation": ["磨坊", "工厂", "磨粉机", "面粉厂", "制造厂", "磨面机"],
+      "plural": ["mills"]
+    },
+    "vt": {
+      "translation": ["(用磨粉机)碾碎，磨成粉"],
+      "singular": ["mills"],
+      "present": ["milling"],
+      "past": ["milled"]
+    }
+  },
+  "millimetre": {
+    "n": {
+      "translation": ["毫米", "千分之一米"],
+      "plural": ["millimetres"]
+    }
+  },
+  "million": {
+    "num": {
+      "translation": ["一百万（个）"],
+      "plural": ["millions"]
+    },
+    "n": {
+      "translation": ["百万元，百万（镑，美元，法郎）", "百万，（人或物的）百万个", "许多，无数", "大众，群众"],
+      "plural": ["millions"]
+    },
+    "adj": {
+      "translation": ["百万的", "许多的，无数的"]
+    }
+  },
+  "mind": {
+    "v": {
+      "translation": [
+        "(请求允许或客气地请人做事)介意", "关心，照看（人或物）", "对(某事)烦恼，苦恼，焦虑", "当心", "听从", "愿意做"
+      ],
+      "singular": ["minds"],
+      "present": ["minding"],
+      "past": ["minded"]
+    },
+    "n": {
+      "translation": ["头脑", "大脑", "心思", "智慧", "思维方式", "记忆力", "聪明人", "思考能力", "富有才智的人"],
+      "plural": ["minds"]
+    }
+  },
+  "mine": {
+    "pron": {
+      "translation": ["我的", "矿"]
+    },
+    "n": {
+      "translation": ["地雷", "矿", "矿井", "水雷"],
+      "plural": ["mines"]
+    },
+    "v": {
+      "translation": ["(在某地)开矿，采矿", "布雷于", "埋雷于", "用雷炸毁(车辆)"],
+      "singular": ["mines"],
+      "present": ["mining"],
+      "past": ["mined"]
+    }
+  },
+  "miner": {
+    "n": {
+      "translation": ["矿工", "采矿者"],
+      "plural": ["miners"]
+    }
+  },
+  "mineral": {
+    "n": {
+      "translation": ["矿物", "矿物质", "汽水"],
+      "plural": ["minerals"]
+    },
+    "adj": {
+      "translation": ["矿物(性)的", "无机的", "含矿物的"]
+    }
+  },
+  "minimum": {
+    "n": {
+      "translation": ["最小值，最少量，极小量", "（法定的）最低限度", "〈数〉极小（值）", "（公路行车的）最低速"],
+      "plural": ["minima"]
+    },
+    "adj": {
+      "translation": ["最小的，最低的，底点的", "最低限度的", "（数量）极少的"]
+    },
+    "adv": {
+      "translation": ["最低，至少"]
+    }
+  },
+  "minister": {
+    "n": {
+      "translation": ["部长", "(英国及其他许多国家的)大臣", "牧师", "公使", "外交使节"],
+      "plural": ["ministers"]
+    },
+    "v": {
+      "translation": ["服务", "帮助", "照顾", "辅助", "服侍"],
+      "singular": ["ministers"],
+      "present": ["ministering"],
+      "past": ["ministered"]
+    }
+  },
+  "ministry": {
+    "n": {
+      "translation": ["(政府的)部", "神职", "(尤指基督教新教的)全体牧师", "牧师职位", "神职任期"],
+      "plural": ["ministries"]
+    }
+  },
+  "minor": {
+    "adj": {
+      "translation": ["少数的", "轻微的", "次要的", "较小的", "小调的", "小音阶的"]
+    },
+    "n": {
+      "translation": ["未成年人", "辅修科目", "辅修课程"],
+      "plural": ["minors"]
+    },
+    "v": {
+      "translation": ["辅修"],
+      "singular": ["minors"],
+      "present": ["minoring"],
+      "past": ["minored"]
+    }
+  },
+  "minority": {
+    "n": {
+      "translation": ["少数（人）", "少数民族（成员），少数群体", "未成年，未到法定年龄，未成年身份", "少数派，少数党"],
+      "plural": ["minorities"]
+    },
+    "adj": {
+      "translation": ["少数民族的", "少数人的，构成少数的", "少数党的，少数派的"]
+    }
+  },
+  "minus": {
+    "prep": {
+      "translation": ["减", "零下", "无", "欠缺(曾经有过的东西)"]
+    },
+    "n": {
+      "translation": ["减号", "负号", "负值", "缺点"],
+      "plural": ["minuses"]
+    },
+    "adj": {
+      "translation": ["负的", "负面的", "小于零的", "略低于A(或B等)", "使显得有欠缺的"]
+    }
+  },
+  "minute": {
+    "n": {
+      "translation": ["分钟", "分", "会议记录", "一会儿", "时刻", "摘要", "一会儿的工夫"],
+      "plural": ["minutes"]
+    },
+    "vt": {
+      "translation": ["将(某事)写进会议记录"],
+      "singular": ["minutes"],
+      "present": ["minuting"],
+      "past": ["minuted"]
+    },
+    "adj": {
+      "translation": ["微小的", "详细的", "细微的", "极小的", "细致入微的"]
+    }
+  },
+  "miracle": {
+    "n": {
+      "translation": [
+        "奇迹", "（神创造的）圣迹，神迹", "出人意料的事，奇事，不可思议的事", "精品", "惊人的事例，令人惊叹的人（或事物）",
+        "极好的例子"
+      ],
+      "plural": ["miracles"]
+    },
+    "adj": {
+      "translation": ["（药物或产品）神奇的，不可思议的"]
+    }
+  },
+  "mirror": {
+    "n": {
+      "translation": ["镜子", "写照", "反映某种情况的事物"],
+      "plural": ["mirrors"]
+    },
+    "vt": {
+      "translation": ["反射", "反映", "映照"],
+      "singular": ["mirrors"],
+      "present": ["mirroring"],
+      "past": ["mirrored"]
+    }
+  },
+  "miserable": {
+    "adj": {
+      "translation": [
+        "（人）痛苦的，苦恼的，流露（或显示）痛苦的", "悲惨的，可悲的，可叹的", "可怜的", "不幸的", "蹩脚的，糟糕的，拙劣的",
+        "贫困的", "卑劣的，卑鄙的，可耻的", "肮脏的，邋遢的", "令人难受（或痛苦）的", "小（或少、低）得可怜的"
+      ]
+    },
+    "n": {
+      "translation": ["遭受苦难的人", "不幸的人", "极度贫困的人"]
+    }
+  },
+  "mislead": {
+    "vt": {
+      "translation": ["误导", "使误信", "引入歧途"],
+      "singular": ["misleads"],
+      "present": ["misleading"],
+      "past": ["misled"]
+    }
+  },
+  "miss": {
+    "v": {
+      "translation": [
+        "错过", "不在", "思念", "迟到", "未达到", "避开（不愉快的事）", "不懂", "未击中", "不做", "不理解", "未得到",
+        "未觉察", "未见到", "未听到", "发觉丢失"
+      ],
+      "singular": ["misses"],
+      "present": ["missing"],
+      "past": ["missed"]
+    },
+    "n": {
+      "translation": ["(称呼不知姓名的年轻女子)小姐", "(用于未婚女子姓氏或姓名前，以示礼貌)小姐，女士", "少女", "未击中"],
+      "plural": ["misses"]
+    }
+  },
+  "missile": {
+    "n": {
+      "translation": ["〈军〉导弹，飞弹，弹道导弹", "发射物，投掷物"],
+      "plural": ["missiles"]
+    },
+    "adj": {
+      "translation": ["（关于）导弹的", "可投射的", "用以发射导弹的"]
+    }
+  },
+  "missing": {
+    "adj": {
+      "translation": ["丢失的", "缺少的", "失踪的", "不在的", "找不到的", "被损毁的", "被去除的"]
+    },
+    "v": {
+      "translation": ["错过", "未达到", "不懂", "未击中", "不理解", "未得到", "未觉察", "未见到", "未听到"]
+    }
+  },
+  "mission": {
+    "n": {
+      "translation": [
+        "使命", "任务，旅行", "代表团", "使团", "军事行动", "(尤指在海外的)传教", "布道", "太空飞行任务", "布道团",
+        "布道所", "官方使命", "执行任务的地点", "使团的使命"
+      ],
+      "plural": ["missions"]
+    },
+    "vi": {
+      "translation": ["作艰苦的长途旅行(尤指去许多地方)"],
+      "singular": ["missions"],
+      "present": ["missioning"],
+      "past": ["missioned"]
+    }
+  },
+  "mist": {
+    "n": {
+      "translation": ["薄雾", "水汽", "液体喷雾"],
+      "plural": ["mists"]
+    },
+    "v": {
+      "translation": ["泪水模糊", "(眼)含泪水", "(使)结满雾气(模糊不清)", "朝(植物)喷雾"],
+      "singular": ["mists"],
+      "present": ["misting"],
+      "past": ["misted"]
+    }
+  },
+  "mistake": {
+    "n": {
+      "translation": ["错误", "(言语或行为上的)失误", "笔误", "(用词或数字等上的)口误"],
+      "plural": ["mistakes"]
+    },
+    "vt": {
+      "translation": ["误会", "误解", "看错"],
+      "singular": ["mistakes"],
+      "present": ["mistaking"],
+      "past": ["mistook", "mistaken"]
+    }
+  },
+  "mister": {
+    "n": {
+      "translation": ["先生(Mr的全写，书写时不常用)"],
+      "plural": ["misters"]
+    }
+  },
+  "mistress": {
+    "n": {
+      "translation": ["女主人", "情妇", "主妇", "(尤指私立学校的)女教师", "有权势的女子"],
+      "plural": ["mistresses"]
+    }
+  },
+  "misunderstand": {
+    "v": {
+      "translation": ["误解", "误会"],
+      "singular": ["misunderstands"],
+      "present": ["misunderstanding"],
+      "past": ["misunderstood"]
+    }
+  },
+  "mix": {
+    "v": {
+      "translation": ["混合", "融合", "配制", "调配", "交往", "(使)掺和", "相容", "混合录音", "平安相处"],
+      "singular": ["mixes"],
+      "present": ["mixing"],
+      "past": ["mixed"]
+    },
+    "n": {
+      "translation": ["混合", "混合料(常为粉状)", "结合", "混杂", "配料", "混音", "混录", "乐曲组合"]
+    }
+  },
+  "mixture": {
+    "n": {
+      "translation": ["混合物", "混合", "结合体", "集合体"],
+      "plural": ["mixtures"]
+    }
+  },
+  "moan": {
+    "v": {
+      "translation": ["呻吟", "抱怨", "呼啸", "发出萧萧声"],
+      "singular": ["moans"],
+      "present": ["moaning"],
+      "past": ["moaned"]
+    },
+    "n": {
+      "translation": ["呻吟声", "抱怨", "(尤指风的)呼啸声，萧萧声"],
+      "plural": ["moans"]
+    }
+  },
+  "mobile": {
+    "adj": {
+      "translation": [
+        "可移动的", "流动的", "多变的", "非固定的", "行动方便", "腿脚灵便", "易于变换社会阶层(或工作、住处)的"
+      ]
+    },
+    "n": {
+      "translation": ["风铃", "(可随风摆动的)悬挂饰物"],
+      "plural": ["mobiles"]
+    }
+  },
+  "mode": {
+    "n": {
+      "translation": [
+        "模式", "方式", "形式，风格", "(情感或行为的)状况", "(设备的)工作状态", "样式", "风格", "众数", "（音乐的）调式"
+      ],
+      "plural": ["modes"]
+    }
+  },
+  "model": {
+    "n": {
+      "translation": ["模型", "设计", "型", "样本", "模范", "模特儿", "样式"],
+      "plural": ["models"]
+    },
+    "v": {
+      "translation": ["复制", "做模特儿", "(向顾客)穿戴展示", "将…做成模型", "将（黏土等）做成模型"],
+      "singular": ["models"],
+      "present": ["modelling"],
+      "past": ["modelled"]
+    },
+    "adj": {
+      "translation": ["模范的"]
+    }
+  },
+  "moderate": {
+    "adj": {
+      "translation": ["适度的", "中等的", "温和的", "适中的", "合理的", "不偏激的", "不激烈的"]
+    },
+    "v": {
+      "translation": ["缓和", "使适中", "审核评分(查看不同阅卷人所打分数是否公平一致)", "主持(讨论、辩论等)"],
+      "singular": ["moderates"],
+      "present": ["moderating"],
+      "past": ["moderated"]
+    },
+    "n": {
+      "translation": ["持温和观点者(尤指政见)"]
+    }
+  },
+  "modern": {
+    "adj": {
+      "translation": [
+        "现代的", "现代化的", "近代的", "当代的", "最新的", "新式的", "新式的，超前的", "有别于传统的", "时新的"
+      ]
+    },
+    "n": {
+      "translation": ["现代人", "现代主义者", "时髦人士", "[印]现代字体", "指印刷中所用的一种字体"],
+      "plural": ["moderns"]
+    }
+  },
+  "modest": {
+    "adj": {
+      "translation": ["谦虚的", "谦逊的", "朴素的", "些许的", "不太大(或太贵、太重要等)的", "庄重的", "不性感的"]
+    }
+  },
+  "modify": {
+    "vt": {
+      "translation": ["修改", "修饰", "调整", "缓和", "使温和", "使更适合"],
+      "singular": ["modifies"],
+      "present": ["modifying"],
+      "past": ["modified"]
+    }
+  },
+  "moist": {
+    "adj": {
+      "translation": ["潮湿的", "湿润的", "微湿的"],
+      "comparative": ["moister"],
+      "superlative": ["moistest"]
+    }
+  },
+  "moisture": {
+    "n": {
+      "translation": ["水分", "潮湿", "水汽", "潮气"]
+    }
+  },
+  "musical": {
+    "adj": {
+      "translation": ["音乐的", "有音乐的", "悦耳的", "喜爱音乐的", "有音乐天赋的", "音乐般的"]
+    },
+    "n": {
+      "translation": ["音乐剧"],
+      "plural": ["musicals"]
+    }
+  },
+  "musician": {
+    "n": {
+      "translation": ["音乐家", "乐师", "作曲家"],
+      "plural": ["musicians"]
+    }
+  },
+  "must": {
+    "n": {
+      "translation": [
+        "必要条件", "（发酵前或发酵中的）葡萄汁", "必须做(或看、买等)的事", "发霉，霉", "必不可少的东西", "葡萄渣",
+        "（尤指发情期的公象或雄骆驼等的）狂暴状态"
+      ],
+      "plural": ["musts"]
+    },
+    "adj": {
+      "translation": ["<口>必要的，必不可少的，极其重要的"]
+    }
+  },
+  "mute": {
+    "adj": {
+      "translation": ["沉默的", "无声的", "哑的", "不出声的"]
+    },
+    "n": {
+      "translation": ["弱音器", "哑巴"],
+      "plural": ["mutes"]
+    },
+    "vt": {
+      "translation": ["消音", "减弱", "减弱(尤指乐器)的声音", "缓解", "减音"],
+      "singular": ["mutes"],
+      "present": ["muting"],
+      "past": ["muted"]
+    }
+  },
+  "mutter": {
+    "v": {
+      "translation": ["咕哝", "(私下)抱怨，发牢骚", "嘟囔", "嘀咕"],
+      "singular": ["mutters"],
+      "present": ["muttering"],
+      "past": ["muttered"]
+    },
+    "n": {
+      "translation": ["嘀咕", "嘟哝", "低语声"]
+    }
+  },
+  "mutton": {
+    "n": {
+      "translation": ["羊肉"]
+    }
+  },
+  "mutual": {
+    "adj": {
+      "translation": [
+        "相互的", "共同的", "<电><电子>互相的", "彼此的", "（保险公司、建筑协会等）互助的", "共有的", "亲密的"
+      ]
+    },
+    "n": {
+      "translation": ["共同的朋友", "互助基金", "互助公司"]
+    }
+  },
+  "my": {
+    "det": {
+      "translation": ["我的", "称呼别人时使用，表示亲切", "用于感叹句，表示吃惊等", "（对下级的称呼）"]
+    },
+    "int": {
+      "translation": ["天哪，哎呀（用于表示惊讶、震惊或愤怒）"]
+    },
+    "pron": {
+      "translation": ["我的", "属于我的", "我所做的", "与我有关的"]
+    }
+  },
+  "myself": {
+    "pron": {
+      "translation": ["(用于动作影响说话人或作者时)我自己", "(强调说话者在做某事)我本人，亲自"]
+    }
+  },
+  "mysterious": {
+    "adj": {
+      "translation": ["神秘的", "奇怪的", "诡秘的", "陌生的", "故弄玄虚的", "不易解释的"]
+    }
+  },
+  "mystery": {
+    "n": {
+      "translation": [
+        "神秘的事物", "谜", "奥秘", "（宗教信仰的）奥义，奥秘，奥迹", "不可思议", "神秘的人(或事物)", "神秘",
+        "（基督教的）圣餐礼", "陌生而有趣的人(或事物)", "不可理解之事", "疑案小说（或电影、戏剧）", "秘密的宗教仪式"
+      ],
+      "plural": ["mysteries"]
+    },
+    "adj": {
+      "translation": ["神秘的", "身份不明的"]
+    }
+  }
+}

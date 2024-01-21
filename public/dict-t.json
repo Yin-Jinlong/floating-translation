@@ -1,0 +1,2868 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "table": {
+    "n": {
+      "translation": ["桌子", "表", "一览表", "几", "台子", "（竞赛等的）名次表，排名榜，积分表", "(就餐或玩牌等的)一桌人"],
+      "plural": ["tables"]
+    },
+    "vt": {
+      "translation": ["(正式)提出，把…列入议事日程", "(将主意、建议等)搁置"],
+      "singular": ["tables"],
+      "present": ["tabling"],
+      "past": ["tabled"]
+    }
+  },
+  "tablet": {
+    "n": {
+      "translation": ["药片", "片剂", "平板", "(固定于墙上作纪念的)牌，碑，匾", "丸", "一块肥皂", "便笺本"],
+      "plural": ["tablets"]
+    },
+    "vt": {
+      "translation": ["用碑牌纪念", "将（备忘录等）写在板上", "将…制成小片或小块"],
+      "singular": ["tablets"],
+      "present": ["tableting"],
+      "past": ["tableted"]
+    }
+  },
+  "tag": {
+    "n": {
+      "translation": [
+        "标签", "标记", "标牌", "符号，名字", "捉人（儿童游戏）", "称呼", "（外国语的）语录，引语，格言，谚语", "诨名",
+        "附加语(为加强语气，如Yes, I do一句中的I do)"
+      ],
+      "plural": ["tags"]
+    },
+    "vt": {
+      "translation": ["给…加上标签", "把…称作", "加标识符(或标记、标签)于", "给…起诨名"],
+      "singular": ["tags"],
+      "present": ["tagging"],
+      "past": ["tagged"]
+    }
+  },
+  "tail": {
+    "n": {
+      "translation": [
+        "尾", "尾巴", "尾部", "后部", "有…尾巴的", "燕尾服", "（离去事物的）末尾部分", "硬币反面，硬币文面", "尾状后部",
+        "盯梢人"
+      ],
+      "plural": ["tails"]
+    },
+    "vt": {
+      "translation": ["跟踪", "尾随", "盯梢"],
+      "singular": ["tails"],
+      "present": ["tailing"],
+      "past": ["tailed"]
+    },
+    "adj": {
+      "translation": ["限定继承的"]
+    }
+  },
+  "tailor": {
+    "n": {
+      "translation": ["(尤指为顾客个别定制男装的)裁缝"],
+      "plural": ["tailors"]
+    },
+    "vt": {
+      "translation": ["专门制作", "订做"],
+      "singular": ["tailors"],
+      "present": ["tailoring"],
+      "past": ["tailored"]
+    }
+  },
+  "take": {
+    "v": {
+      "translation": [
+        "拿", "接受", "采取（措施）", "吃", "使达到", "记录", "需要…时间", "乘坐，搭乘（交通工具）", "拍照", "携带", "遭受",
+        "夺取", "引领", "取走", "容纳", "把…推向", "减去", "运走"
+      ],
+      "singular": ["takes"],
+      "present": ["taking"],
+      "past": ["took", "taken"]
+    },
+    "n": {
+      "translation": ["意见", "看法", "镜头", "(不停机一次连续拍摄的)场景", "收入额", "进项"]
+    }
+  },
+  "tale": {
+    "n": {
+      "translation": ["(尤指充满惊险的)故事", "(精彩但不一定完全真实的)讲述，叙述", "历险记"],
+      "plural": ["tales"]
+    }
+  },
+  "talent": {
+    "n": {
+      "translation": ["才能", "天赋", "人才", "天才", "天资", "有才能的人", "(统称)性感的人"],
+      "plural": ["talents"]
+    }
+  },
+  "talk": {
+    "v": {
+      "translation": [
+        "说话", "说，讲", "讨论，谈论，商谈，洽谈(通常指重大的事)", "(用某种语言)讲，说", "谈话", "讲的是，指的是", "讲话",
+        "说闲话", "供出消息"
+      ],
+      "singular": ["talks"],
+      "present": ["talking"],
+      "past": ["talked"]
+    },
+    "n": {
+      "translation": [
+        "(政府或组织之间正式的)洽谈，会谈，谈判", "讨论", "谈话", "交谈", "话题", "(专题)报告，演讲", "商讨", "传言", "空话"
+      ]
+    }
+  },
+  "tall": {
+    "adj": {
+      "translation": [
+        "高的", "高大的", "（用以表示或询问高度）有……高，身高", "<口>大的，大量的", "<口>夸耀的，夸张的",
+        "<古>卓越的，合宜的", "（植物品种）高棵的，高株的", "（鸟）高飞的", "有特定高度的，有特定身高的"
+      ],
+      "comparative": ["taller"],
+      "superlative": ["tallest"]
+    },
+    "adv": {
+      "translation": ["夸大地", "昂然，趾高气扬地"]
+    }
+  },
+  "tame": {
+    "vt": {
+      "translation": ["驯服", "驯化", "使易于控制"],
+      "singular": ["tames"],
+      "present": ["taming"],
+      "past": ["tamed"]
+    },
+    "adj": {
+      "translation": ["驯服的", "温顺的", "平淡无奇的", "养驯的", "枯燥乏味的", "听使唤的"],
+      "comparative": ["tamer"],
+      "superlative": ["tamest"]
+    }
+  },
+  "tan": {
+    "adj": {
+      "translation": ["棕褐色的", "棕黄色的"],
+      "comparative": ["tanner"],
+      "superlative": ["tannest"]
+    },
+    "n": {
+      "translation": ["黄褐色", "棕黄色", "晒成棕褐肤色", "晒成的棕褐色"],
+      "plural": ["tans"]
+    },
+    "v": {
+      "translation": ["鞣(革)", "(使)晒成褐色，晒黑", "硝(皮)"],
+      "singular": ["tans"],
+      "present": ["tanning"],
+      "past": ["tanned"]
+    },
+    "abbr": {
+      "translation": ["正切"]
+    }
+  },
+  "tank": {
+    "n": {
+      "translation": [
+        "(贮放液体或气体的)箱，槽，罐", "坦克", "（人工）水池，湖，水库", "箱(或桶等)所装之物", "一箱(或一桶等)的量"
+      ],
+      "plural": ["tanks"]
+    },
+    "v": {
+      "translation": ["(尤指故意)输掉(比赛)", "倒闭", "破产", "彻底失败"],
+      "singular": ["tanks"],
+      "present": ["tanking"],
+      "past": ["tanked"]
+    }
+  },
+  "tap": {
+    "n": {
+      "translation": ["水龙头", "龙头", "轻敲", "轻击", "轻拍", "旋塞", "电话窃听", "轻扣", "轻拍音"],
+      "plural": ["taps"]
+    },
+    "v": {
+      "translation": [
+        "利用，开发，发掘(已有的资源、知识等)", "轻敲", "轻拍", "轻叩", "委任", "（在电话上）安装窃听器，搭线窃听",
+        "(用…)轻轻叩击", "在（树）上切口（导出液体）", "发轻拍音"
+      ],
+      "singular": ["taps"],
+      "present": ["tapping"],
+      "past": ["tapped"]
+    }
+  },
+  "tape": {
+    "n": {
+      "translation": ["磁带", "胶带", "狭带，带子，线带，窄布条", "录音带", "录像带", "胶条", "（赛跑场地的）终点线"],
+      "plural": ["tapes"]
+    },
+    "vt": {
+      "translation": ["把…录在磁带上", "用胶带粘住", "用胶带粘贴", "用绷带包扎", "用带子系紧"],
+      "singular": ["tapes"],
+      "present": ["taping"],
+      "past": ["taped"]
+    }
+  },
+  "target": {
+    "n": {
+      "translation": ["目标", "(攻击的)目标，对象", "靶", "指标", "靶子"],
+      "plural": ["targets"]
+    },
+    "vt": {
+      "translation": ["面向，把…对准(某群体)", "把…作为攻击目标", "把…作为批评的对象"],
+      "singular": ["targets"],
+      "present": ["targetting"],
+      "past": ["targeted"]
+    }
+  },
+  "task": {
+    "n": {
+      "translation": ["任务", "(尤指艰巨或令人厌烦的)工作", "(尤指语言教学中旨在帮助达到某一学习目的的)活动"],
+      "plural": ["tasks"]
+    },
+    "vt": {
+      "translation": ["交给某人(任务)", "派给某人(工作)"],
+      "singular": ["tasks"],
+      "present": ["tasking"],
+      "past": ["tasked"]
+    }
+  },
+  "taste": {
+    "n": {
+      "translation": [
+        "味道，滋味", "味觉", "<美俚>酒", "体验，感受", "兴趣，爱好", "一口", "鉴赏力，审美力", "一点儿", "少许尝的东西"
+      ],
+      "plural": ["tastes"]
+    },
+    "v": {
+      "translation": [
+        "尝，品尝", "吃，喝", "<古>喜欢，差好，欣赏", "（短暂地）体验，领略，经历", "尝起来", "意识到，感觉到", "察觉(或辨出)……的味道"
+      ],
+      "singular": ["tastes"],
+      "present": ["tasting"],
+      "past": ["tasted"]
+    }
+  },
+  "tax": {
+    "n": {
+      "translation": ["税", "税款"],
+      "plural": ["taxes"]
+    },
+    "vt": {
+      "translation": ["使纳税", "对…征税", "课税", "使大伤脑筋", "缴纳车辆牌照税", "使受压力", "使负重担"],
+      "singular": ["taxes"],
+      "present": ["taxing"],
+      "past": ["taxed"]
+    }
+  },
+  "taxi": {
+    "n": {
+      "translation": [
+        "出租车", "的士", "出租汽车", "计程车", "(非洲某些地方走固定路线、乘客可随时上下的)小公共汽车，小巴士"
+      ],
+      "plural": ["taxis"]
+    },
+    "vi": {
+      "translation": ["(起飞前或降落后在地面上)滑行"],
+      "singular": ["taxis"]
+    }
+  },
+  "tea": {
+    "n": {
+      "translation": ["茶", "茶叶", "茶水", "一杯茶", "茶点", "晚点，便餐", "热饮料"],
+      "plural": ["teas"]
+    }
+  },
+  "teach": {
+    "v": {
+      "translation": ["教育，教导", "教(课程)", "教", "讲授，教授", "训练", "使懂得(情理)", "使引以为戒"],
+      "singular": ["teaches"],
+      "present": ["teaching"],
+      "past": ["taught"]
+    },
+    "n": {
+      "translation": ["<口>教师"]
+    }
+  },
+  "teacher": {
+    "n": {
+      "translation": ["教师", "老师", "教员", "先生"],
+      "plural": ["teachers"]
+    }
+  },
+  "teaching": {
+    "n": {
+      "translation": ["教学", "教导", "指导", "授课", "教义", "教诲", "学说"],
+      "plural": ["teachings"]
+    },
+    "v": {
+      "translation": ["教育", "教(课程)", "教", "教导", "教授", "训练", "讲授", "使懂得(情理)"]
+    }
+  },
+  "team": {
+    "n": {
+      "translation": ["团队", "(游戏或运动的)队", "(一起工作的)组，班", "(同拉一辆车等的)一组牲畜，联畜"],
+      "plural": ["teams"]
+    },
+    "vt": {
+      "translation": ["使合作", "使协作", "使互相配合"],
+      "singular": ["teams"],
+      "present": ["teaming"],
+      "past": ["teamed"]
+    }
+  },
+  "tear": {
+    "v": {
+      "translation": [
+        "撕裂", "撕开，划成，刺出，扯开(裂口或洞)", "撕掉", "撕碎", "拉伤", "拔掉", "扯破", "扯掉", "戳破", "拉掉", "飞跑",
+        "挣开", "深受…之苦的"
+      ],
+      "singular": ["tears"],
+      "present": ["tearing"],
+      "past": ["tore", "torn"]
+    },
+    "n": {
+      "translation": ["眼泪", "泪水", "泪珠", "裂缝", "裂口", "破洞"],
+      "plural": ["tears"]
+    }
+  },
+  "technical": {
+    "adj": {
+      "translation": [
+        "技术（性）的", "（语言）专业的", "工艺（上）的", "与机器（或系统）运行相关的，技术性的",
+        "（尤指体育或艺术等活动）技巧（上）的", "严格按照法律意义的，严格按字面解释的"
+      ]
+    },
+    "n": {
+      "translation": ["<主美>架着机枪的小卡车", "<主美>架着机枪的小卡车上的持枪人"]
+    }
+  },
+  "technician": {
+    "n": {
+      "translation": ["技术员", "技师", "(艺术、体育等的)技巧精湛者，精于技巧者"],
+      "plural": ["technicians"]
+    }
+  },
+  "technique": {
+    "n": {
+      "translation": ["技巧", "工艺", "技术", "技能", "技艺"],
+      "plural": ["techniques"]
+    }
+  },
+  "technology": {
+    "n": {
+      "translation": ["技术", "科技", "工艺", "工程技术", "工艺学", "技术学", "技术性机器(或设备)"],
+      "plural": ["technologies"]
+    }
+  },
+  "tedious": {
+    "adj": {
+      "translation": ["乏味的", "冗长的", "令人厌烦的", "啰唆的"]
+    }
+  },
+  "teenager": {
+    "n": {
+      "translation": ["青少年", "(13至19岁之间的)青少年男女"],
+      "plural": ["teenagers"]
+    }
+  },
+  "telegram": {
+    "n": {
+      "translation": ["电报(用电信号传递的信息)"],
+      "plural": ["telegrams"]
+    }
+  },
+  "telegraph": {
+    "n": {
+      "translation": ["电报(通信方式)"],
+      "plural": ["telegraphs"]
+    },
+    "v": {
+      "translation": ["打电报", "电告", "(无意中)流露(思想)，泄露(动机)", "用电报发送(电文)"],
+      "singular": ["telegraphs"],
+      "present": ["telegraphing"],
+      "past": ["telegraphed"]
+    }
+  },
+  "telephone": {
+    "n": {
+      "translation": ["电话", "电话机", "(电话机的)话筒，受话器"],
+      "plural": ["telephones"]
+    },
+    "v": {
+      "translation": ["给某人打电话"],
+      "singular": ["telephones"],
+      "present": ["telephoning"],
+      "past": ["telephoned"]
+    }
+  },
+  "telescope": {
+    "n": {
+      "translation": ["望远镜"],
+      "plural": ["telescopes"]
+    },
+    "v": {
+      "translation": ["(使)叠套缩短，叠缩", "缩短，精简，压缩(成…)"]
+    }
+  },
+  "television": {
+    "n": {
+      "translation": ["电视", "电视机", "电视节目", "电视系统", "电视广播业", "电视学"],
+      "plural": ["televisions"]
+    }
+  },
+  "tell": {
+    "v": {
+      "translation": [
+        "告诉", "说", "知道", "讲述", "告知", "提供(情况)", "说明", "显示", "表达", "命令", "识别", "泄露（秘密）",
+        "产生效果，发生影响（尤指负面影响）"
+      ],
+      "singular": ["tells"],
+      "present": ["telling"],
+      "past": ["told"]
+    },
+    "n": {
+      "translation": ["谈话", "传闻", "[方言]讲的话", "[考古学]（古代村落遗址堆积而成的）台形土墩"],
+      "plural": ["tells"]
+    }
+  },
+  "temper": {
+    "n": {
+      "translation": ["脾气", "情绪", "心情", "火气", "怒气", "有…脾气的", "心境", "易怒的性情", "阵怒"],
+      "plural": ["tempers"]
+    },
+    "vt": {
+      "translation": ["使(金属)回火", "使温和", "使缓和"],
+      "singular": ["tempers"],
+      "present": ["tempering"],
+      "past": ["tempered"]
+    }
+  },
+  "temperature": {
+    "n": {
+      "translation": ["温度", "气温", "体温"],
+      "plural": ["temperatures"]
+    }
+  },
+  "temple": {
+    "n": {
+      "translation": ["寺庙", "(非基督教的)庙宇，寺院，神殿，圣堂", "太阳穴", "鬓角", "颞部", "颞颥"],
+      "plural": ["temples"]
+    }
+  },
+  "temporary": {
+    "adj": {
+      "translation": ["临时的", "暂时的", "短暂的"]
+    },
+    "n": {
+      "translation": ["临时工", "临时雇员"],
+      "plural": ["temporaries"]
+    }
+  },
+  "tempt": {
+    "vt": {
+      "translation": ["引诱", "诱惑", "怂恿", "利诱", "劝诱", "鼓动"],
+      "singular": ["tempts"],
+      "present": ["tempting"],
+      "past": ["tempted"]
+    }
+  },
+  "temptation": {
+    "n": {
+      "translation": ["诱惑", "引诱", "煽诱人的事物"],
+      "plural": ["temptations"]
+    }
+  },
+  "ten": {
+    "num": {
+      "translation": ["十"],
+      "plural": ["tens"]
+    },
+    "n": {
+      "translation": [
+        "十个(人或物)", "10分钟", "10岁", "(扑克牌的)10点", "第十(课、章、行等)", "10点钟", "十个(人或物)一组",
+        "<美口>10美元票面的钞票", "<英口>10英镑票面的钞票", "表示十的符号", "编号为10的东西"
+      ],
+      "plural": ["tens"]
+    },
+    "adj": {
+      "translation": ["十的"]
+    }
+  },
+  "tenant": {
+    "n": {
+      "translation": ["房客", "租户", "佃户"],
+      "plural": ["tenants"]
+    },
+    "vt": {
+      "translation": ["(作为租赁者)居住，工作"]
+    }
+  },
+  "tend": {
+    "v": {
+      "translation": [
+        "倾向", "趋于", "趋向", "往往会", "常常就", "招待，侍候，照顾，照料", "照料", "走向", "护理", "照管"
+      ],
+      "singular": ["tends"],
+      "present": ["tending"],
+      "past": ["tended"]
+    }
+  },
+  "tendency": {
+    "n": {
+      "translation": ["趋势", "倾向", "趋向", "偏好", "性情", "(政党内的)极端派别"],
+      "plural": ["tendencies"]
+    }
+  },
+  "tender": {
+    "adj": {
+      "translation": ["柔软的", "嫩的", "温柔的", "疼痛的", "亲切的", "慈爱的", "和善的", "一触即痛的", "易损坏的"],
+      "comparative": ["tenderer"],
+      "superlative": ["tenderest"]
+    },
+    "n": {
+      "translation": ["投标", "(在大船和口岸之间载运人或货物的)供应船，补给船，交通船", "(蒸汽机车的)煤水车"],
+      "plural": ["tenders"]
+    },
+    "v": {
+      "translation": ["投标", "提供", "提出", "提议"],
+      "singular": ["tenders"],
+      "present": ["tendering"],
+      "past": ["tendered"]
+    }
+  },
+  "tennis": {
+    "n": {
+      "translation": ["网球"]
+    }
+  },
+  "tense": {
+    "adj": {
+      "translation": [
+        "紧张的", "紧的", "拉紧的", "绷紧的", "担心的", "令人紧张的(或焦虑的、满腹愤懑的等)", "不能松弛的"
+      ],
+      "comparative": ["tenser"],
+      "superlative": ["tensest"]
+    },
+    "n": {
+      "translation": ["(动词的)时", "时态"],
+      "plural": ["tenses"]
+    },
+    "v": {
+      "translation": ["(使肌肉)拉紧", "绷紧"],
+      "singular": ["tenses"],
+      "present": ["tensing"],
+      "past": ["tensed"]
+    }
+  },
+  "tent": {
+    "n": {
+      "translation": ["帐篷", "帐棚"],
+      "plural": ["tents"]
+    },
+    "vt": {
+      "translation": ["观察", "照料", "看护", "向…供应帐篷", "住帐蓬用帐蓬遮盖", "将塞条嵌进（伤口）"],
+      "singular": ["tents"],
+      "present": ["tenting"],
+      "past": ["tented"]
+    }
+  },
+  "tenth": {
+    "ord": {
+      "translation": ["第十"],
+      "plural": ["tenths"]
+    },
+    "n": {
+      "translation": ["第十", "十分之一", "（月的）第十日", "（英史）什一税", "十分之一加仑", "<音>第十音阶，十度音"],
+      "plural": ["tenths"]
+    },
+    "num": {
+      "translation": ["第十(的)", "十分之一(的)"],
+      "plural": ["tenths"]
+    }
+  },
+  "term": {
+    "n": {
+      "translation": [
+        "学期(尤用于英国，学校一年分三个学期)", "期限", "任期", "项", "期", "到期", "词语", "措辞", "术语"
+      ],
+      "plural": ["terms"]
+    },
+    "vt": {
+      "translation": ["把…称为", "把…叫做"],
+      "singular": ["terms"],
+      "present": ["terming"],
+      "past": ["termed"]
+    }
+  },
+  "terminal": {
+    "n": {
+      "translation": ["终点站", "（电路的）端子，线接头", "终端机", "终端", "航空站", "航空终点站"],
+      "plural": ["terminals"]
+    },
+    "adj": {
+      "translation": ["末端的", "晚期的", "致命的", "患绝症的", "不可救药的", "不治的", "无可挽回的"]
+    }
+  },
+  "terrible": {
+    "adj": {
+      "translation": [
+        "可怕的，骇人的", "<口>糟糕的，很蹩脚的", "极度的", "困难的，艰难的", "危害极大的，造成极大伤害的，非常严重的",
+        "劣质的，劣等的", "非常讨厌的，令人极不快的", "不痛快，身体不舒服", "极为重大的"
+      ]
+    },
+    "adv": {
+      "translation": ["极度地，非常地"]
+    },
+    "n": {
+      "translation": ["可怕的人（或物）"]
+    }
+  },
+  "terrific": {
+    "adj": {
+      "translation": ["了不起的", "极好的", "巨大的", "很大的", "绝妙的", "异乎寻常的"]
+    }
+  },
+  "territory": {
+    "n": {
+      "translation": [
+        "领土", "(某人负责的)地区", "（某类）地区", "(个人、群体、动物等占据的)领域，管区，地盘", "领地", "版图", "（美国）准州"
+      ],
+      "plural": ["territories"]
+    }
+  },
+  "terror": {
+    "n": {
+      "translation": [
+        "恐怖", "恐惧", "(通常出于政治目的)恐怖行动", "惊恐", "惊骇", "恐怖的事", "讨厌鬼", "可怕的人", "可怕的情况"
+      ],
+      "plural": ["terrors"]
+    }
+  },
+  "test": {
+    "n": {
+      "translation": ["测试", "试验", "检验", "(医疗上的)检查，化验，检验", "测验", "考查"],
+      "plural": ["tests"]
+    },
+    "v": {
+      "translation": ["测试", "试验", "检验", "检查", "考验", "测验", "化验", "考查"],
+      "singular": ["tests"],
+      "present": ["testing"],
+      "past": ["tested"]
+    }
+  },
+  "text": {
+    "n": {
+      "translation": [
+        "文本", "(书籍或杂志的)正文，本文(并非附注、图片等)", "文档", "文章", "课本，教科书，剧本", "文稿", "剧本",
+        "演讲稿", "《圣经》经文"
+      ],
+      "plural": ["texts"]
+    },
+    "v": {
+      "translation": ["(用手机给某人)发短信"],
+      "singular": ["texts"],
+      "present": ["texting"],
+      "past": ["texted"]
+    }
+  },
+  "textbook": {
+    "n": {
+      "translation": ["教科书", "教材", "课本"],
+      "plural": ["textbooks"]
+    },
+    "adj": {
+      "translation": ["规范的", "标准的"]
+    }
+  },
+  "textile": {
+    "n": {
+      "translation": ["纺织品，纺织原料", "纺织业", "<口>非自然主义者(尤指在海滩上穿游泳衣者)"],
+      "plural": ["textiles"]
+    },
+    "adj": {
+      "translation": ["纺织的", "<口>非自然主义的"]
+    }
+  },
+  "than": {
+    "prep": {
+      "translation": [
+        "(用以引出比较的第二部分)比", "(比较数量、距离等)多于，于，少于", "(表示一事紧跟另一事发生)就",
+        "（用于 else, other 等之后）除……（外）"
+      ]
+    },
+    "conj": {
+      "translation": [
+        "(用以引出比较的第二部分)比", "(比较数量、距离等)多于，于，少于", "(表示一事紧跟另一事发生)就",
+        "（用于 else, other 等之后）除……（外）"
+      ]
+    }
+  },
+  "thank": {
+    "vt": {
+      "translation": ["感谢", "谢谢(某人)", "(为某事)道谢，向……表示谢意", "要……负责，责怪"],
+      "singular": ["thanks"],
+      "present": ["thanking"],
+      "past": ["thanked"]
+    },
+    "n": {
+      "translation": ["感谢，谢谢", "谢意", "道谢的话"],
+      "plural": ["thanks"]
+    }
+  },
+  "that": {
+    "det": {
+      "translation": ["(指较远的人或事物)那，那个", "(指已提到过或已知的人或事物)那，那个", "（用于对比）那，那个"]
+    },
+    "pron": {
+      "translation": [
+        "那个", "(特指)那", "那种", "那些", "用作关系代词，引导从句", "前者(指上文已提到的两点中的前一点, 其后一点用this表示)"
+      ]
+    },
+    "conj": {
+      "translation": [
+        "（引导状语从句, 表示目的）为了", "（引导状语从句，表示结果）以至于", "（引导状语从句，表示原因或理由）因为，由于",
+        "（引导状语从句, 表示让步）虽然，尽管", "（表示希望或愿望）多么"
+      ]
+    },
+    "adv": {
+      "translation": ["那样", "不很", "不那么", "(用以强调程度)那么"]
+    },
+    "adj": {
+      "translation": [
+        "(指已被提到的人或事物等)那，那个", "(指两个或两个以上的人或东西中较远的一个)那，那个", "9用于对比）那，那个",
+        "<古><口>那样的，如此的"
+      ]
+    }
+  },
+  "the": {
+    "art": {
+      "translation": [
+        "这个", "指已提到或易领会到的人或事物", "指独一无二的、正常的或不言而喻的人或事物", "用以泛指",
+        "与形容词连用，指事物或统称的人", "用于姓氏的复数形式前，指家庭或夫妇", "（指特定用途的事物）足够，恰好", "每，一",
+        "当前的，本，此", "（重读，表示所指的为知名或重要的人或事物）"
+      ]
+    },
+    "adv": {
+      "translation": [
+        "（用于副词最高级前, 但通常可省略）", "（用于形容词、副词比较级前）为了那个，由于某事而更……，到相应程度",
+        "（用于形容词、副词比较级前）越……越……"
+      ]
+    }
+  },
+  "theatre": {
+    "n": {
+      "translation": ["剧院", "剧场", "戏剧", "演出", "戏院", "上演", "战场", "露天剧场", "剧作", "戏剧工作"],
+      "plural": ["theatres"]
+    }
+  },
+  "their": {
+    "det": {
+      "translation": ["他们的", "她们的", "它们的", "在提及性别不详的人时，用以代替his或her"]
+    }
+  },
+  "theirs": {
+    "pron": {
+      "translation": ["他们的", "它们的(所有物)", "她们的"]
+    }
+  },
+  "them": {
+    "pron": {
+      "translation": ["他们", "它们", "她们", "指性别不详的人时，用以代替him或her"]
+    },
+    "adj": {
+      "translation": ["<口> 那些"]
+    }
+  },
+  "themselves": {
+    "pron": {
+      "translation": [
+        "他们自己", "它们自己", "她们自己", "(用以强调they或复数主语)他们(或她们、它们)亲自，他们(或她们、它们)本身",
+        "指性别不详的人时，用以代替himself或herself"
+      ]
+    }
+  },
+  "then": {
+    "adv": {
+      "translation": [
+        "然后", "(指过去)当时，那时", "(指将来)到那时，届时", "接着", "其后", "后来", "那么", "因此", "既然如此", "另外",
+        "总之"
+      ]
+    },
+    "adj": {
+      "translation": ["当时(任职等)的"]
+    },
+    "n": {
+      "translation": ["那时"]
+    }
+  },
+  "theoretical": {
+    "adj": {
+      "translation": ["理论的", "理论上的", "假设的", "理论上存在的"]
+    }
+  },
+  "theory": {
+    "n": {
+      "translation": ["理论", "原理", "论", "说", "原则", "学说", "看法", "(未证明的)意见", "推测"],
+      "plural": ["theories"]
+    }
+  },
+  "there": {
+    "adv": {
+      "translation": [
+        "那里", "表示存在或发生", "在那里，到那里，往那里", "存在的，现有的，可得到的", "（故事、辩论等）在那一点上",
+        "用以引起注意", "表示人或事物在某一情况中的作用"
+      ]
+    },
+    "int": {
+      "translation": ["(表示因说中某事而感到满意或表示烦恼)你瞧，好啦，得啦"]
+    },
+    "n": {
+      "translation": ["那个地方"]
+    }
+  },
+  "thereby": {
+    "adv": {
+      "translation": ["从而", "由此", "因此"]
+    }
+  },
+  "therefore": {
+    "adv": {
+      "translation": ["因此", "所以", "因而"]
+    }
+  },
+  "thermometer": {
+    "n": {
+      "translation": ["温度计", "体温计", "寒暑表"],
+      "plural": ["thermometers"]
+    }
+  },
+  "these": {
+    "pron": {
+      "translation": ["这些", "这些，他们(用以说明或询问身份)"]
+    },
+    "det": {
+      "translation": ["(用于名词词组前，指代已提及的人或事物)这些", "(口语中用来引出故事中的人或物)一些"]
+    },
+    "adj": {
+      "translation": ["这些(的)"]
+    }
+  },
+  "they": {
+    "pron": {
+      "translation": ["他们", "她们", "它们", "用以代替he或she，指性别不详的人", "(泛指)人们，人人，众人", "权威人士"]
+    }
+  },
+  "thick": {
+    "adj": {
+      "translation": [
+        "厚的", "粗的", "浓的", "浓密的", "茂密的", "(询问或说明厚度)有…厚", "浓重的", "稠密的", "亲密的", "迟钝的",
+        "嘶哑的，不清的", "能见度低的", "拥满"
+      ],
+      "comparative": ["thicker"],
+      "superlative": ["thickest"]
+    },
+    "n": {
+      "translation": ["最拥挤部分", "活动最多部分", "事物的粗大浓密部分"]
+    },
+    "adv": {
+      "translation": ["厚厚地"]
+    }
+  },
+  "thickness": {
+    "n": {
+      "translation": ["厚度", "层", "厚", "粗"],
+      "plural": ["thicknesses"]
+    }
+  },
+  "thief": {
+    "n": {
+      "translation": ["小偷", "贼", "窃贼"],
+      "plural": ["thieves"]
+    }
+  },
+  "thin": {
+    "adj": {
+      "translation": [
+        "薄的", "瘦的", "细的", "稀薄的", "稀疏的", "稀少的", "微弱的", "质量差的", "能见度较高的", "不真心实意的"
+      ],
+      "comparative": ["thinner"],
+      "superlative": ["thinnest"]
+    },
+    "adv": {
+      "translation": ["薄薄地"]
+    },
+    "v": {
+      "translation": ["(掺水等)使稀薄，使变淡", "变稀疏", "(使)变稀薄，变少", "变稀少"],
+      "singular": ["thins"],
+      "present": ["thinning"],
+      "past": ["thinned"]
+    },
+    "n": {
+      "translation": ["细小部分"]
+    }
+  },
+  "thing": {
+    "n": {
+      "translation": [
+        "事情", "东西", "人，家伙，东西", "事物", "物", "物品", "事实", "生物", "(个人的)用品，衣服", "物件", "形势",
+        "需要的东西", "任何东西", "所有…的事物", "(某种)用具"
+      ],
+      "plural": ["things"]
+    }
+  },
+  "think": {
+    "v": {
+      "translation": ["认为", "想", "思考", "以为", "思想", "记得", "打算", "思索", "只想", "琢磨", "猜想", "料想"],
+      "singular": ["thinks"],
+      "present": ["thinking"],
+      "past": ["thought"]
+    },
+    "n": {
+      "translation": ["想", "想法"]
+    },
+    "adj": {
+      "translation": ["思想(方面)的", "供思考的"]
+    }
+  },
+  "third": {
+    "ord": {
+      "translation": ["第三"],
+      "plural": ["thirds"]
+    },
+    "n": {
+      "translation": [
+        "第三（个），第三名，第三位", "第三等，丙级", "三分之一", "（学校的）三年级", "<音>三度，三音",
+        "（机动车变速器的）第三挡", "<棒>第三垒", "三等学位（英国大学中低于平均水平的学位）", "月的第三日"
+      ],
+      "plural": ["thirds"]
+    },
+    "adj": {
+      "translation": ["第三的", "三分之一的", "第三位的", "三等的"]
+    },
+    "adv": {
+      "translation": ["第三（点）", "居第三位"]
+    },
+    "vt": {
+      "translation": ["把...三等分", "第三个发言支持（动议等）"]
+    }
+  },
+  "thirdly": {
+    "adv": {
+      "translation": ["(用于讲话或文章中列举事项)第三，第三点"]
+    }
+  },
+  "thirst": {
+    "n": {
+      "translation": ["口渴", "渴望", "渴", "渴求", "干渴", "干渴感"],
+      "plural": ["thirsts"]
+    },
+    "vi": {
+      "translation": ["渴", "想喝水"],
+      "singular": ["thirsts"],
+      "present": ["thirsting"],
+      "past": ["thirsted"]
+    }
+  },
+  "thirsty": {
+    "adj": {
+      "translation": ["渴的", "口渴的", "渴望", "缺水的", "干旱的", "渴求", "热望"],
+      "comparative": ["thirstier"],
+      "superlative": ["thirstiest"]
+    }
+  },
+  "thirteen": {
+    "num": {
+      "translation": ["十三"],
+      "plural": ["thirteens"]
+    },
+    "n": {
+      "translation": ["十三个（人或物）", "13 岁", "第十三（课、章、行等）", "13 点钟（即下午 1 点）", "编号为 13 的东西"],
+      "plural": ["thirteens"]
+    },
+    "adj": {
+      "translation": ["十三（的）", "十三个（的）"]
+    }
+  },
+  "thirty": {
+    "num": {
+      "translation": ["三十"],
+      "plural": ["thirties"]
+    },
+    "n": {
+      "translation": [
+        "三十个（人或物）", "<美>（新闻通讯、故事等末尾使用的符号）完，终，结束", "（世纪的）三十年代", "第三十（课、章、行等）",
+        "三十几", "（温度）三十多度", "编号为 30 的东西"
+      ],
+      "plural": ["thirties"]
+    },
+    "adj": {
+      "translation": ["三十（的）", "三十个（的）"]
+    }
+  },
+  "this": {
+    "det/pron": {
+      "translation": [
+        "（指已提到过的人或事物）这", "（指较近的人或事物）这个", "（介绍人或展示事物时用）这样", "今，本，这个，现在",
+        "以下（或以上）所述", "后者（指上文已提到的两点中的后一点）", "（尤指说话者抱有既定看法的人或事物）…的这个（或这些）",
+        "（述说时用）有个"
+      ]
+    },
+    "adv": {
+      "translation": ["<口>这样，这么"]
+    },
+    "adj": {
+      "translation": ["这，这个（通常与 that 相对）", "刚过去的", "即将来到的", "<口>一个"]
+    }
+  },
+  "thorn": {
+    "n": {
+      "translation": [
+        "刺", "荆棘", "(玫瑰之类植物的)棘刺", "刺形符",
+        "字母ð(古英语和古冰岛语用的字母，表示 /θ/ 和 /ð/ 的发音，后书写为th)", "带刺的树"
+      ],
+      "plural": ["thorns"]
+    }
+  },
+  "thorough": {
+    "adj": {
+      "translation": [
+        "彻底的，充分的，全面的", "深入的", "完全的，绝对的（用来强调程度）", "细致的，仔细的，缜密的", "贯通的，贯穿的",
+        "十足的，彻头彻尾的，完完全全的", "仔细周到的，工作缜密的", "技艺精湛的"
+      ]
+    },
+    "n": {
+      "translation": ["（如英王查理一世时期所施行的）全面专横政策（或行动）"]
+    },
+    "adv/prep": {
+      "translation": ["<古> （=through）穿过，通过"]
+    }
+  },
+  "though": {
+    "conj": {
+      "translation": ["虽然", "尽管", "即使", "(用于主句后，引出补充说明，使语气变弱)不过，可是，然而"]
+    },
+    "adv": {
+      "translation": ["(尤用于句末补充说明，使语气减弱)不过，可是，然而"]
+    }
+  },
+  "thought": {
+    "n": {
+      "translation": [
+        "想法", "思考", "思想", "思维", "考虑", "看法", "主意", "记忆", "心思", "关心", "思维过程", "意图", "思考能力"
+      ],
+      "plural": ["thoughts"]
+    },
+    "v": {
+      "translation": ["思想", "认为", "想", "以为", "思考", "思索", "琢磨"]
+    }
+  },
+  "thoughtful": {
+    "adj": {
+      "translation": [
+        "周到的", "思考的", "深思熟虑的", "沉思的", "体贴的", "深思的", "关切的", "关心别人的", "缜密思考过的"
+      ]
+    }
+  },
+  "thousand": {
+    "num": {
+      "translation": ["千，一千"],
+      "plural": ["thousands"]
+    },
+    "n": {
+      "translation": [
+        "许许多多，数以千计", "<数> 千位，千位数", "<美口> 1000 美元", "<英口> 1000 镑", "第一千", "1 000到9 999间的数目",
+        "由一千个（人或物）构成的一组", "一千的符号（如 1000，罗马数字 Ｍ 等）"
+      ],
+      "plural": ["thousands"]
+    },
+    "adj": {
+      "translation": ["一千的， 一千个的", "许许多多的，成百上千的"]
+    }
+  },
+  "thread": {
+    "n": {
+      "translation": [
+        "(棉、毛、丝等的)线", "螺纹", "线索", "思路", "衣服", "脉络", "线状物", "思绪", "贯穿的主线", "细细的一条",
+        "系列相关信息，链式消息"
+      ],
+      "plural": ["threads"]
+    },
+    "v": {
+      "translation": ["通过", "穿过", "穿(针)", "给…装入", "穿行", "串在一起", "纫(针)", "用…线缝", "穿成串"],
+      "singular": ["threads"],
+      "present": ["threading"],
+      "past": ["threaded"]
+    }
+  },
+  "threat": {
+    "n": {
+      "translation": ["威胁", "恐吓", "征兆", "构成威胁的人", "凶兆", "形成威胁的事物"],
+      "plural": ["threats"]
+    }
+  },
+  "threaten": {
+    "v": {
+      "translation": ["威胁", "危及", "恐吓", "对…构成威胁", "扬言要", "有…危险", "预示凶兆"],
+      "singular": ["threatens"],
+      "present": ["threatening"],
+      "past": ["threatened"]
+    }
+  },
+  "three": {
+    "num": {
+      "translation": ["三"],
+      "plural": ["threes"]
+    },
+    "n": {
+      "translation": [
+        "三个（人或物）", "第三（课、章、行等） ", "三岁", "表示三的符号（3, iii, III）", "<英橄> 中卫", "三个（人或物）一组",
+        "3字型"
+      ],
+      "plural": ["threes"]
+    },
+    "adj": {
+      "translation": ["三（的），三个（的）"]
+    }
+  },
+  "thrill": {
+    "n": {
+      "translation": ["激动", "兴奋", "兴奋感", "令人兴奋的经历", "震颤感", "一阵强烈的感觉"],
+      "plural": ["thrills"]
+    },
+    "vt": {
+      "translation": ["使非常兴奋", "使非常激动"],
+      "singular": ["thrills"],
+      "present": ["thrilling"],
+      "past": ["thrilled"]
+    }
+  },
+  "thrive": {
+    "vi": {
+      "translation": ["繁荣", "蓬勃发展", "茁壮成长", "兴旺发达", "旺盛"],
+      "singular": ["thrives"],
+      "present": ["thriving"],
+      "past": ["thrived"]
+    }
+  },
+  "throat": {
+    "n": {
+      "translation": ["喉咙", "咽喉", "嗓子…的", "有…喉咙的", "颈前部"],
+      "plural": ["throats"]
+    },
+    "vt": {
+      "translation": ["用沙哑的声音或嗓音发音"],
+      "singular": ["throats"],
+      "present": ["throating"],
+      "past": ["throated"]
+    }
+  },
+  "throne": {
+    "n": {
+      "translation": ["宝座", "王位", "王权", "(国王、女王的)御座", "帝位"],
+      "plural": ["thrones"]
+    },
+    "vt": {
+      "translation": ["登上王座使即王位", "使登基"],
+      "singular": ["thrones"],
+      "present": ["throning"],
+      "past": ["throned"]
+    }
+  },
+  "throng": {
+    "n": {
+      "translation": ["人群，聚集的人群，一大群人", "群集，拥挤", "一大群，众多", "挤压，重压"],
+      "plural": ["throngs"]
+    },
+    "v": {
+      "translation": ["蜂拥，群集", "拥塞，拥向"],
+      "singular": ["throngs"],
+      "present": ["thronging"],
+      "past": ["thronged"]
+    },
+    "adj": {
+      "translation": ["<苏格兰> 拥挤的，拥塞的"]
+    }
+  },
+  "through": {
+    "adv": {
+      "translation": [
+        "通过(障碍、阶段或测试)", "（用于形容词后）完全，彻底", "（电话）接通着", "直达", "自始至终", "从头至尾", "从一端到另一端"
+      ]
+    },
+    "prep": {
+      "translation": ["穿过", "贯穿", "直至", "自始至终", "透过…看到", "隔着…听到", "从一端至另一端", "以"]
+    },
+    "adj": {
+      "translation": ["(交通旅行)直达的，直通的，联运的，全程的", "（使用）完成，结束"]
+    }
+  },
+  "throughout": {
+    "prep": {
+      "translation": ["遍及", "各处", "自始至终", "贯穿整个时期"]
+    },
+    "adv": {
+      "translation": ["始终", "处处", "在所有方面"]
+    }
+  },
+  "throw": {
+    "v": {
+      "translation": [
+        "扔", "丢", "抛", "投", "掷", "掷（色子）", "摔", "使处于，使陷入（某种状态）", "按动，扳动，推动", "把…对准",
+        "故意输掉", "照射（光线）", "挥拳猛击", "举行聚会", "猛推", "使心烦意乱", "突然发作（脾气等）", "使劲撞",
+        "猛动（头、臂、腿）", "使迅猛地摔倒在地", "使变音", "（在陶钧上）把…拉制成坯"
+      ],
+      "singular": ["throws"],
+      "present": ["throwing"],
+      "past": ["threw", "thrown"]
+    },
+    "n": {
+      "translation": ["扔", "抛", "投(球)", "掷(色子)", "摔", "(沙发等的)套，罩", "投掷的距离"]
+    }
+  },
+  "thrust": {
+    "v": {
+      "translation": ["冲", "刺", "塞", "戳", "挤", "猛推", "搡"],
+      "singular": ["thrusts"],
+      "present": ["thrusting"],
+      "past": ["thrust"]
+    },
+    "n": {
+      "translation": ["(发动机推动飞机、火箭等的)推力，驱动力", "(论据、政策等的)要点，要旨，重点", "刺", "插", "戳", "猛推"]
+    }
+  },
+  "thumb": {
+    "n": {
+      "translation": ["拇指", "(手套的)拇指部分"],
+      "plural": ["thumbs"]
+    },
+    "v": {
+      "translation": ["翘起拇指请求搭乘(过路汽车)", "示意请求搭便车", "用拇指摸", "用拇指捋"],
+      "singular": ["thumbs"],
+      "present": ["thumbing"],
+      "past": ["thumbed"]
+    }
+  },
+  "thunder": {
+    "v": {
+      "translation": ["打雷", "怒喝", "轰隆隆地响", "使快速移动", "发出雷鸣般响声", "轰隆隆地快速移动"],
+      "singular": ["thunders"],
+      "present": ["thundering"],
+      "past": ["thundered"]
+    },
+    "n": {
+      "translation": ["雷", "雷声", "雷鸣般的响声", "轰隆声"],
+      "plural": ["thunders"]
+    }
+  },
+  "thursday": {
+    "n": {
+      "translation": ["星期四"],
+      "plural": ["Thursdays"]
+    }
+  },
+  "thus": {
+    "adv": {
+      "translation": ["因此", "从而", "这样", "所以", "如此", "以此方式"]
+    }
+  },
+  "tick": {
+    "v": {
+      "translation": [
+        "打上钩，打对号", "（钟表）发出滴答声，滴答地走时", "<口> 活动，工作，起作用", "<主英> 给...标记号",
+        "（某人的思想、愿望或情感使其）做出…举动，有…的行为"
+      ],
+      "singular": ["ticks"],
+      "present": ["ticking"],
+      "past": ["ticked"]
+    },
+    "n": {
+      "translation": [
+        "蜱，壁虱，扁虱（吸血寄生虫，有些种类传播疾病）", "记号，核对号", "（尤指钟表的）滴答声", "<英口> 滴答的一瞬间，一会儿",
+        "对号，钩号", "<口> 赊账，赊欠", "<英口> 讨厌的人，可鄙的人", "（坚质棉布做的）垫套，褥套"
+      ],
+      "plural": ["ticks"]
+    }
+  },
+  "ticket": {
+    "n": {
+      "translation": [
+        "票", "车票", "彩票", "入场券", "券", "(商店中标明货物价格、尺码等的)标签", "奖券", "（交通违章）通知单，罚款单",
+        "戏票", "候选人名单"
+      ],
+      "plural": ["tickets"]
+    },
+    "vt": {
+      "translation": ["给…门票", "售票", "送票", "发出交通违章通知单"],
+      "singular": ["tickets"],
+      "present": ["ticketing"],
+      "past": ["ticketed"]
+    }
+  },
+  "tide": {
+    "n": {
+      "translation": ["潮", "潮汐", "潮流", "潮水", "趋势", "(难以控制的)恶潮，怒潮", "动向", "时节", "高涨的情绪"],
+      "plural": ["tides"]
+    },
+    "v": {
+      "translation": ["随潮漂流"],
+      "singular": ["tides"],
+      "present": ["tiding"],
+      "past": ["tided"]
+    }
+  },
+  "tidy": {
+    "adj": {
+      "translation": ["整洁的", "整齐的", "可观的", "井井有条的", "井然有序的", "高额的"],
+      "comparative": ["tidier"],
+      "superlative": ["tidiest"]
+    },
+    "v": {
+      "translation": ["整理", "使整洁", "使有条理"],
+      "singular": ["tidies"],
+      "present": ["tidying"],
+      "past": ["tidied"]
+    },
+    "n": {
+      "translation": ["盛零碎物品的容器"]
+    }
+  },
+  "tie": {
+    "n": {
+      "translation": [
+        "领带", "线", "联系", "关系", "平局", "纽带", "束缚", "绳子", "（尤指足球）淘汰赛", "金属丝", "延音线"
+      ],
+      "plural": ["ties"]
+    },
+    "v": {
+      "translation": [
+        "连接", "(用线、绳等)系，拴，绑，捆，束", "束缚", "捆绑", "(在线、绳上)打结，系扣", "打成平局", "系牢", "将…系在…上",
+        "束紧", "用连接线连接（音符）", "打结系牢"
+      ],
+      "singular": ["ties"],
+      "present": ["tying"],
+      "past": ["tied"]
+    }
+  },
+  "tiger": {
+    "n": {
+      "translation": ["老虎", "虎"],
+      "plural": ["tigers"]
+    }
+  },
+  "tight": {
+    "adj": {
+      "translation": [
+        "紧的", "严密的", "严格的", "紧身的", "牢固的", "紧贴的", "拉紧的", "不漏…的", "疼痛的，不适的，憋气的", "严厉的",
+        "亲密的", "势均力敌的", "不松动的", "小气的", "装紧的", "喝醉", "急转的", "显得紧张的", "难解开的"
+      ],
+      "comparative": ["tighter"],
+      "superlative": ["tightest"]
+    },
+    "adv": {
+      "translation": ["紧紧地", "牢固地"]
+    },
+    "n": {
+      "translation": ["紧身衣"]
+    }
+  },
+  "till": {
+    "conj/prep": {
+      "translation": ["直到", "直到...为止"]
+    },
+    "n": {
+      "translation": ["(大商店中的)交款处，收银台", "(现金出纳机的)放钱的抽屉"],
+      "plural": ["tills"]
+    },
+    "vt": {
+      "translation": ["耕作", "犁地"],
+      "singular": ["tills"],
+      "present": ["tilling"],
+      "past": ["tilled"]
+    }
+  },
+  "timber": {
+    "n": {
+      "translation": [
+        "木材，原木", "树林，森林", "（建筑等用的）木料", "（用于建筑或制作物品的）树木，林木", "用材林", "<主美> 林地",
+        "<美口>（人的）素质，性格，才干", "（造船或建屋用的）栋木，大梁", "（造船用的）肋材"
+      ],
+      "plural": ["timbers"]
+    },
+    "vt": {
+      "translation": ["用木材建造（或支撑、装配）", "用林木覆盖"],
+      "singular": ["timbers"],
+      "present": ["timbering"],
+      "past": ["timbered"]
+    },
+    "adj": {
+      "translation": ["木材的", "木制的", "木料的"]
+    },
+    "int": {
+      "translation": ["<口>（砍伐树木时说）倒啦，小心大树倒下"]
+    }
+  },
+  "time": {
+    "n": {
+      "translation": [
+        "（以分钟、小时、天等计量的）时间", "（钟表所显示的）时间，钟点，时刻", "（世界某一地区所计量的）时，时间",
+        "（某事发生或应该发生的）时间，时候", "（完成比赛所需要的）时间", "（一生中的）一段日子，时期，时候",
+        "（一生中的）一段日子，时期，时候", "次，回", "倍", "（以某种方式经历的）事件，时刻", "（历史）时期，时代，年代，世道",
+        "（乐曲正确的）速度，节奏", "一段时间", "生命（期），期限，时限", "（用于报刊名）时报", "时机，机会", "工作时间",
+        "规定时间", "<美> <体>（一场或一局的）比赛时限，暂停", "（赛跑等）所用时间，成绩", "当代，时代潮流", "<音>拍子，节拍",
+        "<英>（酒店等的）营业时间，打烊时间", "服役期，刑期", "妊娠期，产期", "生命期，死期", "计时工资率", "学徒期",
+        "衡量时间的方法", "完成赛跑或竞赛项目的）所用时间"
+      ],
+      "plural": ["times"]
+    },
+    "v": {
+      "translation": [
+        "调准，调整", "计时", "打拍子，（与...）合拍", "选择…的时机，为...选择时机", "为…安排时间", "测定…所需的时间",
+        "在某一时刻击球（或踢球）", "定...的节拍（或节奏、速度）"
+      ],
+      "singular": ["times"],
+      "present": ["timing"],
+      "past": ["timed"]
+    },
+    "adj": {
+      "translation": ["时间（方面）的", "定时（发火、爆炸等）的", "定期的", "记录时间的", "<美> 分期（付款）的"]
+    },
+    "prep": {
+      "translation": ["乘以"]
+    }
+  },
+  "timetable": {
+    "n": {
+      "translation": ["时间表", "时刻表", "时间安排", "预定计划"],
+      "plural": ["timetables"]
+    },
+    "vt": {
+      "translation": ["为…安排时间"],
+      "singular": ["timetables"],
+      "present": ["timetabling"],
+      "past": ["timetabled"]
+    }
+  },
+  "timid": {
+    "adj": {
+      "translation": ["胆小的", "羞怯的", "胆怯的", "缺乏勇气的"]
+    }
+  },
+  "tin": {
+    "n": {
+      "translation": [
+        "锡", "罐头", "罐", "罐头盒", "(盛涂料、胶水等的)马口铁罐，白铁桶", "罐装物", "金属食品盒", "烘焙用的金属器皿"
+      ],
+      "plural": ["tins"]
+    },
+    "vt": {
+      "translation": ["镀锡", "包锡", "给…包马口铁", "包白铁"],
+      "singular": ["tins"],
+      "present": ["tinning"],
+      "past": ["tinned"]
+    },
+    "adj": {
+      "translation": ["锡制的", "马口铁制的", "蹩脚的", "假冒的"]
+    }
+  },
+  "tiny": {
+    "adj": {
+      "translation": ["极小的", "微小的", "微量的"],
+      "comparative": ["tinier"],
+      "superlative": ["tiniest"]
+    },
+    "n": {
+      "translation": ["小孩子", "癣", "女子名"]
+    }
+  },
+  "tip": {
+    "n": {
+      "translation": [
+        "提示", "尖端", "端", "小费", "指点", "内幕消息，指点", "垃圾场", "尖儿", "实用的提示", "(装在顶端的)小部件",
+        "脏乱的地方"
+      ],
+      "plural": ["tips"]
+    },
+    "v": {
+      "translation": [
+        "给小费", "(使)倾斜", "倾倒", "轻触", "倒出", "（在户外）倒垃圾", "翻覆", "覆盖…的末端，遮盖…的边", "轻碰", "预言…获胜"
+      ],
+      "singular": ["tips"],
+      "present": ["tipping"],
+      "past": ["tipped"]
+    }
+  },
+  "tire": {
+    "n": {
+      "translation": ["轮胎", "头饰"]
+    },
+    "v": {
+      "translation": ["(使)疲劳，疲倦，困倦"],
+      "singular": ["tires"],
+      "present": ["tiring"],
+      "past": ["tired"]
+    }
+  },
+  "tired": {
+    "adj": {
+      "translation": ["疲倦的", "厌倦", "疲劳的", "厌烦", "困倦的", "陈旧的", "陈腐的", "陈词滥调的"]
+    },
+    "v": {
+      "translation": ["(使)疲劳，疲倦，困倦"]
+    }
+  },
+  "tissue": {
+    "n": {
+      "translation": ["(人、动植物细胞的)组织", "(尤指用作手帕的)纸巾，手巾纸", "(用于包装易碎物品的)薄纸，绵纸"],
+      "plural": ["tissues"]
+    }
+  },
+  "title": {
+    "n": {
+      "translation": [
+        "（书、诗歌、电影、戏剧或其他艺术作品的）名称，标题，题目", "（尤指土地或财产的）所有权，所有权凭证，房地契",
+        "（人名前表示地位、职业、婚否等的）称号，头衔，称谓", "（竞赛、体育比赛的）冠军", "职位名称，职称", "（书刊的）一种，一本"
+      ],
+      "plural": ["titles"]
+    },
+    "v": {
+      "translation": ["（给书籍、乐曲等）加标题，定题目", "为…加上题目（或标题）"],
+      "singular": ["titles"],
+      "present": ["titling"],
+      "past": ["titled"]
+    }
+  },
+  "to": {
+    "prep": {
+      "translation": [
+        "向，朝，往，对着（某方向或某处）", "位于…方向", "到，达（某处）", "到，达（某种状态）", "在…开始之前", "（距整点）差…",
+        "（引出接受者）给，予，向", "对…（重要或必需）", "属于，归于，关于，对于", "面向，朝向，指向", "比",
+        "（表示捆、系、拴等）连接，附着", "等于", "每，一", "向…表示敬意", "伴随", "为了给，以提供", "适合，符合，致使",
+        "按…的看法，据…认为", "变，变得，转变", "直到", " 碰到，触到"
+      ]
+    },
+    "inf": {
+      "translation": ["表示目的或意图", "表示结果", "表示原因", "必须"]
+    },
+    "adv": {
+      "translation": ["关着，关闭，关上"]
+    }
+  },
+  "toast": {
+    "n": {
+      "translation": ["干杯", "吐司", "祝酒", "敬酒", "烤面包片", "(在某领域)广受赞誉的人，有口皆碑的人"],
+      "plural": ["toasts"]
+    },
+    "v": {
+      "translation": ["烤(尤指面包)", "为…干杯", "使暖和", "取暖", "烤火", "为…举杯敬酒", "把…烤得焦黄"],
+      "singular": ["toasts"],
+      "present": ["toasting"],
+      "past": ["toasted"]
+    }
+  },
+  "tobacco": {
+    "n": {
+      "translation": ["烟草", "烟叶"],
+      "plural": ["tobaccos"]
+    }
+  },
+  "today": {
+    "n": {
+      "translation": ["今天", "今日", "现在", "当今", "当代"]
+    },
+    "adv": {
+      "translation": ["在今天", "在今日", "现在", "当今", "当代"]
+    }
+  },
+  "toe": {
+    "n": {
+      "translation": ["脚趾", "(袜、鞋等的)足尖部", "有…脚趾的"],
+      "plural": ["toes"]
+    },
+    "v": {
+      "translation": ["用脚尖走", "用足尖跳舞"],
+      "singular": ["toes"],
+      "present": ["toeing"],
+      "past": ["toed"]
+    }
+  },
+  "together": {
+    "adv": {
+      "translation": [
+        "在一起", "共同", "同时", "到一起", "一致", "以使接触(或相结合)", "关系密切", "有婚姻关系", "接连…地"
+      ]
+    },
+    "adj": {
+      "translation": ["自信而妥实的"]
+    }
+  },
+  "toilet": {
+    "n": {
+      "translation": ["厕所", "卫生间", "抽水马桶", "盥洗室", "坐便器", "梳洗", "(有几个分隔便池的)厕所间"],
+      "plural": ["toilets"]
+    }
+  },
+  "tolerance": {
+    "n": {
+      "translation": ["容忍", "公差", "宽容", "忍受", "容限", "耐量", "耐力", "宽恕", "忍耐力", "忍受性"],
+      "plural": ["tolerances"]
+    }
+  },
+  "tolerate": {
+    "vt": {
+      "translation": [
+        "容忍", "容许，允许(不同意或不喜欢的事物)", "忍受", "包容", "(对药物)有耐受性", "能经受(困难条件)"
+      ],
+      "singular": ["tolerates"],
+      "present": ["tolerating"],
+      "past": ["tolerated"]
+    }
+  },
+  "tomato": {
+    "n": {
+      "translation": ["番茄", "西红柿"],
+      "plural": ["tomatoes"]
+    }
+  },
+  "tomb": {
+    "n": {
+      "translation": ["坟墓", "冢"],
+      "plural": ["tombs"]
+    }
+  },
+  "tomorrow": {
+    "n": {
+      "translation": ["明天", "明日", "未来", "将来", "来日"],
+      "plural": ["tomorrows"]
+    },
+    "adv": {
+      "translation": ["在明天", "在明日"]
+    }
+  },
+  "ton": {
+    "n": {
+      "translation": [
+        "吨(英国为2 240磅，即长吨", "大量", "许多", "注册吨", "100", "美国为2 000磅，即短吨)", "吨位(船舶大小的计量单位，1吨等于100立方英尺)"
+      ],
+      "plural": ["tons"]
+    }
+  },
+  "tone": {
+    "n": {
+      "translation": [
+        "语气", "色调", "（说话的）声调，音调", "（字的）声调", "(尤指乐器或电子音响设备的)音质，音色", "口气", "风格",
+        "口吻", "腔调", "气氛", "声音信号", "情调", "特色", "（肌肉）结实，健壮", "全音"
+      ],
+      "plural": ["tones"]
+    },
+    "v": {
+      "translation": ["与…协调", "与…相配", "使更有力", "使更健壮", "使更结实"],
+      "singular": ["tones"],
+      "present": ["toning"],
+      "past": ["toned"]
+    }
+  },
+  "tongue": {
+    "n": {
+      "translation": ["舌头", "舌", "语言", "鞋舌", "舌状物", "口条", "说话方式", "有…说话方式的"],
+      "plural": ["tongues"]
+    },
+    "vt": {
+      "translation": ["吹奏(管乐器)", "舔"]
+    }
+  },
+  "tonight": {
+    "n": {
+      "translation": ["今晚", "今夜"]
+    },
+    "adv": {
+      "translation": ["在今晚", "在今夜"]
+    }
+  },
+  "too": {
+    "adv": {
+      "translation": ["(用于形容词和副词前)太，过于，过度", "还", "(评说某事物使情况更糟)而且", "很", "也", "又"]
+    }
+  },
+  "tool": {
+    "n": {
+      "translation": ["工具", "(有助于做工或完成某事的)用具，器具，手段，方法", "受人利用的人"],
+      "plural": ["tools"]
+    },
+    "vi": {
+      "translation": ["驱车兜风", "驾车到处跑"],
+      "singular": ["tools"],
+      "present": ["tooling"],
+      "past": ["tooled"]
+    }
+  },
+  "tooth": {
+    "n": {
+      "translation": ["牙齿", "齿", "牙", "齿状部分"],
+      "plural": ["teeth"]
+    },
+    "v": {
+      "translation": ["使具齿状", "给…装牙齿", "刻齿", "(用牙齿)咬(住)"]
+    }
+  },
+  "top": {
+    "n": {
+      "translation": [
+        "顶端，顶部，上端", "表面，上面", "（排名）首位，（位居）第一", " （瓶、罐、管等的）盖，帽，塞", "上衣，上装", "顶点，最高度",
+        "（儿童玩的）陀螺", " （街道等的）尽头，远端", "开端，起点", "<纺>毛条，化学纤维条", "（马戏团等的）帐篷",
+        "最佳的东西（或部分），精华", "<物>顶夸克", "（网球等的）上旋", "最高的级别，最重要的职位", "（用于款额后）最高额",
+        "（根菜作物的）茎叶", "<船>桅盘，桅楼", "<英> （汽车的）高挡", "最优秀的人", "（新闻报道、广播或报纸专栏中的）头条位置",
+        "<牌>顶张（一般指Ａ或Ｋ）", "（棒球比赛的）前半局", "<主英>（牛奶最上层的）奶脂", "高沼泽地", "最重要的事物（或部分）",
+        "旋转的东西"
+      ],
+      "plural": ["tops"]
+    },
+    "adj": {
+      "translation": [
+        "顶端的，顶部的，最上面的", "（位置、级别或程度）最高的", "最大的", "最重要的，居首位的", "很好的，极棒的，顶呱呱的",
+        "最要紧的，最优先的", "（在游戏或比赛中）获胜的", "最著名的", "次数最多的", "<主英>讨人喜欢的", "最优良的"
+      ]
+    },
+    "v": {
+      "translation": [
+        "高于，超过（某一数量）", "覆盖，把（某物）放在…的上面", "结束", "到达山顶，达到顶点（或高峰）",
+        "胜过，优于，压倒（前人所做）", "<俚> 杀死", "居…之首，为…之冠", "<纺>套染（毛条等）",
+        "<体>击（球）的上部（以使其向前旋转），击上旋球", "为（植物）剪顶（或打尖）", "向高处升", "给...涂上装饰层（或保护层）"
+      ],
+      "singular": ["tops"],
+      "present": ["topping"],
+      "past": ["topped"]
+    },
+    "adv": {
+      "translation": ["至多，最多（tops）"]
+    }
+  },
+  "topic": {
+    "n": {
+      "translation": [
+        "（文章、讲演等的）话题，题目", "（章节、段落等的）主题", "<语>话题，主题", "（提纲、大纲等的）标题", "<逻>论题",
+        "—般规则，行为准则，格言"
+      ],
+      "plural": ["topics"]
+    }
+  },
+  "torch": {
+    "n": {
+      "translation": ["火炬", "火把", "手电筒"],
+      "plural": ["torches"]
+    },
+    "vt": {
+      "translation": ["放火烧，纵火烧(建筑物或汽车)"],
+      "singular": ["torches"],
+      "present": ["torching"],
+      "past": ["torched"]
+    }
+  },
+  "torrent": {
+    "n": {
+      "translation": ["洪流", "激流", "急流", "湍流", "狂潮", "迸发", "连发"],
+      "plural": ["torrents"]
+    }
+  },
+  "tortoise": {
+    "n": {
+      "translation": ["乌龟", "龟", "陆龟"],
+      "plural": ["tortoises"]
+    }
+  },
+  "torture": {
+    "n": {
+      "translation": ["折磨", "酷刑", "(精神上或肉体上的)痛苦", "拷打", "拷问", "折磨人的事物"],
+      "plural": ["tortures"]
+    },
+    "vt": {
+      "translation": ["使痛苦", "拷打", "拷问", "严刑逼供", "使苦恼", "使焦急", "使受煎熬"],
+      "singular": ["tortures"],
+      "present": ["torturing"],
+      "past": ["tortured"]
+    }
+  },
+  "toss": {
+    "v": {
+      "translation": [
+        "(轻轻或漫不经心地)扔，抛，掷", "(使)摇摆，挥动，颠簸", "（为…）掷硬币决定", "摇匀", "把（煎饼）颠起翻面",
+        "甩(头，以表示恼怒或不耐烦)"
+      ],
+      "singular": ["tosses"],
+      "present": ["tossing"],
+      "past": ["tossed"]
+    },
+    "n": {
+      "translation": ["(尤指比赛或游戏中)投掷", "掷硬币决定", "向上甩头，猛仰头(尤指表示恼怒或不耐烦)"]
+    }
+  },
+  "total": {
+    "adj": {
+      "translation": ["总的", "完全的", "全部的", "总计的", "彻底的", "全体的"]
+    },
+    "n": {
+      "translation": ["总额", "总数", "合计", "总计"]
+    },
+    "vt": {
+      "translation": ["共计", "把…加起来", "总数达", "计算…的总和", "彻底毁坏(汽车)"],
+      "singular": ["totals"],
+      "present": ["totalling"],
+      "past": ["totalled"]
+    }
+  },
+  "touch": {
+    "v": {
+      "translation": [
+        "触摸", "接触", "移动", "触及", "感动", "碰到", "影响", "与…有关", "达到（某一水平等）", "吃", "打(人)", "使受伤",
+        "（在脸上）闪现，掠过", "与…媲美"
+      ],
+      "singular": ["touches"],
+      "present": ["touching"],
+      "past": ["touched"]
+    },
+    "n": {
+      "translation": ["触摸", "碰", "触", "触觉", "触感", "轻微", "修饰", "一点儿", "作风", "边线以外的区域"],
+      "plural": ["touches"]
+    }
+  },
+  "tough": {
+    "adj": {
+      "translation": [
+        "艰难的", "强硬的", "严厉的", "艰苦的", "坚强的", "棘手的", "坚固的", "不幸的", "坚韧不拔的", "能吃苦耐劳的",
+        "无情的", "彪悍的", "健壮的", "难切开的"
+      ],
+      "comparative": ["tougher"],
+      "superlative": ["toughest"]
+    },
+    "n": {
+      "translation": ["恶棍", "暴徒", "粗暴的人"],
+      "plural": ["toughs"]
+    },
+    "v": {
+      "translation": ["坚持", "忍受，忍耐"],
+      "singular": ["toughs"],
+      "present": ["toughing"],
+      "past": ["toughed"]
+    },
+    "adv": {
+      "translation": ["强硬地", "顽强地"]
+    }
+  },
+  "tour": {
+    "n": {
+      "translation": ["旅游", "参观", "旅行", "游览", "观光", "巡视", "巡回比赛(或演出等)"],
+      "plural": ["tours"]
+    },
+    "v": {
+      "translation": ["在…旅游", "在…巡回演出(或做宣传广告等)"],
+      "singular": ["tours"],
+      "present": ["touring"],
+      "past": ["toured"]
+    }
+  },
+  "tourist": {
+    "n": {
+      "translation": ["旅行者，游客，旅游者，观光者", "经济舱，二等舱", "<英>（在国外参加）巡回比赛的运动队队员"],
+      "plural": ["tourists"]
+    },
+    "adj": {
+      "translation": ["旅游的，游览的，观光的", "（飞机、轮船等的）旅游舱的，经济舱的，二等舱的", "（外语）旅游级的"]
+    },
+    "adv": {
+      "translation": ["在旅游舱（或旅游车厢）"]
+    },
+    "v": {
+      "translation": ["<罕> 旅游，游览"]
+    }
+  },
+  "toward": {
+    "prep": {
+      "translation": [
+        "朝向，向，朝，面对", "（钱）用于", "对，对于，关于", "倾向于，趋向于", "接近（某种结果），接近（某一地方）", "快要到（某个时刻）"
+      ]
+    },
+    "adj": {
+      "translation": ["有利的，顺利的", "即将发生的，逼近的", "有希望的，有前途的", "温顺的，顺从的", "正在进行中的"]
+    }
+  },
+  "towel": {
+    "n": {
+      "translation": ["毛巾", "纸巾", "手巾", "抹布"],
+      "plural": ["towels"]
+    },
+    "vt": {
+      "translation": ["用毛巾擦干"],
+      "singular": ["towels"],
+      "present": ["towelling"],
+      "past": ["towelled"]
+    }
+  },
+  "tower": {
+    "n": {
+      "translation": [
+        "塔", "(尤指教堂或城堡的)塔楼", "(电视或无线电信号的)发射塔", "高柜", "高架子", "建筑物的塔形部分"
+      ],
+      "plural": ["towers"]
+    },
+    "v": {
+      "translation": ["远远高于，远远超过", "高耸，超越"],
+      "singular": ["towers"],
+      "present": ["towering"],
+      "past": ["towered"]
+    }
+  },
+  "town": {
+    "n": {
+      "translation": ["镇", "城镇", "(某一市镇的)居民，市民", "市镇", "集镇", "(城镇的)商业区", "城市生活"],
+      "plural": ["towns"]
+    }
+  },
+  "toy": {
+    "n": {
+      "translation": ["玩具", "玩物", "玩意儿"],
+      "plural": ["toys"]
+    },
+    "adj": {
+      "translation": ["玩具的", "作玩具的", "小体型品种的", "个头很小的"]
+    },
+    "v": {
+      "translation": ["玩弄", "调情", "随随便便地对待"],
+      "singular": ["toys"],
+      "present": ["toying"],
+      "past": ["toyed"]
+    }
+  },
+  "trace": {
+    "vt": {
+      "translation": [
+        "追踪", "追溯", "发现", "找到", "描绘(事物的过程或发展)", "画（线）", "查出", "复制，描摹", "追究", "追述",
+        "绘出，勾画出（轮廓）", "记述"
+      ],
+      "singular": ["traces"],
+      "present": ["tracing"],
+      "past": ["traced"]
+    },
+    "n": {
+      "translation": ["痕迹", "微量", "迹线", "轨迹", "踪迹", "遗迹", "少许", "扫描线", "描记图", "挽绳"],
+      "plural": ["traces"]
+    }
+  },
+  "track": {
+    "n": {
+      "translation": [
+        "轨道", "（移动的）路径，路线，方向", "（推土机等的）履带", "跑道", "音轨，声道", "（火车站的）站台",
+        "(人、动物或车辆留下的)足迹，踪迹", "（幕帘的）滑轨，滑道", "车辙", "(人踩出的)小道，小径", "一首乐曲，一首歌曲"
+      ],
+      "plural": ["tracks"]
+    },
+    "v": {
+      "translation": ["追踪", "(尤指用特殊电子设备)跟踪", "跟踪摄影", "留下（脏）足迹"],
+      "singular": ["tracks"],
+      "present": ["tracking"],
+      "past": ["tracked"]
+    }
+  },
+  "tractor": {
+    "n": {
+      "translation": ["拖拉机", "(牵引式挂车的)牵引车，拖车头", "牵引机"],
+      "plural": ["tractors"]
+    }
+  },
+  "trade": {
+    "n": {
+      "translation": [
+        "贸易", "交易", "行业", "商业", "买卖", "职业", "（尤指手工）职业", "生意", "同业", "同行", "营业额", "同人"
+      ],
+      "plural": ["trades"]
+    },
+    "v": {
+      "translation": ["(在证券交易所)交易，买卖", "营运", "营业", "做生意", "从事贸易", "做买卖", "互相交换"],
+      "singular": ["trades"],
+      "present": ["trading"],
+      "past": ["traded"]
+    }
+  },
+  "tradition": {
+    "n": {
+      "translation": ["传统", "传统的信仰(或风俗)"],
+      "plural": ["traditions"]
+    }
+  },
+  "traditional": {
+    "adj": {
+      "translation": ["传统的", "习俗的", "惯例的", "守旧的", "因袭的"]
+    }
+  },
+  "traffic": {
+    "n": {
+      "translation": [
+        "交通", "运输", "(沿固定路线的)航行，行驶，飞行", "（非法的）交易，买卖", "人流", "信息流量", "货流", "路上行驶的车辆"
+      ]
+    },
+    "v": {
+      "translation": ["在…通行", "交易", "买卖", "用…作交换"],
+      "singular": ["traffics"],
+      "present": ["trafficking"],
+      "past": ["trafficked"]
+    }
+  },
+  "tragedy": {
+    "n": {
+      "translation": ["悲剧", "灾难", "不幸", "惨案", "悲剧作品", "悲惨的事"],
+      "plural": ["tragedies"]
+    }
+  },
+  "trail": {
+    "v": {
+      "translation": [
+        "跟踪", "(在比赛或其他竞赛中)落后，失利，失败", "追踪", "(被)拖，拉", "蔓生", "(尤指跟在他人后面)疲惫地走，没精打采地慢走，磨蹭"
+      ],
+      "singular": ["trails"],
+      "present": ["trailing"],
+      "past": ["trailed"]
+    },
+    "n": {
+      "translation": ["(乡间的)小路，小径", "（特定）路线，路径", "(尤指打猎时跟踪的)踪迹，臭迹", "(长串的)痕迹，踪迹，足迹"],
+      "plural": ["trails"]
+    }
+  },
+  "train": {
+    "n": {
+      "translation": ["火车", "列车", "行列", "队列", "拖裾，裙裾", "一系列相关的事情(或行动)", "列队行进的人(或动物)"],
+      "plural": ["trains"]
+    },
+    "v": {
+      "translation": [
+        "培训", "训练(人或动物)", "教育", "进行…训练", "接受训练", "培养…的能力(或素质)", "(尤指)进行体育锻炼",
+        "使（植物）朝某方向生长"
+      ],
+      "singular": ["trains"],
+      "present": ["training"],
+      "past": ["trained"]
+    }
+  },
+  "training": {
+    "n": {
+      "translation": ["训练", "培训", "(为参加体育比赛而进行的)训练，锻炼"],
+      "plural": ["trainings"]
+    },
+    "v": {
+      "translation": [
+        "培训", "训练(人或动物)", "教育", "进行…训练", "接受训练", "培养…的能力(或素质)", "(尤指)进行体育锻炼"
+      ]
+    }
+  },
+  "traitor": {
+    "n": {
+      "translation": ["叛徒", "卖国贼", "背叛者"],
+      "plural": ["traitors"]
+    }
+  },
+  "tram": {
+    "n": {
+      "translation": ["有轨电车"],
+      "plural": ["trams"]
+    },
+    "v": {
+      "translation": ["(用调整装置或椭圆规)调整", "用电车(等)运", "坐电车"]
+    }
+  },
+  "tramp": {
+    "n": {
+      "translation": ["流浪汉", "沉重的脚步声", "徒步旅行", "流浪乞丐", "淫妇", "长途步行"],
+      "plural": ["tramps"]
+    },
+    "v": {
+      "translation": ["(尤指长时间地)重步行走，踏，踩"],
+      "singular": ["tramps"],
+      "present": ["tramping"],
+      "past": ["tramped"]
+    }
+  },
+  "transfer": {
+    "v": {
+      "translation": [
+        "转移(感情)", "转让(权力等)", "改变(环境)", "转会，使转会", "(使)调动", "（使在旅途中）转乘，换乘，倒车", "转学",
+        "(使)搬迁", "转职", "转存，转录（资料、音乐等）", "传染(疾病)", "让与"
+      ],
+      "singular": ["transfers"],
+      "present": ["transferring"],
+      "past": ["transferred"]
+    },
+    "n": {
+      "translation": [
+        "转移", "迁移", "(运动员)转会", "调动", "变换", "(旅途中的)中转", "搬迁", "转印图画，转印图案", "转车票", "改变路线"
+      ]
+    }
+  },
+  "transform": {
+    "vt": {
+      "translation": ["使改变", "使转换", "使改观"],
+      "singular": ["transforms"],
+      "present": ["transforming"],
+      "past": ["transformed"]
+    },
+    "n": {
+      "translation": ["【数】变换式", "【化】反式"]
+    }
+  },
+  "transformation": {
+    "n": {
+      "translation": ["(彻底的)变化，改观，转变，改革", "转型", "(用于南非)民主改革"],
+      "plural": ["transformations"]
+    }
+  },
+  "transformer": {
+    "n": {
+      "translation": ["变压器"],
+      "plural": ["transformers"]
+    }
+  },
+  "transistor": {
+    "n": {
+      "translation": ["晶体管", "晶体管收音机"],
+      "plural": ["transistors"]
+    }
+  },
+  "translation": {
+    "n": {
+      "translation": ["翻译", "转化", "译", "译文", "译本", "转变", "译作"],
+      "plural": ["translations"]
+    }
+  },
+  "transmission": {
+    "n": {
+      "translation": [
+        "传输", "发送", "（车辆的）传动装置，变速器", "传送", "发射", "传递", "(电台或电视信息)广播", "传染", "传达",
+        "(电子信号、信息或广播、电视节目的)播送"
+      ],
+      "plural": ["transmissions"]
+    }
+  },
+  "transmit": {
+    "v": {
+      "translation": ["传输", "使通过", "传送", "发射", "传播", "传(热、声等)", "输送", "传染", "透(光等)", "播送"],
+      "singular": ["transmits"],
+      "present": ["transmitting"],
+      "past": ["transmitted"]
+    }
+  },
+  "transparent": {
+    "adj": {
+      "translation": ["透明的", "清澈的", "显而易见的", "易懂的", "易看穿的", "易识破的"]
+    }
+  },
+  "transport": {
+    "n": {
+      "translation": [
+        "运输", "输送", "运送", "搬运", "运输工具", "运输船，运输机，运输卡车", "交通运输系统", "交通车辆", "旅行方式",
+        "强烈的情感"
+      ],
+      "plural": ["transports"]
+    },
+    "vt": {
+      "translation": ["(用交通工具)运输，运送，输送", "(以自然方式)运输，传播", "使产生身临其境的感觉", "（旧时）流放"],
+      "singular": ["transports"],
+      "present": ["transporting"],
+      "past": ["transported"]
+    }
+  },
+  "transportation": {
+    "n": {
+      "translation": ["运输", "(旧时的)流放"]
+    }
+  },
+  "trap": {
+    "n": {
+      "translation": [
+        "陷阱", "圈套", "夹", "(难以逃脱的)困境", "捕捉器", "嘴", "牢笼", "诡计", "(捕捉动物的)罗网", "双轮轻便马车",
+        "隔栏"
+      ],
+      "plural": ["traps"]
+    },
+    "vt": {
+      "translation": [
+        "收集", "吸收", "夹住", "卡住", "使陷入困境", "缠住", "设陷阱捕捉，用捕捉器捕捉（动物）", "使陷入圈套", "绊住",
+        "把…逼进，迫使…进入", "使落入险境"
+      ],
+      "singular": ["traps"],
+      "present": ["trapping"],
+      "past": ["trapped"]
+    }
+  },
+  "travel": {
+    "v": {
+      "translation": [
+        "旅行", "(以某速度、朝某方向或在某距离内)行进，转送，传播", "游历", "走得快", "长途行走", "经长途运输仍不变质",
+        "经得住长途运输", "盛行各地", "持球走"
+      ],
+      "singular": ["travels"],
+      "present": ["travelling"],
+      "past": ["travelled"]
+    },
+    "n": {
+      "translation": ["旅行", "(出国)旅游", "游历"],
+      "plural": ["travels"]
+    }
+  },
+  "tray": {
+    "n": {
+      "translation": ["托盘", "盘", "碟", "(各种用途的)浅塑料盒"],
+      "plural": ["trays"]
+    }
+  },
+  "treason": {
+    "n": {
+      "translation": ["叛国", "叛国罪(如战时通敌)", "危害国家罪"],
+      "plural": ["treasons"]
+    }
+  },
+  "treasure": {
+    "n": {
+      "translation": [
+        "财富", "珍宝", "宝物", "珍品", "珠宝", "金银财宝", "备受宠爱(或器重)的人", "极贵重的物品", "心肝宝贝儿"
+      ],
+      "plural": ["treasures"]
+    },
+    "vt": {
+      "translation": ["珍藏", "珍视", "珍爱", "珍重"],
+      "singular": ["treasures"],
+      "present": ["treasuring"],
+      "past": ["treasured"]
+    }
+  },
+  "treat": {
+    "vt": {
+      "translation": ["对待", "处理，保护，保存", "处理", "治疗", "把…视为", "医疗", "把…看作", "讨论", "招待"],
+      "singular": ["treats"],
+      "present": ["treating"],
+      "past": ["treated"]
+    },
+    "n": {
+      "translation": ["款待", "乐趣", "乐事"],
+      "plural": ["treats"]
+    }
+  },
+  "treatment": {
+    "n": {
+      "translation": ["治疗", "处理", "（净化或防治）处理，加工", "待遇", "疗法", "对待", "诊治", "讨论", "论述"],
+      "plural": ["treatments"]
+    }
+  },
+  "treaty": {
+    "n": {
+      "translation": ["条约", "(国家之间的)协定"],
+      "plural": ["treaties"]
+    }
+  },
+  "tree": {
+    "n": {
+      "translation": ["树", "树木", "乔木"],
+      "plural": ["trees"]
+    },
+    "vt": {
+      "translation": ["把…赶上树", "使处于困境", "把鞋型插入（鞋内）"],
+      "singular": ["trees"],
+      "present": ["treeing"],
+      "past": ["treed"]
+    }
+  },
+  "tremble": {
+    "vi": {
+      "translation": ["颤抖", "颤动", "(因紧张、激动、惊慌等)哆嗦", "恐惧", "战栗", "抖动", "焦虑", "轻轻摇晃", "极担心"],
+      "singular": ["trembles"],
+      "present": ["trembling"],
+      "past": ["trembled"]
+    },
+    "n": {
+      "translation": ["颤抖", "哆嗦", "战栗"]
+    }
+  },
+  "tremendous": {
+    "adj": {
+      "translation": ["巨大的，极大的", "<口> 非常的，惊人的", "极好的，精彩的，了不起的", "<古> 可怕的，可怖的"]
+    }
+  },
+  "trend": {
+    "n": {
+      "translation": ["趋势", "动态", "趋向", "动向", "倾向"],
+      "plural": ["trends"]
+    },
+    "vi": {
+      "translation": ["倾向", "趋势"],
+      "singular": ["trends"],
+      "present": ["trending"],
+      "past": ["trended"]
+    }
+  },
+  "trial": {
+    "v": {
+      "translation": ["试验", "试用", "测试(能力、质量、性能等)"]
+    },
+    "n": {
+      "translation": [
+        "(对能力、质量、性能等的)试验，试用", "(法院的)审讯，审理，审判", "比赛", "选拔赛", "预赛", "令人伤脑筋的事"
+      ],
+      "plural": ["trials"]
+    },
+    "adj": {
+      "translation": ["同“trinal”"]
+    }
+  },
+  "triangle": {
+    "n": {
+      "translation": ["三角形", "三角关系", "三角铁(打击乐器)", "三角形物体"],
+      "plural": ["triangles"]
+    }
+  },
+  "tribe": {
+    "n": {
+      "translation": [
+        "部落", "(动物或植物的)群，族", "(尤指同一职业的)一伙(人)，一帮(人)，一类(人)", "大群，大帮，大批（人）"
+      ],
+      "plural": ["tribes"]
+    }
+  },
+  "trick": {
+    "n": {
+      "translation": ["技巧", "把戏", "戏法", "花招", "诡计", "骗局", "一圈", "引起错觉(或记忆紊乱)的事物"],
+      "plural": ["tricks"]
+    },
+    "vt": {
+      "translation": ["欺骗", "欺诈"],
+      "singular": ["tricks"],
+      "present": ["tricking"],
+      "past": ["tricked"]
+    },
+    "adj": {
+      "translation": ["使人产生错觉的", "为欺骗的", "虚弱有毛病的"]
+    }
+  },
+  "trifle": {
+    "n": {
+      "translation": [
+        "小事", "琐事", "稍微", "一点儿", "葡萄酒蛋糕，屈莱弗(在蛋糕和水果上浇葡萄酒或果冻，上覆蛋奶冻等)", "不值钱的东西"
+      ],
+      "plural": ["trifles"]
+    },
+    "vt": {
+      "translation": ["轻视", "虚度", "嘲弄", "随意摆弄", "藐视", "玩弄浪费（时间或金钱）"],
+      "singular": ["trifles"],
+      "present": ["trifling"],
+      "past": ["trifled"]
+    }
+  },
+  "trim": {
+    "v": {
+      "translation": [
+        "修剪，修整", "装饰，修饰，点缀（尤指某物的边缘）", "削减，减少，缩减，减少...的收益",
+        "（出于权宜之计等）修改，改变（意见、政策等）", "切去，割掉，剪下，除去（不必要的部分）", "（调整负载）使（船等）平稳",
+        "使变短，使变小", "<口> 击败，痛打", "随大流，保持中立，灵活应付", "<口> <旧> 欺骗，诈骗", "<口> <旧> 大骂，训斥",
+        "调整（船帆等）以适应风向", "调整（飞机的操纵装置）使平稳飞行"
+      ],
+      "singular": ["trims"],
+      "present": ["trimming"],
+      "past": ["trimmed"]
+    },
+    "n": {
+      "translation": [
+        "（汽车内部的）装饰", "（尤指毛发的）修剪", "调整，准备", ".<空>配平", "情形，状态，次序，布置", "整齐，整洁",
+        "（衣服、家具、汽车等的）饰物，边饰，装饰配件", "<美俚> 女人，荡妇", "（船帆的）迎风角度（或位置）", "（剪辑时）弃置的废片",
+        "（船在水中的）（水平）位势"
+      ]
+    },
+    "adj": {
+      "translation": [
+        "整齐的，美观整洁的，井然有序的", "修长的，苗条健康的", "<废> 杰出的，美好的", "健康优雅的", "情况良好的",
+        "装备齐全的，即可使用的", "精心照管的"
+      ],
+      "comparative": ["trimmer"],
+      "superlative": ["trimmest"]
+    },
+    "adv": {
+      "translation": ["<古> 整齐地，整洁地，准确地"]
+    }
+  },
+  "trip": {
+    "n": {
+      "translation": [
+        "（尤指短程往返的）旅行，旅游，出行", "<机>脱扣，脱扣装置", "绊，绊倒 ", "<核>停堆",
+        "<美，非正式>让人开心的奇人，奇妙有趣的经历", "<古> 失足，失误，错误", "（内疚、怀旧感等的）困扰",
+        " <口> （服用毒品后所产生的）幻觉，迷幻感受", "（对权力等的）迷恋", "（动物的）一小群", "自我放纵，不受控制",
+        "强烈的情感体验", "有趣的同伴", "<古> 轻捷的步伐", "<机>撞锤, 锤体"
+      ],
+      "plural": ["trips"]
+    },
+    "v": {
+      "translation": [
+        "<海>起（锚）", "绊，绊倒，使跌倒", "使失败，使受挫", "（尤指意外地）触动（开关）", "倾斜，翻倒",
+        "失误，犯错误，使失误，使犯错误", "竖直（帆桁等）", "（服用毒品后）产生幻觉", "轻捷地走（或跑、跳），轻快地跳舞",
+        "（用迷惑性提问）使（被告等）说出自己不想说的话", "<机>松开（离合器、控制杆等）以开动", "<口> 携带毒品外出", "说话结巴"
+      ],
+      "singular": ["trips"],
+      "present": ["tripping"],
+      "past": ["tripped"]
+    }
+  },
+  "triumph": {
+    "n": {
+      "translation": ["胜利", "巨大成功", "(成功的)典范", "狂喜", "楷模", "重大成就", "(巨大成功或胜利的)心满意足"],
+      "plural": ["triumphs"]
+    },
+    "vi": {
+      "translation": ["成功", "战胜", "打败"],
+      "singular": ["triumphs"],
+      "present": ["triumphing"],
+      "past": ["triumphed"]
+    }
+  },
+  "troop": {
+    "n": {
+      "translation": [
+        "队伍，部队，军队，士兵", "一群，一队，（一）大批", "连队，坦克连，骑兵连", "<美俚>（总称）歹徒，暴徒", "<古> 剧团，戏班",
+        "童子军中队", "（集结在一起活动的）一群人（动物）人"
+      ],
+      "plural": ["troops"]
+    }
+  },
+  "tropical": {
+    "adj": {
+      "translation": ["热带的", "产于热带的", "来自热带的"]
+    }
+  },
+  "trouble": {
+    "n": {
+      "translation": [
+        "麻烦", "(机器、车辆等的)故障", "问题", "困难", "困境", "苦恼", "忧虑", "疾病", "疼痛", "纷争", "动乱时期",
+        "额外努力（或工作）"
+      ],
+      "plural": ["troubles"]
+    },
+    "v": {
+      "translation": ["麻烦", "使烦恼", "使苦恼", "使忧虑", "费事", "费力", "使疼痛", "费神", "劳驾"],
+      "singular": ["troubles"],
+      "present": ["troubling"],
+      "past": ["troubled"]
+    }
+  },
+  "troublesome": {
+    "adj": {
+      "translation": ["麻烦的", "讨厌的", "令人烦恼的", "令人痛苦的"]
+    }
+  },
+  "trousers": {
+    "n": {
+      "translation": ["裤子"],
+      "plural": ["trousers"]
+    },
+    "v": {
+      "translation": ["收受", "赚得"]
+    }
+  },
+  "truck": {
+    "n": {
+      "translation": [
+        "卡车", "(运送货物、士兵、动物等后面敞开的)载重汽车", "(运送东西的)手推车，手拉车", "(铁路上运送货物或动物的)敞篷车，无盖车皮"
+      ],
+      "plural": ["trucks"]
+    },
+    "vt": {
+      "translation": ["用卡车装运"],
+      "singular": ["trucks"],
+      "present": ["trucking"],
+      "past": ["trucked"]
+    }
+  },
+  "true": {
+    "adj": {
+      "translation": [
+        "符合事实的", "实质的，真正的(而非表面上的)", "确实的", "精确的", "忠诚的", "如实的", "名副其实的", "真正的",
+        "正而准"
+      ],
+      "comparative": ["truer"],
+      "superlative": ["truest"]
+    },
+    "adv": {
+      "translation": ["实话实说", "笔直地", "不偏不斜地", "直言相告"]
+    },
+    "n": {
+      "translation": ["真实", "准确"],
+      "plural": ["trues"]
+    }
+  },
+  "truly": {
+    "adv": {
+      "translation": ["真正地", "(指性质)真正，确实", "(指描述)确切，准确，精确", "(用于说法、感觉等)真诚地，诚恳地，衷心地"]
+    }
+  },
+  "trunk": {
+    "n": {
+      "translation": [
+        "树干", "主要部分, 主干, 主体", "（汽车后部的）行李箱, 后备箱", "（人、动物的）躯干", "管道, 导管, 通风管",
+        "<解>大血管, 神经干, 淋巴干", "象鼻", "<船>围壁通道", "大旅行箱, 大行李箱", "男式游泳裤", "<矿>洗矿槽",
+        "<主英> 男用短衬裤"
+      ],
+      "plural": ["trunks"]
+    },
+    "adj": {
+      "translation": [
+        "主干的, 干线的", "树干", "树干的", "躯干的, 躯体的", "（大）旅行箱的", " <美> 汽车后部行李箱的", "管形的, 筒形的"
+      ]
+    },
+    "v": {
+      "translation": ["把...放入旅行箱内", " <美> 把...放入汽车后部行李箱内"]
+    }
+  },
+  "trust": {
+    "n": {
+      "translation": ["信任", "信托", "相信", "信赖", "委托", "信托财产", "托拉斯", "受托基金机构", "受托团体"],
+      "plural": ["trusts"]
+    },
+    "v": {
+      "translation": ["信任", "相信(某人的善良、真诚等)", "信赖", "希望", "想", "期望", "认为可靠"],
+      "singular": ["trusts"],
+      "present": ["trusting"],
+      "past": ["trusted"]
+    }
+  },
+  "truth": {
+    "n": {
+      "translation": ["真相", "真理", "事实", "真实", "真实性", "实情", "真实情况"],
+      "plural": ["truths"]
+    }
+  },
+  "try": {
+    "v": {
+      "translation": ["尝试", "试图", "努力", "设法", "试", "想要", "试用", "审判", "试验", "审理", "审讯", "试做"],
+      "singular": ["tries"],
+      "present": ["trying"],
+      "past": ["tried"]
+    },
+    "n": {
+      "translation": ["尝试", "试图", "努力", "持球触地得分", "在对方球门线后带球触地"]
+    }
+  },
+  "tub": {
+    "n": {
+      "translation": ["桶", "盆", "(塑料或纸的)饭盒，食品盒"],
+      "plural": ["tubs"]
+    },
+    "v": {
+      "translation": ["使入浴", "(在浴缸里)为…洗澡", "使…用练赛艇练习", "把…种在木盆里"]
+    }
+  },
+  "tube": {
+    "n": {
+      "translation": [
+        "管", "(金属、塑料、橡胶等制成的)管子", "(由软金属或塑料制成的带盖的、盛膏状物的)软管", "电视", "管状物",
+        "管状器官", "一罐啤酒", "伦敦地下铁道"
+      ],
+      "plural": ["tubes"]
+    },
+    "v": {
+      "translation": ["给…装上管子", "插管（以助呼吸)", "用管道运输"],
+      "singular": ["tubes"],
+      "present": ["tubing"],
+      "past": ["tubed"]
+    }
+  },
+  "tuck": {
+    "vt": {
+      "translation": [
+        "(把衣服、纸张等的边缘)塞进", "卷起", "折叠", "收藏", "把…藏入", "用…盖住", "用…围紧", "把…塞进狭窄的空间",
+        "用…裹严"
+      ],
+      "singular": ["tucks"],
+      "present": ["tucking"],
+      "past": ["tucked"]
+    },
+    "n": {
+      "translation": ["(衣服或织物的)褶", "零食(尤指儿童在学校吃的糖果等)", "去赘皮手术", "减肥手术"]
+    }
+  },
+  "tuesday": {
+    "n": {
+      "translation": ["星期二"],
+      "plural": ["Tuesdays"]
+    }
+  },
+  "tuition": {
+    "n": {
+      "translation": ["(尤指大专院校的)学费", "(尤指对个人或小组的)教学，讲授，指导"]
+    }
+  },
+  "tumble": {
+    "v": {
+      "translation": ["摔倒", "(价格或数量)暴跌", "翻滚", "滚落", "倒塌", "坍塌", "骤降", "翻滚下来", "表演杂技"],
+      "singular": ["tumbles"],
+      "present": ["tumbling"],
+      "past": ["tumbled"]
+    },
+    "n": {
+      "translation": ["暴跌", "跌倒", "滚落", "混乱的一堆", "杂乱不堪的一团"]
+    }
+  },
+  "tune": {
+    "n": {
+      "translation": ["曲调", "曲子"],
+      "plural": ["tunes"]
+    },
+    "vt": {
+      "translation": ["(给收音机、电视等)调谐，调频道", "调整，调节(发动机)", "调整", "(为乐器)调音，校音"],
+      "singular": ["tunes"],
+      "present": ["tuning"],
+      "past": ["tuned"]
+    }
+  },
+  "tunnel": {
+    "n": {
+      "translation": ["隧道", "地道", "地下通道", "(动物的)洞穴通道"],
+      "plural": ["tunnels"]
+    },
+    "v": {
+      "translation": ["开凿隧道", "挖地道"],
+      "singular": ["tunnels"],
+      "present": ["tunnelling"],
+      "past": ["tunnelled"]
+    }
+  },
+  "turbine": {
+    "n": {
+      "translation": ["涡轮", "涡轮机", "汽轮机"],
+      "plural": ["turbines"]
+    }
+  },
+  "turbulent": {
+    "adj": {
+      "translation": [
+        "动荡的", "混乱的", "湍动的", "汹涌的", "动乱的", "骚乱的", "骚动的", "猛烈的", "混乱而难以控制的"
+      ]
+    }
+  },
+  "turkey": {
+    "n": {
+      "translation": ["火鸡", "火鸡肉", "失败", "笨蛋", "吐绶鸡"],
+      "plural": ["turkeys"]
+    }
+  },
+  "turn": {
+    "v": {
+      "translation": [
+        "（使）转动，旋转", "转动，旋动（钥匙、把手、开关等）", "（使）变成，成为", "（使）改变方向，转向，拐（弯）",
+        "把...用于，利用，使用", "致力于，开始从事，启用", "（路或河流）转弯", "转身，扭转（身体部位）", "赚得，获得（利润）",
+        "达到（一定年龄或时间）", "翻转，翻动，把…翻过来", "到达，超过", "翻（土）", "翻（跟斗）", "（使）松开，释放",
+        "以...为中心，围绕", " 转移（思考、处理、观察等的对象）", "求助于，求教于", "使弯曲，使扭曲", "指向，冲着，把…对准",
+        "改写，翻译", "表演（身体旋转动作）", "（使）逆转", "翻动（书或杂志的页）", "（使）反胃，（使）恶心", "（牛奶）变酸，变质",
+        "驱赶，打发，放走", "扭伤", "折起", "作呕", "改变信仰，皈依", "盘算，反复思考", "（用车床）车削成，车削出",
+        "转身攻击（或抵抗）", "开始涨（或落）", "（精神上）发生错乱，发生迷乱", "使变得形式优美，使变得形状匀称"
+      ],
+      "singular": ["turns"],
+      "present": ["turning"],
+      "past": ["turned"]
+    },
+    "n": {
+      "translation": [
+        "转动，旋动", "（车辆的）转弯，转向", "需要，要求，目的", "（突如其来或意外的）变化，转变", "转折点", "（依次轮到的）机会",
+        "（帮助或损害他人的）举动，行为", "特色，特征", "（道路的）弯道，转弯处", "改动，变动，曲解", "散步", "天性，禀性",
+        "盘绕，盘绕的一圈", "<口> 一惊,一吓", "<古> 计谋，计余", "<音>回音", "（年代的）交替时期",
+        "<主英> （杂耍等演出的）一个节目", "转变时期", "短小节目", "买入价和卖出价之间的差额", "（板球）（球）弹地转向",
+        "（疾病的）一阵发作"
+      ]
+    }
+  },
+  "turning": {
+    "v": {
+      "translation": ["转弯", "(使)转动，旋转", "转身", "翻转", "扭转(身体部位)", "把…翻过来", "翻动"]
+    },
+    "n": {
+      "translation": ["转弯处", "拐弯处", "岔路口"],
+      "plural": ["turnings"]
+    }
+  },
+  "turnip": {
+    "n": {
+      "translation": ["芜菁", "蔓菁"],
+      "plural": ["turnips"]
+    }
+  },
+  "tutor": {
+    "n": {
+      "translation": [
+        "家庭教师", "(负责成人教育或在大中学中有特别任务的)教师", "导师", "（大专院校的）助教", "指导教师", "私人教师",
+        "课本"
+      ],
+      "plural": ["tutors"]
+    },
+    "v": {
+      "translation": ["指导", "教", "当家庭教师", "任课", "进行单独(或小组)辅导", "任…的私人教师", "任大学导师"],
+      "singular": ["tutors"],
+      "present": ["tutoring"],
+      "past": ["tutored"]
+    }
+  },
+  "twelfth": {
+    "ord": {
+      "translation": ["第十二"],
+      "plural": ["twelfths"]
+    },
+    "n": {
+      "translation": [
+        "第十二（个）", "十二分之一", "（月的）第十二日", "<英> 8 月 12 日（合法狩猎松鸡的开始日）", "<音>第十二音级，十二度音程，十二度和音"
+      ],
+      "plural": ["twelfths"]
+    },
+    "adj": {
+      "translation": ["十二分之一的", "twelfth"]
+    }
+  },
+  "twelve": {
+    "num": {
+      "translation": ["十二"],
+      "plural": ["twelves"]
+    },
+    "n": {
+      "translation": [
+        "十二，十二个（人或物）", "十二岁", "第十二（课、章、行等）", "<宗>（耶稣的）十二门徒", "十二点钟",
+        "表示十二的符号 （12， xii， XII）", "十二个（人或物）一组"
+      ],
+      "plural": ["twelves"]
+    },
+    "adj": {
+      "translation": ["十二（的），十二个（的）"]
+    }
+  },
+  "twentieth": {
+    "ord": {
+      "translation": ["第二十"],
+      "plural": ["twentieths"]
+    },
+    "n": {
+      "translation": ["第二十（个）", "二十分之一", "（某月的）二十日"],
+      "plural": ["twentieths"]
+    },
+    "adj": {
+      "translation": ["第二十的", "二十分之一的"]
+    }
+  },
+  "twenty": {
+    "num": {
+      "translation": ["二十"],
+      "plural": ["twenties"]
+    },
+    "n": {
+      "translation": [
+        "二十个（人或物）", "第二十（课、章、行等）", "二十几", "二十年代", "<美口> 二十美元钞票", "20 点钟（即下午 8 点） ",
+        "<英口> 二十英镑钞票", "编号为 20 的东西", "表示二十的符号"
+      ],
+      "plural": ["twenties"]
+    },
+    "adj": {
+      "translation": ["二十（的），二十个（的）", "数目很大的，许多的"]
+    }
+  },
+  "twice": {
+    "adv": {
+      "translation": ["两次", "两倍", "两遍"]
+    }
+  },
+  "twin": {
+    "adj": {
+      "translation": ["成双的", "双重的", "双联的", "成对的", "双胞胎之一的", "两个同时发生的", "孪生之一的"]
+    },
+    "vt": {
+      "translation": ["使耦合", "使相连", "使(两人或两事物)紧密结合", "使结成姊妹城市", "使结成友好地区"],
+      "singular": ["twins"],
+      "present": ["twinning"],
+      "past": ["twinned"]
+    },
+    "n": {
+      "translation": ["双胞胎之一", "孪生儿之一", "一对相像的事物之一"],
+      "plural": ["twins"]
+    }
+  },
+  "twinkle": {
+    "vi": {
+      "translation": ["闪烁", "闪耀", "(眼睛因高兴或兴奋)闪光，发亮"],
+      "singular": ["twinkles"],
+      "present": ["twinkling"],
+      "past": ["twinkled"]
+    },
+    "n": {
+      "translation": ["闪烁", "闪耀", "(眼睛的)闪亮", "闪光", "欣喜的神情"]
+    }
+  },
+  "twist": {
+    "v": {
+      "translation": [
+        "扭曲", "扭转", "捻，搓，绞（线等）", "（用手）转动，旋转", "（猛地将身体）转动，旋转，扭动", "使弯曲(成一定形状)", "曲折",
+        "使缠绕", "扭伤", "（故意）歪曲，曲解", "蠕动"
+      ],
+      "singular": ["twists"],
+      "present": ["twisting"],
+      "past": ["twisted"]
+    },
+    "n": {
+      "translation": [
+        "捻", "旋转", "拧", "转动", "扭动", "(故事或情况的)转折", "搓", "扭摆舞", "突然变化", "曲折处", "急转弯处",
+        "螺旋状的东西"
+      ]
+    }
+  },
+  "two": {
+    "num": {
+      "translation": ["二"],
+      "plural": ["twos"]
+    },
+    "n": {
+      "translation": [
+        "第二（课、章、行等）", "两人", "二个（人或物）", "一对", "两岁", "两点钟", "2 元钞票", "2 号尺码的衣服",
+        "编号为 2 的东西", "表示二的符号"
+      ],
+      "plural": ["twos"]
+    },
+    "adj": {
+      "translation": ["二（的），两个（的）"]
+    }
+  },
+  "type": {
+    "n": {
+      "translation": [
+        "类型", "种类", "典型", "（印刷或打印的）文字，字体，字型", "属于…类型的", "具有…特征的", "具有某种特征的人"
+      ],
+      "plural": ["types"]
+    },
+    "v": {
+      "translation": ["(用计算机或打字机)打字", "分型", "定型", "测定…的类型"],
+      "singular": ["types"],
+      "present": ["typing"],
+      "past": ["typed"]
+    }
+  },
+  "typewriter": {
+    "n": {
+      "translation": ["打字机"],
+      "plural": ["typewriters"]
+    }
+  },
+  "typhoon": {
+    "n": {
+      "translation": ["台风"],
+      "plural": ["typhoons"]
+    }
+  },
+  "typical": {
+    "adj": {
+      "translation": ["典型的", "有代表性的", "特有的", "平常的", "一贯的", "不出所料"]
+    }
+  },
+  "typist": {
+    "n": {
+      "translation": ["打字员", "(用打字机或计算机键盘的)打字者"],
+      "plural": ["typists"]
+    }
+  },
+  "tyre": {
+    "n": {
+      "translation": ["轮胎"],
+      "plural": ["tyres"]
+    },
+    "v": {
+      "translation": ["装轮胎"]
+    }
+  }
+}

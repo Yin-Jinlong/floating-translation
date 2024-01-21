@@ -1,0 +1,2405 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "a": {
+    "art": {
+      "translation": ["一", "任何一", "每一"]
+    }
+  },
+  "abandon": {
+    "vt": {
+      "translation": [
+        "放弃(信念)", "(不顾责任、义务等)离弃，遗弃，抛弃", "(不得已而)舍弃，丢弃，离开", "停止(支持或帮助)", "中止",
+        "陷入，沉湎于（某种情感）"
+      ],
+      "singular": ["abandons"],
+      "present": ["abandoning"],
+      "past": ["abandoned"]
+    },
+    "n": {
+      "translation": ["放任", "放纵"]
+    }
+  },
+  "ability": {
+    "n": {
+      "translation": ["能力", "才能", "本领", "才智"],
+      "plural": ["abilities"]
+    }
+  },
+  "able": {
+    "adj": {
+      "translation": ["能够的", "能够", "能", "(某方面)擅长的", "有才能的", "有才智的"],
+      "comparative": ["abler"],
+      "superlative": ["ablest"]
+    }
+  },
+  "abnormal": {
+    "adj": {
+      "translation": ["不正常的", "畸形的", "反常的", "变态的"]
+    }
+  },
+  "abnormally": {
+    "adv": {
+      "translation": ["异常", "例外", "变态地"]
+    }
+  },
+  "aboard": {
+    "adv/prep": {
+      "translation": ["在(船、飞机、公共汽车、火车等)上", "上(船、飞机、公共汽车、火车等)", "在船上"]
+    }
+  },
+  "about": {
+    "adj": {
+      "translation": [
+        "在附近的", "即将（做…）的", "快要（发生…）的", "在手头的, 现成的, 能得到的", "在起作用的", "四处走动的", "在流行中的"
+      ]
+    },
+    "adv": {
+      "translation": ["大约", "左右", "几乎", "到处", "将近", "各处", "处处", "在某地", "闲着", "凌乱地", "沿反方向"]
+    },
+    "prep": {
+      "translation": [
+        "关于", "( 时间上 ) 在…前后，在…左右", "对于", "围绕", "为了", "在…附近", "目的是", "从事于", "在…到处",
+        "在…四处", "忙于", "涉及…方面"
+      ]
+    }
+  },
+  "above": {
+    "adj": {
+      "translation": ["上述的", "前文述及的"]
+    },
+    "adv": {
+      "translation": ["在(或向)上面", "上文", "(数目、数量、水平、年龄)超过，更多，更大", "前文", "在(或向)较高处"]
+    },
+    "n": {
+      "translation": ["上", "前述", "天上"]
+    },
+    "prep": {
+      "translation": [
+        "在(或向)…上面", "（音量或清晰度）超过（另一种声音）", "(数目、数量、水平、年龄)超过，多于，大于",
+        "(重要性、质量)超过，胜过", "（因善良或诚实正直而）不至于，不屑于（做某事）"
+      ]
+    }
+  },
+  "abroad": {
+    "adj": {
+      "translation": ["往国外的"]
+    },
+    "adv": {
+      "translation": ["在国外", "到国外", "户外", "在室外", "广为流传"]
+    },
+    "n": {
+      "translation": ["海外", "异国"]
+    }
+  },
+  "absence": {
+    "n": {
+      "plural": ["absences"],
+      "translation": ["缺席", "缺乏", "不存在", "不在"]
+    }
+  },
+  "absent": {
+    "adj": {
+      "translation": ["缺席的", "不存在", "不在的", "缺少", "心不在焉的", "出神的"]
+    },
+    "vt": {
+      "past": ["absented"],
+      "present": ["absenting"],
+      "singular": ["absents"],
+      "translation": ["不在", "缺席", "不参加"]
+    },
+    "prep": {
+      "translation": ["没有", "缺乏"]
+    }
+  },
+  "absolute": {
+    "adj": {
+      "translation": [
+        "绝对的", "完全的", "肯定的", "独立的", "全部的", "明确的", "(英语口语中尤用以强调)道地的，确实的，十足的",
+        "无疑的", "不受限制的"
+      ]
+    },
+    "n": {
+      "plural": ["absolutes"],
+      "translation": ["绝对真理(指思想或原理)"]
+    }
+  },
+  "absolutely": {
+    "adv": {
+      "translation": ["(强调真实无误)绝对地，完全地", "当然，对极了", "极其"]
+    }
+  },
+  "absorb": {
+    "vt": {
+      "past": ["absorbed"],
+      "present": ["absorbing"],
+      "singular": ["absorbs"],
+      "translation": [
+        "吸收(液体、气体等)", "吸收（热、光、能等）", "承受，承担，对付", "理解", "使并入", "掌握", "吞并", "同化",
+        "耗费，耗去", "减轻作用", "吸引全部注意力"
+      ]
+    }
+  },
+  "abstract": {
+    "adj": {
+      "translation": ["抽象的(与个别情况相对)", "纯理论的"]
+    },
+    "n": {
+      "translation": ["摘要", "(文献等的)概要", "抽象派艺术作品"],
+      "plural": ["abstracts"]
+    },
+    "vt": {
+      "past": ["abstracted"],
+      "present": ["abstracting"],
+      "singular": ["abstracts"],
+      "translation": ["提取", "抽取", "分离", "把…抽象出", "写摘要"]
+    }
+  },
+  "abundant": {
+    "adj": {
+      "translation": ["大量的", "充裕的", "丰盛的"]
+    }
+  },
+  "abuse": {
+    "n": {
+      "translation": ["滥用", "虐待", "辱骂", "恶语", "妄用"],
+      "plural": ["abuses"]
+    },
+    "vt": {
+      "past": ["abused"],
+      "present": ["abusing"],
+      "singular": ["abuses"],
+      "translation": ["滥用，妄用(权力、所知所闻)", "滥用(以致危害健康)", "虐待", "性虐待", "伤害", "辱骂"]
+    }
+  },
+  "academic": {
+    "adj": {
+      "translation": ["学术的(与实践性、技术性相对)", "学业的", "教学的(尤指与学校教育有关)", "纯理论的", "学习良好的"]
+    },
+    "n": {
+      "plural": ["academics"],
+      "translation": ["高等院校教师", "高校科研人员"]
+    }
+  },
+  "academy": {
+    "n": {
+      "plural": ["academies"],
+      "translation": ["学院", "(艺术、文学、科学等的)研究院，学会", "(美国)私立学校", "专科院校", "(苏格兰)中等学校"]
+    }
+  },
+  "accelerate": {
+    "v": {
+      "past": ["accelerated"],
+      "present": ["accelerating"],
+      "singular": ["accelerates"],
+      "translation": ["加速", "(使)加速", "加快"]
+    }
+  },
+  "acceleration": {
+    "n": {
+      "plural": ["accelerations"],
+      "translation": ["加速", "加速度", "加快", "(车辆)加速能力，加速的幅度"]
+    }
+  },
+  "accent": {
+    "n": {
+      "plural": ["accents"],
+      "translation": ["口音", "重音", "强调", "着重点", "腔调", "变音符号（标在字母上）", "土音"]
+    },
+    "vt": {
+      "past": ["accented"],
+      "present": ["accenting"],
+      "singular": ["accents"],
+      "translation": ["强调", "突出", "着重"]
+    }
+  },
+  "accept": {
+    "v": {
+      "past": ["accepted"],
+      "present": ["accepting"],
+      "singular": ["accepts"],
+      "translation": [
+        "接受", "同意", "认可", "接纳", "承认，承担（责任等）", "相信（某事属实）", "收受", "欢迎", "容忍，忍受（困境等）"
+      ]
+    }
+  },
+  "acceptable": {
+    "adj": {
+      "translation": ["可接受的", "(社会上)认同的，认可的", "还可以的", "令人满意的", "尚可的", "可容许的", "差强人意的"]
+    }
+  },
+  "acceptance": {
+    "n": {
+      "plural": ["acceptances"],
+      "translation": ["接受(礼物、邀请、建议等)", "同意", "认可", "接纳(为成员、会员等)", "无怨接受（逆境、困境等）"]
+    }
+  },
+  "access": {
+    "n": {
+      "translation": ["通道", "(使用或见到的)机会，权利", "通路", "入径"]
+    },
+    "vt": {
+      "past": ["accessed"],
+      "present": ["accessing"],
+      "singular": ["accesses"],
+      "translation": ["访问，存取(计算机文件)", "进入", "到达"]
+    }
+  },
+  "accessory": {
+    "adj": {
+      "translation": ["辅助的", "副的"]
+    },
+    "n": {
+      "plural": ["accessories"],
+      "translation": ["附件", "配件", "(衣服的)配饰", "从犯", "附属物", "同谋", "帮凶"]
+    }
+  },
+  "accident": {
+    "n": {
+      "plural": ["accidents"],
+      "translation": ["(交通)事故", "意外", "偶然的事", "不测事件", "意外遭遇"]
+    }
+  },
+  "accidental": {
+    "adj": {
+      "translation": ["意外的", "偶然的"]
+    },
+    "n": {
+      "plural": ["accidentals"],
+      "translation": ["偶然", "次要方面"]
+    }
+  },
+  "accommodate": {
+    "v": {
+      "past": ["accommodated"],
+      "present": ["accommodating"],
+      "singular": ["accommodates"],
+      "translation": [
+        "容纳", "顺应，适应（新情况）", "考虑到", "顾及", "帮忙", "为…提供空间", "为(某人)提供住宿(或膳宿、座位等)"
+      ]
+    }
+  },
+  "accommodation": {
+    "n": {
+      "plural": ["accommodations"],
+      "translation": ["住处", "住宿", "膳宿", "和解", "调解", "调和", "办公处", "停留处"]
+    }
+  },
+  "accompany": {
+    "vt": {
+      "past": ["accompanied"],
+      "present": ["accompanying"],
+      "singular": ["accompanies"],
+      "translation": ["伴随", "陪同", "陪伴", "(尤指用钢琴)为…伴奏", "与…同时发生"]
+    }
+  },
+  "accomplish": {
+    "vt": {
+      "past": ["accomplished"],
+      "present": ["accomplishing"],
+      "singular": ["accomplishes"],
+      "translation": ["完成"]
+    }
+  },
+  "accord": {
+    "n": {
+      "translation": ["协议", "条约"]
+    },
+    "v": {
+      "past": ["accorded"],
+      "present": ["according"],
+      "singular": ["accords"],
+      "translation": ["(与…)符合", "一致", "给予", "授予(权力、地位、某种待遇)", "赠予"]
+    }
+  },
+  "accordance": {
+    "n": {
+      "translation": ["符合", "一致", "给予", "赋予", "和谐"]
+    }
+  },
+  "accordingly": {
+    "adv": {
+      "translation": ["因此", "相应地", "所以", "照着"]
+    }
+  },
+  "account": {
+    "n": {
+      "translation": ["账户", "账户，账号", "解释，说明，叙述", "账目", "描述", "赊购", "老主顾", "赊销账", "赊欠账"],
+      "plural": ["accounts"]
+    },
+    "vt": {
+      "translation": ["认为是", "视为"],
+      "singular": ["accounts"],
+      "present": ["accounting"],
+      "past": ["accounted"]
+    }
+  },
+  "accumulate": {
+    "v": {
+      "translation": ["积累", "积聚", "(数量)逐渐增加", "(数额)逐渐增长"],
+      "singular": ["accumulates"],
+      "present": ["accumulating"],
+      "past": ["accumulated"]
+    }
+  },
+  "accuracy": {
+    "n": {
+      "translation": ["准确(性)", "精确(程度)"]
+    }
+  },
+  "accurate": {
+    "adj": {
+      "translation": ["精确的", "准确的(掷、射、击等)", "正确无误的"]
+    }
+  },
+  "accuse": {
+    "vt": {
+      "translation": ["指责", "控告", "谴责", "控诉"],
+      "singular": ["accuses"],
+      "present": ["accusing"],
+      "past": ["accused"]
+    }
+  },
+  "accustom": {
+    "v": {
+      "translation": ["使习惯(于)", "习惯于", "使适应"],
+      "singular": ["accustoms"],
+      "present": ["accustoming"],
+      "past": ["accustomed"]
+    }
+  },
+  "accustomed": {
+    "adj": {
+      "translation": ["习惯的", "习惯于", "通常的", "惯常的"]
+    },
+    "v": {
+      "translation": ["使习惯(于)", "使适应"]
+    }
+  },
+  "ache": {
+    "vi": {
+      "translation": ["疼痛", "渴望", "隐痛"],
+      "singular": ["aches"],
+      "present": ["aching"],
+      "past": ["ached"]
+    },
+    "n": {
+      "translation": ["(身体某部位的)疼痛"],
+      "plural": ["aches"]
+    }
+  },
+  "achieve": {
+    "v": {
+      "translation": ["实现", "(凭长期努力)达到(某目标、地位、标准)", "完成", "成功"],
+      "singular": ["achieves"],
+      "present": ["achieving"],
+      "past": ["achieved"]
+    }
+  },
+  "achievement": {
+    "n": {
+      "translation": ["成就", "达到", "成绩", "完成", "功绩"],
+      "plural": ["achievements"]
+    }
+  },
+  "acid": {
+    "adj": {
+      "translation": ["酸的", "酸性的", "尖刻的", "尖酸的"]
+    },
+    "n": {
+      "translation": ["酸"],
+      "plural": ["acids"]
+    }
+  },
+  "acquaintance": {
+    "n": {
+      "translation": ["熟人", "(与某人)认识，略有交情", "(对某事物的)了解", "相识", "认识的人", "泛泛之交"],
+      "plural": ["acquaintances"]
+    }
+  },
+  "acquire": {
+    "vt": {
+      "translation": ["(通过努力、能力、行为表现)获得", "得到", "购得"],
+      "singular": ["acquires"],
+      "present": ["acquiring"],
+      "past": ["acquired"]
+    }
+  },
+  "acre": {
+    "n": {
+      "translation": ["英亩(4 840平方码，约为4 050平方米)"],
+      "plural": ["acres"]
+    }
+  },
+  "across": {
+    "prep": {
+      "translation": ["穿过", "在(身体某部位)上", "在…对过", "在…对面", "横过", "在…各处", "从…一边到另一边"]
+    },
+    "adv": {
+      "translation": ["在对过", "在对面", "横过", "宽", "从一边到另一边", "从…的一边向…", "横写的"]
+    }
+  },
+  "act": {
+    "n": {
+      "translation": ["行为，行动，所为", "(议会通过的)法案，法令", "表演，假装", "一幕", "表演者", "一段表演"],
+      "plural": ["acts"]
+    },
+    "v": {
+      "translation": ["行为", "行动", "充当", "表演，假装", "扮演", "举止", "做事", "（对…）有作用，有影响"],
+      "singular": ["acts"],
+      "present": ["acting"],
+      "past": ["acted"]
+    },
+    "abbr": {
+      "translation": ["同“Association of Classroom Teachers”"]
+    }
+  },
+  "action": {
+    "n": {
+      "translation": [
+        "行动", "（身体部位的）动作，功能", "作用", "行为", "诉讼", "起诉", "战斗", "情节", "机械装置，活动部件",
+        "所做之事", "激动人心的事"
+      ],
+      "plural": ["actions"]
+    },
+    "vt": {
+      "translation": ["务必做，确保处理(某事)"],
+      "singular": ["actions"],
+      "present": ["actioning"],
+      "past": ["actioned"]
+    }
+  },
+  "active": {
+    "adj": {
+      "translation": ["积极的", "(尤指体力上)忙碌的，活跃的", "起作用的", "定期进行的", "主动语态的", "起化学作用的"]
+    },
+    "n": {
+      "translation": ["主动语态"]
+    }
+  },
+  "activity": {
+    "n": {
+      "translation": ["(为兴趣、娱乐或达到一定目的而进行的)活动", "活跃", "热闹状况"],
+      "plural": ["activities"]
+    }
+  },
+  "actor": {
+    "n": {
+      "translation": ["男演员"],
+      "plural": ["actors"]
+    }
+  },
+  "actress": {
+    "n": {
+      "translation": ["女演员"],
+      "plural": ["actresses"]
+    }
+  },
+  "actual": {
+    "adj": {
+      "translation": ["实际的", "(强调事情最重要的部分)真正的，…本身", "真实的"]
+    }
+  },
+  "actually": {
+    "adv": {
+      "translation": [
+        "事实上", "(礼貌地纠正他人)实际上", "确实，说实在的", "(在口语中用于强调事实)的确",
+        "(表示想法与事实不一致因而惊奇)竟然", "真实地"
+      ]
+    }
+  },
+  "acute": {
+    "adj": {
+      "translation": ["严重的", "(疾病)急性的", "锐角的", "敏锐的", "灵敏的"]
+    }
+  },
+  "ad": {
+    "n": {
+      "translation": ["广告"],
+      "plural": ["ads"]
+    },
+    "abbr": {
+      "translation": ["<拉> (= Anno Domini ) 公元"]
+    }
+  },
+  "adapt": {
+    "v": {
+      "translation": ["适应(新情况)", "使适合(新用途、新情况)", "改编", "改写"],
+      "singular": ["adapts"],
+      "present": ["adapting"],
+      "past": ["adapted"]
+    }
+  },
+  "add": {
+    "v": {
+      "translation": ["添加", "添加（特色）", "增加", "加", "把…加起来，计算…的总和，把…相加", "补充说", "继续说"],
+      "singular": ["adds"],
+      "present": ["adding"],
+      "past": ["added"]
+    },
+    "n": {
+      "translation": ["添加物", "添加的内容"]
+    }
+  },
+  "addition": {
+    "n": {
+      "translation": ["附加", "增加", "添加", "加", "加法", "添加物", "增加物"],
+      "plural": ["additions"]
+    }
+  },
+  "additional": {
+    "adj": {
+      "translation": ["附加的", "额外的", "外加的"]
+    }
+  },
+  "address": {
+    "n": {
+      "translation": ["住址", "(互联网等的)地址", "演讲", "演说", "称呼", "通信处"],
+      "plural": ["addresses"]
+    },
+    "vt": {
+      "translation": ["演讲", "演说", "称呼（某人）", "致函", "设法解决", "向…说话", "写(收信人)姓名地址"],
+      "singular": ["addresses"],
+      "present": ["addressing"],
+      "past": ["addressed"]
+    }
+  },
+  "adequate": {
+    "adj": {
+      "translation": ["足够的", "充足的", "合格的", "合乎需要的"]
+    }
+  },
+  "adjective": {
+    "n": {
+      "translation": ["形容词"],
+      "plural": ["adjectives"]
+    },
+    "adj": {
+      "translation": ["形容词(性)的", "附属的", "有关程序的"]
+    }
+  },
+  "adjust": {
+    "v": {
+      "translation": ["调整", "调节", "适应", "习惯", "整理"],
+      "singular": ["adjusts"],
+      "present": ["adjusting"],
+      "past": ["adjusted"]
+    }
+  },
+  "administration": {
+    "n": {
+      "translation": [
+        "管理", "(企业、学校等的)行政", "（尤指美国）政府", "执行", "(企业、学校等的)行政部门", "(企业、学校等的)管理部门",
+        "（药物的）施用", "施行"
+      ],
+      "plural": ["administrations"]
+    }
+  },
+  "admire": {
+    "vt": {
+      "translation": ["欣赏", "钦佩", "赞赏", "仰慕"],
+      "singular": ["admires"],
+      "present": ["admiring"],
+      "past": ["admired"]
+    }
+  },
+  "admission": {
+    "n": {
+      "translation": [
+        "准许进入", "入场费", "(尤指对过错、罪行的)承认，招认，招供", "门票费", "(机构、组织等的)准许加入，加入权，进入权"
+      ],
+      "plural": ["admissions"]
+    }
+  },
+  "admit": {
+    "v": {
+      "translation": ["承认(过错、罪行)", "招认", "准许…进入(某处)", "招供", "准许…加入（俱乐部、组织）", "接收入院"],
+      "singular": ["admits"],
+      "present": ["admitting"],
+      "past": ["admitted"]
+    }
+  },
+  "adopt": {
+    "v": {
+      "translation": [
+        "采用(某方法)", "采取(某态度)", "收养", "领养", "选用（名字等）", "选定，选举", "正式通过，表决采纳(建议、政策等)"
+      ],
+      "singular": ["adopts"],
+      "present": ["adopting"],
+      "past": ["adopted"]
+    }
+  },
+  "adult": {
+    "n": {
+      "translation": ["成人", "(法律上指能为自己的行为负责的)成年人", "成年动物"],
+      "plural": ["adults"]
+    },
+    "adj": {
+      "translation": ["(智力、思想、行为)成熟的，成人的", "成年的", "发育成熟的", "仅限成人的(因有色情或暴力内容)"]
+    }
+  },
+  "advance": {
+    "n": {
+      "translation": ["进展", "（价格、价值的）上涨，提高", "(尤指武装部队的)前进，行进", "进步", "预付款", "勾引"],
+      "plural": ["advances"]
+    },
+    "v": {
+      "translation": [
+        "(知识、技术等)发展，进步", "提前", "(为了进攻、威胁等)前进，行进", "提出", "促进", "推动", "预付", "上涨",
+        "向前推（至下一步）"
+      ],
+      "singular": ["advances"],
+      "present": ["advancing"],
+      "past": ["advanced"]
+    },
+    "adj": {
+      "translation": ["预先的", "事先的", "先遣队", "先头部队"]
+    }
+  },
+  "advanced": {
+    "adj": {
+      "translation": ["先进的", "高级的", "(发展)晚期的，后期的", "高等的"]
+    },
+    "v": {
+      "translation": ["(知识、技术等)发展，进步", "(为了进攻、威胁等)前进，行进", "促进", "推动"]
+    }
+  },
+  "advantage": {
+    "n": {
+      "translation": ["优势", "优点", "有利条件", "有利因素", "(局末平分后)占先", "优势分"],
+      "plural": ["advantages"]
+    },
+    "vt": {
+      "translation": ["有利于", "有助于", "使处于有利地位"],
+      "singular": ["advantages"],
+      "present": ["advantaging"],
+      "past": ["advantaged"]
+    }
+  },
+  "adventure": {
+    "n": {
+      "translation": ["冒险", "奇遇", "冒险经历", "冒险的刺激", "大胆开拓"],
+      "plural": ["adventures"]
+    },
+    "v": {
+      "translation": ["<旧>探险", "<旧>冒险", "大胆说出"],
+      "singular": ["adventures"],
+      "present": ["adventuring"],
+      "past": ["adventured"]
+    }
+  },
+  "adverb": {
+    "n": {
+      "translation": ["副词"],
+      "plural": ["adverbs"]
+    }
+  },
+  "advertisement": {
+    "n": {
+      "translation": ["广告", "广告宣传", "广告活动", "启事", "广告(样)品"],
+      "plural": ["advertisements"]
+    }
+  },
+  "advice": {
+    "n": {
+      "translation": ["建议", "意见", "忠告", "劝告"]
+    }
+  },
+  "advisable": {
+    "adj": {
+      "translation": ["可取", "明智的", "明智"]
+    }
+  },
+  "advise": {
+    "v": {
+      "translation": ["建议", "通知", "提供咨询", "提出建议", "劝告", "忠告", "出主意", "正式告知"],
+      "singular": ["advises"],
+      "present": ["advising"],
+      "past": ["advised"]
+    }
+  },
+  "aeroplane": {
+    "n": {
+      "translation": ["飞机"],
+      "plural": ["aeroplanes"]
+    }
+  },
+  "affair": {
+    "n": {
+      "translation": [
+        "事件", "事情", "公共事务", "政治事务", "(尤指已婚男女的)私通，风流韵事", "个人的事", "私人业务", "不寻常之物"
+      ],
+      "plural": ["affairs"]
+    }
+  },
+  "affect": {
+    "v": {
+      "translation": ["影响", "使感染", "侵袭", "假装", "使悲伤(或怜悯等)", "炫耀", "(感情上)深深打动"],
+      "singular": ["affects"],
+      "present": ["affecting"],
+      "past": ["affected"]
+    },
+    "n": {
+      "translation": ["【心】情感", "【数】偏差"]
+    }
+  },
+  "affection": {
+    "n": {
+      "translation": ["感情", "爱情", "喜爱", "钟爱"],
+      "plural": ["affections"]
+    }
+  },
+  "afford": {
+    "v": {
+      "translation": ["买得起", "给予", "(有时间)做，能做", "提供", "承担得起(后果)"],
+      "singular": ["affords"],
+      "present": ["affording"],
+      "past": ["afforded"]
+    }
+  },
+  "afraid": {
+    "adj": {
+      "translation": [
+        "害怕的", "害怕，畏惧(可能受伤害、受苦)", "担心(会发生某事)", "担心，生怕(将发生不快、不幸或危险的事)"
+      ]
+    }
+  },
+  "africa": {
+    "n": {
+      "translation": ["非洲"]
+    }
+  },
+  "african": {
+    "adj": {
+      "translation": ["非洲的"]
+    },
+    "n": {
+      "translation": ["非洲人(尤指黑人)"],
+      "plural": ["africans"]
+    }
+  },
+  "after": {
+    "prep": {
+      "translation": [
+        "之后", "(时间)在…后", "关于", "与…对照", "尽管", "在(某人)后面", "在…后面，仅次于", "寻找", "鉴于", "跟随",
+        "追赶", "模仿", "表示反复不断或一个接着一个"
+      ]
+    },
+    "conj": {
+      "translation": ["在…以后"]
+    },
+    "adv": {
+      "translation": ["以后", "后来", "在后面", "向后"]
+    },
+    "adj": {
+      "translation": ["以后的", "后来的", "靠近 ( 船或飞机 ) 后部的"]
+    }
+  },
+  "afternoon": {
+    "n": {
+      "translation": ["下午(中午12点至下午6点左右)"],
+      "plural": ["afternoons"]
+    }
+  },
+  "afterward": {
+    "adv": {
+      "translation": ["后来", "之后"]
+    }
+  },
+  "again": {
+    "adv": {
+      "translation": ["再一次", "又一次", "多", "增加", "再说", "再说，另一方面", "复原", "请再说一遍", "返回原处"]
+    }
+  },
+  "against": {
+    "prep": {
+      "translation": [
+        "反对", "违反", "紧靠", "对…不利", "与…相反", "逆", "撞", "以防", "以…为背景", "倚", "碰", "和…相比",
+        "作为…借项，以…抵付", "以…为竞争对手"
+      ]
+    }
+  },
+  "age": {
+    "n": {
+      "translation": ["年龄", "(历史上的)时代，时期", "老年", "年龄段", "期", "很长时间"],
+      "plural": ["ages"]
+    },
+    "v": {
+      "translation": ["(使)成熟，变陈", "变老", "使变老", "使苍老", "使显老"],
+      "singular": ["ages"],
+      "present": ["aging"]
+    }
+  },
+  "agency": {
+    "n": {
+      "translation": ["机构", "(政府的)专门机构", "(尤指)代理机构", "服务机构", "经销机构"],
+      "plural": ["agencies"]
+    }
+  },
+  "agent": {
+    "n": {
+      "translation": [
+        "(演员、音乐家、运动员、作家等的)代理人", "（化学）剂", "(企业、政治等的)经纪人", "动因(指对事态起重要作用的人、事物)",
+        "原动力", "施事者"
+      ],
+      "plural": ["agents"]
+    }
+  },
+  "aggressive": {
+    "adj": {
+      "translation": [
+        "侵略性的", "侵略的", "挑衅的", "好斗的", "气势汹汹的", "声势浩大的", "富于攻击性的", "志在必得的"
+      ]
+    }
+  },
+  "ago": {
+    "adv": {
+      "translation": ["(与动词简单过去时连用)以前"]
+    }
+  },
+  "agony": {
+    "n": {
+      "translation": ["极大的痛苦", "(精神或肉体的)极度痛苦"],
+      "plural": ["agonies"]
+    }
+  },
+  "agree": {
+    "v": {
+      "translation": [
+        "同意", "商定", "一致", "批准，认可（计划、要求等）", "(对…)取得一致意见，一致同意", "赞成", "答应", "（与…）相符",
+        "应允"
+      ],
+      "singular": ["agrees"],
+      "present": ["agreeing"],
+      "past": ["agreed"]
+    }
+  },
+  "agreement": {
+    "n": {
+      "translation": ["协定", "同意", "(意见或看法)一致", "契约", "应允", "协议"],
+      "plural": ["agreements"]
+    }
+  },
+  "agriculture": {
+    "n": {
+      "translation": ["农业", "农艺", "农学"]
+    }
+  },
+  "ahead": {
+    "adj/adv": {
+      "translation": ["在前面，朝前面", "提前，预先", "领先，占优势", "在将来，今后", "赢，有盈余", "超前地，超出预期地"]
+    }
+  },
+  "aid": {
+    "n": {
+      "translation": ["帮助", "援助", "(完成某工作所需的)助手", "辅助设备", "救援物资", "辅助物", "援助款项"],
+      "plural": ["aids"]
+    },
+    "v": {
+      "translation": ["援助", "帮助"],
+      "singular": ["aids"],
+      "present": ["aiding"],
+      "past": ["aided"]
+    }
+  },
+  "aim": {
+    "n": {
+      "translation": ["目的", "目标", "瞄准"],
+      "plural": ["aims"]
+    },
+    "v": {
+      "translation": ["旨在，目的是", "针对，指向", "瞄准，对准", "打算，企图"],
+      "singular": ["aims"],
+      "present": ["aiming"],
+      "past": ["aimed"]
+    }
+  },
+  "air": {
+    "n": {
+      "translation": ["空气", "(飞行的)空中", "天空", "感觉", "摆架子", "曲调"],
+      "plural": ["airs"]
+    },
+    "v": {
+      "translation": ["(使)通风，透风", "播出", "晾干", "晾", "公开发表"],
+      "singular": ["airs"],
+      "present": ["airing"],
+      "past": ["aired"]
+    }
+  },
+  "aircraft": {
+    "n": {
+      "translation": ["飞机", "航空器"],
+      "plural": ["aircraft"]
+    }
+  },
+  "airline": {
+    "n": {
+      "translation": ["航空公司", "航线", "空气输送管 ( 给潜水员、风钻等输送空气用 )"],
+      "plural": ["airlines"]
+    }
+  },
+  "airplane": {
+    "n": {
+      "translation": ["飞机"],
+      "plural": ["airplanes"]
+    }
+  },
+  "airport": {
+    "n": {
+      "translation": ["机场", "航空港", "航空站"],
+      "plural": ["airports"]
+    }
+  },
+  "alarm": {
+    "n": {
+      "translation": ["警报", "警报器", "恐慌", "惊慌", "惊恐"],
+      "plural": ["alarms"]
+    },
+    "vt": {
+      "translation": ["使担心", "使惊恐", "使害怕", "给(门等)安装警报器"],
+      "singular": ["alarms"],
+      "present": ["alarming"],
+      "past": ["alarmed"]
+    }
+  },
+  "alcohol": {
+    "n": {
+      "translation": ["酒精", "乙醇", "酒", "含酒精饮料"],
+      "plural": ["alcohols"]
+    }
+  },
+  "alike": {
+    "adv": {
+      "translation": ["同样地", "两者都", "很相似地", "十分相像地"]
+    },
+    "adj": {
+      "translation": ["相像", "十分相似"]
+    }
+  },
+  "alive": {
+    "adj": {
+      "translation": [
+        "活着的", "活着", "在世", "充满", "有活力", "意识到", "有生气", "继续存在", "情绪饱满", "激动兴奋"
+      ]
+    }
+  },
+  "all": {
+    "det": {
+      "translation": [
+        "所有", "全部", "一切", "(与单数名词连用，表示某事在某段时间内持续发生)全部的，整个的", "全体", "唯一", "极度",
+        "无论什么"
+      ]
+    },
+    "pron": {
+      "translation": ["所有", "全部", "一切", "全体", "所有的事物", "唯一的事物"]
+    },
+    "adv": {
+      "translation": ["完全", "非常", "太", "十分", "过分", "每方"]
+    },
+    "adj": {
+      "translation": ["一切", "全", "整个", "全体"]
+    },
+    "n": {
+      "translation": ["全部", "一切", "全体"]
+    }
+  },
+  "allow": {
+    "v": {
+      "translation": ["允许", "使可能", "（为某目的）留出，给出", "接受", "给予", "准许", "允许进入(或出去、通过)"],
+      "singular": ["allows"],
+      "present": ["allowing"],
+      "past": ["allowed"]
+    }
+  },
+  "alloy": {
+    "n": {
+      "translation": ["合金"],
+      "plural": ["alloys"]
+    },
+    "vt": {
+      "translation": ["把…铸成合金(尤指掺入一种价值低的金属)"]
+    }
+  },
+  "almost": {
+    "adv": {
+      "translation": ["几乎，差不多"]
+    }
+  },
+  "alone": {
+    "adj/adv": {
+      "translation": [
+        "单独", "独自", "仅仅，单，只", "唯一，只有", "孤独", "单独地", "寂寞", "独力", "孤苦伶仃", "无依无靠"
+      ],
+      "comparative": ["aloneer"],
+      "superlative": ["aloneest"]
+    }
+  },
+  "along": {
+    "prep": {
+      "translation": ["沿着", "顺着", "靠着…边", "沿着…的某处(或旁边)"]
+    },
+    "adv": {
+      "translation": ["(与某人)一道，一起", "越来越(好)", "向前"]
+    }
+  },
+  "aloud": {
+    "adv": {
+      "translation": ["大声地", "出声地"]
+    }
+  },
+  "alphabet": {
+    "n": {
+      "translation": ["字母表", "(一种语言的)全部字母"],
+      "plural": ["alphabets"]
+    }
+  },
+  "already": {
+    "adv": {
+      "translation": ["已经(强调情况或问题存在)", "(表示惊奇)已经，都", "早已"]
+    }
+  },
+  "also": {
+    "adv": {
+      "translation": ["而且", "此外", "同样", "也"]
+    },
+    "conj": {
+      "translation": ["同“also beautiful”"]
+    }
+  },
+  "alter": {
+    "v": {
+      "translation": ["改变", "(使)更改", "修改(衣服使更合身)", "改动"],
+      "singular": ["alters"],
+      "present": ["altering"],
+      "past": ["altered"]
+    }
+  },
+  "alternative": {
+    "adj": {
+      "translation": ["可供替代的", "非传统的", "另类的"]
+    },
+    "n": {
+      "translation": ["可供选择的事物"],
+      "plural": ["alternatives"]
+    }
+  },
+  "although": {
+    "conj": {
+      "translation": ["虽然", "尽管", "不过", "然而", "即使"]
+    }
+  },
+  "altitude": {
+    "n": {
+      "translation": ["海拔", "海拔高度", "(海拔高的)高处，高地", "高程"],
+      "plural": ["altitudes"]
+    }
+  },
+  "altogether": {
+    "adv": {
+      "translation": ["总共", "(用以强调)完全", "(表示总数或总额)一共", "全部", "总之", "总而言之"]
+    },
+    "n": {
+      "translation": ["整个", "〈口〉裸体"]
+    }
+  },
+  "aluminium": {
+    "n": {
+      "translation": ["铝"],
+      "plural": ["aluminia"]
+    }
+  },
+  "always": {
+    "adv": {
+      "translation": ["总是", "一直", "(将)永远", "（讨厌地）老是，一再", "一贯", "每次都是", "总还，总还有"]
+    }
+  },
+  "am": {
+    "v": {
+      "translation": ["是"]
+    },
+    "abbr": {
+      "translation": ["上午(ante meridiem)", "调幅（Amplitude Modulation）"]
+    }
+  },
+  "amaze": {
+    "vt": {
+      "translation": ["使惊奇", "使惊愕"],
+      "singular": ["amazes"],
+      "present": ["amazing"],
+      "past": ["amazed"]
+    }
+  },
+  "ambition": {
+    "n": {
+      "translation": ["追求的目标", "雄心", "抱负", "志向", "野心", "夙愿"],
+      "plural": ["ambitions"]
+    },
+    "v": {
+      "translation": ["热望"]
+    }
+  },
+  "ambulance": {
+    "n": {
+      "translation": ["救护车"],
+      "plural": ["ambulances"]
+    }
+  },
+  "america": {
+    "n": {
+      "translation": ["美国", "美洲"]
+    }
+  },
+  "american": {
+    "n": {
+      "translation": ["（American）美国人", "美国英语"]
+    },
+    "adj": {
+      "translation": ["（American）美国的", "美国人的", "美洲的"]
+    }
+  },
+  "among": {
+    "prep": {
+      "translation": ["在…中", "在(其)中", "在…之间", "…之一", "周围是", "在三者或以上中(分配或选择)"]
+    }
+  },
+  "amongst": {
+    "prep": {
+      "translation": ["（表示范围）在…之内", "在", "同 among", "（表示位置）处在…中"]
+    }
+  },
+  "amount": {
+    "n": {
+      "translation": ["数量", "金额", "数额"],
+      "plural": ["amounts"]
+    },
+    "v": {
+      "translation": ["合计，共计", "等同，接近"],
+      "singular": ["amounts"],
+      "present": ["amounting"],
+      "past": ["amounted"]
+    }
+  },
+  "ampere": {
+    "n": {
+      "translation": ["安，安培(电流单位，缩略形式为 amp)"],
+      "plural": ["amperes"]
+    }
+  },
+  "amplify": {
+    "v": {
+      "translation": ["放大", "增强(声音等)", "充实(故事、事情、陈述等)", "阐发"],
+      "singular": ["amplifies"],
+      "present": ["amplifying"],
+      "past": ["amplified"]
+    }
+  },
+  "amuse": {
+    "vt": {
+      "translation": ["(使)娱乐", "(提供)消遣", "逗乐", "逗笑"],
+      "singular": ["amuses"],
+      "present": ["amusing"],
+      "past": ["amused"]
+    }
+  },
+  "analyse": {
+    "vt": {
+      "translation": ["分析"],
+      "singular": ["analyses"],
+      "present": ["analysing"],
+      "past": ["analysed"]
+    }
+  },
+  "analysis": {
+    "n": {
+      "translation": ["(对物质的)分析", "(对事物的)分析结果"],
+      "plural": ["analyses"]
+    }
+  },
+  "ancestor": {
+    "n": {
+      "translation": ["祖先", "祖宗", "(机器的)原型", "(动物的)原种"],
+      "plural": ["ancestors"]
+    }
+  },
+  "anchor": {
+    "n": {
+      "translation": ["锚", "支柱，靠山", "固定桩，系缚物", "主持（电视或电台节目，尤指新闻节目）"],
+      "plural": ["anchors"]
+    },
+    "v": {
+      "translation": ["把…系住（或扎牢、粘住），使固定", "抛锚，下锚", "使扎根，使基于", "主持"],
+      "singular": ["anchors"],
+      "present": ["anchoring"],
+      "past": ["anchored"]
+    }
+  },
+  "ancient": {
+    "adj": {
+      "translation": ["古代的", "古老的", "很老的", "(尤指埃及、希腊和罗马的)古代人"]
+    },
+    "n": {
+      "translation": ["古代人", "<古>旗手", "古文明国的国民", "<古>高龄老人"],
+      "plural": ["ancients"]
+    }
+  },
+  "and": {
+    "conj": {
+      "translation": [
+        "和", "与", "同", "又", "而", "加", "加上", "然后", "接着", "…为了", "那么，于是", "（表示结果）结果是",
+        "接连，又，愈来愈", "与…不同，各有不同"
+      ]
+    },
+    "n": {
+      "translation": ["附加条件", "附加细节"]
+    }
+  },
+  "angel": {
+    "n": {
+      "translation": ["天使", "安琪儿(指善良的人或可爱的小孩)", "大好人(感激某人时所说)", "善人"],
+      "plural": ["angels"]
+    }
+  },
+  "anger": {
+    "n": {
+      "translation": ["愤怒", "怒气", "怒火", "怒"]
+    },
+    "vt": {
+      "translation": ["激怒", "使发怒"],
+      "singular": ["angers"],
+      "present": ["angering"],
+      "past": ["angered"]
+    }
+  },
+  "angle": {
+    "n": {
+      "translation": ["角度", "角", "斜角", "观点"],
+      "plural": ["angles"]
+    },
+    "v": {
+      "translation": ["从(某角度)报道", "钓鱼", "垂钓", "斜置", "以(某观点)提供信息", "斜移"],
+      "singular": ["angles"],
+      "present": ["angling"],
+      "past": ["angled"]
+    }
+  },
+  "angry": {
+    "adj": {
+      "translation": [
+        "生气的", "愤怒的", "发怒的", "红肿的", "发炎的", "感染的", "波涛汹涌的", "狂风暴雨的", "天昏地暗的"
+      ],
+      "comparative": ["angrier"],
+      "superlative": ["angriest"]
+    }
+  },
+  "animal": {
+    "n": {
+      "translation": ["动物(不包括鸟、鱼、爬行动物、昆虫或人)", "牲畜", "兽", "衣冠禽兽", "某类型的人"],
+      "plural": ["animals"]
+    },
+    "adj": {
+      "translation": ["肉体的", "情欲的", "肉欲的"]
+    }
+  },
+  "ankle": {
+    "n": {
+      "translation": ["踝关节", "踝"],
+      "plural": ["ankles"]
+    },
+    "v": {
+      "translation": ["走路"]
+    }
+  },
+  "announce": {
+    "v": {
+      "translation": ["宣布", "(尤指通过广播)通知", "宣告(决定、计划等)", "播音，广播", "宣称", "声称", "宣布（某人）到达"],
+      "singular": ["announces"],
+      "present": ["announcing"],
+      "past": ["announced"]
+    }
+  },
+  "announcer": {
+    "n": {
+      "translation": ["播音员", "(车站、机场等的)广播员", "(广播、电视的)节目主持人"],
+      "plural": ["announcers"]
+    }
+  },
+  "annoy": {
+    "vt": {
+      "translation": ["使生气", "惹恼", "使恼怒", "骚扰", "打扰"],
+      "singular": ["annoys"],
+      "present": ["annoying"],
+      "past": ["annoyed"]
+    },
+    "n": {
+      "translation": ["同“annoyance”"]
+    }
+  },
+  "annual": {
+    "adj": {
+      "translation": ["每年的", "年度的", "一年的", "一年一次的"]
+    },
+    "n": {
+      "translation": ["年报", "一年生植物", "年鉴", "年刊", "一季生植物"],
+      "plural": ["annuals"]
+    }
+  },
+  "another": {
+    "det/pron": {
+      "translation": ["（同类中的）又一个，再一个", "不同的一个，另一个", "类似的另一个"]
+    },
+    "adj": {
+      "translation": ["（同类中）又一的，再一个（或一批）的", "另一的，别的，不同的", "另一类似的"]
+    }
+  },
+  "answer": {
+    "n": {
+      "translation": ["回答", "(试题、练习等的)答案，正确答案", "(问题的)解决办法，答案", "答复", "足以媲美的人"]
+    },
+    "v": {
+      "translation": ["回答", "答复", "符合", "适合", "比得上", "相配"],
+      "singular": ["answers"],
+      "present": ["answering"],
+      "past": ["answered"]
+    }
+  },
+  "ant": {
+    "n": {
+      "translation": ["蚂蚁"],
+      "plural": ["ants"]
+    }
+  },
+  "anticipate": {
+    "vt": {
+      "translation": ["预料", "预见，预计(并做准备)", "预期", "期望", "期盼", "先于…做"],
+      "singular": ["anticipates"],
+      "present": ["anticipating"],
+      "past": ["anticipated"]
+    }
+  },
+  "anxiety": {
+    "n": {
+      "translation": ["焦虑", "忧虑", "担心", "害怕", "渴望"],
+      "plural": ["anxieties"]
+    }
+  },
+  "anxious": {
+    "adj": {
+      "translation": ["焦虑的", "担心", "渴望", "忧虑", "非常希望", "流露出忧虑的"]
+    }
+  },
+  "any": {
+    "det": {
+      "translation": [
+        "任何", "(与单数可数名词连用)任一", "不寻常的", "非一般的",
+        "(与不可数或复数名词连用，用于否定句和疑问句，也用于if或whether之后，或紧接某些动词如prevent、ban、forbid等)任一的"
+      ]
+    },
+    "pron": {
+      "translation": ["任一", "任何一些", "(用于否定句和疑问句中或if、whether后)任一数额"]
+    },
+    "adv": {
+      "translation": ["(用于否定句末)根本(不)", "(用于否定句或疑问句中，加强形容词或副词的语气)完全(不)"]
+    },
+    "adj": {
+      "translation": ["任何", "一个", "什么", "一般的"]
+    }
+  },
+  "anybody": {
+    "pron": {
+      "translation": ["(用于疑问句、条件从句)任何人", "同 anyone"]
+    },
+    "n": {
+      "translation": ["重要人物", "平常人"],
+      "plural": ["anybodies"]
+    }
+  },
+  "anyhow": {
+    "adv": {
+      "translation": ["无论如何", "随便地", "杂乱无章地"]
+    }
+  },
+  "anyone": {
+    "pron": {
+      "translation": [
+        "(用于否定句、疑问句，也用于if或whether之后，或紧接prevent、forbid、avoid等动词，代替someone)任何人", "随便哪个人",
+        "重要人物"
+      ]
+    }
+  },
+  "anything": {
+    "pron": {
+      "translation": [
+        "（用于否定句）任何事物，什么事情 ", "（用于疑问句或条件从句）任何事物，任何事情",
+        "（用于描述所谈论事物的词语前）…的东西，…的事情", "（限定范围内的）任何一点",
+        "（用于加强语气）无论什么东西，随便什么事情", "（用于强调）多少接近于"
+      ]
+    }
+  },
+  "anyway": {
+    "adv": {
+      "translation": ["(转换话题、结束谈话或回到原话题时说)无论如何", "反正", "而且", "至少", "尽管", "加之", "即使这样"]
+    }
+  },
+  "anywhere": {
+    "adv": {
+      "translation": [
+        "（用于否定句）哪儿，到处", "任何地方，到处", "（用于疑问句和条件从句）某个地方，哪里",
+        "（用于描述所谈论的某个地方的词语前）…地方", "（用于强调）根本，一点儿，将近，几乎", "（指某个范围内）任何一点上"
+      ]
+    },
+    "pron": {
+      "translation": ["任何地方"]
+    }
+  },
+  "apart": {
+    "adv": {
+      "translation": ["分开", "分离", "(指空间或时间)相隔，相距", "除外", "分开地", "不在一起", "成碎片"]
+    },
+    "adj": {
+      "translation": ["(与众)不同的"]
+    }
+  },
+  "apartment": {
+    "n": {
+      "translation": ["公寓", "(尤指巨屋、名宅的)房间", "(通常指在同一楼层的)公寓套房"],
+      "plural": ["apartments"]
+    }
+  },
+  "apologize": {
+    "vi": {
+      "translation": ["道歉", "谢罪"],
+      "singular": ["apologizes"],
+      "present": ["apologizing"],
+      "past": ["apologized"]
+    }
+  },
+  "apology": {
+    "n": {
+      "translation": ["道歉", "(因不能赴会或提前离会的)致歉", "谢罪"],
+      "plural": ["apologies"]
+    }
+  },
+  "apparatus": {
+    "n": {
+      "translation": ["装置", "仪器", "(尤指政党或政府的)机构，组织，机关", "器械", "器官"],
+      "plural": ["apparatuses"]
+    }
+  },
+  "apparent": {
+    "adj": {
+      "translation": ["显然的", "显然", "显而易见", "表面上的", "貌似的", "明白易懂", "未必真实的"]
+    }
+  },
+  "appeal": {
+    "n": {
+      "translation": ["上诉", "(尤指慈善机构或警方的)呼吁，吁请，恳求", "吸引力", "申诉", "魅力", "感染力", "启发"],
+      "plural": ["appeals"]
+    },
+    "v": {
+      "translation": ["上诉", "呼吁", "申诉", "吁请", "有吸引力", "恳求", "启发", "有感染力", "引起兴趣"],
+      "singular": ["appeals"],
+      "present": ["appealing"],
+      "past": ["appealed"]
+    }
+  },
+  "appear": {
+    "v": {
+      "translation": ["出现，呈现，显现", "显得，看来，似乎", "出庭（作证或受审）", "出版", "演出", "记载", "起源，首次使用"],
+      "singular": ["appears"],
+      "present": ["appearing"],
+      "past": ["appeared"]
+    }
+  },
+  "appearance": {
+    "n": {
+      "translation": ["外貌", "外观", "外表", "出现", "出版", "公开露面", "(尤指突然的)抵达，到来", "起源", "首次使用"],
+      "plural": ["appearances"]
+    }
+  },
+  "appetite": {
+    "n": {
+      "translation": ["食欲", "胃口", "强烈欲望"],
+      "plural": ["appetites"]
+    }
+  },
+  "apple": {
+    "n": {
+      "translation": ["苹果"],
+      "plural": ["apples"]
+    }
+  },
+  "appliance": {
+    "n": {
+      "translation": ["(家用)电器", "器具"],
+      "plural": ["appliances"]
+    }
+  },
+  "applicable": {
+    "adj": {
+      "translation": ["适用", "合适", "可应用的"]
+    }
+  },
+  "application": {
+    "n": {
+      "translation": [
+        "应用", "应用程序", "申请", "(尤指理论、发现等的)运用", "申请表", "申请书", "施用", "涂抹", "敷用", "勤奋"
+      ],
+      "plural": ["applications"]
+    }
+  },
+  "apply": {
+    "v": {
+      "translation": ["应用", "(通常以书面形式)申请，请求", "使用", "有关", "涂", "施", "敷", "手压", "勤奋工作"],
+      "singular": ["applies"],
+      "present": ["applying"],
+      "past": ["applied"]
+    }
+  },
+  "appoint": {
+    "vt": {
+      "translation": ["任命", "委任", "安排，确定(时间、地点)"],
+      "singular": ["appoints"],
+      "present": ["appointing"],
+      "past": ["appointed"]
+    }
+  },
+  "appointment": {
+    "n": {
+      "translation": ["约会", "委任", "预约", "任命", "职位", "职务", "约定"],
+      "plural": ["appointments"]
+    }
+  },
+  "appreciate": {
+    "v": {
+      "translation": ["欣赏", "感谢", "理解", "感激", "欢迎", "意识到", "增值", "重视", "领会", "赏识"],
+      "singular": ["appreciates"],
+      "present": ["appreciating"],
+      "past": ["appreciated"]
+    }
+  },
+  "approach": {
+    "n": {
+      "translation": [
+        "方法", "(待人接物或思考问题的)方式", "(距离和时间上的)接近", "要求", "建议", "进场", "接洽", "通路",
+        "相似（或近似）的事物"
+      ],
+      "plural": ["approaches"]
+    },
+    "v": {
+      "translation": ["(在数额、水平或质量上)接近", "要求", "建议", "(在距离或时间上)靠近", "接洽", "着手处理"],
+      "singular": ["approaches"],
+      "present": ["approaching"],
+      "past": ["approached"]
+    }
+  },
+  "appropriate": {
+    "adj": {
+      "translation": ["适当的", "合适的", "恰当的"]
+    },
+    "vt": {
+      "translation": ["拨(专款等)", "挪用", "占用", "盗用", "侵吞"],
+      "singular": ["appropriates"],
+      "present": ["appropriating"],
+      "past": ["appropriated"]
+    }
+  },
+  "approval": {
+    "n": {
+      "translation": ["批准", "通过(计划、要求等)", "同意", "赞成", "(商品)试用"],
+      "plural": ["approvals"]
+    }
+  },
+  "approve": {
+    "v": {
+      "translation": ["批准", "核准", "通过(计划、要求等)", "认可", "同意", "赞成"],
+      "singular": ["approves"],
+      "present": ["approving"],
+      "past": ["approved"]
+    }
+  },
+  "approximate": {
+    "v": {
+      "translation": ["近似", "接近", "近似计算", "概略估算"],
+      "singular": ["approximates"],
+      "present": ["approximating"],
+      "past": ["approximated"]
+    },
+    "adj": {
+      "translation": ["近似的", "大约的", "接近的"]
+    }
+  },
+  "approximately": {
+    "adv": {
+      "translation": ["大概", "大约", "约莫"]
+    }
+  },
+  "april": {
+    "n": {
+      "translation": ["四月"],
+      "plural": ["aprils"]
+    }
+  },
+  "arabian": {
+    "adj": {
+      "translation": ["阿拉伯的"]
+    },
+    "n": {
+      "translation": ["阿拉伯人", "阿拉伯半岛居民"],
+      "plural": ["arabians"]
+    }
+  },
+  "arbitrary": {
+    "adj": {
+      "translation": ["任意的", "武断的", "专横的", "专制的", "随心所欲的"]
+    }
+  },
+  "architecture": {
+    "n": {
+      "translation": ["(总体、层次)结构", "体系结构", "建筑设计", "建筑风格", "建筑学"],
+      "plural": ["architectures"]
+    }
+  },
+  "area": {
+    "n": {
+      "translation": [
+        "(地方、城市、国家、世界的)地区", "领域", "面积", "(物体上的)区", "部位", "(房间、建筑物、处所划为某用途的)场地",
+        "地域"
+      ],
+      "plural": ["areas"]
+    }
+  },
+  "argue": {
+    "v": {
+      "translation": ["争论", "争辩", "争吵", "论证", "证明", "表明", "说理"],
+      "singular": ["argues"],
+      "present": ["arguing"],
+      "past": ["argued"]
+    }
+  },
+  "argument": {
+    "n": {
+      "translation": ["论点", "争论", "论据", "理由", "辩论", "争吵", "争辩"],
+      "plural": ["arguments"]
+    }
+  },
+  "arise": {
+    "vi": {
+      "translation": ["发生", "出现", "(由…)引起", "(因…)产生", "发展", "起床", "（随着人走近而）逐渐显现", "群起反对"],
+      "singular": ["arises"],
+      "present": ["arising"],
+      "past": ["arose", "arisen"]
+    }
+  },
+  "arithmetic": {
+    "n": {
+      "translation": ["算术", "演算，计算", "数据统计"],
+      "plural": ["arithmetics"]
+    },
+    "adj": {
+      "translation": ["算术的，运算的"]
+    }
+  },
+  "arm": {
+    "n": {
+      "translation": ["臂", "手臂", "扶手", "上肢", "袖子", "分部", "臂状物", "狭长港湾"],
+      "plural": ["arms"]
+    },
+    "v": {
+      "translation": ["武装", "装备", "备战", "准备发射", "给…装上引信", "打开…的保险", "使(炸弹等)随时爆炸"],
+      "singular": ["arms"],
+      "present": ["arming"],
+      "past": ["armed"]
+    }
+  },
+  "army": {
+    "n": {
+      "translation": ["军队", "(一国的)陆军", "大批", "陆军部队", "大群", "陆上作战军队"],
+      "plural": ["armies"]
+    }
+  },
+  "around": {
+    "adv": {
+      "translation": ["周围", "围绕", "大约", "四周", "环绕", "出现", "到处", "转弯", "闲散地"]
+    },
+    "prep": {
+      "translation": ["围绕", "环绕", "绕着", "到处", "在那边", "从那边", "到那边", "同…一致"]
+    }
+  },
+  "arouse": {
+    "vt": {
+      "translation": ["激起，引起(感情、态度)", "激发", "唤醒", "激起性欲", "使行动起来"],
+      "singular": ["arouses"],
+      "present": ["arousing"],
+      "past": ["aroused"]
+    }
+  },
+  "arrange": {
+    "v": {
+      "translation": ["安排", "布置", "排列", "整理", "筹备", "谱写，改编(乐曲)"],
+      "singular": ["arranges"],
+      "present": ["arranging"],
+      "past": ["arranged"]
+    }
+  },
+  "arrangement": {
+    "n": {
+      "translation": ["安排", "布置", "约定", "商定", "筹备", "安排方式", "改编乐曲", "整理好的东西"],
+      "plural": ["arrangements"]
+    }
+  },
+  "arrest": {
+    "v": {
+      "translation": ["逮捕", "拘留", "阻止", "吸引(注意)", "心跳停止", "中止"],
+      "singular": ["arrests"],
+      "present": ["arresting"],
+      "past": ["arrested"]
+    },
+    "n": {
+      "translation": ["逮捕", "拘捕", "停止", "中止"]
+    }
+  },
+  "arrival": {
+    "n": {
+      "translation": ["到达", "抵达", "(新技术、新思想的)引进，采用，推行", "到达者", "抵达物"],
+      "plural": ["arrivals"]
+    }
+  },
+  "arrive": {
+    "vi": {
+      "translation": ["到达", "抵达", "到来", "发生", "送达", "寄到"],
+      "singular": ["arrives"],
+      "present": ["arriving"],
+      "past": ["arrived"]
+    }
+  },
+  "arrow": {
+    "n": {
+      "translation": ["箭", "箭头", "箭号"],
+      "plural": ["arrows"]
+    }
+  },
+  "art": {
+    "n": {
+      "translation": [
+        "艺术 ( 包括绘画、雕塑、音乐、舞蹈、文学等 )", "技术，技艺", "方法，诀窍，本领", "美术 ( 指绘画、绘图和雕塑 )",
+        "人文科学，文科", "艺术技巧", "(总称)美术 ( 作 ) 品", "艺术 ( 作 ) 品"
+      ],
+      "plural": ["arts"]
+    },
+    "v": {
+      "translation": ["<古>be的现在式单数第二人称"]
+    },
+    "adj": {
+      "translation": ["美术 ( 或艺术 ) ( 品 ) 的", "美术 ( 或艺术 ) 家的"]
+    }
+  },
+  "article": {
+    "n": {
+      "translation": ["文章", "(协议、契约的)条款", "(报刊上的)论文", "报道", "物件(尤指整套中的一件)", "冠词"],
+      "plural": ["articles"]
+    },
+    "vi": {
+      "translation": [
+        "签订协议", "以协议（或契约）约束", "使受协议条款的约束", "定约雇用进行控告", "订约将…收为学徒（或徒弟）",
+        "提出罪状（或指责）(against)"
+      ],
+      "singular": ["articles"],
+      "present": ["articling"],
+      "past": ["articled"]
+    }
+  },
+  "artificial": {
+    "adj": {
+      "translation": ["人工的，人造的，人为的", "假的，假装的，矫揉造作的，模拟的", "非原地产的，人工栽培的"]
+    }
+  },
+  "artist": {
+    "n": {
+      "translation": ["艺术家", "(尤指)画家"],
+      "plural": ["artists"]
+    }
+  },
+  "artistic": {
+    "adj": {
+      "translation": ["艺术的", "艺术家的", "精美的", "有艺术性的", "有艺术天赋的", "(尤指)有美术才能的"]
+    }
+  },
+  "as": {
+    "prep": {
+      "translation": ["像", "如同", "作为", "当作"]
+    },
+    "adv": {
+      "translation": ["(比较时用)像…一样，如同", "(指事情以同样的方式发生)和…一样"]
+    },
+    "conj": {
+      "translation": ["当…时", "随着", "照…方式", "因为", "由于", "正如", "尽管"]
+    },
+    "n": {
+      "translation": ["“A”的复数", "阿斯"]
+    }
+  },
+  "ash": {
+    "n": {
+      "translation": ["灰", "灰烬，废墟", "骨灰", "梣，梣木", "*æ"],
+      "plural": ["ashes"]
+    },
+    "v": {
+      "translation": ["撒灰于", "把…烧成灰烬"]
+    }
+  },
+  "ashamed": {
+    "adj": {
+      "translation": ["羞愧", "惭愧的", "惭愧", "羞于", "尴尬", "因惭愧而不情愿"]
+    }
+  },
+  "asia": {
+    "n": {
+      "translation": ["亚洲", "女子名"]
+    }
+  },
+  "asian": {
+    "adj": {
+      "translation": ["亚洲的"]
+    },
+    "n": {
+      "translation": ["亚洲人"],
+      "plural": ["Asians"]
+    }
+  },
+  "aside": {
+    "adv": {
+      "translation": ["在一边", "留", "在旁边", "存", "到旁边", "(用于名词后)除…以外"]
+    },
+    "n": {
+      "translation": ["旁白", "低声说的话", "离题话"],
+      "plural": ["asides"]
+    }
+  },
+  "ask": {
+    "v": {
+      "translation": ["问", "要求", "请", "询问", "请求", "征求", "期望", "要价", "恳求(给予)", "请求允许"],
+      "singular": ["asks"],
+      "present": ["asking"],
+      "past": ["asked"]
+    }
+  },
+  "asleep": {
+    "adj": {
+      "translation": ["睡着的", "睡着"]
+    },
+    "adv": {
+      "translation": ["死去", "进入静止状态", "睡着地", "麻木不仁地"]
+    }
+  },
+  "aspect": {
+    "n": {
+      "translation": [
+        "方面", "层面", "（动词的）体（如表示动作等发生一次或多次、已完成或正在进行）", "外观", "方位", "外表", "朝向", "样子"
+      ],
+      "plural": ["aspects"]
+    }
+  },
+  "assemble": {
+    "v": {
+      "translation": ["集合", "装配", "收集", "组装", "聚集"],
+      "singular": ["assembles"],
+      "present": ["assembling"],
+      "past": ["assembled"]
+    }
+  },
+  "assembly": {
+    "n": {
+      "translation": ["会议", "装配", "议会", "集会", "立法机构", "(全校师生的)晨会，朝会", "(统称)集会者"],
+      "plural": ["assemblies"]
+    }
+  },
+  "assess": {
+    "vt": {
+      "translation": ["评估", "评定(性质、质量)", "估算", "估定(数量、价值)"],
+      "singular": ["assesses"],
+      "present": ["assessing"],
+      "past": ["assessed"]
+    }
+  },
+  "assign": {
+    "vt": {
+      "translation": [
+        "分派，布置(工作、任务等)", "指定，确定", "转让，让与（财产、权利）", "分配(某物)", "委派，派遣",
+        "把…归因 ( 于 ) ，把…归属 ( 于 )"
+      ],
+      "singular": ["assigns"],
+      "present": ["assigning"],
+      "past": ["assigned"]
+    }
+  },
+  "assignment": {
+    "n": {
+      "translation": ["分配", "(分派的)工作，任务", "(工作等的)分派，布置"],
+      "plural": ["assignments"]
+    }
+  },
+  "assist": {
+    "v": {
+      "translation": ["帮助", "协助", "援助", "促进"],
+      "singular": ["assists"],
+      "present": ["assisting"],
+      "past": ["assisted"]
+    },
+    "n": {
+      "translation": ["(曲棍球等)助攻", "(棒球等)助杀"]
+    }
+  },
+  "assistant": {
+    "n": {
+      "translation": ["助理", "助手", "助教(在国外留学的大学生，教授本国语)"],
+      "plural": ["assistants"]
+    },
+    "adj": {
+      "translation": ["助理的", "副的"]
+    }
+  },
+  "associate": {
+    "v": {
+      "translation": ["联系", "联合", "联想", "交往", "表示同意", "(尤指)混在一起", "表明支持"],
+      "singular": ["associates"],
+      "present": ["associating"],
+      "past": ["associated"]
+    },
+    "adj": {
+      "translation": ["联合的", "副的", "有关联的", "准的", "非正式的"]
+    },
+    "n": {
+      "translation": ["伙伴", "同事", "合伙人", "准学士(获得两年制高校学位)"],
+      "plural": ["associates"]
+    }
+  },
+  "association": {
+    "n": {
+      "translation": ["关联", "协会", "联系", "联盟", "联合", "联想", "社团", "交往", "合伙", "因果关系"],
+      "plural": ["associations"]
+    }
+  },
+  "assume": {
+    "v": {
+      "translation": [
+        "假定", "假设", "承担(责任)", "认为", "呈现(外观、样子)", "取得(权力)", "装出", "显露(特征)", "就(职)"
+      ],
+      "singular": ["assumes"],
+      "present": ["assuming"],
+      "past": ["assumed"]
+    }
+  },
+  "assure": {
+    "vt": {
+      "translation": ["保证", "确保", "向…保证", "使确定", "保险（尤指人寿险）", "使确信", "查明", "弄清"],
+      "singular": ["assures"],
+      "present": ["assuring"],
+      "past": ["assured"]
+    }
+  },
+  "astonish": {
+    "vt": {
+      "translation": ["使吃惊", "震惊", "使十分惊讶", "使大为惊奇"],
+      "singular": ["astonishes"],
+      "present": ["astonishing"],
+      "past": ["astonished"]
+    }
+  },
+  "astronaut": {
+    "n": {
+      "translation": ["宇航员", "航天员"],
+      "plural": ["astronauts"]
+    }
+  },
+  "at": {
+    "prep": {
+      "translation": [
+        "在(某时间或时刻)", "在(学习或工作地点)", "在(某处)", "在…岁时", "向", "以，达", "处于最佳（或最差等）状态",
+        "在…方面", "以…的方式", "从事于，忙于", "因为，由于", "应…（而）"
+      ]
+    },
+    "abbr": {
+      "translation": ["(= astatine ) (= Air Transport )"]
+    }
+  },
+  "athlete": {
+    "n": {
+      "translation": ["运动员", "健儿", "田径运动员", "擅长运动的人"],
+      "plural": ["athletes"]
+    }
+  },
+  "atlantic": {
+    "n": {
+      "translation": ["大西洋"]
+    },
+    "adj": {
+      "translation": ["大西洋的", "巨人阿特拉斯 的"]
+    }
+  },
+  "atmosphere": {
+    "n": {
+      "translation": ["气氛", "(围绕地球的)大气，大气层，大气圈", "(房间、封闭空间或某处的)空气", "(围绕其他天体的)气体"],
+      "plural": ["atmospheres"]
+    }
+  },
+  "atmospheric": {
+    "adj": {
+      "translation": ["大气的", "大气层的", "令人激动的", "使人动感情的"]
+    }
+  },
+  "atom": {
+    "n": {
+      "translation": ["原子"],
+      "plural": ["atoms"]
+    }
+  },
+  "atomic": {
+    "adj": {
+      "translation": ["原子的", "原子能的", "原子武器的", "与原子有关的"]
+    }
+  },
+  "attach": {
+    "v": {
+      "translation": [
+        "贴上", "重视", "(有时不受欢迎或未受邀请而)参加，和…在一起，缠着", "把…固定，把…附(在…上)", "（使）与…有联系",
+        "认为有重要性(或意义、价值、分量等)"
+      ],
+      "singular": ["attaches"],
+      "present": ["attaching"],
+      "past": ["attached"]
+    }
+  },
+  "attack": {
+    "n": {
+      "translation": [
+        "攻击", "袭击", "(在战争中使用武器的)进攻", "（队员等的）进攻", "发作，侵袭", "（病、虫等的）损害，伤害",
+        "(口头和书面的)抨击，非难", "抑制", "进攻队员", "（情感的）一阵突发"
+      ],
+      "plural": ["attacks"]
+    },
+    "v": {
+      "translation": ["攻击", "袭击", "(在战争等中使用武器)进攻", "抨击", "侵袭", "非难", "奋力处理"],
+      "singular": ["attacks"],
+      "present": ["attacking"],
+      "past": ["attacked"]
+    }
+  },
+  "attain": {
+    "vt": {
+      "translation": ["达到(某年龄、水平、状况)", "(通常经过努力)获得", "得到"],
+      "singular": ["attains"],
+      "present": ["attaining"],
+      "past": ["attained"]
+    }
+  },
+  "attempt": {
+    "n": {
+      "translation": ["企图", "尝试", "试图", "(为超越某事物的)尝试，努力", "杀人企图"],
+      "plural": ["attempts"]
+    },
+    "v": {
+      "translation": ["尝试", "试图", "努力"],
+      "singular": ["attempts"],
+      "present": ["attempting"],
+      "past": ["attempted"]
+    }
+  },
+  "attend": {
+    "v": {
+      "translation": ["出席", "参加", "注意", "专心", "随同", "经常去，定期去(某处)", "伴随发生"],
+      "singular": ["attends"],
+      "present": ["attending"],
+      "past": ["attended"]
+    }
+  },
+  "attention": {
+    "n": {
+      "translation": [
+        "注意", "关注", "注意力", "关心", "兴趣", "专心", "留心", "殷勤", "特别照料（或行动、处理）", "立正姿势"
+      ],
+      "plural": ["attentions"]
+    },
+    "int": {
+      "translation": ["注意", "立正"]
+    }
+  },
+  "attentive": {
+    "adj": {
+      "translation": ["细心的", "关心的", "专心的", "注意的", "留心的", "肯帮忙的"]
+    }
+  },
+  "attitude": {
+    "n": {
+      "translation": ["态度", "姿势", "看法", "我行我素的作派"],
+      "plural": ["attitudes"]
+    }
+  },
+  "attract": {
+    "vt": {
+      "translation": ["吸引", "引起(反应)", "使喜爱", "招引", "引起…的好感(或爱慕)"],
+      "singular": ["attracts"],
+      "present": ["attracting"],
+      "past": ["attracted"]
+    }
+  },
+  "attraction": {
+    "n": {
+      "translation": ["吸引力", "(尤指两性间的)吸引", "有吸引力的特征(或品质、人)", "向往的地方", "有吸引力的事"],
+      "plural": ["attractions"]
+    }
+  },
+  "attractive": {
+    "adj": {
+      "translation": ["(事物)有吸引力的", "吸引人的", "诱人的", "性感的", "英俊的", "妩媚的", "令人愉快的"]
+    }
+  },
+  "attribute": {
+    "n": {
+      "translation": ["属性", "特征", "性质", "定语"],
+      "plural": ["attributes"]
+    },
+    "vt": {
+      "translation": ["把…归因于", "认为…是由于", "认为是…所为(或说、写、作)"],
+      "singular": ["attributes"],
+      "present": ["attributing"],
+      "past": ["attributed"]
+    }
+  },
+  "audience": {
+    "n": {
+      "translation": ["观众", "(戏剧、音乐会或演讲等的)听众", "(同一事物的)读者", "(与要人的)会见", "觐见", "进见"],
+      "plural": ["audiences"]
+    }
+  },
+  "august": {
+    "adj": {
+      "translation": ["威严的，庄严的"]
+    }
+  },
+  "aunt": {
+    "n": {
+      "translation": ["(儿语)阿姨", "姑母", "姨母", "伯母", "舅母", "婶母"],
+      "plural": ["aunts"]
+    }
+  },
+  "aural": {
+    "adj": {
+      "translation": ["听觉的", "听的"]
+    }
+  },
+  "australia": {
+    "n": {
+      "translation": ["澳大利亚", "澳洲"]
+    }
+  },
+  "australian": {
+    "n": {
+      "translation": ["澳大利亚人"],
+      "plural": ["Australians"]
+    },
+    "adj": {
+      "translation": ["澳大利亚的"]
+    }
+  },
+  "author": {
+    "n": {
+      "translation": ["作者", "作家", "(尤指计划或思想的)创造者，发起人", "著者"],
+      "plural": ["authors"]
+    },
+    "vt": {
+      "translation": ["编写", "著作", "写作"],
+      "singular": ["authors"],
+      "present": ["authoring"],
+      "past": ["authored"]
+    }
+  },
+  "authority": {
+    "n": {
+      "translation": ["权威", "当局", "权力", "批准", "授权", "权", "专家", "职权", "当权(地位)", "威权"],
+      "plural": ["authorities"]
+    }
+  },
+  "auto": {
+    "n": {
+      "translation": ["汽车"],
+      "plural": ["autos"]
+    },
+    "adj": {
+      "translation": ["与汽车有关的，汽车的"]
+    },
+    "comb": {
+      "translation": ["自动的", "自己（做）的"],
+      "singular": ["autos"],
+      "present": ["autoing"],
+      "past": ["autoed"]
+    }
+  },
+  "automatic": {
+    "adj": {
+      "translation": ["自动的", "当然的", "必然的", "无意识的", "不假思索的"]
+    },
+    "n": {
+      "translation": ["自动手枪(或步枪)", "自动变速汽车", "自动换挡汽车"],
+      "plural": ["automatics"]
+    }
+  },
+  "automation": {
+    "n": {
+      "translation": ["自动化"],
+      "plural": ["automations"]
+    }
+  },
+  "automobile": {
+    "n": {
+      "translation": ["汽车"],
+      "plural": ["automobiles"]
+    },
+    "adj": {
+      "translation": ["自动的"]
+    }
+  },
+  "autumn": {
+    "n": {
+      "translation": ["秋，秋季", "成熟期，渐衰期", "（Autumn）奥特姆"],
+      "plural": ["autumns"]
+    },
+    "adj": {
+      "translation": ["秋天的，秋天发生的"]
+    }
+  },
+  "auxiliary": {
+    "adj": {
+      "translation": ["辅助的", "备用的"]
+    },
+    "n": {
+      "translation": ["助动词", "辅助人员", "辅助工"],
+      "plural": ["auxiliaries"]
+    }
+  },
+  "available": {
+    "adj": {
+      "translation": ["可获得的", "有空的", "可购得的", "可找到的"]
+    }
+  },
+  "avenue": {
+    "n": {
+      "translation": ["(城镇的)大街", "途径", "选择", "林荫道(尤指通往大住宅者)", "手段"],
+      "plural": ["avenues"]
+    }
+  },
+  "average": {
+    "adj": {
+      "translation": ["平均的", "一般的", "普通的", "正常的", "典型的", "平常的"]
+    },
+    "n": {
+      "translation": ["平均数", "平均水平", "一般水准"],
+      "plural": ["averages"]
+    },
+    "v": {
+      "translation": ["平均为", "计算出…的平均数"],
+      "singular": ["averages"],
+      "present": ["averaging"],
+      "past": ["averaged"]
+    }
+  },
+  "aviation": {
+    "n": {
+      "translation": ["航空"],
+      "plural": ["aviations"]
+    }
+  },
+  "avoid": {
+    "vt": {
+      "translation": ["避免", "防止", "避开", "回避", "躲避", "避免撞到(某物)"],
+      "singular": ["avoids"],
+      "present": ["avoiding"],
+      "past": ["avoided"]
+    }
+  },
+  "await": {
+    "vt": {
+      "translation": ["等待", "期待", "等候", "将发生在，将降临到(某人头上)"],
+      "singular": ["awaits"],
+      "present": ["awaiting"],
+      "past": ["awaited"]
+    }
+  },
+  "awake": {
+    "v": {
+      "translation": ["(使)醒来", "唤醒", "唤起", "被唤起"],
+      "singular": ["awakes"],
+      "present": ["awaking"],
+      "past": ["awoke", "awoken"]
+    },
+    "adj": {
+      "translation": ["醒着(尤指入睡前或刚醒时)"]
+    }
+  },
+  "award": {
+    "n": {
+      "translation": [
+        "奖", "（毕业证书等的）授予", "(赔偿)裁决", "奖金", "奖学金", "(收入的)增加", "奖品", "奖状", "(赔偿)裁定额"
+      ],
+      "plural": ["awards"]
+    },
+    "vt": {
+      "translation": ["授予", "奖励", "判给"],
+      "singular": ["awards"],
+      "present": ["awarding"],
+      "past": ["awarded"]
+    }
+  },
+  "aware": {
+    "adj": {
+      "translation": ["知道", "意识到的", "意识到", "发现", "明白", "察觉到", "有…意识的", "发觉", "对…有兴趣的"]
+    }
+  },
+  "away": {
+    "adv": {
+      "translation": ["向远处，远离", "不在，离开", "在别处", "继续不断地", "直到完全消失", "向另一方向"]
+    },
+    "adj": {
+      "translation": ["（球队比赛）客场的"]
+    },
+    "n": {
+      "translation": ["客场比赛，客场的胜利"]
+    }
+  },
+  "awful": {
+    "adj": {
+      "translation": ["很坏的", "非常的", "很多的", "可怕的", "骇人听闻的", "过多的", "极讨厌的"]
+    },
+    "adv": {
+      "translation": ["非常", "极其"]
+    }
+  },
+  "awfully": {
+    "adv": {
+      "translation": ["非常", "极其"]
+    }
+  },
+  "awkward": {
+    "adj": {
+      "translation": [
+        "令人尴尬的", "（动作）笨拙的", "不方便的", "产生困难的，危险的", "使人难堪的", "难对付的", "难处理的"
+      ]
+    }
+  },
+  "ax": {
+    "v": {
+      "translation": ["（经费、人员等的）削减"],
+      "singular": ["axes"],
+      "present": ["axing"],
+      "past": ["axed"]
+    },
+    "n": {
+      "translation": ["斧头"],
+      "plural": ["axes"]
+    }
+  },
+  "axis": {
+    "n": {
+      "translation": ["轴(旋转物体假想的中心线)", "轴心", "(尤指图表中的)坐标轴", "对称中心线(将物体平分为二)"],
+      "plural": ["axes"]
+    }
+  }
+}

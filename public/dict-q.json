@@ -1,0 +1,249 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "qualify": {
+    "v": {
+      "translation": [
+        "合格", "使合格", "符合，配得上", "有权，使有权(做某事)", "具有资格", "修饰", "使具备资格", "达标",
+        "取得资格(或学历)", "使所说的话语气减弱（或更具体等）"
+      ],
+      "singular": ["qualifies"],
+      "present": ["qualifying"],
+      "past": ["qualified"]
+    }
+  },
+  "quality": {
+    "n": {
+      "translation": ["质量", "品质", "(尤指好的)人品，素质，品德", "优质", "特征", "高标准", "上乘"],
+      "plural": ["qualities"]
+    },
+    "adj": {
+      "translation": ["优质的", "高质量的", "棒极了", "盖帽儿了"]
+    }
+  },
+  "quantity": {
+    "n": {
+      "translation": ["数量", "量", "大量", "数目", "大批", "数额", "众多", "大宗"],
+      "plural": ["quantities"]
+    }
+  },
+  "quarrel": {
+    "n": {
+      "translation": ["争吵", "口角", "拌嘴", "抱怨(或不赞成)的理由"],
+      "plural": ["quarrels"]
+    },
+    "vi": {
+      "translation": ["争吵", "吵架", "吵嘴"],
+      "singular": ["quarrels"],
+      "present": ["quarrelling"],
+      "past": ["quarreled"]
+    }
+  },
+  "quart": {
+    "n": {
+      "translation": ["夸脱(液量单位，在英国和加拿大等于2品脱或1.14升，在美国等于0.94升)"],
+      "plural": ["quarts"]
+    }
+  },
+  "quarter": {
+    "n": {
+      "translation": [
+        "四等份之一", "人, 群体", "营房, 宿舍, 住房", "地方, 地域", "15分钟, 一刻钟", "（美式足球的）一节",
+        ".<音>四分音符", "（罗经上）方位", "学季", "（月）上弦, 下弦", "25分硬币", "<橄>四分卫", "（鞋帮的）后侧部",
+        "宽恕, 慈悲, 同情", "<英>夸特", "（家禽等）四分之一部", "1／4英里（即440码） ", "（团体等的）某一部分",
+        "城镇的区（或一部分）", "三个月时间, 季度, 季", "1／4码（即9英寸）", "半圆的月相", "船尾左/右舷45°"
+      ],
+      "plural": ["quarters"]
+    },
+    "vt": {
+      "translation": [
+        "驻扎（军队）", "四分周锯割, 四开", "把…分成四部分", "使…成直角", "给…提供食宿", "在…四处走动, 在…来回走动",
+        "进入另一月相", "把…减到原来的四分之一", "斜向行进"
+      ],
+      "singular": ["quarters"],
+      "present": ["quartering"],
+      "past": ["quartered"]
+    },
+    "adj": {
+      "translation": ["四分之一的", "很不全的, 很不完善的"]
+    }
+  },
+  "quarterly": {
+    "adj": {
+      "translation": ["季度的", "每季的"]
+    },
+    "n": {
+      "translation": ["季刊"],
+      "plural": ["quarterlies"]
+    },
+    "adv": {
+      "translation": ["按季的", "纵横四分地", "[农] 一季一次地"]
+    }
+  },
+  "queen": {
+    "n": {
+      "translation": [
+        "女王", "(某领域的)王后", "王后（牌）", "王后，假娘儿们", "后", "精华", "女酋长", "精髓", "女首领",
+        "（节日或庆典中）当选行使庆典职责的女子", "（为群体产卵的）雌性昆虫"
+      ],
+      "plural": ["queens"]
+    },
+    "vt": {
+      "translation": ["立…为王后（或女王）", "使…成为国王的妻子", "[国际象棋]使（兵）成为后"],
+      "singular": ["queenes"],
+      "present": ["queening"],
+      "past": ["queened"]
+    }
+  },
+  "queer": {
+    "adj": {
+      "translation": ["奇怪的", "反常的", "妖里妖气的"],
+      "comparative": ["queerer"],
+      "superlative": ["queerest"]
+    },
+    "n": {
+      "translation": ["同性恋者"],
+      "plural": ["queers"]
+    },
+    "v": {
+      "translation": ["把…搞得一塌糊涂", "使…大为减色", "断送"]
+    }
+  },
+  "question": {
+    "n": {
+      "translation": ["问题", "疑问", "怀疑", "议题", "(待讨论或处理的)事情", "课题", "困惑"],
+      "plural": ["questions"]
+    },
+    "v": {
+      "translation": ["问", "质询", "怀疑", "表示疑问", "正式提问"],
+      "singular": ["questions"],
+      "present": ["questioning"],
+      "past": ["questioned"]
+    }
+  },
+  "queue": {
+    "n": {
+      "translation": ["(储存的数据)队列", "(人、汽车等的)队，行列"],
+      "plural": ["queues"]
+    },
+    "v": {
+      "translation": ["(人、车等)排队等候", "(使)排队", "列队等待"],
+      "singular": ["queues"],
+      "present": ["queuing"],
+      "past": ["queued"]
+    }
+  },
+  "quick": {
+    "adj": {
+      "translation": [
+        "快的，迅速的", "聪敏的，敏捷的", "时间短暂的，匆匆的", "速兑的，速成的", "<古>活的", "立竿见影的",
+        "性急的，不耐烦的", "小角度的，急转的", "富饶的"
+      ],
+      "comparative": ["quicker"],
+      "superlative": ["quickest"]
+    },
+    "adv": {
+      "translation": ["迅速地，快速地", "…敏捷地", "<美>紧身地"]
+    },
+    "n": {
+      "translation": [
+        "要害，核心", "<美> 水银", "<英>绿篱，树篱", "（指甲下的）活肉", "<古>活着的人们", "<口> （板球）快速投球手"
+      ]
+    },
+    "v": {
+      "translation": ["<古> 使活跃"]
+    }
+  },
+  "quicken": {
+    "v": {
+      "translation": ["(使)加快，加速", "变得更活跃", "使更活跃"],
+      "singular": ["quickens"],
+      "present": ["quickening"],
+      "past": ["quickened"]
+    }
+  },
+  "quickly": {
+    "adv": {
+      "translation": ["迅速地", "很快地", "立即", "不久"]
+    }
+  },
+  "quiet": {
+    "adj": {
+      "translation": [
+        "安静的", "平静的", "寂静的", "恬静的", "清静的", "僻静的", "轻柔的", "轻声的", "寡言少语的", "克制的"
+      ],
+      "comparative": ["quieter"],
+      "superlative": ["quietest"]
+    },
+    "n": {
+      "translation": ["安静", "宁静", "平静", "寂静"]
+    },
+    "v": {
+      "translation": ["(使)平静，安静"],
+      "singular": ["quiets"],
+      "present": ["quieting"],
+      "past": ["quieted"]
+    }
+  },
+  "quilt": {
+    "n": {
+      "translation": ["被子", "加衬芯床罩"],
+      "plural": ["quilts"]
+    },
+    "v": {
+      "translation": ["缝(被)", "绗缝(衣服)", "用垫料填塞后缝拢", "将(钞票等)缝进衣服里"]
+    }
+  },
+  "quit": {
+    "v": {
+      "translation": [
+        "退出", "关闭，退出（计算机程序等）", "离开，迁出，搬离(住处)", "离开(工作职位、学校等)", "停止", "戒掉", "离任", "离校"
+      ],
+      "singular": ["quits"],
+      "present": ["quitting"],
+      "past": ["quitted"]
+    },
+    "n": {
+      "translation": ["辞职", "退出"]
+    },
+    "adj": {
+      "translation": ["自由的", "摆脱了…的", "被释放", "了清债务的"]
+    }
+  },
+  "quite": {
+    "adv": {
+      "translation": [
+        "相当", "非常", "十分", "完全", "颇", "的确", "对，正是", "彻底", "在很大程度上", "某种程度上", "相当地", "很"
+      ]
+    }
+  },
+  "quiz": {
+    "n": {
+      "translation": ["测验", "知识竞赛", "智力游戏"],
+      "plural": ["quizzes"]
+    },
+    "vt": {
+      "translation": ["测验(学生)", "询问", "查问", "盘问"],
+      "singular": ["quizzes"],
+      "present": ["quizzing"],
+      "past": ["quizzed"]
+    }
+  },
+  "quotation": {
+    "n": {
+      "translation": ["引用", "报价", "引文", "（货物或股票的）行情，市价，牌价", "语录", "引语", "估价", "引述", "引证"],
+      "plural": ["quotations"]
+    }
+  },
+  "quote": {
+    "v": {
+      "translation": ["引用", "报价", "引述", "为（企业的股份）上市，挂牌", "出价", "为报价", "开价", "举例说明"],
+      "singular": ["quotes"],
+      "present": ["quoting"],
+      "past": ["quoted"]
+    },
+    "n": {
+      "translation": ["引用"],
+      "plural": ["quotes"]
+    }
+  }
+}

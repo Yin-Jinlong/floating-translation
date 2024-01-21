@@ -1,0 +1,20 @@
+@forward 'element-plus/theme-chalk/src/common/var.scss' with (
+$colors: (
+'primary': (
+'base': #fa0,
+),
+),
+);
+
+@import 'element-plus/theme-chalk/src/base';
+@import 'element-plus/theme-chalk/src/form';
+@import 'element-plus/theme-chalk/src/form-item';
+@import 'element-plus/theme-chalk/src/button';
+@import 'element-plus/theme-chalk/src/input';
+@import 'element-plus/theme-chalk/src/message';
+
+html, body {
+  width      : 500px;
+  padding    : 1em;
+  box-sizing : border-box;
+}

@@ -1,0 +1,14 @@
+### Node ###
+node_modules/
+
+### IDE ###
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+### Out ###
+dist/
+
+### Auto generated files ##
+/auto-imports.d.ts
+/components.d.ts

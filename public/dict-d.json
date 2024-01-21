@@ -1,0 +1,2472 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "daily": {
+    "adj": {
+      "translation": ["日常的", "每日的", "按日的", "每个工作日的"]
+    },
+    "adv": {
+      "translation": ["每日", "每天"]
+    },
+    "n": {
+      "translation": ["(除星期日外每日发行的)日报", "(不寄宿的)仆人"],
+      "plural": ["dailies"]
+    }
+  },
+  "dairy": {
+    "adj": {
+      "translation": ["乳品的", "牛奶的", "乳品业的", "奶制的", "生产乳品的"]
+    },
+    "n": {
+      "translation": ["牛奶场", "乳品公司", "乳品店", "乳品场", "(当地的)小商店"],
+      "plural": ["dairies"]
+    }
+  },
+  "dam": {
+    "n": {
+      "translation": ["水坝", "拦河坝", "母兽", "(尤指)母马，骒马"],
+      "plural": ["dams"]
+    },
+    "vt": {
+      "translation": ["(在河上)筑坝"],
+      "singular": ["dams"],
+      "present": ["damming"],
+      "past": ["dammed"]
+    }
+  },
+  "damage": {
+    "n": {
+      "translation": ["(有形的)损坏，破坏，损失", "损害", "伤害", "(法院判定的)损害赔偿金"],
+      "plural": ["damages"]
+    },
+    "vt": {
+      "translation": ["损害", "破坏", "伤害", "毁坏"],
+      "singular": ["damages"],
+      "present": ["damaging"],
+      "past": ["damaged"]
+    }
+  },
+  "damp": {
+    "adj": {
+      "translation": ["潮湿的", "微湿的", "湿气重的"],
+      "comparative": ["damper"],
+      "superlative": ["dampest"]
+    },
+    "n": {
+      "translation": ["潮湿", "湿气", "潮气", "湿块"]
+    },
+    "vt": {
+      "translation": ["使潮湿", "抑制，减弱(感情等)", "弄潮"],
+      "singular": ["damps"],
+      "present": ["damping"],
+      "past": ["damped"]
+    }
+  },
+  "dance": {
+    "n": {
+      "translation": [
+        "跳舞，舞蹈", "舞蹈(艺术)", "舞会", "舞曲", "舞步", "跳跃，跳动，摇晃，闪动", "<美俚> (黑社会帮派之间的)斗殴, 派仗"
+      ],
+      "plural": ["dances"]
+    },
+    "v": {
+      "translation": [
+        "跳（某种）舞", "跳舞", "跳跃，雀跃", "（某物）摆动，摇晃", "以跳舞表示", " 跳舞跳得…", "（使）上下摆动，（使）轻快地移动"
+      ],
+      "singular": ["dances"],
+      "present": ["dancing"],
+      "past": ["danced"]
+    },
+    "adj": {
+      "translation": ["舞的, 舞蹈的", "用于舞蹈的"]
+    }
+  },
+  "danger": {
+    "n": {
+      "translation": ["危险", "威胁", "危害", "风险", "危险因素", "(坏事或不快之事发生的)可能性", "危险的人"],
+      "plural": ["dangers"]
+    }
+  },
+  "dangerous": {
+    "adj": {
+      "translation": ["危险的", "不安全的", "引起危险的"]
+    }
+  },
+  "dare": {
+    "v&modal": {
+      "translation": [
+        "敢", "胆敢", "敢于面对，公然反抗", "激(某人做某事)", "问(某人)有没有胆量(做某事)", "谅(某人)没胆量(做某事)"
+      ],
+      "singular": ["dares"],
+      "present": ["daring"],
+      "past": ["dared"]
+    },
+    "n": {
+      "translation": ["挑战，激将"]
+    }
+  },
+  "daring": {
+    "adj": {
+      "translation": ["大胆的", "勇敢的", "敢于冒险的"]
+    },
+    "n": {
+      "translation": ["大胆", "勇敢", "胆量"]
+    },
+    "v": {
+      "translation": ["敢于", "胆敢", "激(某人做某事)", "问(某人)有没有胆量(做某事)", "谅(某人)没胆量(做某事)"]
+    }
+  },
+  "dark": {
+    "adj": {
+      "translation": [
+        "黑暗的", "深色的", "阴暗的", "暗色的", "昏暗的", "褐色的", "神秘的", "邪恶的", "忧郁的", "近乎黑色的",
+        "有深色头发（或眼睛等）的"
+      ],
+      "comparative": ["darker"],
+      "superlative": ["darkest"]
+    },
+    "n": {
+      "translation": ["黑暗", "暗色", "阴影", "暗处"]
+    }
+  },
+  "darling": {
+    "n": {
+      "translation": ["亲爱的", "宝贝", "宠儿", "亲切友好的人", "备受宠爱的人"],
+      "plural": ["darlings"]
+    },
+    "adj": {
+      "translation": ["可爱的", "迷人的", "备受喜爱的"]
+    }
+  },
+  "dash": {
+    "n": {
+      "translation": [
+        "猛冲，急奔", "破折号", "(水等的)冲击, 溅泼", "少量，少许(添加物)", "<旧>潇洒，闯劲，勇猛", "（汽车的）仪表板",
+        "突进", "匆促，仓促", "(非洲用语)礼物，赏金，小费，佣金", "短跑比赛", "使人沮丧的事物，挫折", "<俚> 贿赂",
+        "冲击声, 溅泼声", "（莫尔斯电码的）长信号"
+      ]
+    },
+    "v": {
+      "translation": [
+        "使破灭，使受挫", "（水）拍击，冲击", "猛冲", "溉, 泼, 洒", "马上离开，赶紧走", "猛掷", "猛撞", "使沮丧，使泄气",
+        "(在非洲)给…礼物(或小费、佣金)", "猛击", "急奔", "使羞愧，使窘迫，使狼狈", "搀和", "急速写好，匆匆写成", "急驰"
+      ],
+      "singular": ["dashes"],
+      "present": ["dashing"],
+      "past": ["dashed"]
+    },
+    "int": {
+      "translation": ["该死！可恶！讨厌！"]
+    }
+  },
+  "data": {
+    "n": {
+      "translation": ["数据", "资料", "材料", "(储存在计算机中的)数据资料"]
+    }
+  },
+  "date": {
+    "n": {
+      "translation": ["日期", "约会", "时候", "时期", "年代", "日子", "约会对象", "海枣", "约见时间", "会晤时间"],
+      "plural": ["dates"]
+    },
+    "v": {
+      "translation": ["过时", "注明日期", "与（某人）谈恋爱", "写上日期", "确定年代", "不流行", "使…显老"],
+      "singular": ["dates"],
+      "present": ["dating"],
+      "past": ["dated"]
+    }
+  },
+  "daughter": {
+    "n": {
+      "translation": ["女儿", "(某地、某国等的)妇女"],
+      "plural": ["daughters"]
+    },
+    "adj": {
+      "translation": ["女儿(般)的", "第一代的"]
+    }
+  },
+  "dawn": {
+    "n": {
+      "translation": ["黎明", "曙光", "破晓", "拂晓", "开端", "萌芽"],
+      "plural": ["dawns"]
+    },
+    "vi": {
+      "translation": ["开始", "变得明朗", "开始清楚"],
+      "singular": ["dawns"],
+      "present": ["dawning"],
+      "past": ["dawned"]
+    }
+  },
+  "day": {
+    "n": {
+      "translation": [
+        "白天，日间", "一天，一日", "（过去或将来的）一天", "工作日", "现在", "<天>日，恒星日，太阳日", "时期，时代",
+        "比赛, 竞赛", "日光，阳光", "白昼", "胜利", "斗争, 战斗", "重大日子", "一天的活动时间"
+      ],
+      "plural": ["days"]
+    },
+    "adv": {
+      "translation": ["每天，经常在白天地"]
+    },
+    "adj": {
+      "translation": ["白昼的, 日间的", "逐日的", "周日进行的", "适合于白天(使用)的"]
+    }
+  },
+  "daylight": {
+    "n": {
+      "translation": ["日光", "白天", "黎明"]
+    }
+  },
+  "dead": {
+    "adj": {
+      "translation": [
+        "死的", "死去的", "完全的", "停滞的", "死气沉沉的", "枯萎的", "过时的", "（由于冷等）失去知觉，麻木", "用完了的",
+        "筋疲力尽", "无动于衷", "失去生命的", "无表情的", "（因为缺电）不运行的，不转动的", "不流行的", "已废弃的",
+        "界外的", "不再有人相信(或争取)"
+      ],
+      "comparative": ["deader"],
+      "superlative": ["deadest"]
+    },
+    "n": {
+      "translation": ["死", "死者", "死人"]
+    },
+    "adv": {
+      "translation": ["非常", "绝对", "极度", "完全地", "确实地", "全然地"]
+    }
+  },
+  "deadly": {
+    "adj": {
+      "translation": ["致命的", "(可能)致死的", "极度的", "彻底的", "枯燥的", "非常有效的", "十足的", "无法防御的"],
+      "comparative": ["deadlier"],
+      "superlative": ["deadliest"]
+    },
+    "adv": {
+      "translation": ["极其", "非常"]
+    }
+  },
+  "deaf": {
+    "adj": {
+      "translation": ["聋的", "失聪的", "对…充耳不闻的，不愿听的，不注意的，不依从的"],
+      "comparative": ["deafer"],
+      "superlative": ["deafest"]
+    },
+    "vt": {
+      "translation": ["使聋，使听不见"]
+    }
+  },
+  "deal": {
+    "v": {
+      "translation": [
+        "处理", "经营，交易", "论述, 讨论", "对付, 打交道", "分配, 分给", "给予", "谈到", "非法买卖毒品，贩毒", "发牌",
+        "惩处", "有关联"
+      ],
+      "singular": ["deals"],
+      "present": ["dealing"],
+      "past": ["dealt"]
+    },
+    "n": {
+      "translation": [
+        "交易", "（尤指商业或政治方面的）协议", "大量", "局面，情况", "很多", "待遇", "发牌", "坏运气，不公平的对待",
+        "（某届政府执行的）特定政策", "冷杉木"
+      ],
+      "plural": ["deals"]
+    }
+  },
+  "dear": {
+    "adj": {
+      "translation": ["亲爱的", "珍视的", "宝贵的", "昂贵", "价格高"],
+      "comparative": ["dearer"],
+      "superlative": ["dearest"]
+    },
+    "int": {
+      "translation": ["(惊奇、不安、烦恼、担忧等时说)啊，哎呀，糟糕，天哪"]
+    },
+    "n": {
+      "translation": ["(称呼所爱的人)亲爱的", "(对较年轻的人或孩子说话时用)亲爱的，乖乖", "可爱的人", "仁慈的人"],
+      "plural": ["dears"]
+    },
+    "adv": {
+      "translation": ["高价地", "昂贵地"]
+    }
+  },
+  "death": {
+    "n": {
+      "translation": ["死", "死亡", "死神", "毁灭", "破灭", "死亡状态", "生命的终止", "永久的灭亡"],
+      "plural": ["deaths"]
+    }
+  },
+  "debate": {
+    "n": {
+      "translation": ["(在公共集会上或议会里就某问题进行的、常以表决结束的)辩论", "(各自发表不同意见的)争论，讨论"],
+      "plural": ["debates"]
+    },
+    "v": {
+      "translation": ["(尤指正式)讨论", "思考", "仔细考虑", "盘算"],
+      "singular": ["debates"],
+      "present": ["debating"],
+      "past": ["debated"]
+    }
+  },
+  "debt": {
+    "n": {
+      "translation": ["债务", "借款", "欠款", "负债情况", "人情债", "恩情", "情义"],
+      "plural": ["debts"]
+    }
+  },
+  "decade": {
+    "n": {
+      "translation": ["十年", "十年期(尤指一个年代)"],
+      "plural": ["decades"]
+    }
+  },
+  "decay": {
+    "v": {
+      "translation": ["衰减", "(使)腐烂", "衰退", "衰败", "(建筑、地方等)破败", "(力量、影响等)衰弱"],
+      "singular": ["decays"],
+      "present": ["decaying"],
+      "past": ["decayed"]
+    },
+    "n": {
+      "translation": ["腐烂", "(社会、机构、制度等的)衰退", "腐朽", "衰落"]
+    }
+  },
+  "deceit": {
+    "n": {
+      "translation": ["欺骗", "欺诈(行为)", "诡计"],
+      "plural": ["deceits"]
+    }
+  },
+  "deceive": {
+    "v": {
+      "translation": ["蒙骗", "误导", "欺骗(自己)", "诓骗", "使人误信"],
+      "singular": ["deceives"],
+      "present": ["deceiving"],
+      "past": ["deceived"]
+    }
+  },
+  "december": {
+    "n": {
+      "translation": ["十二月"],
+      "plural": ["Decembers"]
+    }
+  },
+  "decent": {
+    "adj": {
+      "translation": [
+        "像样的", "正派的", "适当的", "公平的", "得体的", "相当不错的", "合宜的", "尚好的", "合乎礼节的", "穿好了衣服的"
+      ]
+    }
+  },
+  "decide": {
+    "v": {
+      "translation": ["决定", "裁决", "判决", "选定", "对…作出抉择", "影响(或决定)…的结果", "成为（某人）做某事的原因"],
+      "singular": ["decides"],
+      "present": ["deciding"],
+      "past": ["decided"]
+    }
+  },
+  "decision": {
+    "n": {
+      "translation": ["(作出的)决定，抉择", "决策", "果断", "作决定", "决断(力)"],
+      "plural": ["decisions"]
+    }
+  },
+  "deck": {
+    "n": {
+      "translation": ["甲板", "舱面", "(船或公共汽车的)一层，层面", "(屋后供憩息的)木制平台", "（唱机的）转盘装置"],
+      "plural": ["decks"]
+    },
+    "vt": {
+      "translation": ["布置", "装饰", "打扮", "打倒在地", "揍趴下", "用力击倒"],
+      "singular": ["decks"],
+      "present": ["decking"],
+      "past": ["decked"]
+    }
+  },
+  "declare": {
+    "v": {
+      "translation": [
+        "声明", "宣布", "申报(收益)", "申报（应纳税物品）", "宣告", "宣称", "表明", "公布", "断言", "宣布结束赛局，宣布停止击球"
+      ],
+      "singular": ["declares"],
+      "present": ["declaring"],
+      "past": ["declared"]
+    }
+  },
+  "decorate": {
+    "v": {
+      "translation": ["装饰", "装潢", "点缀", "装点", "油漆", "粉刷", "糊墙纸", "授给（某人）勋章（或奖章）"],
+      "singular": ["decorates"],
+      "present": ["decorating"],
+      "past": ["decorated"]
+    }
+  },
+  "decrease": {
+    "v": {
+      "translation": ["减少", "降低", "(使大小、数量等)减小"],
+      "singular": ["decreases"],
+      "present": ["decreasing"],
+      "past": ["decreased"]
+    },
+    "n": {
+      "translation": ["减少", "降低", "减少量"],
+      "plural": ["decreases"]
+    }
+  },
+  "deduce": {
+    "vt": {
+      "translation": ["推断", "演绎", "推论"],
+      "singular": ["deduces"],
+      "present": ["deducing"],
+      "past": ["deduced"]
+    }
+  },
+  "deed": {
+    "n": {
+      "translation": ["行为，行动", "〈律〉契约, 证书", "杰出成就，功绩"],
+      "plural": ["deeds"]
+    },
+    "v": {
+      "translation": ["〈美〉立契转让(财产)"]
+    }
+  },
+  "deep": {
+    "adj": {
+      "translation": [
+        "深的", "深（呼吸）的", "宽的", "深沉的", "强烈的", "厚的", "有…深的", "纵深的", "极度的", "深奥的", "专心",
+        "酣睡的", "渊博的", "远至…的", "成…排的", "靠近对方端线的"
+      ],
+      "comparative": ["deeper"],
+      "superlative": ["deepest"]
+    },
+    "adv": {
+      "translation": ["深深地", "在深处", "至深处"]
+    },
+    "n": {
+      "translation": ["海", "海洋"]
+    }
+  },
+  "deepen": {
+    "v": {
+      "translation": [
+        "加深", "(使情感、感觉等)加强，变强烈", "增长（知识）", "深（呼吸）", "(使)变糟，恶化，严重", "(使)变深",
+        "（使声音）变低沉", "（使色泽等）变浓"
+      ],
+      "singular": ["deepens"],
+      "present": ["deepening"],
+      "past": ["deepened"]
+    }
+  },
+  "deer": {
+    "n": {
+      "translation": ["鹿"],
+      "plural": ["deer"]
+    }
+  },
+  "defeat": {
+    "vt": {
+      "translation": ["击败", "使失败", "战胜", "挫败", "阻挠", "使困惑", "难住"],
+      "singular": ["defeats"],
+      "present": ["defeating"],
+      "past": ["defeated"]
+    },
+    "n": {
+      "translation": ["击败", "失败", "战胜", "战败", "挫败"],
+      "plural": ["defeats"]
+    }
+  },
+  "defect": {
+    "n": {
+      "translation": ["缺陷", "缺点", "毛病"],
+      "plural": ["defects"]
+    },
+    "vi": {
+      "translation": ["背叛", "叛变", "投敌"],
+      "singular": ["defects"],
+      "present": ["defecting"],
+      "past": ["defected"]
+    }
+  },
+  "defence": {
+    "n": {
+      "translation": [
+        "防御", "辩护", "保护", "辩护律师", "防务", "保卫", "防御能力", "辩解", "国防机构", "防守队员", "国防体系",
+        "防御物", "卫冕赛"
+      ],
+      "plural": ["defences"]
+    }
+  },
+  "defend": {
+    "v": {
+      "translation": [
+        "保护", "（为…）辩护，当辩护律师", "保卫", "防守", "防御", "辩解", "辩白", "参加比赛（或选举）保住（头衔、席位等）"
+      ],
+      "singular": ["defends"],
+      "present": ["defending"],
+      "past": ["defended"]
+    }
+  },
+  "define": {
+    "vt": {
+      "translation": [
+        "定义", "界定", "明确", "阐明", "给(词语)下定义", "解释(词语)的含义", "画出…的线条", "描出…的外形"
+      ],
+      "singular": ["defines"],
+      "present": ["defining"],
+      "past": ["defined"]
+    }
+  },
+  "definite": {
+    "adj": {
+      "translation": ["确定的", "肯定", "肯定的", "一定的", "明显的", "清楚的", "有把握", "不会改变的"]
+    },
+    "n": {
+      "translation": ["肯定的事(或人)"]
+    }
+  },
+  "definitely": {
+    "adv": {
+      "translation": ["肯定", "当然", "确实", "明确地", "清楚地", "确切地", "没问题"]
+    }
+  },
+  "definition": {
+    "n": {
+      "translation": ["定义", "清晰度", "(尤指词典里的词或短语的)释义，解释"],
+      "plural": ["definitions"]
+    }
+  },
+  "degree": {
+    "n": {
+      "translation": ["度", "程度", "（大学）学位", "学位课程", "度数(角的量度单位或温度单位)", "严重程度（或级别）"],
+      "plural": ["degrees"]
+    }
+  },
+  "delay": {
+    "v": {
+      "translation": ["延迟", "使拖延", "推迟", "延期", "使耽搁", "使迟到"],
+      "singular": ["delays"],
+      "present": ["delaying"],
+      "past": ["delayed"]
+    },
+    "n": {
+      "translation": ["延误", "延期", "耽搁", "延迟(或耽搁、拖延)的时间"]
+    }
+  },
+  "delegation": {
+    "n": {
+      "translation": ["代表团", "委托", "委派"],
+      "plural": ["delegations"]
+    }
+  },
+  "delete": {
+    "vt": {
+      "translation": ["删去，删除(痕迹等)", "消除，擦去(痕迹等)"],
+      "singular": ["deletes"],
+      "present": ["deleting"],
+      "past": ["deleted"]
+    },
+    "n": {
+      "translation": ["<计> 删除指令，删除键"]
+    }
+  },
+  "delicate": {
+    "adj": {
+      "translation": [
+        "微妙的，棘手的", "精美的", "脆弱的，易碎的", "敏锐的，（仪器）精密的", "(色、光等)柔和的，淡的", "纤细的，清秀的",
+        "纤弱的", "细微的", "(食物)鲜美的，清淡可口的", "灵巧的", "体贴的", "令人愉快的"
+      ]
+    },
+    "n": {
+      "translation": ["精美的衣物，精美的食物"]
+    }
+  },
+  "delicious": {
+    "adj": {
+      "translation": ["美味的", "可口的", "芬芳的", "宜人的", "令人愉快的", "令人开心的"]
+    }
+  },
+  "delight": {
+    "n": {
+      "translation": ["高兴", "愉快", "快乐", "乐趣", "乐事", "令人高兴的事"],
+      "plural": ["delights"]
+    },
+    "vt": {
+      "translation": ["使高兴", "使愉快", "使快乐"],
+      "singular": ["delights"],
+      "present": ["delighting"],
+      "past": ["delighted"]
+    }
+  },
+  "deliver": {
+    "v": {
+      "translation": [
+        "交付", "传送", "递送", "发表", "发布", "兑现", "宣布", "分娩", "交出", "运载", "解救", "投掷", "助产",
+        "履行诺言", "不负所望"
+      ],
+      "singular": ["delivers"],
+      "present": ["delivering"],
+      "past": ["delivered"]
+    }
+  },
+  "delivery": {
+    "n": {
+      "translation": ["递送，投递", "交付", "分娩", "运载", "交出，引渡，放弃", "投掷", "演讲方式"],
+      "plural": ["deliveries"]
+    }
+  },
+  "demand": {
+    "n": {
+      "translation": ["需要", "(尤指困难、使人劳累、令人烦恼等的)要求", "(顾客的)需求", "所需之物"],
+      "plural": ["demands"]
+    },
+    "v": {
+      "translation": ["需要", "强烈要求"],
+      "singular": ["demands"],
+      "present": ["demanding"],
+      "past": ["demanded"]
+    }
+  },
+  "democracy": {
+    "n": {
+      "translation": ["民主", "民主国家", "民主制度", "民主政体", "民主权利", "民主精神"],
+      "plural": ["democracies"]
+    }
+  },
+  "democratic": {
+    "adj": {
+      "translation": ["民主的", "（美国）民主党的", "民主制度的", "平等的", "民主管理的", "民主政体的", "有民主精神的"]
+    }
+  },
+  "demonstrate": {
+    "v": {
+      "translation": ["证明", "演示", "示范", "论证", "表现", "说明", "证实", "表达", "表露", "显露", "集会示威"],
+      "singular": ["demonstrates"],
+      "present": ["demonstrating"],
+      "past": ["demonstrated"]
+    }
+  },
+  "dense": {
+    "adj": {
+      "translation": [
+        "密集的", "稠密的", "浓密的", "密度大的", "浓重的", "（信息量大得）难理解的，难懂的", "迟钝的", "愚笨的", "笨拙的"
+      ],
+      "comparative": ["denser"],
+      "superlative": ["densest"]
+    }
+  },
+  "density": {
+    "n": {
+      "translation": ["密度(固体、液体或气体单位体积的质量)", "浓度", "密集", "稠密"],
+      "plural": ["densities"]
+    }
+  },
+  "deny": {
+    "v": {
+      "translation": ["否认", "拒绝", "否定", "拒绝给予", "拒绝承认", "拒绝接受", "节制，克制，戒绝"],
+      "singular": ["denies"],
+      "present": ["denying"],
+      "past": ["denied"]
+    }
+  },
+  "depart": {
+    "v": {
+      "translation": ["离开", "出发", "离职", "离去", "起程"],
+      "singular": ["departs"],
+      "present": ["departing"],
+      "past": ["departed"]
+    }
+  },
+  "department": {
+    "n": {
+      "translation": ["部门", "部", "处", "系", "司", "(医院的)科", "局"],
+      "plural": ["departments"]
+    }
+  },
+  "departure": {
+    "n": {
+      "translation": ["离开", "出发", "背离", "违反", "起程", "(在特定时间)离开的飞机(或火车等)", "逾越"],
+      "plural": ["departures"]
+    }
+  },
+  "depend": {
+    "v": {
+      "translation": ["依赖", "依靠", "取决(于)", "指望", "有赖(于)"],
+      "singular": ["depends"],
+      "present": ["depending"],
+      "past": ["depended"]
+    }
+  },
+  "dependent": {
+    "adj": {
+      "translation": ["依靠的", "依赖的", "取决于", "受…的影响", "有瘾的"]
+    },
+    "n": {
+      "translation": ["从属物", "依靠者", "被扶养人：被赡养人：非独立生活的人"],
+      "plural": ["dependents"]
+    }
+  },
+  "deposit": {
+    "n": {
+      "translation": ["存款", "沉积物，沉积层", "沉积物，淤积物", "押金", "订金", "竞选保证金", "订钱"],
+      "plural": ["deposits"]
+    },
+    "vt": {
+      "translation": [
+        "使沉积", "使沉淀", "放置", "存储", "寄放，寄存（贵重物品）", "付（订金）", "使淤积", "放下", "将(钱)存入银行"
+      ],
+      "singular": ["deposits"],
+      "present": ["depositing"],
+      "past": ["deposited"]
+    }
+  },
+  "depress": {
+    "vt": {
+      "translation": [
+        "使沮丧", "按，压，推下（尤指机器部件）", "使抑郁", "使萧条", "降低(价格)", "减少(工资)", "使消沉", "使不景气",
+        "使失去信心"
+      ],
+      "singular": ["depresses"],
+      "present": ["depressing"],
+      "past": ["depressed"]
+    }
+  },
+  "depth": {
+    "n": {
+      "translation": [
+        "深度", "深(度)", "宽(度)", "纵深", "浓度", "强烈", "深厚", "最深处", "立体感", "渊博", "诚挚", "向里的距离",
+        "向下的距离"
+      ],
+      "plural": ["depths"]
+    }
+  },
+  "derive": {
+    "v": {
+      "translation": ["得到", "获得", "(使)产生", "取得", "(使)起源"],
+      "singular": ["derives"],
+      "present": ["deriving"],
+      "past": ["derived"]
+    }
+  },
+  "descend": {
+    "v": {
+      "translation": ["下降", "下来", "降临", "下去", "来临", "下斜", "下倾"],
+      "singular": ["descends"],
+      "present": ["descending"],
+      "past": ["descended"]
+    }
+  },
+  "describe": {
+    "vt": {
+      "translation": ["描述", "形容", "把…称为", "形成…形状", "做…运动", "画出…图形"],
+      "singular": ["describes"],
+      "present": ["describing"],
+      "past": ["described"]
+    }
+  },
+  "description": {
+    "n": {
+      "translation": ["描述", "说明", "类型", "描写(文字)", "形容"],
+      "plural": ["descriptions"]
+    }
+  },
+  "desert": {
+    "n": {
+      "translation": ["沙漠", "荒漠", "荒原"],
+      "plural": ["deserts"]
+    },
+    "v": {
+      "translation": ["抛弃，离弃，遗弃(某人)", "废弃", "开小差", "舍弃，离弃(某地方)", "逃走", "擅离(部队)", "背离"],
+      "singular": ["deserts"],
+      "present": ["deserting"],
+      "past": ["deserted"]
+    },
+    "adj": {
+      "translation": ["沙漠的", "无人的", "不毛的"]
+    }
+  },
+  "deserve": {
+    "v": {
+      "translation": ["值得", "应得", "应受"],
+      "singular": ["deserves"],
+      "present": ["deserving"],
+      "past": ["deserved"]
+    }
+  },
+  "design": {
+    "n": {
+      "translation": ["设计", "设计方案", "布局", "安排", "构思", "打算", "设计艺术", "设计图样", "装饰图案"],
+      "plural": ["designs"]
+    },
+    "vt": {
+      "translation": ["设计", "制造", "计划", "制订", "构思", "制图", "筹划", "意欲"],
+      "singular": ["designs"],
+      "present": ["designing"],
+      "past": ["designed"]
+    }
+  },
+  "desirable": {
+    "adj": {
+      "translation": ["可取的", "向往的", "性感的", "值得拥有的", "引起性欲的", "值得做的"]
+    },
+    "n": {
+      "translation": ["称心如意的人[东西]"],
+      "plural": ["desirables"]
+    }
+  },
+  "desire": {
+    "n": {
+      "translation": ["愿望", "欲望", "渴望", "性欲", "情欲", "肉欲", "渴望的事物", "想望的人"],
+      "plural": ["desires"]
+    },
+    "v": {
+      "translation": ["期望", "渴望", "想望", "被(某人)吸引", "对(某人)产生性欲"],
+      "singular": ["desires"],
+      "present": ["desiring"],
+      "past": ["desired"]
+    }
+  },
+  "desk": {
+    "n": {
+      "translation": [
+        "书桌", "办公桌", "(机场、旅馆等的)问讯台，服务台，工作台", "写字台", "(报社、电视台等的)办公处，部，室，组"
+      ],
+      "plural": ["desks"]
+    },
+    "adj": {
+      "translation": ["书桌上用的"]
+    }
+  },
+  "despair": {
+    "n": {
+      "translation": ["绝望"],
+      "plural": ["despairs"]
+    },
+    "vi": {
+      "translation": ["绝望", "丧失信心", "失去希望"],
+      "singular": ["despairs"],
+      "present": ["despairing"],
+      "past": ["despaired"]
+    }
+  },
+  "desperate": {
+    "adj": {
+      "translation": [
+        "(因绝望而)不惜冒险的，不顾一切的，拼命的", "绝望的", "渴望", "孤注一掷的", "铤而走险的", "非常需要", "极想",
+        "极严重的"
+      ]
+    }
+  },
+  "despise": {
+    "vt": {
+      "translation": ["鄙视", "看不起", "蔑视"],
+      "singular": ["despises"],
+      "present": ["despising"],
+      "past": ["despised"]
+    }
+  },
+  "despite": {
+    "prep": {
+      "translation": ["尽管", "即使", "尽管(自己)不愿意"]
+    },
+    "n": {
+      "translation": ["恶意", "侮辱", "怨恨", "轻蔑"]
+    }
+  },
+  "destination": {
+    "n": {
+      "translation": ["目的地", "终点"],
+      "plural": ["destinations"]
+    },
+    "adj": {
+      "translation": ["作为目的地的(旅馆、商店、饭店等)"]
+    }
+  },
+  "destroy": {
+    "vt": {
+      "translation": ["破坏", "摧毁", "毁灭", "(因动物有病或不再需要而)杀死，消灭，人道毁灭"],
+      "singular": ["destroys"],
+      "present": ["destroying"],
+      "past": ["destroyed"]
+    }
+  },
+  "destruction": {
+    "n": {
+      "translation": ["破坏", "毁灭", "摧毁"]
+    }
+  },
+  "detail": {
+    "n": {
+      "translation": [
+        "细节", "详情", "(关于某事物的)资料", "消息", "细部，局部，次要部分", "具体情况", "琐事", "细微之处", "特遣队",
+        "枝节"
+      ],
+      "plural": ["details"]
+    },
+    "vt": {
+      "translation": ["详细说明", "派遣", "详细列举", "选派", "彻底清洗(汽车)", "分遣"],
+      "singular": ["details"],
+      "present": ["detailing"],
+      "past": ["detailed"]
+    }
+  },
+  "detect": {
+    "vt": {
+      "translation": ["发现", "查明", "侦察出"],
+      "singular": ["detects"],
+      "present": ["detecting"],
+      "past": ["detected"]
+    }
+  },
+  "detection": {
+    "n": {
+      "translation": ["探测", "发现", "侦查", "察觉"],
+      "plural": ["detections"]
+    }
+  },
+  "determination": {
+    "n": {
+      "translation": ["决心", "测定", "计算", "(正式)决定，确定，规定", "坚定", "查明", "果断"],
+      "plural": ["determinations"]
+    }
+  },
+  "determine": {
+    "v": {
+      "translation": [
+        "确定", "测定", "决定", "决定，决心（做某事）", "影响", "形成", "安排", "裁决", "查明", "支配", "准确算出"
+      ],
+      "singular": ["determines"],
+      "present": ["determining"],
+      "past": ["determined"]
+    }
+  },
+  "develop": {
+    "v": {
+      "translation": [
+        "发展", "发展，变化", "开发", "加强", "研制", "出现(问题)", "使（胶卷）显影", "(使)成长", "壮大", " 患(病)",
+        "修建", "详尽阐述", "(问题)开始影响", "(疾病)开始侵袭"
+      ],
+      "singular": ["develops"],
+      "present": ["developing"],
+      "past": ["developed"]
+    }
+  },
+  "development": {
+    "n": {
+      "translation": [
+        "发展", "开发", "（尤指房地产的）开发", "研制", "发育", "成长", "(新的)发展事态，进展情况，发展阶段", "壮大",
+        "研制成果", "新建住宅区"
+      ],
+      "plural": ["developments"]
+    }
+  },
+  "device": {
+    "n": {
+      "translation": [
+        "装置", "设备", "方法", "仪器", "策略", "器具", "手段", "爆炸装置", "炸弹", "技巧", "花招", "爆炸性武器"
+      ],
+      "plural": ["devices"]
+    }
+  },
+  "devil": {
+    "n": {
+      "translation": ["魔鬼", "恶魔", "人，家伙", "撒旦", "魔王", "淘气鬼", "调皮鬼", "冒失鬼"],
+      "plural": ["devils"]
+    },
+    "v": {
+      "translation": ["〈美口〉虐待", "用辣子烤(肉等)", "(用切碎机)切碎"]
+    }
+  },
+  "devise": {
+    "vt": {
+      "translation": ["设计", "发明", "想出"],
+      "singular": ["devises"],
+      "present": ["devising"],
+      "past": ["devised"]
+    },
+    "n": {
+      "translation": ["遗赠", "遗赠的财产", "遗赠的条款"],
+      "plural": ["devises"]
+    }
+  },
+  "devote": {
+    "v": {
+      "translation": ["致力于", "奉献，投入(时间、精力等)", "献(身)", "将(文章或讲话的某一部分)专用(于)"],
+      "singular": ["devotes"],
+      "present": ["devoting"],
+      "past": ["devoted"]
+    }
+  },
+  "dew": {
+    "n": {
+      "translation": ["露水", "露"],
+      "plural": ["dews"]
+    },
+    "vt": {
+      "translation": ["弄湿"],
+      "singular": ["dews"],
+      "present": ["dewing"],
+      "past": ["dewed"]
+    }
+  },
+  "diagram": {
+    "n": {
+      "translation": ["示意图", "图表", "图解", "简图"],
+      "plural": ["diagrams"]
+    },
+    "vt": {
+      "translation": ["用图表示", "图解"],
+      "singular": ["diagrams"],
+      "present": ["diagramming"],
+      "past": ["diagrammed"]
+    }
+  },
+  "dial": {
+    "v": {
+      "translation": ["拨号", "拨(电话号码)"],
+      "singular": ["dials"],
+      "present": ["dialling"],
+      "past": ["dialled"]
+    },
+    "n": {
+      "translation": ["表盘", "刻度盘", "(旧式电话机的)拨号盘", "标度盘", "仪表盘", "(收音机、炉、灶等的)调节盘，控制盘"],
+      "plural": ["dials"]
+    }
+  },
+  "dialect": {
+    "n": {
+      "translation": ["方言", "土话", "地方话"],
+      "plural": ["dialects"]
+    }
+  },
+  "dialog": {
+    "n": {
+      "translation": ["对话", "会话"],
+      "plural": ["dialogs"]
+    }
+  },
+  "diameter": {
+    "n": {
+      "translation": ["直径", "对径", "放大率", "放大倍数"],
+      "plural": ["diameters"]
+    }
+  },
+  "diamond": {
+    "n": {
+      "translation": ["钻石", "金刚石", "菱形", "(纸牌的)方块", "内场", "（一张）方块牌"],
+      "plural": ["diamonds"]
+    },
+    "adj": {
+      "translation": ["钻石(一样)的", "菱形的", "镶有钻石的"]
+    }
+  },
+  "diary": {
+    "n": {
+      "translation": ["日记", "日记簿", "(工作日程)记事簿"],
+      "plural": ["diaries"]
+    }
+  },
+  "dictate": {
+    "v": {
+      "translation": ["命令", "口述", "支配", "决定", "(尤指以令人不快的方式)指使，强行规定", "摆布"],
+      "singular": ["dictates"],
+      "present": ["dictating"],
+      "past": ["dictated"]
+    },
+    "n": {
+      "translation": ["命令", "规定"],
+      "plural": ["dictates"]
+    }
+  },
+  "dictation": {
+    "n": {
+      "translation": ["听写", "口述"],
+      "plural": ["dictations"]
+    }
+  },
+  "dictionary": {
+    "n": {
+      "translation": ["词典", "字典", "电子词典", "辞书", "专业词典", "专业术语大全"],
+      "plural": ["dictionaries"]
+    }
+  },
+  "die": {
+    "v": {
+      "translation": ["死", "死亡", "消失", "消亡", "灭亡", "凋谢", "停止运转"],
+      "singular": ["dies"],
+      "present": ["dying"],
+      "past": ["died"]
+    },
+    "n": {
+      "translation": ["模具", "冲模", "压模"]
+    }
+  },
+  "differ": {
+    "vi": {
+      "translation": ["不同于", "有区别", "相异", "不同意", "持不同看法", "意见相左"],
+      "singular": ["differs"],
+      "present": ["differing"],
+      "past": ["differed"]
+    }
+  },
+  "difference": {
+    "n": {
+      "translation": ["差别", "差异", "差", "变化(之处)", "不同(之处)", "差额", "意见分歧", "不和"],
+      "plural": ["differences"]
+    },
+    "vt": {
+      "translation": ["辨别", "区分"],
+      "singular": ["differences"],
+      "present": ["differencing"],
+      "past": ["differenced"]
+    }
+  },
+  "different": {
+    "adj": {
+      "translation": ["不同的", "各种的", "分别的", "与众不同", "有差异的", "有区别的", "各别的", "别致", "不平常"]
+    }
+  },
+  "difficult": {
+    "adj": {
+      "translation": [
+        "困难的", "麻烦的", "难做的", "费力的", "难解的", "难以取悦的", "问题很多的", "难以讨好的", "充满艰难困苦的",
+        "不愿帮助的"
+      ]
+    }
+  },
+  "difficulty": {
+    "n": {
+      "translation": ["困难", "难度", "困境", "难题", "艰难", "困难程度", "辛苦", "难事", "费劲"],
+      "plural": ["difficulties"]
+    }
+  },
+  "dig": {
+    "v": {
+      "translation": ["挖掘", "挖(土)", "掘(地)", "寻找，搜寻(物品)", "凿(洞)", "(采)掘出", "掘得", "赞成"],
+      "singular": ["digs"],
+      "present": ["digging"],
+      "past": ["dug"]
+    },
+    "n": {
+      "translation": ["挖苦", "考古发掘", "嘲讽", "(用手指或肘部)轻碰，轻戳，轻推"]
+    }
+  },
+  "digest": {
+    "v": {
+      "translation": ["消化", "理解", "领悟", "领会"],
+      "singular": ["digests"],
+      "present": ["digesting"],
+      "past": ["digested"]
+    },
+    "n": {
+      "translation": ["摘要", "文摘", "汇编", "概要"],
+      "plural": ["digests"]
+    }
+  },
+  "digital": {
+    "adj": {
+      "translation": ["数字的", "数码的", "数字式的", "数字显示的", "数字信息系统的"]
+    },
+    "n": {
+      "translation": ["数字电视"]
+    }
+  },
+  "diligent": {
+    "adj": {
+      "translation": ["勤勉的", "刻苦的", "孜孜不倦的"]
+    }
+  },
+  "dim": {
+    "adj": {
+      "translation": [
+        "暗淡的，昏暗的", "(记忆等)不清晰的，(意识等)模糊的", "不分明的，朦胧的", "(视力)差的，模糊不清的",
+        "<口>迟钝的，愚蠢的", "不利的，灰暗失色的，不光明的", "无光泽的，不鲜亮的"
+      ],
+      "comparative": ["dimmer"],
+      "superlative": ["dimmest"]
+    },
+    "v": {
+      "translation": ["(使)变暗淡，变微弱，变昏暗", "(使)减弱，变淡漠，失去光泽"],
+      "singular": ["dims"],
+      "present": ["dimming"],
+      "past": ["dimmed"]
+    },
+    "n": {
+      "translation": ["(汽车前灯的)减光，近光", "<古><诗>昏暗，幽暗"]
+    }
+  },
+  "dimension": {
+    "n": {
+      "translation": ["尺寸", "方面", "范围", "维(构成空间的因素)", "程度", "规模", "侧面"],
+      "plural": ["dimensions"]
+    },
+    "adj": {
+      "translation": ["(石料,木材)切成特定尺寸的"]
+    },
+    "v": {
+      "translation": ["使形成所需的尺寸", "在…上标出尺寸"]
+    }
+  },
+  "dinner": {
+    "n": {
+      "translation": ["晚餐", "宴会", "(中午或晚上吃的)正餐，主餐"],
+      "plural": ["dinners"]
+    }
+  },
+  "dip": {
+    "v": {
+      "translation": ["蘸", "浸", "(使)下降，下沉", "给洗药浴", "把(汽车前灯的)远光调为近光"],
+      "singular": ["dips"],
+      "present": ["dipping"],
+      "past": ["dipped"]
+    },
+    "n": {
+      "translation": [
+        "(通常指暂时的)减少，下降，衰退", "浏览", "泡一泡", "调味酱", "药浴液，清洗液", "（降而复升的）一动", "凹陷处",
+        "游一游", "低洼处"
+      ]
+    }
+  },
+  "direct": {
+    "adj": {
+      "translation": [
+        "直接的", "最近的", "直射的", "亲自的", "正好的", "直系的", "笔直的", "亲身的", "径直的", "直爽的"
+      ]
+    },
+    "v": {
+      "translation": [
+        "指示", "指导", "管理", "指挥(管弦乐队)", "把…对准(某方向或某人)", "监督", "导演(戏剧或电影)", "给（某人）指路",
+        "把（信件等）寄至"
+      ],
+      "singular": ["directs"],
+      "present": ["directing"],
+      "past": ["directed"]
+    },
+    "adv": {
+      "translation": ["直接", "亲自", "径直"]
+    }
+  },
+  "direction": {
+    "n": {
+      "translation": ["方向", "（电影导演的）指点，指示", "方面", "管理", "目的", "趋势", "方位", "动向", "用法说明"],
+      "plural": ["directions"]
+    }
+  },
+  "directly": {
+    "adv": {
+      "translation": ["直接地", "正", "立即", "立刻", "恰好", "坦率地", "径直地", "过一会儿", "正好地"]
+    },
+    "conj": {
+      "translation": ["一…就…"]
+    }
+  },
+  "director": {
+    "n": {
+      "translation": [
+        "董事", "(公司部门的)主任", "(电影、戏剧等的)导演", "(某一活动的)负责人", "经理", "理事", "(学院的)院长"
+      ],
+      "plural": ["directors"]
+    }
+  },
+  "dirt": {
+    "n": {
+      "translation": [
+        "污物，灰尘", "泥土，松土", "肮脏(状态)", "<口>丑闻", "下流话，下流行为", "<口>可鄙的人", "<矿>含金泥"
+      ],
+      "plural": ["dirts"]
+    }
+  },
+  "dirty": {
+    "adj": {
+      "translation": ["肮脏的", "下流的", "卑鄙的", "暗淡的", "吸毒的", "受(细菌)感染的", "令人生厌的"],
+      "comparative": ["dirtier"],
+      "superlative": ["dirtiest"]
+    },
+    "v": {
+      "translation": ["弄脏，使）变脏", "玷污", "贬低"],
+      "singular": ["dirties"],
+      "present": ["dirtying"],
+      "past": ["dirtied"]
+    }
+  },
+  "disable": {
+    "vt": {
+      "translation": ["使伤残", "使无效", "使残废", "使丧失能力", "使不能运转"],
+      "singular": ["disables"],
+      "present": ["disabling"],
+      "past": ["disabled"]
+    }
+  },
+  "disadvantage": {
+    "n": {
+      "translation": ["缺点", "不利因素", "障碍", "不便之处"],
+      "plural": ["disadvantages"]
+    }
+  },
+  "disagree": {
+    "v": {
+      "translation": ["不同意", "不一致", "有分歧", "持不同意见", "不符"],
+      "singular": ["disagrees"],
+      "present": ["disagreeing"],
+      "past": ["disagreed"]
+    }
+  },
+  "disappear": {
+    "vi": {
+      "translation": ["消失", "失踪", "不见", "消亡", "灭绝", "不复存在", "丢失"],
+      "singular": ["disappears"],
+      "present": ["disappearing"],
+      "past": ["disappeared"]
+    }
+  },
+  "disappoint": {
+    "v": {
+      "translation": ["使失望", "使落空", "使破灭"],
+      "singular": ["disappoints"],
+      "present": ["disappointing"],
+      "past": ["disappointed"]
+    }
+  },
+  "disaster": {
+    "n": {
+      "translation": ["灾害", "灾难", "灾祸", "不幸", "祸患", "彻底失败的人(或事)"],
+      "plural": ["disasters"]
+    }
+  },
+  "discard": {
+    "v": {
+      "translation": ["丢弃", "抛弃", "垫(牌)", "打出(无用的牌)"],
+      "singular": ["discards"],
+      "present": ["discarding"],
+      "past": ["discarded"]
+    },
+    "n": {
+      "translation": ["被抛弃的人(或物)", "(尤指纸牌游戏中)垫出的牌"]
+    }
+  },
+  "discharge": {
+    "v": {
+      "translation": ["排出", "释放", "流出", "放出", "尽（职）", "解雇", "发（力）", "射出", "准许(某人)离开"],
+      "singular": ["discharges"],
+      "present": ["discharging"],
+      "past": ["discharged"]
+    },
+    "n": {
+      "translation": [
+        "排出(物)", "(任务或职责的)履行，执行", "出院", "流出(物)", "放出(物)", "(债务的)清偿", "退伍", "免职", "获准离开"
+      ]
+    }
+  },
+  "discipline": {
+    "n": {
+      "translation": [
+        "纪律", "训练", "遵守纪律", "行为准则", "自制力", "训导", "风纪", "训练方法", "知识领域", "符合准则的行为"
+      ],
+      "plural": ["disciplines"]
+    },
+    "vt": {
+      "translation": ["训练", "管教", "处罚", "惩罚", "严格要求(自己)", "训导", "自我控制"],
+      "singular": ["disciplines"],
+      "present": ["disciplining"],
+      "past": ["disciplined"]
+    }
+  },
+  "disclose": {
+    "vt": {
+      "translation": ["披露", "透露", "泄露", "揭露", "使暴露", "使显露"],
+      "singular": ["discloses"],
+      "present": ["disclosing"],
+      "past": ["disclosed"]
+    }
+  },
+  "discourage": {
+    "vt": {
+      "translation": ["阻止", "劝阻", "使泄气", "使灰心", "阻拦", "使丧失信心"],
+      "singular": ["discourages"],
+      "present": ["discouraging"],
+      "past": ["discouraged"]
+    }
+  },
+  "discover": {
+    "v": {
+      "translation": ["(第一个)发现", "发现（人才）", "(出乎意料地)找到", "发觉", "查明", "认识到", "了解到"],
+      "singular": ["discovers"],
+      "present": ["discovering"],
+      "past": ["discovered"]
+    }
+  },
+  "discovery": {
+    "n": {
+      "translation": ["发现", "发觉", "被发现的事物(或真相、人)"],
+      "plural": ["discoveries"]
+    }
+  },
+  "discuss": {
+    "vt": {
+      "translation": ["讨论", "论述", "谈论", "商量", "详述"],
+      "singular": ["discusses"],
+      "present": ["discussing"],
+      "past": ["discussed"]
+    }
+  },
+  "discussion": {
+    "n": {
+      "translation": ["讨论", "论述", "商讨", "详述"],
+      "plural": ["discussions"]
+    }
+  },
+  "disease": {
+    "n": {
+      "translation": ["病", "疾病", "恶疾", "痼疾", "弊端"],
+      "plural": ["diseases"]
+    }
+  },
+  "disguise": {
+    "vt": {
+      "translation": ["伪装", "掩饰", "假扮", "装扮", "掩蔽"],
+      "singular": ["disguises"],
+      "present": ["disguising"],
+      "past": ["disguised"]
+    },
+    "n": {
+      "translation": ["伪装", "假扮", "装扮", "伪装物", "化装用具"],
+      "plural": ["disguises"]
+    }
+  },
+  "disgust": {
+    "n": {
+      "translation": ["厌恶", "反感", "憎恶"],
+      "plural": ["disgusts"]
+    },
+    "vt": {
+      "translation": ["使厌恶", "使反感", "使作呕"],
+      "singular": ["disgusts"],
+      "present": ["disgusting"],
+      "past": ["disgusted"]
+    }
+  },
+  "dish": {
+    "n": {
+      "translation": ["菜肴", "碟", "盘", "(待清洗的)餐具", "一道菜", "盘状物", "性感的人"],
+      "plural": ["dishes"]
+    },
+    "v": {
+      "translation": ["盛于碟盘中", "分发，提供", "使某人的希望破灭，破坏某人的机会，使某人不能成功"],
+      "singular": ["dishes"],
+      "present": ["dishing"],
+      "past": ["dished"]
+    }
+  },
+  "dishonour": {
+    "n": {
+      "translation": ["耻辱", "不名誉", "丢脸"],
+      "plural": ["dishonours"]
+    },
+    "vt": {
+      "translation": ["使丢脸", "使蒙受耻辱", "违背，违反(协议或诺言)", "使丧失名誉"],
+      "singular": ["dishonours"],
+      "present": ["dishonouring"],
+      "past": ["dishonoured"]
+    }
+  },
+  "disk": {
+    "n": {
+      "translation": ["磁盘", "磁碟"],
+      "plural": ["disks"]
+    }
+  },
+  "dislike": {
+    "vt": {
+      "translation": ["不喜欢", "厌恶", "不喜爱"],
+      "singular": ["dislikes"],
+      "present": ["disliking"],
+      "past": ["disliked"]
+    },
+    "n": {
+      "translation": ["厌恶", "反感", "不喜爱", "不喜欢的事物", "讨厌的事物"],
+      "plural": ["dislikes"]
+    }
+  },
+  "dismiss": {
+    "vt": {
+      "translation": [
+        "解雇", "驳回", "开除", "免职", "去除，消除，摒除(思想、感情等)", "让（某人）离开", "摒弃", "不予考虑", "出局",
+        "对…不屑一提"
+      ],
+      "singular": ["dismisses"],
+      "present": ["dismissing"],
+      "past": ["dismissed"]
+    }
+  },
+  "disorder": {
+    "n": {
+      "translation": ["混乱", "紊乱", "失调", "疾病", "骚乱", "动乱", "不适", "凌乱", "杂乱"],
+      "plural": ["disorders"]
+    },
+    "v": {
+      "translation": ["使混乱", "使(身心等)失调"]
+    }
+  },
+  "display": {
+    "v": {
+      "translation": ["显示", "展示", "显露，表现(特性或情感等)", "展出", "陈列", "（为求偶）做炫耀行为"],
+      "singular": ["displays"],
+      "present": ["displaying"],
+      "past": ["displayed"]
+    },
+    "n": {
+      "translation": ["显示，显像", "(特性、情感或能力的)显示，表现，表露", "展示", "陈列", "展览", "表演"],
+      "plural": ["displays"]
+    }
+  },
+  "displease": {
+    "vt": {
+      "translation": ["使不悦", "使生气", "使恼怒"],
+      "singular": ["displeases"],
+      "present": ["displeasing"],
+      "past": ["displeased"]
+    }
+  },
+  "disposal": {
+    "n": {
+      "translation": ["处理", "处置", "清除", "(企业、财产等的)变卖，让与", "去掉"],
+      "plural": ["disposals"]
+    }
+  },
+  "dispose": {
+    "vt": {
+      "translation": ["处置", "布置", "排列", "安排", "使易于", "使倾向于", "使有意于"],
+      "singular": ["disposes"],
+      "present": ["disposing"],
+      "past": ["disposed"]
+    }
+  },
+  "dispute": {
+    "n": {
+      "translation": ["争端", "纠纷", "争论", "辩论"],
+      "plural": ["disputes"]
+    },
+    "v": {
+      "translation": ["争论", "争执", "辩论", "竞争", "争夺", "对…表示异议(或怀疑)", "对…提出质询"],
+      "singular": ["disputes"],
+      "present": ["disputing"],
+      "past": ["disputed"]
+    }
+  },
+  "dissatisfy": {
+    "v": {
+      "translation": ["使不满足"],
+      "singular": ["dissatisfies"],
+      "present": ["dissatisfying"],
+      "past": ["dissatisfied"]
+    }
+  },
+  "dissolve": {
+    "v": {
+      "translation": [
+        "溶", "解散(议会)", "解除(婚姻关系)", "（以化学手段）除去，分散", "使(固体)溶解", "终止(商业协议)", "消除", "禁不住"
+      ],
+      "singular": ["dissolves"],
+      "present": ["dissolving"],
+      "past": ["dissolved"]
+    },
+    "vi": {
+      "translation": ["溶", "禁不住(笑起来或哭起来等)"],
+      "singular": ["dissolves"],
+      "present": ["dissolving"],
+      "past": ["dissolved"]
+    },
+    "vt": {
+      "translation": ["使(固体)溶解", "解散(议会)", "解除(婚姻关系)", "终止(商业协议)"],
+      "singular": ["dissolves"],
+      "present": ["dissolving"],
+      "past": ["dissolved"]
+    },
+    "n": {
+      "translation": ["(电影、电视等画面的)渐隐，溶暗"]
+    }
+  },
+  "distance": {
+    "n": {
+      "translation": ["距离", "(大片)区域", "(时间的)间隔，久远", "远处", "(空间的)遥远", "进展(程度)", "冷淡"],
+      "plural": ["distances"]
+    },
+    "vt": {
+      "translation": ["拉开距离", "与…疏远"],
+      "singular": ["distances"],
+      "present": ["distancing"],
+      "past": ["distanced"]
+    }
+  },
+  "distant": {
+    "adj": {
+      "translation": ["遥远的", "远处的", "不同的", "远亲的", "远房的", "久远的", "不友好的", "心不在焉的", "不相似的"]
+    }
+  },
+  "distinct": {
+    "adj": {
+      "translation": [
+        "不同的", "明显的", "清晰的", "清楚的", "明白的", "确切的", "有区别的", "不同种类的", "确定无疑的"
+      ]
+    }
+  },
+  "distinction": {
+    "n": {
+      "translation": [
+        "区别", "区分", "特点", "差别", "对比", "（尤指给学生的）优等评分，荣誉，奖赏", "优秀", "卓越", "杰出", "特质",
+        "不同凡响"
+      ],
+      "plural": ["distinctions"]
+    }
+  },
+  "distinguish": {
+    "v": {
+      "translation": [
+        "区分", "辨别", "分清", "使有别于", "使出众", "认出", "看清", "使具有…的特色", "听出", "成为…的特征"
+      ],
+      "singular": ["distinguishes"],
+      "present": ["distinguishing"],
+      "past": ["distinguished"]
+    }
+  },
+  "distress": {
+    "n": {
+      "translation": ["窘迫", "痛苦", "(船、飞机等)遇难，遇险", "悲伤", "贫困", "忧虑", "困苦"],
+      "plural": ["distresses"]
+    },
+    "vt": {
+      "translation": ["使苦恼", "使悲伤", "使忧虑"],
+      "singular": ["distresses"],
+      "present": ["distressing"],
+      "past": ["distressed"]
+    }
+  },
+  "distribute": {
+    "vt": {
+      "translation": ["分配", "使分布", "分发", "分销", "分散", "使散开"],
+      "singular": ["distributes"],
+      "present": ["distributing"],
+      "past": ["distributed"]
+    }
+  },
+  "distribution": {
+    "n": {
+      "translation": ["分布", "分配", "分发", "(商品)运销，经销，分销", "分送"],
+      "plural": ["distributions"]
+    }
+  },
+  "district": {
+    "n": {
+      "translation": ["区", "地区", "区域", "行政区", "管区"],
+      "plural": ["districts"]
+    },
+    "v": {
+      "translation": ["把…分区"]
+    }
+  },
+  "disturb": {
+    "vt": {
+      "translation": ["打扰", "使不安", "干扰", "妨碍", "使烦恼", "使焦虑", "搅乱", "弄乱", "搞乱"],
+      "singular": ["disturbs"],
+      "present": ["disturbing"],
+      "past": ["disturbed"]
+    }
+  },
+  "ditch": {
+    "n": {
+      "translation": ["沟", "渠"],
+      "plural": ["ditches"]
+    },
+    "v": {
+      "translation": ["抛弃", "(在海上)迫降", "摆脱", "丢弃", "使(飞机)在海上紧急降落"],
+      "singular": ["ditches"],
+      "present": ["ditching"],
+      "past": ["ditched"]
+    }
+  },
+  "dive": {
+    "vi": {
+      "translation": [
+        "(戴呼吸装备)潜水", "跳水(头和两臂先入水)", "俯冲", "下潜", "扑，冲，奔", "（对方阻截时）假摔", "突然下降",
+        "潜到更深的水下"
+      ],
+      "singular": ["dives"],
+      "present": ["diving"],
+      "past": ["dived"]
+    },
+    "n": {
+      "translation": [
+        "(戴呼吸装备的)潜水", "(头和双臂先入水的)跳水", "俯冲", "冲", "（遇到阻截时的）假摔，故意跌倒", "扑", "下等酒吧"
+      ]
+    }
+  },
+  "diverse": {
+    "adj": {
+      "translation": ["多种多样的", "不同的", "形形色色的", "相异的"]
+    }
+  },
+  "divide": {
+    "v": {
+      "translation": [
+        "分", "(使)分开，分散，分割，分成…", "除以", "分配", "除", "是…的分界线", "分享", "分担", "使产生分歧", "分岔",
+        "把(时间、精力等)分别用于"
+      ],
+      "singular": ["divides"],
+      "present": ["dividing"],
+      "past": ["divided"]
+    },
+    "n": {
+      "translation": ["不同", "分歧", "差异", "分水岭"]
+    }
+  },
+  "division": {
+    "n": {
+      "translation": [
+        "（机构的）部门", "(分出来的)部分", "师", "分配", "分歧", "级", "除(法)", "分隔", "差异", "分开",
+        "（英国议会的）分组表决", "分界线", "不和"
+      ],
+      "plural": ["divisions"]
+    }
+  },
+  "divorce": {
+    "n": {
+      "translation": ["离婚", "脱离", "分离"],
+      "plural": ["divorces"]
+    },
+    "v": {
+      "translation": ["与(某人)离婚", "使脱离", "使分离", "判(某人)离婚"],
+      "singular": ["divorces"],
+      "present": ["divorcing"],
+      "past": ["divorced"]
+    }
+  },
+  "do": {
+    "v": {
+      "translation": [
+        "做，干，办(某事)", "提供，供应", "执行", ".照料，处理", "使出，用出", "写(书等)，作(曲、画等)，出版，制作", "引起，产生",
+        "学习", "从事(职业)", "适合", "给予，给", "翻译，改编", "犯(罪)", "<口>参观,游览", "演出，编排（戏剧、歌剧等）",
+        "<口>欺骗，骗取", "解答", "<口>服(刑期)", "行过，走过（一段路程）", "使整洁", "烹调", "<俚>性交", "使疲乏", "以…速度行进"
+      ],
+      "singular": ["does"],
+      "present": ["doing"],
+      "past": ["did", "done"]
+    },
+    "aux": {
+      "translation": ["用于实义动词前构成否定句和疑问句", "构成附加疑问句", "代替实义动词以避免重复"]
+    },
+    "n": {
+      "translation": ["要求，规定", "（口语）事件", "聚会", "（主英国口语）诈骗", "社交活动", "（口语）必须做到的事情"],
+      "plural": ["dos"]
+    }
+  },
+  "dock": {
+    "n": {
+      "translation": ["码头", "船坞", "（法庭的）被告席", "港区", "(供运货汽车或铁路货车装卸货物的)月台", "酸模", "船埠"],
+      "plural": ["docks"]
+    },
+    "v": {
+      "translation": [
+        "(使宇宙飞船在外层空间)对接", "入坞", "(使船)进港，停靠码头，进入船坞", "扣除(部分工资等)", "剪短（动物的尾巴）"
+      ],
+      "singular": ["docks"],
+      "present": ["docking"],
+      "past": ["docked"]
+    }
+  },
+  "doctor": {
+    "n": {
+      "translation": ["医生", "博士", "大夫", "诊所", "（作头衔或称呼）牙医"],
+      "plural": ["doctors"]
+    },
+    "vt": {
+      "translation": ["篡改", "伪造", "阉割(动物)", "将有害物掺入(食物或饮料)中"],
+      "singular": ["doctors"],
+      "present": ["doctoring"],
+      "past": ["doctored"]
+    }
+  },
+  "document": {
+    "n": {
+      "translation": ["文件", "(计算机)文档", "文献", "证件", "公文"],
+      "plural": ["documents"]
+    },
+    "vt": {
+      "translation": ["记录，记载(详情)", "用文件证明(或证实)"],
+      "singular": ["documents"],
+      "present": ["documenting"],
+      "past": ["documented"]
+    }
+  },
+  "dog": {
+    "n": {
+      "translation": ["狗", "犬", "家伙，小人，无赖", "赛狗", "公狗", "蹩脚货", "公狼", "公狐"],
+      "plural": ["dogs"]
+    },
+    "vt": {
+      "translation": ["(长期)困扰，折磨，纠缠", "跟踪", "尾随"],
+      "singular": ["dogs"],
+      "present": ["dogging"],
+      "past": ["dogged"]
+    }
+  },
+  "dollar": {
+    "n": {
+      "translation": ["美元(币值)", "元(美国、加拿大、澳大利亚等国的货币单位)", "一元(纸币或硬币)"],
+      "plural": ["dollars"]
+    }
+  },
+  "domestic": {
+    "adj": {
+      "translation": [
+        "国内的", "家庭的", "本国的", "家用的", "家务的", "驯养的", "喜爱家庭生活的", "享受家庭乐趣的", "乐于操持家务的"
+      ]
+    },
+    "n": {
+      "translation": ["佣人", "家佣", "家庭纠纷", "家庭矛盾"],
+      "plural": ["domestics"]
+    }
+  },
+  "donkey": {
+    "n": {
+      "translation": ["驴"],
+      "plural": ["donkeys"]
+    }
+  },
+  "donate": {
+    "vt": {
+      "translation": ["捐赠", "捐献(器官)", "(尤指向慈善机构)赠送", "献(血)"],
+      "singular": ["donates"],
+      "present": ["donating"],
+      "past": ["donated"]
+    }
+  },
+  "door": {
+    "n": {
+      "translation": ["门", "门口", "门边", "出入口", "栋", "门旁"],
+      "plural": ["doors"]
+    }
+  },
+  "dorm": {
+    "n": {
+      "translation": ["宿舍", "学生宿舍", "同 dormitory"],
+      "plural": ["dorms"]
+    }
+  },
+  "dormitory": {
+    "n": {
+      "translation": ["<美>(大学、学院等的)学生宿舍", "大寝室，集体寝室", "(市内工作者的)郊外住宅区"],
+      "plural": ["dormitories"]
+    }
+  },
+  "dose": {
+    "n": {
+      "translation": ["剂量", "一次", "(药的)一剂，一服", "一份", "一点"]
+    },
+    "vt": {
+      "translation": ["给(某人)服药"],
+      "singular": ["doses"],
+      "present": ["dosing"],
+      "past": ["dosed"]
+    }
+  },
+  "dot": {
+    "n": {
+      "translation": ["点，小点", "(莫尔斯电码中的)点", "<数>(代替乘号的)点，小数点", "<口>句号", "点状物，微小的东西"],
+      "plural": ["dots"]
+    },
+    "v": {
+      "translation": ["星罗棋布于", "在(字母上方、字母或单词旁边)加点", "用点构成", "给(音符)加附点", "<英口>狠击"],
+      "singular": ["dots"],
+      "present": ["dotting"],
+      "past": ["dotted"]
+    }
+  },
+  "double": {
+    "adj": {
+      "translation": [
+        "两倍的，加倍的", "双重的", "双层的，折叠的", "双的", "供两人用的，双人的", "(花)重瓣的", "双关的，模棱两可的",
+        "成双的", "两面派的", "弯腰的，俯身的", "<音>(发音比记谱)低八度的"
+      ]
+    },
+    "adv": {
+      "translation": ["双重地", "下弯地,弓着身子", "两倍地", "双双地"]
+    },
+    "n": {
+      "translation": [
+        "两倍", "双打（尤指网球）", "折,折叠", "(宾馆的)双人房间", "双重间谍", "双料冠军，两次获胜，两次打败同一对手",
+        "急转弯，折回", "（电影中的）替身演员", "极相似的对应物", "酷似的人", "计谋", "(迷信传说在人垂死时出现的)活人的魂灵"
+      ],
+      "plural": ["doubles"]
+    },
+    "v": {
+      "translation": [
+        "(使)加倍", "兼奏，重复（一个音符）", "折叠", "把…对折", "兼任", "握紧", "击出二垒安打", "以二垒打使上二垒"
+      ],
+      "singular": ["doubles"],
+      "present": ["doubling"],
+      "past": ["doubled"]
+    }
+  },
+  "doubt": {
+    "v": {
+      "translation": ["怀疑", "不相信", "不信任", "不能肯定", "无把握", "认为…未必可能"],
+      "singular": ["doubts"],
+      "present": ["doubting"],
+      "past": ["doubted"]
+    },
+    "n": {
+      "translation": ["疑问", "疑惑", "不确定", "不相信"],
+      "plural": ["doubts"]
+    }
+  },
+  "doubtful": {
+    "adj": {
+      "translation": [
+        "可疑的", "怀疑", "不确定", "未必", "不明朗", "不大可能", "低劣的", "拿不定主意", "难说", "悬而未定", "可能变糟"
+      ]
+    }
+  },
+  "doubtless": {
+    "adj": {
+      "translation": ["无疑的"]
+    },
+    "adv": {
+      "translation": ["大概", "几乎肯定地"]
+    }
+  },
+  "down": {
+    "adv": {
+      "translation": [
+        "向下", "(坐、倒、躺)下", "到，去，在", "下降", "减少，减弱，降低", "下跌", "在下面", "朝下", "下至，直至",
+        "失去（钱数）", "（写）在纸上", "（钱）先付，预付", "由上至下", "在较低水平", "向南方", "已完成数量（或进度）"
+      ]
+    },
+    "prep": {
+      "translation": ["(从高处)向下，往下", "沿着", "顺着", "朝着", "贯穿…时间", "遍及…时期"]
+    },
+    "vt": {
+      "translation": ["使倒下", "击倒", "(一下子)喝下，吃下，咽下"],
+      "singular": ["downs"],
+      "present": ["downing"],
+      "past": ["downed"]
+    },
+    "adj": {
+      "translation": ["停机", "沮丧", "停止运行", "情绪低落", "悲哀"]
+    },
+    "n": {
+      "translation": [
+        "绒毛", "软毛", "汗毛", "(鸟的)绒羽", "进攻分段，10码进攻(球队可向前推进10码持球进攻的四次机会。球队在连续四次进攻中失球或未能推进10码即不能继续)"
+      ],
+      "plural": ["downs"]
+    }
+  },
+  "download": {
+    "vt": {
+      "translation": ["下载"],
+      "singular": ["downloads"],
+      "present": ["downloading"],
+      "past": ["downloaded"]
+    },
+    "n": {
+      "translation": ["已下载的数据资料"]
+    }
+  },
+  "downstairs": {
+    "n": {
+      "translation": ["楼下(尤指地面的一层)"]
+    },
+    "adv": {
+      "translation": ["在楼下", "往楼下", "顺楼梯而下"]
+    },
+    "adj": {
+      "translation": ["楼下的"]
+    }
+  },
+  "downward": {
+    "adj": {
+      "translation": ["向下的", "下降的", "向下地"]
+    },
+    "adv": {
+      "translation": ["同“downwards”"]
+    }
+  },
+  "dozen": {
+    "n/det": {
+      "translation": ["(一)打", "许多", "十几个", "很多", "十多个", "十二个", "十来个"],
+      "plural": ["dozens"]
+    }
+  },
+  "draft": {
+    "n": {
+      "translation": [
+        "草稿", "草案", "汇票", "草图", "穿堂风（=draught）", "运动员选拔制(某些职业运动队每年在大学生中选拔新队员)"
+      ],
+      "plural": ["drafts"]
+    },
+    "adj": {
+      "translation": ["（设计、草图、提纲或版本）正在起草中的，草拟的", "草图的", "以草稿形式的", "初步画出或（写出）的"]
+    },
+    "vt": {
+      "translation": ["起草", "草拟", "抽调", "选派"],
+      "singular": ["drafts"],
+      "present": ["drafting"],
+      "past": ["drafted"]
+    }
+  },
+  "drag": {
+    "v": {
+      "translation": [
+        "拖，拽", "谈论，讨论（不愉快或复杂的事）", "用鼠标拖动", "（船）拖锚，走锚", "（用网或钩子）搜寻", "<口>硬拉，硬拖",
+        "（使）在地上拖着移动", "硬撑着行进，费劲地移动"
+      ],
+      "singular": ["drags"],
+      "present": ["dragging"],
+      "past": ["dragged"]
+    },
+    "n": {
+      "translation": [
+        "阻力，抗力", "累赘，拖累", "<非正式>街，路", "<古>车轮制动器，刹车", "男扮女装", "拖网，打捞器",
+        "<北美，非正式>（对其他人的）影响（力）", "<英，非正式>汽车", "（拉钓线时引起的假蝇的）异动",
+        "（四匹马拉的）高大私人马车", "每次敲击前用另一只鼓槌先击两个装饰音（基本的击鼓模式之一）", "被拖(或拉)之物",
+        "令人不快的事，无聊的事", "一吸，一抽"
+      ]
+    }
+  },
+  "dragon": {
+    "n": {
+      "translation": ["(传说中的)龙", "母夜叉", "悍妇"],
+      "plural": ["dragons"]
+    }
+  },
+  "drain": {
+    "v": {
+      "translation": ["排水", "排空", "使（精力、金钱等）耗尽", "(使)流走，流出", "喝干", "放干", "喝光", "(使)流光"],
+      "singular": ["drains"],
+      "present": ["draining"],
+      "past": ["drained"]
+    },
+    "n": {
+      "translation": ["排水管", "下水道", "消耗", "耗费", "耗竭", "下水道孔盖"],
+      "plural": ["drains"]
+    }
+  },
+  "drama": {
+    "n": {
+      "translation": ["戏", "剧", "戏剧", "戏剧艺术", "戏剧性事件", "戏剧文学", "激动", "戏剧性情节"],
+      "plural": ["dramas"]
+    }
+  },
+  "dramatic": {
+    "adj": {
+      "translation": [
+        "戏剧性的", "戏剧的", "巨大的", "引人注目的", "突然的", "激动人心的", "令人吃惊的", "给人印象深刻的",
+        "有关戏剧的", "戏剧学的"
+      ]
+    }
+  },
+  "draw": {
+    "v": {
+      "translation": [
+        "画", "进行，作（比较或对比）", "吸引", "拉(动)", "（向某个方向）移动，行进", "产生，引起，激起（反应或回应）",
+        "(用铅笔、钢笔或粉笔)描绘", "提取", "牵引", "抽出", "抽（烟）", "抽（签、牌）", "获取", "描画", "拖(动)", "拔出",
+        "使说出", "以平局结束"
+      ],
+      "singular": ["draws"],
+      "present": ["drawing"],
+      "past": ["drew", "drawn"]
+    },
+    "n": {
+      "translation": [
+        "抽签", "抽奖", "平局", "和局", "吸烟", "抽彩", "不分胜负", "有吸引力的人（或事物）", "由抽签决定对手的比赛"
+      ]
+    }
+  },
+  "drawer": {
+    "n": {
+      "translation": ["抽屉", "出票人", "开票人"],
+      "plural": ["drawers"]
+    }
+  },
+  "drawing": {
+    "v": {
+      "translation": [
+        "绘画", "吸引，使感兴趣", "拉，拖(车)", "拉(动)", "(用铅笔、钢笔或粉笔)画，描绘，描画", "牵引", "拖(动)"
+      ]
+    },
+    "n": {
+      "translation": ["绘画(艺术)", "制图(技巧)", "图画", "素描画"],
+      "plural": ["drawings"]
+    }
+  },
+  "dread": {
+    "v": {
+      "translation": ["畏惧", "担忧，忧虑", "厌恶，不愿"],
+      "singular": ["dreads"],
+      "present": ["dreading"],
+      "past": ["dreaded"]
+    },
+    "n": {
+      "translation": ["畏惧，恐惧", "担忧，忧虑", "厌恶", "令人生畏的人，可怖的事物"],
+      "plural": ["dreads"]
+    },
+    "adj": {
+      "translation": ["可怕的", "令人担忧的", "<古>令人敬畏的"]
+    }
+  },
+  "dream": {
+    "n": {
+      "translation": ["梦", "梦想", "理想", "出神，恍惚", "梦一般美妙的人（或事物）", "梦一般虚幻(或短暂)的事物"],
+      "plural": ["dreams"]
+    },
+    "v": {
+      "translation": ["做梦", "梦见", "想象", "考虑，料想", "做白日梦，开小差", "迷迷糊糊地度过，虚度"],
+      "singular": ["dreams"],
+      "present": ["dreaming"],
+      "past": ["dreamed"]
+    },
+    "adj": {
+      "translation": ["梦的，梦中的", "梦一般完美的，理想的"]
+    }
+  },
+  "dress": {
+    "n": {
+      "translation": ["(外穿的)衣服", "(适于特定场合穿的)服装", "连衣裙", "装饰"],
+      "plural": ["dresses"]
+    },
+    "v": {
+      "translation": [
+        "给(某人)穿衣服", "穿衣服", "布置，装饰", "加工，处理", "(加作料)制作", "穿…的服装", "穿正式服装", "为…提供服装",
+        "清洗包扎（伤口）"
+      ],
+      "singular": ["dresses"],
+      "present": ["dressing"],
+      "past": ["dressed"]
+    }
+  },
+  "drift": {
+    "v": {
+      "translation": [
+        "漂流", "漂移", "使漂流", "飘", "吹积", "缓缓移动", "缓慢行走", "无意间发生", "无目的地转变", "顺其自然地做",
+        "无意间进入"
+      ],
+      "singular": ["drifts"],
+      "present": ["drifting"],
+      "past": ["drifted"]
+    },
+    "n": {
+      "translation": [
+        "流动", "趋势", "水流", "大意", "(船只或飞机的)偏航，航差", "气流", "逐渐变化(尤指向坏的方面)", "大丛的花", "吹聚物"
+      ],
+      "plural": ["drifts"]
+    }
+  },
+  "drill": {
+    "v": {
+      "translation": ["钻(孔)", "训练", "培训", "打(眼)", "操练", "作…演习"],
+      "singular": ["drills"],
+      "present": ["drilling"],
+      "past": ["drilled"]
+    },
+    "n": {
+      "translation": [
+        "钻", "钻头", "钻机", "(应对紧急情况的)演习", "训练", "钻床", "练习", "军事训练", "条播机", "粗斜纹布", "正确的步骤"
+      ],
+      "plural": ["drills"]
+    }
+  },
+  "drink": {
+    "v": {
+      "translation": ["喝", "喝酒", "饮", "(尤指)酗酒"],
+      "singular": ["drinks"],
+      "present": ["drinking"],
+      "past": ["drank", "drunk"]
+    },
+    "n": {
+      "translation": ["饮料", "酒", "一杯", "酒精饮料", "一口(饮料)", "一份", "酒会", "酒宴"],
+      "plural": ["drinks"]
+    }
+  },
+  "drip": {
+    "v": {
+      "translation": ["滴下", "滴水", "充溢，充满", "(如细雨般)轻柔地飘下，轻轻漏下"],
+      "singular": ["drips"],
+      "present": ["dripping"],
+      "past": ["dripped"]
+    },
+    "n": {
+      "translation": [
+        "<英>(静脉)滴注", "滴下", "滴水声，滴答声", "滴下(或漏出、溢出等)的液体", "<口>讨厌的家伙", "无用的人"
+      ],
+      "plural": ["drips"]
+    },
+    "adj": {
+      "translation": ["(咖啡)滴滤的", "(咖啡壶)滴滤式的"]
+    }
+  },
+  "drive": {
+    "v": {
+      "translation": [
+        "驾驶", "驱动", "开车", "激励", "迫使", "驱赶", "吹", "击", "凿", "驾车送(人)", "拥有(或驾驶)…汽车",
+        "猛抽，猛击（球）", "猛落"
+      ],
+      "singular": ["drives"],
+      "present": ["driving"],
+      "past": ["drove", "driven"]
+    },
+    "n": {
+      "translation": [
+        "驱动器", "有组织的努力，运动", "传动(或驱动)装置", "（用于路名）路，大道", "(从街道通向住宅的宽阔或私人的)车道",
+        "比赛", "驱赶", "冲劲", "（人的）强烈欲望，本能需求", "猛击", "驱车旅行", "驾车路程"
+      ]
+    }
+  },
+  "driver": {
+    "n": {
+      "translation": ["驾驶员", "司机", "驱动程序", "驱动因素", "驾车者", "球杆"],
+      "plural": ["drivers"]
+    }
+  },
+  "drop": {
+    "n": {
+      "translation": [
+        "下降", "滴", "减少", "下跌", "滴剂", "水珠", "少量", "运送", "一点点", "微量", "下落的距离", "球状糖果"
+      ]
+    },
+    "v": {
+      "translation": [
+        "（使）变弱，降低，减少", "(意外地)落下，掉下，使落下", "停止", "(故意)降下，使降落", "（给某人）寄，送，写（信）", "暗示",
+        "垂下（眼睛）", "遗漏", "累倒", "累垮", "中途卸客", "不再与（某人）往来", "急剧倾斜而下"
+      ],
+      "singular": ["drops"],
+      "present": ["dropping"],
+      "past": ["dropped"]
+    }
+  },
+  "drought": {
+    "n": {
+      "translation": ["干旱", "旱灾", "久旱"],
+      "plural": ["droughts"]
+    }
+  },
+  "drown": {
+    "v": {
+      "translation": ["(使)淹死，溺死", "淹没", "压过", "浸泡", "盖没", "浸透"],
+      "singular": ["drowns"],
+      "present": ["drowning"],
+      "past": ["drowned"]
+    }
+  },
+  "drug": {
+    "n": {
+      "translation": ["药物", "毒品", "药"],
+      "plural": ["drugs"]
+    },
+    "vt": {
+      "translation": ["用药麻醉", "在(食物或饮料中)投放麻醉药，下麻醉药", "使服麻醉药", "使服兴奋剂"],
+      "singular": ["drugs"],
+      "present": ["drugging"],
+      "past": ["drugged"]
+    }
+  },
+  "drum": {
+    "n": {
+      "translation": ["鼓", "(尤指机器上的)鼓轮，滚筒", "鼓状物", "(装油或化学剂的)大桶"]
+    },
+    "v": {
+      "translation": ["打鼓", "击鼓", "不停地击打", "连续敲击…使发出咚咚声"],
+      "singular": ["drums"],
+      "present": ["drumming"],
+      "past": ["drummed"]
+    }
+  },
+  "drunk": {
+    "adj": {
+      "translation": ["醉的", "(酒)醉", "沉醉", "陶醉", "飘飘然", "忘乎所以"]
+    },
+    "n": {
+      "translation": ["醉汉", "酒鬼", "酗酒者"],
+      "plural": ["drunks"]
+    },
+    "v": {
+      "translation": ["喝", "喝酒", "(尤指)酗酒", "饮"]
+    }
+  },
+  "dry": {
+    "adj": {
+      "translation": [
+        "干的", "干燥的", "干旱的", "干性的", "干咳的", "干巴巴的", "口渴的", "无甜味的", "无水分的",
+        "无黄油（或果酱）的", "雨少的", "无酒的", "机敏的", "不动感情的"
+      ],
+      "comparative": ["dryer"]
+    },
+    "v": {
+      "translation": ["(使)变干", "(把…)弄干"],
+      "singular": ["dries"],
+      "present": ["drying"],
+      "past": ["dried"]
+    },
+    "n": {
+      "translation": ["干涸", "[复数] drys [非正式用语]主张禁酒的人"],
+      "plural": ["dries"]
+    }
+  },
+  "duck": {
+    "n": {
+      "translation": ["鸭", "鸭子", "鸭肉", "母鸭", "零分", "乖乖，宝贝儿"],
+      "plural": ["ducks"]
+    },
+    "v": {
+      "translation": [
+        "逃避，回避，推脱，推诿（职责或责任）", "躲避", "低下头，弯下身(以免被打中或看见)", "躲闪", "把…按入水中",
+        "迅速行进，飞快行走(以免被看见)"
+      ],
+      "singular": ["ducks"],
+      "present": ["ducking"],
+      "past": ["ducked"]
+    }
+  },
+  "due": {
+    "adj": {
+      "translation": ["由于", "因为", "到期", "适当的", "应有", "预计", "预期", "预定", "应支付"]
+    },
+    "n": {
+      "translation": ["应有的权利", "应缴款(如俱乐部会费)", "应得到的东西"],
+      "plural": ["dues"]
+    },
+    "adv": {
+      "translation": ["正向", "正对着"]
+    }
+  },
+  "dull": {
+    "adj": {
+      "translation": [
+        "迟钝的", "无聊的", "枯燥无味的", "阴沉的", "低沉的", "无光泽的", "萧条的", "隐约的", "不鲜明的", "隐隐约约的",
+        "不清晰的", "令人生厌的", "不明亮的"
+      ],
+      "comparative": ["duller"],
+      "superlative": ["dullest"]
+    },
+    "v": {
+      "translation": ["使迟钝", "减轻", "使不活泼", "(使)变得无光泽，变模糊，变低沉", "(使)变麻木"],
+      "singular": ["dulls"],
+      "present": ["dulling"],
+      "past": ["dulled"]
+    }
+  },
+  "dumb": {
+    "adj": {
+      "translation": ["哑的", "愚蠢的", "笨的", "傻的", "不能说话的", "一时说不出话的", "不肯开口的"],
+      "comparative": ["dumber"],
+      "superlative": ["dumbest"]
+    },
+    "vt": {
+      "translation": ["使沉默"],
+      "singular": ["dumbs"],
+      "present": ["dumbing"],
+      "past": ["dumbed"]
+    }
+  },
+  "dump": {
+    "vt": {
+      "translation": [
+        "倾倒", "（内存信息）转储，转存", "(向国外)倾销", "抛弃", "抛售", "(尤指在不合适的地方)丢弃", "扔掉", "丢下",
+        "推卸", "随便堆放", "与（某人）结束恋爱关系"
+      ],
+      "singular": ["dumps"],
+      "present": ["dumping"],
+      "past": ["dumped"]
+    },
+    "n": {
+      "translation": [
+        "转储", "垃圾场", "拉屎", "尾矿堆", "废物堆", "脏地方", "邋遢场所", "军需品临时存放处", "令人讨厌的地方"
+      ]
+    }
+  },
+  "durable": {
+    "adj": {
+      "translation": ["耐用的", "持久的"]
+    },
+    "n": {
+      "translation": ["耐用品", "耐久品"],
+      "plural": ["durables"]
+    }
+  },
+  "duration": {
+    "n": {
+      "translation": ["持续时间", "期间"],
+      "plural": ["durations"]
+    }
+  },
+  "during": {
+    "prep": {
+      "translation": ["在期间", "在…期间", "在…期间的某个时候"]
+    }
+  },
+  "dusk": {
+    "n": {
+      "translation": ["黄昏", "傍晚"]
+    },
+    "v": {
+      "translation": ["变暗", "使变暗"],
+      "singular": ["dusks"],
+      "present": ["dusking"],
+      "past": ["dusked"]
+    },
+    "adj": {
+      "translation": ["同“dusky”"]
+    }
+  },
+  "dust": {
+    "n": {
+      "translation": ["灰尘", "粉尘", "(建筑物内、家具或地板等上的)尘埃", "尘土", "粉末", "沙土"]
+    },
+    "v": {
+      "translation": ["撒(粉)", "擦去", "掸去", "擦去…的灰尘", "刷去", "把(粉末)撒于"],
+      "singular": ["dusts"],
+      "present": ["dusting"],
+      "past": ["dusted"]
+    }
+  },
+  "duty": {
+    "n": {
+      "translation": ["责任", "职责", "义务", "任务", "值班", "税", "上班", "本分"],
+      "plural": ["duties"]
+    }
+  },
+  "dwelling": {
+    "n": {
+      "translation": ["住处", "住所", "住宅", "公寓"],
+      "plural": ["dwellings"]
+    },
+    "v": {
+      "translation": ["居住", "栖身"]
+    }
+  },
+  "dye": {
+    "n": {
+      "translation": ["染料", "染液"],
+      "plural": ["dyes"]
+    },
+    "vt": {
+      "translation": ["染", "给…染色"],
+      "singular": ["dyes"],
+      "present": ["dyeing"],
+      "past": ["dyed"]
+    }
+  },
+  "dying": {
+    "adj": {
+      "translation": ["垂死的", "临终的", "临死的", "垂死者", "临终者"]
+    },
+    "v": {
+      "translation": ["死", "死亡", "消失", "消亡", "灭亡", "凋谢", "停止运转"]
+    }
+  },
+  "dynamic": {
+    "n": {
+      "translation": ["动态", "动力学", "动力", "力学", "力度", "(人或事物)相互作用的方式"],
+      "plural": ["dynamics"]
+    },
+    "adj": {
+      "translation": ["动态的", "动力的", "力的", "充满活力的", "发展变化的", "精力充沛的", "个性强的"]
+    }
+  }
+}

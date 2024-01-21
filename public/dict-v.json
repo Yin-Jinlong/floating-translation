@@ -1,0 +1,645 @@
+{
+  "$schema": "../schema/words-schema.json",
+  "vacant": {
+    "adj": {
+      "translation": ["空闲的", "(职位)空缺的", "空着的", "茫然的", "未被占用的", "呆滞的", "无神的", "若有所失的"]
+    }
+  },
+  "vacation": {
+    "n": {
+      "translation": ["(美国学校的)假期", "(法庭的)休庭期"],
+      "plural": ["vacations"]
+    },
+    "vi": {
+      "translation": ["度假"],
+      "singular": ["vacations"],
+      "present": ["vacationing"],
+      "past": ["vacationed"]
+    }
+  },
+  "vacuum": {
+    "n": {
+      "translation": ["真空", "(用真空吸尘器所做的)清洁，清扫", "真空状态", "空白", "空虚"],
+      "plural": ["vacua"]
+    },
+    "v": {
+      "translation": ["用真空吸尘器清扫"],
+      "singular": ["vacuums"],
+      "present": ["vacuuming"],
+      "past": ["vacuumed", "vaccumed"]
+    },
+    "adj": {
+      "translation": ["真空的", "利用真空的", "用以产生真空的"]
+    }
+  },
+  "vague": {
+    "adj": {
+      "translation": [
+        "模糊的", "含糊的", "不明确的", "(思想上)不清楚的", "茫然的", "粗略的", "心不在焉的", "糊涂的", "不具体的",
+        "不详细的"
+      ],
+      "comparative": ["vaguer"],
+      "superlative": ["vaguest"]
+    }
+  },
+  "vain": {
+    "adj": {
+      "translation": ["徒劳的", "自负的", "枉然的", "无结果的", "自视过高的"],
+      "comparative": ["vainer"],
+      "superlative": ["vainest"]
+    }
+  },
+  "valid": {
+    "adj": {
+      "translation": ["(法律上)有效的", "合理的", "(正式)认可的", "有根据的", "确凿的", "符合逻辑的", "系统认可的"]
+    }
+  },
+  "valuable": {
+    "adj": {
+      "translation": ["有价值的", "宝贵的", "很重要的", "贵重的", "很有用的", "很值钱的"]
+    },
+    "n": {
+      "translation": ["贵重物品", "财宝"],
+      "plural": ["valuables"]
+    }
+  },
+  "value": {
+    "n": {
+      "translation": ["值", "(与价格相比的)值，划算程度", "(商品)价值", "用途", "积极作用", "是非标准"],
+      "plural": ["values"]
+    },
+    "vt": {
+      "translation": ["重视", "给…估价", "给…定价", "珍视"],
+      "singular": ["values"],
+      "present": ["valuing"],
+      "past": ["valued"]
+    }
+  },
+  "van": {
+    "n": {
+      "translation": [
+        "面包车", "厢式货车", "客货车", "（铁路上运送包裹、邮件等的）车厢", "前卫，前锋", "先锋，前驱",
+        "<英>（吉卜赛人的）大篷车", "轻型（或小吨位）汽车", "（卡车的）拖挂载客车厢", "（飞机的）旅客吊舱", "<主英>（网球）优势分"
+      ],
+      "plural": ["vans"]
+    },
+    "v": {
+      "translation": ["选（矿）", "用车搬运（货物）", "搭货车旅行"]
+    }
+  },
+  "vanish": {
+    "v": {
+      "translation": ["消失", "使不见，使消失", "消亡", "（莫名其妙地）突然消失", "不复存在，绝迹", "<数>变为零，等于零"],
+      "singular": ["vanishes"],
+      "present": ["vanishing"],
+      "past": ["vanished"]
+    },
+    "n": {
+      "translation": ["<语>消失音"]
+    }
+  },
+  "vanity": {
+    "n": {
+      "translation": [
+        "虚荣", "虚荣心", "自负", "自大", "(尤指与其他重大事物相比)渺小，无所谓，不重要", "自负的行为", "虚荣的态度",
+        "过分的骄傲"
+      ],
+      "plural": ["vanities"]
+    }
+  },
+  "vapour": {
+    "n": {
+      "translation": ["蒸气", "雾气", "潮气"],
+      "plural": ["vapours"]
+    },
+    "v": {
+      "translation": ["使蒸发", "挥发", "吹牛", "〈古〉使患忧郁症"]
+    }
+  },
+  "variable": {
+    "n": {
+      "translation": ["变量", "可变因素", "可变情况"],
+      "plural": ["variables"]
+    },
+    "adj": {
+      "translation": ["可变的", "多变的", "易变的", "变化无常的", "可更改的"]
+    }
+  },
+  "variation": {
+    "n": {
+      "translation": ["(数量、水平等的)变化", "变异", "变更", "变体", "变种", "变奏曲", "变奏", "变异的东西"],
+      "plural": ["variations"]
+    }
+  },
+  "variety": {
+    "n": {
+      "translation": [
+        "(同一事物的)不同种类，多种式样", "变化", "(植物、语言等的)变种，变体", "多样化", "综艺节目", "品种", "多变性",
+        "异体"
+      ],
+      "plural": ["varieties"]
+    }
+  },
+  "various": {
+    "adj": {
+      "translation": [
+        "各种各样的，不同的", "各个的，各别的", "不止一个的，许多的", "<古>变化的，易变的", "多方面的", "杂色的，彩色的",
+        "多姿多彩的，多才多艺的", "具有多种特征的"
+      ]
+    },
+    "pron": {
+      "translation": ["<口>各位，各个", "不止一个的，各别的"]
+    }
+  },
+  "vary": {
+    "v": {
+      "translation": ["变化", "不同", "(根据情况)改变", "变更", "有别", "(大小、形状等)相异"],
+      "singular": ["varies"],
+      "present": ["varying"],
+      "past": ["varied"]
+    }
+  },
+  "vase": {
+    "n": {
+      "translation": ["花瓶", "装饰瓶"],
+      "plural": ["vases"]
+    }
+  },
+  "vast": {
+    "adj": {
+      "translation": ["巨大的", "大量的", "庞大的", "辽阔的"],
+      "comparative": ["vaster"],
+      "superlative": ["vastest"]
+    },
+    "n": {
+      "translation": ["广大无边的空间", "大海"]
+    }
+  },
+  "vegetable": {
+    "n": {
+      "translation": ["蔬菜", "植物人", "生活单调乏味的人"],
+      "plural": ["vegetables"]
+    },
+    "adj": {
+      "translation": ["蔬菜的", "植物(性)的", "关于植物的", "得自植物的"]
+    }
+  },
+  "vehicle": {
+    "n": {
+      "translation": ["交通工具", "(赖以表达思想、感情或达到目的的)手段，工具", "车辆"],
+      "plural": ["vehicles"]
+    }
+  },
+  "veil": {
+    "n": {
+      "translation": ["面纱", "(修女的)头巾", "(尤指女用的)面罩", "掩饰", "掩盖", "借口", "托词", "薄薄的遮盖层"],
+      "plural": ["veils"]
+    },
+    "vt": {
+      "translation": ["戴面纱", "掩饰", "遮掩", "戴面罩"],
+      "singular": ["veils"],
+      "present": ["veiling"],
+      "past": ["veiled"]
+    }
+  },
+  "velocity": {
+    "n": {
+      "translation": ["(沿某一方向的)速度", "高速", "快速"],
+      "plural": ["velocities"]
+    }
+  },
+  "velvet": {
+    "n": {
+      "translation": ["丝绒", "天鹅绒", "立绒", "经绒"],
+      "plural": ["velvets"]
+    },
+    "adj": {
+      "translation": ["天鹅绒制的", "柔软的", "(脚声等)轻软的"]
+    }
+  },
+  "venture": {
+    "n": {
+      "translation": ["(尤指有风险的)企业，商业，投机活动，经营项目"],
+      "plural": ["ventures"]
+    },
+    "v": {
+      "translation": [
+        "冒着(失去贵重或重要的东西)的危险", "敢于去(危险或令人不快的地方)", "小心地说，谨慎地做(尤指会使人烦恼或不快的事)"
+      ],
+      "singular": ["ventures"],
+      "present": ["venturing"],
+      "past": ["ventured"]
+    }
+  },
+  "verb": {
+    "n": {
+      "translation": ["动词"],
+      "plural": ["verbs"]
+    }
+  },
+  "verify": {
+    "vt": {
+      "translation": ["验证", "核实", "证实", "证明", "核准", "查对"],
+      "singular": ["verifies"],
+      "present": ["verifying"],
+      "past": ["verified"]
+    }
+  },
+  "version": {
+    "n": {
+      "translation": [
+        "(电影、剧本、乐曲等的)版本", "描述", "型式", "(从不同角度的)说法", "变体", "变种", "改写本", "改编形式"
+      ],
+      "plural": ["versions"]
+    }
+  },
+  "vertical": {
+    "adj": {
+      "translation": ["垂直的", "纵向的", "竖的", "直立的"]
+    },
+    "n": {
+      "translation": ["垂直线", "垂直位置"],
+      "plural": ["verticals"]
+    }
+  },
+  "very": {
+    "adv": {
+      "translation": [
+        "非常", "十分", "极", "(强调形容词最高级或置于own前)十足", "完全同样", "(置于形容词、副词和限定词前)很"
+      ]
+    },
+    "adj": {
+      "translation": [
+        "(强调极限的地点或时间)最…的", "(特指人或事物)正是的", "(加强名词的语气)仅仅的", "极端的", "恰好的", "甚至于",
+        "唯独的"
+      ]
+    },
+    "n": {
+      "translation": ["维利"]
+    }
+  },
+  "vessel": {
+    "n": {
+      "translation": ["(盛液体的)容器", "(人或动物的)血管", "器皿", "(植物的)导管", "脉管", "轮船", "大船"],
+      "plural": ["vessels"]
+    }
+  },
+  "vest": {
+    "n": {
+      "translation": ["(外面穿的)背心", "(衬衣等里面贴身穿的)汗衫", "坎肩"],
+      "plural": ["vests"]
+    },
+    "v": {
+      "translation": ["(指财产等)归属", "给予", "授予某人某种权力"],
+      "singular": ["vests"],
+      "present": ["vesting"],
+      "past": ["vested"]
+    }
+  },
+  "veteran": {
+    "n": {
+      "translation": ["经验丰富的人", "退伍军人", "老手", "老战士", "老兵", "老水兵"],
+      "plural": ["veterans"]
+    },
+    "adj": {
+      "translation": ["(尤指军事方面)老练的", "资格老的", "由老兵组织成的"]
+    }
+  },
+  "vex": {
+    "vt": {
+      "translation": ["惹恼", "使恼火", "使烦恼", "使忧虑"],
+      "singular": ["vexes"],
+      "present": ["vexing"],
+      "past": ["vexed"]
+    }
+  },
+  "via": {
+    "prep": {
+      "translation": ["通过，凭借（某人、系统等）", "经过，经由（某一地方）"]
+    },
+    "n": {
+      "translation": ["管，道", "道路，通路", "<律>通行权"]
+    }
+  },
+  "vibrate": {
+    "v": {
+      "translation": ["振动", "摆动", "(使)颤动"],
+      "singular": ["vibrates"],
+      "present": ["vibrating"],
+      "past": ["vibrated"]
+    }
+  },
+  "vibration": {
+    "n": {
+      "translation": ["振动", "震动", "抖动", "颤动", "(感情的)共鸣"],
+      "plural": ["vibrations"]
+    }
+  },
+  "vice": {
+    "n": {
+      "translation": ["邪恶", "老虎钳", "(与性或毒品有关的)罪行", "台钳", "堕落", "恶行", "不道德行为"],
+      "plural": ["vices"]
+    },
+    "prep": {
+      "translation": ["代替"]
+    },
+    "v": {
+      "translation": ["用老虎钳夹紧", "钳制"]
+    },
+    "adj": {
+      "translation": ["副的", "代理的", "代替的"]
+    }
+  },
+  "victim": {
+    "n": {
+      "translation": [
+        "受害者", "牺牲品", "牺牲", "罹难者", "受骗者", "祭品", "上当的人", "罹病者", "为祭祀杀死的动物(或人)"
+      ],
+      "plural": ["victims"]
+    }
+  },
+  "victorious": {
+    "adj": {
+      "translation": ["胜利的", "获胜的", "战胜的"]
+    }
+  },
+  "victory": {
+    "n": {
+      "translation": ["胜利", "成功"],
+      "plural": ["victories"]
+    }
+  },
+  "video": {
+    "n": {
+      "translation": ["视频", "(指方法)录像", "(指制品)录像，录影", "录像带", "盒式录像带"],
+      "plural": ["videos"]
+    },
+    "vt": {
+      "translation": ["录电视节目", "给…录像"],
+      "singular": ["videos"],
+      "present": ["videoing"],
+      "past": ["videoed"]
+    },
+    "v": {
+      "translation": ["给…录像", "录电视节目"],
+      "singular": ["videos"],
+      "present": ["videoing"],
+      "past": ["videoed"]
+    },
+    "adj": {
+      "translation": ["电视(用)的"]
+    }
+  },
+  "view": {
+    "n": {
+      "translation": [
+        "看法", "方式", "(个人的)意见", "(理解或思维的)方法", "（一次）观看", "看", "视野", "（从某处看到的）景色，风景",
+        "态度", "见解", "视线", "视域", "风景照"
+      ],
+      "plural": ["views"]
+    },
+    "vt": {
+      "translation": [
+        "看，观看（电视、电影等）", "看", "把…视为", "以…看待", "(尤指)仔细察看", "查看(房子等，以便购买或租用)"
+      ],
+      "singular": ["views"],
+      "present": ["viewing"],
+      "past": ["viewed"]
+    }
+  },
+  "viewpoint": {
+    "n": {
+      "translation": ["观点", "角度", "看法"],
+      "plural": ["viewpoints"]
+    }
+  },
+  "vigorous": {
+    "adj": {
+      "translation": ["充满活力的", "精力充沛的", "强壮的", "强健的", "果断的"]
+    }
+  },
+  "village": {
+    "n": {
+      "translation": ["村庄", "村民", "村镇", "乡村居民"],
+      "plural": ["villages"]
+    }
+  },
+  "vine": {
+    "n": {
+      "translation": ["藤", "藤蔓", "葡萄藤", "藤本植物", "攀缘植物"],
+      "plural": ["vines"]
+    },
+    "vi": {
+      "translation": ["形成藤蔓"],
+      "singular": ["vines"],
+      "present": ["vining"],
+      "past": ["vined"]
+    }
+  },
+  "vinegar": {
+    "n": {
+      "translation": ["醋"],
+      "plural": ["vinegars"]
+    }
+  },
+  "violence": {
+    "n": {
+      "translation": ["暴力", "暴行", "狂热", "激情", "激烈的力量"]
+    }
+  },
+  "violent": {
+    "adj": {
+      "translation": ["暴力的", "剧烈的", "猛烈的", "强烈的", "强暴的", "激情的", "感情强烈的", "由激情引起的"]
+    }
+  },
+  "violet": {
+    "n": {
+      "translation": ["紫罗兰", "蓝紫色", "紫罗兰色"],
+      "plural": ["violets"]
+    },
+    "adj": {
+      "translation": ["紫罗兰色的", "蓝紫色的"]
+    }
+  },
+  "violin": {
+    "n": {
+      "translation": ["小提琴"],
+      "plural": ["violins"]
+    }
+  },
+  "virtually": {
+    "adv": {
+      "translation": ["实际上", "几乎", "虚拟", "模拟", "事实上", "差不多", "以模拟现实技术"]
+    }
+  },
+  "virtue": {
+    "n": {
+      "translation": ["美德", "优点", "德行", "长处", "优秀品质", "高尚的道德", "良好习惯", "用处", "正直的品性"],
+      "plural": ["virtues"]
+    }
+  },
+  "visible": {
+    "adj": {
+      "translation": ["看得见的", "明显的", "可见的", "能注意到的"]
+    },
+    "n": {
+      "translation": ["现实世界", "看得见的事物", "直观教具"]
+    }
+  },
+  "vision": {
+    "n": {
+      "translation": ["视力", "视野", "异象", "想象", "影像，画面", "幻象", "想象力", "梦幻", "神示", "俊男"],
+      "plural": ["visions"]
+    },
+    "v": {
+      "translation": ["在梦(幻)中看见", "想像"]
+    }
+  },
+  "visit": {
+    "v": {
+      "translation": ["参观", "访问(互联网上的网站)", "拜访", "视察", "看望", "(短暂地)作客，逗留"],
+      "singular": ["visits"],
+      "present": ["visiting"],
+      "past": ["visited"]
+    },
+    "n": {
+      "translation": ["(到网站的)访问", "参观", "游览", "看望", "会面", "逗留", "碰头"]
+    }
+  },
+  "visitor": {
+    "n": {
+      "translation": ["来访者", "访问者", "参观者", "游客"],
+      "plural": ["visitors"]
+    }
+  },
+  "visual": {
+    "adj": {
+      "translation": ["视觉的", "视力的"]
+    },
+    "n": {
+      "translation": ["视觉资料(指说明性的图片、影片等)"],
+      "plural": ["visuals"]
+    }
+  },
+  "vital": {
+    "adj": {
+      "translation": [
+        "至关重要的，必不可少的", "生命的", "生命统计的，生死统计的", "生气勃勃的，充满生机的", "致命的，生死攸关的",
+        "对…极重要的", "维持生命所必需的", "热情洋溢的"
+      ]
+    },
+    "n": {
+      "translation": ["（常用复数）（心、脑、肝、肺、肾等）维持生命的重要器官", "重要部分，要害"]
+    }
+  },
+  "vitamin": {
+    "n": {
+      "translation": ["维生素", "维他命"],
+      "plural": ["vitamins"]
+    }
+  },
+  "vivid": {
+    "adj": {
+      "translation": ["生动的", "鲜明的", "鲜艳的", "逼真的", "丰富的", "清晰的", "强烈的", "耀眼的"]
+    }
+  },
+  "vocabulary": {
+    "n": {
+      "translation": ["(某学科中所使用的或某一语言的)词汇", "(某人掌握或使用的)词汇量", "词汇表"],
+      "plural": ["vocabularies"]
+    }
+  },
+  "voice": {
+    "n": {
+      "translation": [
+        "嗓音", "嗓音…的", "发言权", "影响", "呼声", "说话声", "浊音", "歌唱声", "有…嗓音的", "发表意见的权利",
+        "主动 / 被动语态"
+      ],
+      "plural": ["voices"]
+    },
+    "vt": {
+      "translation": ["表示，表达，吐露(感情或意见)", "发浊音", "发嗓音"],
+      "singular": ["voices"],
+      "present": ["voicing"],
+      "past": ["voiced"]
+    }
+  },
+  "volcano": {
+    "n": {
+      "translation": ["火山"],
+      "plural": ["volcanoes"]
+    }
+  },
+  "volleyball": {
+    "n": {
+      "translation": ["排球", "排球运动"]
+    }
+  },
+  "volt": {
+    "n": {
+      "translation": ["伏(电压单位)", "伏特"],
+      "plural": ["volts"]
+    }
+  },
+  "voltage": {
+    "n": {
+      "translation": ["电压", "伏特数"],
+      "plural": ["voltages"]
+    }
+  },
+  "volume": {
+    "n": {
+      "translation": [
+        "体积", "卷，合订本", "容积，容量", "量，额", "音量，响度", "大量，许多", "书", "（成套书籍中的）一卷，一册",
+        "最大音量", "唱片", "一套录音磁带"
+      ],
+      "plural": ["volumes"]
+    },
+    "adj": {
+      "translation": ["大量的"]
+    },
+    "v": {
+      "translation": ["把…收集成卷，把…装订成合订本", "成团地喷出", "（烟、蒸汽等）成团升起/卷起"]
+    }
+  },
+  "voluntary": {
+    "adj": {
+      "translation": [
+        "自愿的", "志愿的", "自愿性的", "义务的", "主动的", "自发的", "无偿的", "随意的", "义务性的", "自告奋勇的"
+      ]
+    },
+    "n": {
+      "translation": ["仪式终始曲，即兴曲(通常用风琴在教堂礼拜仪式前后或期间演奏)"],
+      "plural": ["voluntaries"]
+    }
+  },
+  "vote": {
+    "n": {
+      "translation": [
+        "投票", "表决", "选举", "票", "投票权，选举权，表决权", "选票", "投票总数", "（某一群体的）投票总数", "选票总数"
+      ],
+      "plural": ["votes"]
+    },
+    "v": {
+      "translation": [
+        "投票(赞成 / 反对)", "表决(支持 / 不支持)", "选举", "表明，认为，公认(某事好或坏)", "选出，推举(某人担任某职)",
+        "提议", "投票同意"
+      ],
+      "singular": ["votes"],
+      "present": ["voting"],
+      "past": ["voted"]
+    }
+  },
+  "voyage": {
+    "n": {
+      "translation": ["航行", "(尤指)航海，航天"],
+      "plural": ["voyages"]
+    },
+    "vi": {
+      "translation": ["航行", "(尤指)远航", "远行"],
+      "singular": ["voyages"],
+      "present": ["voyaging"],
+      "past": ["voyaged"]
+    }
+  }
+}
