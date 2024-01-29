@@ -1,8 +1,8 @@
 .translations {
-    position: absolute;
+    position: fixed;
     width: max-content;
-    z-index: 9999;
-    translate: 15px 10px;
+    z-index: 99999;
+    translate: 10px 10px;
 }
 
 .translation {

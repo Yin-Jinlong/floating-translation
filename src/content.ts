@@ -1,10 +1,7 @@
 import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
 
 (function () {
-
-    function isIn(rect: DOMRect, x: number, y: number) {
-        return rect.left <= x && x <= rect.right && rect.top <= y && y <= rect.bottom
-    }
+    let lastWord: string = ''
 
     const div = document.createElement('div')
     document.body.append(div)
@@ -16,13 +13,21 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
     }
 
     function clear() {
+        lastWord          = ''
         div.style.display = 'none'
     }
 
-    window.addEventListener('mousemove', function (e: MouseEvent) {
-        div.style.left = e.pageX + 'px'
-        div.style.top  = e.pageY + 'px'
+    function setPos(x: number, y: number) {
+        let ox = Math.min(x, window.innerWidth - div.clientWidth - 30)
+        let oy = Math.min(y, window.innerHeight - div.clientHeight - 10)
+        if (oy != y && ox != x) {
+            ox = x - div.offsetWidth - 20
+        }
+        div.style.left = ox + 'px'
+        div.style.top  = oy + 'px'
+    }
 
+    function move(e: MouseEvent) {
         let x = e.clientX
         let y = e.clientY
         let r = document.caretRangeFromPoint(x, y)
@@ -30,12 +35,16 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
             return clear();
         }
 
+        function isIn(rect: DOMRect) {
+            return rect.left <= x && x <= rect.right && rect.top <= y && y <= rect.bottom
+        }
+
         let tn = r.startContainer as Text
         if (tn.nodeType !== Node.TEXT_NODE) {
             return clear();
         }
         let rect = tn.parentElement!.getBoundingClientRect()
-        if (!isIn(rect, x, y)) {
+        if (!isIn(rect)) {
             return clear();
         }
         let texts = tn.textContent ?? ""
@@ -57,7 +66,7 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
             textRange.setStart(tn, start)
             textRange.setEnd(tn, end)
             let textRect = textRange.getBoundingClientRect()
-            if (isIn(textRect, x, y)) {
+            if (isIn(textRect)) {
                 word = texts.slice(start, end).toLowerCase()
                 break
             }
@@ -66,6 +75,12 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
         if (!word) {
             return clear();
         }
+
+        if (lastWord == word) {
+            setPos(x, y)
+            return
+        }
+        lastWord = word
 
         chrome.runtime.sendMessage(word, (r?: WordTranslationResult) => {
             if (!r)
@@ -100,6 +115,10 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
                     show(name, t[name])
                 }
             }
+            setPos(x, y)
         })
-    })
+    }
+
+    window.addEventListener('mousemove', move)
+    window.addEventListener('wheel', move)
 })()

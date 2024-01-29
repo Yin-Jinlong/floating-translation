@@ -1,8 +1,8 @@
 {
   "name": "悬浮翻译",
-  "version": "0.0.0.1",
+  "version": "0.0.1.1",
   "manifest_version": 3,
-  "description": "",
+  "description": "悬浮翻译单词，包含词性",
   "action": {
     "default_popup": "index.html"
   },
@@ -19,8 +19,6 @@
   ],
   "permissions": [
     "activeTab",
-    "scripting",
-    "storage",
-    "unlimitedStorage"
+    "scripting"
   ]
 }
