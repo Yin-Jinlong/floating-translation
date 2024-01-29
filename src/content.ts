@@ -3,18 +3,33 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
 (function () {
     let lastWord: string = ''
 
-    const div = document.createElement('div')
-    document.body.append(div)
-    div.className     = 'translations'
-    div.style.display = 'none'
+    const div     = document.createElement('div')
+    div.className = 'translations'
 
     function setAttrPrefix(div: HTMLDivElement, prefix: string) {
         div.setAttribute('data-prefix', prefix)
     }
 
-    function clear() {
-        lastWord          = ''
-        div.style.display = 'none'
+    function isShow(){
+        let children=document.body.children
+        for (let i = 0; i < children.length; i++) {
+            if (children[i]=== div) {
+                return true
+            }
+        }
+        return false
+    }
+
+    function showDiv(s: boolean = true) {
+        if (s) {
+            if (!isShow())
+                document.body.append(div)
+        } else {
+            lastWord = ''
+            if (isShow()) {
+                document.body.removeChild(div)
+            }
+        }
     }
 
     function setPos(x: number, y: number) {
@@ -32,7 +47,7 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
         let y = e.clientY
         let r = document.caretRangeFromPoint(x, y)
         if (!r) {
-            return clear();
+            return showDiv(false);
         }
 
         function isIn(rect: DOMRect) {
@@ -41,11 +56,11 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
 
         let tn = r.startContainer as Text
         if (tn.nodeType !== Node.TEXT_NODE) {
-            return clear();
+            return showDiv(false);
         }
         let rect = tn.parentElement!.getBoundingClientRect()
         if (!isIn(rect)) {
-            return clear();
+            return showDiv(false);
         }
         let texts = tn.textContent ?? ""
         let word  = ''
@@ -73,7 +88,7 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
             start = end + 1
         }
         if (!word) {
-            return clear();
+            return showDiv(false);
         }
 
         if (lastWord == word) {
@@ -88,7 +103,7 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
             while (div.firstChild) {
                 div.removeChild(div.firstChild);
             }
-            div.style.display = 'block'
+            showDiv()
 
             for (let word in r) {
                 let t                    = r[word]
@@ -106,8 +121,7 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
                     }
                     let v = document.createElement('div')
                     setAttrPrefix(v, name)
-                    v.style.display = 'block'
-                    v.innerText     = ts.translation.join('； ')
+                    v.innerText = ts.translation.join('； ')
                     translationDiv.append(v)
                 }
 
@@ -121,4 +135,10 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
 
     window.addEventListener('mousemove', move)
     window.addEventListener('wheel', move)
+    window.addEventListener('mouseleave', () => {
+        showDiv()
+    })
+    window.addEventListener('mouseout', () => {
+        showDiv()
+    })
 })()
