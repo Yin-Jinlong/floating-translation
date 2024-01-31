@@ -136,9 +136,9 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
     window.addEventListener('mousemove', move)
     window.addEventListener('wheel', move)
     window.addEventListener('mouseleave', () => {
-        showDiv()
+        showDiv(false)
     })
     window.addEventListener('mouseout', () => {
-        showDiv()
+        showDiv(false)
     })
 })()
