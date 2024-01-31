@@ -1,6 +1,9 @@
 import {WordTranslation, WordTranslationResult} from "./WordTranslation.ts";
 import {Message} from "./Message.ts";
 
+/**
+ * 字典
+ */
 const DICTS = [
     'a', 'b', 'c', 'd', 'e',
     'f', 'g', 'h', 'i', 'j',
@@ -9,6 +12,9 @@ const DICTS = [
     'u', 'v', 'w', 'y', 'z'
 ]
 
+/**
+ * 词形变化键
+ */
 const WORD_CHANGE_KEYS = [
     "comparative",
     "superlative",
@@ -18,12 +24,27 @@ const WORD_CHANGE_KEYS = [
     "past"
 ] as const
 
+/**
+ * 主字典
+ */
 let dir        = {} as Record<string, WordTranslation>
+/**
+ * 词形变化字典，映射到主字典
+ */
 let dirChanges = {} as Record<string, Set<string>>
 
+/**
+ * 加载字典文件
+ * @param name 字典名
+ */
 async function loadDict(name: string) {
     let data: Record<string, WordTranslation> = await (await fetch(chrome.runtime.getURL('dict-' + name + '.json'))).json()
 
+    /**
+     * 添加到词形变化字典
+     * @param k 变化
+     * @param w 单词
+     */
     function add(k: string, w: string) {
         let r = dirChanges[k]
         if (r) {
@@ -33,10 +54,15 @@ async function loadDict(name: string) {
         }
     }
 
+    // 遍历单词
     for (let word in data) {
         let wt    = data[word]
         dir[word] = wt
 
+        /**
+         * 添加所有词形变化
+         * @param keys 词形变化
+         */
         function addAll(keys: string[] | undefined) {
             if (!keys) {
                 return
@@ -46,6 +72,7 @@ async function loadDict(name: string) {
             }
         }
 
+        // 遍历词性，添加变化
         for (let k in wt) {
             addAll(wt[k]?.plural)
             addAll(wt[k]?.comparative)
@@ -57,6 +84,8 @@ async function loadDict(name: string) {
     }
 }
 
+// 递归加载所有
+// 暂不支持顶级await
 (function load(i: number) {
     if (i >= DICTS.length)
         return
@@ -65,22 +94,32 @@ async function loadDict(name: string) {
     })
 })(0)
 
+/**
+ * 监听消息
+ * @param message 消息
+ * @param sender 发送者
+ * @param sendResponse 回复
+ */
 function onMessage(message: Message | string, sender: chrome.runtime.MessageSender, sendResponse: (r?: WordTranslationResult) => void) {
+    // 要翻译
     if (typeof message === 'string') {
         let word = message
         let r    = {} as WordTranslationResult
         let find = dir[word]
-        if (find)
+        if (find) // 源词典里有
             r[word] = find
 
+        // 词形变化
         let dirChange = dirChanges[word];
         dirChange?.forEach(wtn => {
-                if (!r[wtn]) {
+                if (!r[wtn]) { // 排除重复
                     let v = dir[wtn]
                     if (v) {
                         let o = {} as WordTranslation
+                        // 遍历词性
                         for (let k in v) {
                             let item = v[k]
+                            // 判断包含变化
                             for (const ck of WORD_CHANGE_KEYS) {
                                 if (item[ck]?.includes(word)) {
                                     o[k] = item

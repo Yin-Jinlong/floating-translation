@@ -1,10 +1,7 @@
 <template>
     <el-form style="width: calc(100% - 2em)" v-model="data">
-
+        敬请期待
     </el-form>
-    <span>abandon</span>
-    <br>
-    <span>about</span>
 </template>
 
 <style lang="scss" scoped>
