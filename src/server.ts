@@ -9,6 +9,15 @@ const DICTS = [
     'u', 'v', 'w', 'y', 'z'
 ]
 
+const WORD_CHANGE_KEYS = [
+    "comparative",
+    "superlative",
+    "plural",
+    "singular",
+    "present",
+    "past"
+] as const
+
 let dir        = {} as Record<string, WordTranslation>
 let dirChanges = {} as Record<string, Set<string>>
 
@@ -68,8 +77,19 @@ function onMessage(message: Message | string, sender: chrome.runtime.MessageSend
         dirChange?.forEach(wtn => {
                 if (!r[wtn]) {
                     let v = dir[wtn]
-                    if (v)
-                        r[wtn] = v
+                    if (v) {
+                        let o = {} as WordTranslation
+                        for (let k in v) {
+                            let item = v[k]
+                            for (const ck of WORD_CHANGE_KEYS) {
+                                if (item[ck]?.includes(word)) {
+                                    o[k] = item
+                                    break
+                                }
+                            }
+                        }
+                        r[wtn] = o
+                    }
                 }
             }
         )
