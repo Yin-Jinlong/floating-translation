@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "lab": {
     "n": {
       "translation": ["实验室", "实验课", "化学厂，药厂", "实验大楼", "同 laboratory"],

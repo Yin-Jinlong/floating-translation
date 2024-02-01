@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "yard": {
     "n": {
       "translation": ["院子", "(某种用途的)区域，场地", "帆桁", "码(长度单位，等于3英尺或0.9144米)"],

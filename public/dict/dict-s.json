@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "sack": {
     "vt": {
       "translation": ["解雇", "(尤指旧时军队等)破坏，劫掠", "炒鱿鱼", "擒杀(四分卫)"],

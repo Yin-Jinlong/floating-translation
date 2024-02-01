@@ -50,7 +50,7 @@ chrome.storage.local.get('config', (res: Config | any) => {
  * @param name 字典名
  */
 async function loadDict(name: string) {
-    let data: Record<string, WordTranslation> = await (await fetch(chrome.runtime.getURL('dict-' + name + '.json'))).json()
+    let data: Record<string, WordTranslation> = await (await fetch(chrome.runtime.getURL('dict/dict-' + name + '.json'))).json()
 
     /**
      * 添加到词形变化字典

@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "jacket": {
     "n": {
       "translation": [

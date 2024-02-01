@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "obey": {
     "v": {
       "translation": ["服从", "遵守", "顺从"],

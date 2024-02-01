@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "habit": {
     "n": {
       "translation": ["习惯", "习性", "(吸毒、喝酒、抽烟的)瘾", "长袍", "惯常行为"],

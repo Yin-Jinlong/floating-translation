@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "a": {
     "art": {
       "translation": ["一", "任何一", "每一"]

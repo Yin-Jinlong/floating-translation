@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "machine": {
     "n": {
       "translation": ["(不提全称时的简略说法)机器", "机械装置", "(组织的)核心机构", "机械化的人"],

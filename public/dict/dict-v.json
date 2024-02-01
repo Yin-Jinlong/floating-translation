@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "vacant": {
     "adj": {
       "translation": ["空闲的", "(职位)空缺的", "空着的", "茫然的", "未被占用的", "呆滞的", "无神的", "若有所失的"]

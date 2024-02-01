@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "nail": {
     "n": {
       "translation": ["指甲", "钉", "钉子", "趾甲"],

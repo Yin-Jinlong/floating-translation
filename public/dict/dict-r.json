@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "rabbit": {
     "n": {
       "translation": ["兔子", "兔", "野兔", "兔肉"],

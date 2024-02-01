@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "cabbage": {
     "n": {
       "translation": ["卷心菜", "甘蓝", "洋白菜", "偷窃"],

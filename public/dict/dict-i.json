@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "i": {
     "n": {
       "translation": ["英文字母中的第九个字母", "虚数的单位"]

@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "table": {
     "n": {
       "translation": ["桌子", "表", "一览表", "几", "台子", "（竞赛等的）名次表，排名榜，积分表", "(就餐或玩牌等的)一桌人"],

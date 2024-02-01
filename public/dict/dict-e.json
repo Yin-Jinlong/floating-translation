@@ -1,5 +1,5 @@
 {
-  "$schema": "../schema/words-schema.json",
+  "$schema": "../../schema/words-schema.json",
   "each": {
     "det/pron": {
       "translation": ["每个", "各个", "(两个或两个以上的人或物中)各自"]
