@@ -1,5 +1,5 @@
 import {WordTranslation, WordTranslationResult} from "./WordTranslation.ts";
-import {Message} from "./Message.ts";
+import {Config, Message} from "./Message.ts";
 
 /**
  * 字典
@@ -32,6 +32,18 @@ let dir        = {} as Record<string, WordTranslation>
  * 词形变化字典，映射到主字典
  */
 let dirChanges = {} as Record<string, Set<string>>
+
+let config = {
+    cardColor: 'hsl(22, 68%, 90%)',
+    fontColor: 'hsl(0,0%, 10%)'
+} as Config
+
+chrome.storage.local.get('config', (res: Config | any) => {
+    if (res?.fontColor)
+        config.fontColor = res.fontColor
+    if (res?.cardColor)
+        config.cardColor = res.cardColor
+})
 
 /**
  * 加载字典文件
@@ -100,39 +112,61 @@ async function loadDict(name: string) {
  * @param sender 发送者
  * @param sendResponse 回复
  */
-function onMessage(message: Message | string, sender: chrome.runtime.MessageSender, sendResponse: (r?: WordTranslationResult) => void) {
-    // 要翻译
-    if (typeof message === 'string') {
-        let word = message
-        let r    = {} as WordTranslationResult
-        let find = dir[word]
-        if (find) // 源词典里有
-            r[word] = find
+function onMessage(message: Message<string>, sender: chrome.runtime.MessageSender, sendResponse: (r?: WordTranslationResult & Config) => void) {
+    switch (message.content) {
+        case "word":
+            let word = message.data
+            let r    = {} as WordTranslationResult & Config
+            let find = dir[word]
+            if (find) // 源词典里有
+                r[word] = find
 
-        // 词形变化
-        let dirChange = dirChanges[word];
-        dirChange?.forEach(wtn => {
-                if (!r[wtn]) { // 排除重复
-                    let v = dir[wtn]
-                    if (v) {
-                        let o = {} as WordTranslation
-                        // 遍历词性
-                        for (let k in v) {
-                            let item = v[k]
-                            // 判断包含变化
-                            for (const ck of WORD_CHANGE_KEYS) {
-                                if (item[ck]?.includes(word)) {
-                                    o[k] = item
-                                    break
+            // 词形变化
+            let dirChange = dirChanges[word];
+            dirChange?.forEach(wtn => {
+                    if (!r[wtn]) { // 排除重复
+                        let v = dir[wtn]
+                        if (v) {
+                            let o = {} as WordTranslation
+                            // 遍历词性
+                            for (let k in v) {
+                                let item = v[k]
+                                // 判断包含变化
+                                for (const ck of WORD_CHANGE_KEYS) {
+                                    if (item[ck]?.includes(word)) {
+                                        o[k] = item
+                                        break
+                                    }
                                 }
                             }
+                            r[wtn] = o
                         }
-                        r[wtn] = o
                     }
                 }
-            }
-        )
-        sendResponse(r)
+            )
+            r.cardColor = config.cardColor
+            r.fontColor = config.fontColor
+            sendResponse(r)
+            break
+        case "card-color":
+            config.cardColor = message.data
+            chrome.storage.sync.set({
+                config
+            })
+            break
+        case "font-color":
+            config.fontColor = message.data
+            chrome.storage.sync.set({
+                config
+            })
+            break
+        case "clear":
+            config.cardColor = 'hsl(22, 68%, 90%)'
+            config.fontColor = 'hsl(0,0%, 10%)'
+            chrome.storage.sync.set({
+                config
+            })
+            break
     }
 }
 

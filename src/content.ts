@@ -1,4 +1,5 @@
 import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
+import {Config, Message} from "@/Message.ts";
 
 (function () {
     let lastWord: string = ''
@@ -138,7 +139,11 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
         lastWord = word
 
         // 发送翻译消息
-        chrome.runtime.sendMessage(word, (r?: WordTranslationResult) => {
+        chrome.runtime.sendMessage({
+            type: 'client',
+            content: 'word',
+            data: word
+        } as Message<string>, (r?: WordTranslationResult & Config) => {
             if (!r) // 没有翻译结果
                 return;
             // 移出所有翻译
@@ -149,12 +154,16 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
 
             // 显示每个单词
             for (let word in r) {
-                let t                    = r[word]
-                const translationDiv     = document.createElement('div')
-                translationDiv.className = 'translation'
-                const wordDiv            = document.createElement('div')
-                wordDiv.className        = 'word'
-                wordDiv.innerText        = word
+                if (word === 'cardColor' || word === 'fontColor')
+                    continue
+                let t                                = r[word]
+                const translationDiv                 = document.createElement('div')
+                translationDiv.className             = 'translation'
+                translationDiv.style.backgroundColor = r.cardColor
+                translationDiv.style.color           = r.fontColor
+                const wordDiv                        = document.createElement('div')
+                wordDiv.className                    = 'word'
+                wordDiv.innerText                    = word
                 translationDiv.append(wordDiv)
                 div.append(translationDiv)
 

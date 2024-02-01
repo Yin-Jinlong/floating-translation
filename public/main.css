@@ -10,10 +10,8 @@
     max-width: 400px;
     word-break: break-word;
     white-space: break-spaces;
-    background-color: hsl(22, 68%, 90%);
     overflow: hidden;
     border-radius: 5px;
-    color: black;
     padding: 0.25em;
     box-shadow: rgba(0, 0, 0, 0.4) 0 0 1em;
     margin: 5px 0;

@@ -12,9 +12,11 @@ $colors: (
 @import 'element-plus/theme-chalk/src/button';
 @import 'element-plus/theme-chalk/src/input';
 @import 'element-plus/theme-chalk/src/message';
+@import 'element-plus/theme-chalk/src/color-picker';
 
 html, body {
   width      : 500px;
+  height     : 400px;
   padding    : 1em;
   box-sizing : border-box;
 }
