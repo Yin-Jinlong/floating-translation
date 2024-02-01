@@ -2,7 +2,7 @@ export declare interface Message<T> {
     /**
      * 消息内容
      */
-    content: 'card-color' | 'font-color' | 'word' | 'clear'
+    content: 'word' | 'clear' | 'card-color' | 'font-color' | 'show-shadow'
     /**
      * 消息数据
      */
@@ -12,4 +12,11 @@ export declare interface Message<T> {
 export declare interface Config {
     cardColor: string
     fontColor: string
+    showShadow: boolean
 }
+
+export const DefaultConfig = {
+    cardColor: 'hsl(22, 68%, 90%)',
+    fontColor: 'hsl(0,0%,10%)',
+    showShadow: true,
+} as Config

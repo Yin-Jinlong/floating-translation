@@ -1,6 +1,12 @@
 import {WordTranslation, WordTranslationResult} from "./WordTranslation.ts";
 import {Config, Message} from "./Message.ts";
 
+const DefaultConfig = {
+    cardColor: 'hsl(22, 68%, 90%)',
+    fontColor: 'hsl(0,0%,10%)',
+    showShadow: true,
+} as Config
+
 /**
  * 字典
  */
@@ -33,10 +39,7 @@ let dir        = {} as Record<string, WordTranslation>
  */
 let dirChanges = {} as Record<string, Set<string>>
 
-let config = {
-    cardColor: 'hsl(22, 68%, 90%)',
-    fontColor: 'hsl(0,0%, 10%)'
-} as Config
+let config = Object.assign({}, DefaultConfig)
 
 chrome.storage.local.get('config', (res: Config | any) => {
     if (res?.fontColor)
@@ -112,10 +115,10 @@ async function loadDict(name: string) {
  * @param sender 发送者
  * @param sendResponse 回复
  */
-function onMessage(message: Message<string>, sender: chrome.runtime.MessageSender, sendResponse: (r?: WordTranslationResult & Config) => void) {
+function onMessage(message: Message<string | boolean>, sender: chrome.runtime.MessageSender, sendResponse: (r?: WordTranslationResult & Config) => void) {
     switch (message.content) {
         case "word":
-            let word = message.data
+            let word = message.data as string
             let r    = {} as WordTranslationResult & Config
             let find = dir[word]
             if (find) // 源词典里有
@@ -144,25 +147,31 @@ function onMessage(message: Message<string>, sender: chrome.runtime.MessageSende
                     }
                 }
             )
-            r.cardColor = config.cardColor
-            r.fontColor = config.fontColor
+            r.cardColor  = config.cardColor
+            r.fontColor  = config.fontColor
+            r.showShadow = config.showShadow
             sendResponse(r)
             break
         case "card-color":
-            config.cardColor = message.data
+            config.cardColor = message.data as string
             chrome.storage.sync.set({
                 config
             })
             break
         case "font-color":
-            config.fontColor = message.data
+            config.fontColor = message.data as string
+            chrome.storage.sync.set({
+                config
+            })
+            break
+        case "show-shadow":
+            config.showShadow = message.data as boolean
             chrome.storage.sync.set({
                 config
             })
             break
         case "clear":
-            config.cardColor = 'hsl(22, 68%, 90%)'
-            config.fontColor = 'hsl(0,0%, 10%)'
+            config = Object.assign(config, DefaultConfig)
             chrome.storage.sync.set({
                 config
             })

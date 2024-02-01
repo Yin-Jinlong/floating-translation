@@ -2,6 +2,12 @@ import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
 import {Config, Message} from "@/Message.ts";
 
 (function () {
+    const DefaultConfig = {
+        cardColor: 'hsl(22, 68%, 90%)',
+        fontColor: 'hsl(0,0%,10%)',
+        showShadow: true,
+    } as Config
+
     let lastWord: string = ''
 
     /**
@@ -154,16 +160,19 @@ import {Config, Message} from "@/Message.ts";
 
             // 显示每个单词
             for (let word in r) {
-                if (word === 'cardColor' || word === 'fontColor')
+                if (DefaultConfig[word as keyof Config])
                     continue
-                let t                                = r[word]
-                const translationDiv                 = document.createElement('div')
+                let t                = r[word]
+                const translationDiv = document.createElement('div')
+
                 translationDiv.className             = 'translation'
                 translationDiv.style.backgroundColor = r.cardColor
                 translationDiv.style.color           = r.fontColor
-                const wordDiv                        = document.createElement('div')
-                wordDiv.className                    = 'word'
-                wordDiv.innerText                    = word
+                translationDiv.style.boxShadow       = r.showShadow ? `rgba(0, 0, 0, 0.4) 0 0 1em` : ''
+
+                const wordDiv     = document.createElement('div')
+                wordDiv.className = 'word'
+                wordDiv.innerText = word
                 translationDiv.append(wordDiv)
                 div.append(translationDiv)
 

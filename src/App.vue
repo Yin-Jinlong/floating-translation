@@ -3,16 +3,25 @@
             v-model="data"
             label-width="80px"
             style="width: calc(100% - 2em)">
+        <h3>悬浮卡片</h3>
         <el-form-item label="背景色">
-            <el-color-picker v-model="data.cardColor" show-alpha @change="sendCard"/>
+            <el-color-picker
+                    v-model="data.cardColor"
+                    show-alpha
+                    @change="sendCard"/>
         </el-form-item>
         <el-form-item label="字体颜色">
-            <el-color-picker v-model="data.fontColor" show-alpha @change="sendFont"/>
+            <el-color-picker v-model="data.fontColor"
+                             show-alpha
+                             @change="sendFont"/>
         </el-form-item>
-        <div>
-            <el-button type="danger" @click="clear">重置</el-button>
-        </div>
+        <el-form-item label="显示阴影">
+            <el-switch v-model="data.showShadow" @change="sendShowShadow"/>
+        </el-form-item>
     </el-form>
+    <div>
+        <el-button type="danger" @click="clear">重置</el-button>
+    </div>
 </template>
 
 <style lang="scss" scoped>
@@ -22,11 +31,12 @@
 <script lang="ts" setup>
 
 import {onMounted, reactive} from "vue";
-import {Config, Message} from "@/Message.ts";
+import {Config, DefaultConfig, Message} from "@/Message.ts";
 
-let data = reactive({
-    cardColor: 'hsl(22, 68%, 90%)',
-    fontColor: 'hsl(0,0%,10%)'
+let data = reactive<Config>({
+    cardColor: DefaultConfig.cardColor,
+    fontColor: DefaultConfig.fontColor,
+    showShadow: DefaultConfig.showShadow
 })
 
 function sendCard() {
@@ -44,20 +54,23 @@ function sendFont() {
     } as Message<string>)
 }
 
+function sendShowShadow() {
+    chrome.runtime.sendMessage({
+        content: 'show-shadow',
+        data: data.showShadow
+    } as Message<boolean>)
+}
+
 function clear() {
     chrome.runtime.sendMessage({
         content: 'clear'
     } as Message<void>)
-    data.cardColor = 'hsl(22, 68%, 90%)'
-    data.fontColor = 'hsl(0,0%,10%)'
+    Object.assign(data, DefaultConfig)
 }
 
 onMounted(() => {
     chrome.storage.sync.get('config', (res: { config: Config } | any) => {
-        if (res?.config?.fontColor)
-            data.fontColor = res.config.fontColor
-        if (res?.config?.cardColor)
-            data.cardColor = res.config.cardColor
+        Object.assign(data, res.config)
     })
 })
 
