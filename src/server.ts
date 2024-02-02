@@ -39,13 +39,18 @@ let dir        = {} as Record<string, WordTranslation>
  */
 let dirChanges = {} as Record<string, Set<string>>
 
-let config = Object.assign({}, DefaultConfig)
+let settings = {
+    config: Object.assign({}, DefaultConfig)
+}
 
-chrome.storage.local.get('config', (res: Config | any) => {
-    if (res?.fontColor)
-        config.fontColor = res.fontColor
-    if (res?.cardColor)
-        config.cardColor = res.cardColor
+async function saveSettings() {
+    await chrome.storage.sync.set({
+        settings
+    })
+}
+
+chrome.storage.local.get('settings', (res: { settings: any } | { [key: string]: any }) => {
+    Object.assign(settings, res?.settings)
 })
 
 /**
@@ -115,7 +120,7 @@ async function loadDict(name: string) {
  * @param sender 发送者
  * @param sendResponse 回复
  */
-function onMessage(message: Message<string | boolean>, sender: chrome.runtime.MessageSender, sendResponse: (r?: WordTranslationResult & Config) => void) {
+async function onMessage(message: Message<string | boolean>, sender: chrome.runtime.MessageSender, sendResponse: (r: any) => void) {
     switch (message.content) {
         case "word":
             let word = message.data as string
@@ -147,34 +152,29 @@ function onMessage(message: Message<string | boolean>, sender: chrome.runtime.Me
                     }
                 }
             )
-            r.cardColor  = config.cardColor
-            r.fontColor  = config.fontColor
-            r.showShadow = config.showShadow
+            r.cardColor  = settings.config.cardColor
+            r.fontColor  = settings.config.fontColor
+            r.showShadow = settings.config.showShadow
             sendResponse(r)
             break
         case "card-color":
-            config.cardColor = message.data as string
-            chrome.storage.sync.set({
-                config
-            })
+            settings.config.cardColor = message.data as string
+            await saveSettings()
             break
         case "font-color":
-            config.fontColor = message.data as string
-            chrome.storage.sync.set({
-                config
-            })
+            settings.config.fontColor = message.data as string
+            await saveSettings()
             break
         case "show-shadow":
-            config.showShadow = message.data as boolean
-            chrome.storage.sync.set({
-                config
-            })
+            settings.config.showShadow = message.data as boolean
+            await saveSettings()
             break
         case "clear":
-            config = Object.assign(config, DefaultConfig)
-            chrome.storage.sync.set({
-                config
-            })
+            settings.config = Object.assign({}, DefaultConfig)
+            await saveSettings()
+            break
+        case "get-config":
+            sendResponse(settings.config)
             break
     }
 }

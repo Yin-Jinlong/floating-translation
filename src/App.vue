@@ -53,7 +53,7 @@
 <script lang="ts" setup>
 
 import {onMounted, reactive, ref} from "vue";
-import {Config, DefaultConfig, Message} from "@/Message.ts";
+import {Config, DefaultConfig, Message, sendMessage} from "@/Message.ts";
 import {ArrowDown} from "@element-plus/icons-vue";
 
 const nowPane = ref<'card' | 'dict'>('card')
@@ -88,15 +88,17 @@ function sendShowShadow() {
 }
 
 function clear() {
-    chrome.runtime.sendMessage({
+    sendMessage({
         content: 'clear'
     } as Message<void>)
     Object.assign(data, DefaultConfig)
 }
 
 onMounted(() => {
-    chrome.storage.sync.get('config', (res: { config: Config } | any) => {
-        Object.assign(data, res.config)
+    sendMessage({
+        content: 'get-config'
+    } as Message<void>, (config: Config) => {
+        Object.assign(data, config)
     })
 })
 
