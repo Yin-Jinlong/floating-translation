@@ -2,7 +2,7 @@ export declare interface Message<T> {
     /**
      * 消息内容
      */
-    content: 'word' | 'clear' | 'card-color' | 'font-color' | 'show-shadow' | 'get-config'
+    content: 'word' | 'clear' | 'card-color' | 'font-color' | 'show-shadow' | 'get-config' | 'load-dict' | 'remove-dict'
     /**
      * 消息数据
      */

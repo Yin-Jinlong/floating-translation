@@ -31,7 +31,7 @@ const WORD_CHANGE_KEYS = [
     "past"
 ] as const
 
-const dict: Dict = {
+let dict: Dict = {
     origin: {},
     alias: {}
 }
@@ -40,7 +40,8 @@ let settings = {
     config: Object.assign({}, DefaultConfig),
     dicts: {
         default: dict
-    } as Record<string, Dict>
+    } as Record<string, Dict>,
+    useDict: 'default'
 }
 
 async function saveSettings() {
@@ -51,6 +52,7 @@ async function saveSettings() {
 
 chrome.storage.local.get('settings', (res: { settings: any } | { [key: string]: any }) => {
     Object.assign(settings, res?.settings)
+    dict = settings.dicts[settings.useDict]
 })
 
 /**
@@ -183,6 +185,15 @@ async function onMessage(message: Message<string | boolean>, sender: chrome.runt
         case "get-config":
             sendResponse(settings.config)
             break
+        case "load-dict":
+            dict = settings.dicts[message.data as string] ?? dict
+            break
+        case 'remove-dict':
+            let name = message.data as string
+            if (name != 'default') {
+                delete settings.dicts[name]
+                await saveSettings()
+            }
     }
 }
 
