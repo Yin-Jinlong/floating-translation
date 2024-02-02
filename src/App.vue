@@ -26,17 +26,52 @@
             </div>
         </el-tab-pane>
         <el-tab-pane label="字典" name="dict">
-            <label style="font-weight: 900">当前字典：</label>
-            <el-dropdown>
+            <div>
+                <label style="font-weight: 900">当前字典：</label>
+                <el-dropdown @command="changeDict" trigger="click">
                 <span class="el-dropdown-link">
                 {{ nowDict }}<el-icon class="el-icon--right"><arrow-down/></el-icon>
                 </span>
-                <template #dropdown>
-                    <el-dropdown-menu>
-                        <el-dropdown-item>default</el-dropdown-item>
-                    </el-dropdown-menu>
-                </template>
-            </el-dropdown>
+                    <template #dropdown>
+                        <el-dropdown-menu>
+                            <el-dropdown-item v-if="dictNames.length===0">default</el-dropdown-item>
+                            <el-dropdown-item
+                                    v-for="i in dictNames"
+                                    v-else
+                                    :command="i.name">{{ i.name }}
+                            </el-dropdown-item>
+                        </el-dropdown-menu>
+                    </template>
+                </el-dropdown>
+            </div>
+            <el-table
+                    v-loading="!dictNames.length"
+                    :data="dictNames"
+                    element-loading-text="获取字典中..."
+                    stripe
+                    style="position: relative;min-height: 100px">
+                <el-table-column label="字典名字" prop="name"/>
+                <el-table-column label="单词数量" prop="count"/>
+                <el-table-column fixed="right" label="操作">
+                    <template #default="item">
+                        <el-button
+                                :disabled="dictNames[item.$index]?.name=='default'"
+                                plain
+                                text>
+                            <el-icon>
+                                <Delete/>
+                            </el-icon>
+                        </el-button>
+                    </template>
+                </el-table-column>
+            </el-table>
+            <div>
+                <el-button style="width: 100%;">
+                    <el-icon>
+                        <Plus/>
+                    </el-icon>
+                </el-button>
+            </div>
         </el-tab-pane>
     </el-tabs>
 </template>
@@ -53,8 +88,10 @@
 <script lang="ts" setup>
 
 import {onMounted, reactive, ref} from "vue";
-import {Config, DefaultConfig, Message, sendMessage} from "@/Message.ts";
-import {ArrowDown} from "@element-plus/icons-vue";
+import {Config, DefaultConfig, sendMessage} from "@/Message.ts";
+import {ArrowDown, Delete, Plus} from "@element-plus/icons-vue";
+import {DictNameWithCount} from "@/Dict.ts";
+import {ElMessage} from "element-plus";
 
 const nowPane = ref<'card' | 'dict'>('card')
 const nowDict = ref<string>('default')
@@ -65,41 +102,65 @@ let data = reactive<Config>({
     showShadow: DefaultConfig.showShadow
 })
 
+let dictNames = reactive<DictNameWithCount[]>([])
+
 function sendCard() {
     chrome.runtime.sendMessage({
         type: 'client',
         content: 'card-color',
         data: data.cardColor
-    } as Message<string>)
+    })
 }
 
 function sendFont() {
     chrome.runtime.sendMessage({
         content: 'font-color',
         data: data.fontColor
-    } as Message<string>)
+    })
 }
 
 function sendShowShadow() {
     chrome.runtime.sendMessage({
         content: 'show-shadow',
         data: data.showShadow
-    } as Message<boolean>)
+    })
 }
 
 function clear() {
     sendMessage({
         content: 'clear'
-    } as Message<void>)
+    })
     Object.assign(data, DefaultConfig)
+}
+
+function loadDicts() {
+    sendMessage({
+        content: 'get-dicts'
+    }, (dicts: DictNameWithCount[]) => {
+        dictNames = dicts
+    })
+}
+
+function changeDict(name: string) {
+    sendMessage({
+        content: 'load-dict',
+        data: name
+    }, (ok: boolean) => {
+        if (ok) {
+            ElMessage.success('加载成功')
+        } else {
+            ElMessage.error('加载失败')
+        }
+    })
 }
 
 onMounted(() => {
     sendMessage({
         content: 'get-config'
-    } as Message<void>, (config: Config) => {
+    }, (config: Config) => {
         Object.assign(data, config)
     })
+    loadDicts()
 })
 
 </script>

@@ -2,11 +2,12 @@ export declare interface Message<T> {
     /**
      * 消息内容
      */
-    content: 'word' | 'clear' | 'card-color' | 'font-color' | 'show-shadow' | 'get-config' | 'load-dict' | 'remove-dict'
+    content: 'word' | 'clear' | 'card-color' | 'font-color' | 'show-shadow' | 'get-config' |
+        'load-dict' | 'remove-dict' | 'get-dicts'
     /**
      * 消息数据
      */
-    data: T
+    data?: T
 }
 
 export declare interface Config {

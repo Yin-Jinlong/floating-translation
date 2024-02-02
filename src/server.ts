@@ -33,7 +33,8 @@ const WORD_CHANGE_KEYS = [
 
 let dict: Dict = {
     origin: {},
-    alias: {}
+    alias: {},
+    count: 0
 }
 
 let settings = {
@@ -73,12 +74,14 @@ async function loadDict(dict: Dict, data: Record<string, WordTranslation>) {
         } else {
             dict.alias[k] = new Set([w])
         }
+        dict.count++
     }
 
     // 遍历单词
     for (let word in data) {
         let wt            = data[word]
         dict.origin[word] = wt
+        dict.count++
 
         /**
          * 添加所有词形变化
@@ -186,7 +189,11 @@ async function onMessage(message: Message<string | boolean>, sender: chrome.runt
             sendResponse(settings.config)
             break
         case "load-dict":
-            dict = settings.dicts[message.data as string] ?? dict
+            const d = settings.dicts[message.data as string]
+            if (d) {
+                dict = d
+            }
+            sendResponse(dict != null)
             break
         case 'remove-dict':
             let name = message.data as string
@@ -194,6 +201,15 @@ async function onMessage(message: Message<string | boolean>, sender: chrome.runt
                 delete settings.dicts[name]
                 await saveSettings()
             }
+            break
+        case "get-dicts":
+            sendResponse(Object.keys(settings.dicts).map((k) => {
+                return {
+                    name: k,
+                    count: settings.dicts[k].count
+                }
+            }))
+            break
     }
 }
 
