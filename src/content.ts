@@ -1,4 +1,4 @@
-import {Translation, WordTranslationResult} from "@/WordTranslation.ts";
+import {Translation, WordTranslationResultWithConfig} from "@/WordTranslation.ts";
 import {Config, Message} from "@/Message.ts";
 
 (function () {
@@ -149,7 +149,7 @@ import {Config, Message} from "@/Message.ts";
             type: 'client',
             content: 'word',
             data: word
-        } as Message<string>, (r?: WordTranslationResult & Config) => {
+        } as Message<string>, (r?: WordTranslationResultWithConfig) => {
             if (!r) // 没有翻译结果
                 return;
             // 移出所有翻译

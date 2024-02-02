@@ -1,5 +1,6 @@
-import {WordTranslation, WordTranslationResult} from "./WordTranslation.ts";
+import {WordTranslation, WordTranslationResultWithConfig} from "./WordTranslation.ts";
 import {Config, Message} from "./Message.ts";
+import {Dict} from "@/Dict.ts";
 
 const DefaultConfig = {
     cardColor: 'hsl(22, 68%, 90%)',
@@ -30,17 +31,16 @@ const WORD_CHANGE_KEYS = [
     "past"
 ] as const
 
-/**
- * 主字典
- */
-let dir        = {} as Record<string, WordTranslation>
-/**
- * 词形变化字典，映射到主字典
- */
-let dirChanges = {} as Record<string, Set<string>>
+const dict: Dict = {
+    origin: {},
+    alias: {}
+}
 
 let settings = {
-    config: Object.assign({}, DefaultConfig)
+    config: Object.assign({}, DefaultConfig),
+    dicts: {
+        default: dict
+    } as Record<string, Dict>
 }
 
 async function saveSettings() {
@@ -55,29 +55,28 @@ chrome.storage.local.get('settings', (res: { settings: any } | { [key: string]: 
 
 /**
  * 加载字典文件
- * @param name 字典名
+ * @param dict 字典
+ * @param data 字典数据
  */
-async function loadDict(name: string) {
-    let data: Record<string, WordTranslation> = await (await fetch(chrome.runtime.getURL('dict/dict-' + name + '.json'))).json()
-
+async function loadDict(dict: Dict, data: Record<string, WordTranslation>) {
     /**
      * 添加到词形变化字典
      * @param k 变化
      * @param w 单词
      */
     function add(k: string, w: string) {
-        let r = dirChanges[k]
+        let r = dict.alias[k]
         if (r) {
             r.add(w)
         } else {
-            dirChanges[k] = new Set([w])
+            dict.alias[k] = new Set([w])
         }
     }
 
     // 遍历单词
     for (let word in data) {
-        let wt    = data[word]
-        dir[word] = wt
+        let wt            = data[word]
+        dict.origin[word] = wt
 
         /**
          * 添加所有词形变化
@@ -109,10 +108,50 @@ async function loadDict(name: string) {
 (function load(i: number) {
     if (i >= DICTS.length)
         return
-    loadDict(DICTS[i]).then(() => {
-        load(i + 1)
+    fetch(chrome.runtime.getURL('dict/dict-' + DICTS[i] + '.json')).then((res) => {
+        return res.json()
+    }).then((data: Record<string, WordTranslation>) => {
+        loadDict(dict, data).then(() => {
+            load(i + 1)
+        })
     })
 })(0)
+
+/**
+ * 翻译
+ * @param word 单词
+ * @return 翻译&配置
+ */
+function translate(word: string): WordTranslationResultWithConfig {
+    let r    = {} as WordTranslationResultWithConfig
+    let find = dict.origin[word]
+    if (find) // 源词典里有
+        r[word] = find
+
+    // 词形变化
+    dict.alias[word]?.forEach(wtn => {
+            if (!r[wtn]) { // 排除重复
+                let v = dict.origin[wtn]
+                if (v) {
+                    let o = {} as WordTranslation
+                    // 遍历词性
+                    for (let k in v) {
+                        let item = v[k]
+                        // 判断包含变化
+                        for (const ck of WORD_CHANGE_KEYS) {
+                            if (item[ck]?.includes(word)) {
+                                o[k] = item
+                                break
+                            }
+                        }
+                    }
+                    r[wtn] = o
+                }
+            }
+        }
+    )
+    return r;
+}
 
 /**
  * 监听消息
@@ -123,39 +162,7 @@ async function loadDict(name: string) {
 async function onMessage(message: Message<string | boolean>, sender: chrome.runtime.MessageSender, sendResponse: (r: any) => void) {
     switch (message.content) {
         case "word":
-            let word = message.data as string
-            let r    = {} as WordTranslationResult & Config
-            let find = dir[word]
-            if (find) // 源词典里有
-                r[word] = find
-
-            // 词形变化
-            let dirChange = dirChanges[word];
-            dirChange?.forEach(wtn => {
-                    if (!r[wtn]) { // 排除重复
-                        let v = dir[wtn]
-                        if (v) {
-                            let o = {} as WordTranslation
-                            // 遍历词性
-                            for (let k in v) {
-                                let item = v[k]
-                                // 判断包含变化
-                                for (const ck of WORD_CHANGE_KEYS) {
-                                    if (item[ck]?.includes(word)) {
-                                        o[k] = item
-                                        break
-                                    }
-                                }
-                            }
-                            r[wtn] = o
-                        }
-                    }
-                }
-            )
-            r.cardColor  = settings.config.cardColor
-            r.fontColor  = settings.config.fontColor
-            r.showShadow = settings.config.showShadow
-            sendResponse(r)
+            sendResponse(Object.assign(translate(message.data as string), settings.config))
             break
         case "card-color":
             settings.config.cardColor = message.data as string

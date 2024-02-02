@@ -1,3 +1,5 @@
+import {Config} from "@/Message.ts";
+
 /**
  * 翻译内容
  */
@@ -58,3 +60,5 @@ export declare interface WordTranslation extends Record<string, Translation> {
 export declare interface WordTranslationResult extends Record<string, WordTranslation> {
 
 }
+
+export type WordTranslationResultWithConfig = WordTranslationResult & Config
