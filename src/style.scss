@@ -25,6 +25,10 @@ $colors: (
 @import 'element-plus/theme-chalk/src/table';
 @import 'element-plus/theme-chalk/src/table-column';
 @import 'element-plus/theme-chalk/src/message';
+@import 'element-plus/theme-chalk/src/dialog';
+@import 'element-plus/theme-chalk/src/upload';
+@import 'element-plus/theme-chalk/src/input';
+@import 'element-plus/theme-chalk/src/scrollbar';
 
 * {
   margin  : 0;
@@ -37,6 +41,7 @@ html {
 
 html, body {
   width      : 400px;
-  height     : 400px;
+  height     : 500px;
   box-sizing : border-box;
+  overflow   : hidden;
 }

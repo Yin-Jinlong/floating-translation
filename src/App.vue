@@ -26,9 +26,9 @@
             </div>
         </el-tab-pane>
         <el-tab-pane label="字典" name="dict">
-            <div>
+            <div style="display:flex;align-items: center">
                 <label style="font-weight: 900">当前字典：</label>
-                <el-dropdown @command="changeDict" trigger="click">
+                <el-dropdown trigger="click" @command="changeDict">
                 <span class="el-dropdown-link">
                 {{ nowDict }}<el-icon class="el-icon--right"><arrow-down/></el-icon>
                 </span>
@@ -43,9 +43,17 @@
                         </el-dropdown-menu>
                     </template>
                 </el-dropdown>
+                <el-button
+                        plain
+                        text
+                        @click="loadDicts()">
+                    <el-icon>
+                        <RefreshRight/>
+                    </el-icon>
+                </el-button>
             </div>
             <el-table
-                    v-loading="!dictNames.length"
+                    v-loading="loading"
                     :data="dictNames"
                     element-loading-text="获取字典中..."
                     stripe
@@ -57,7 +65,8 @@
                         <el-button
                                 :disabled="dictNames[item.$index]?.name=='default'"
                                 plain
-                                text>
+                                text
+                                type="danger">
                             <el-icon>
                                 <Delete/>
                             </el-icon>
@@ -65,12 +74,13 @@
                     </template>
                 </el-table-column>
             </el-table>
-            <div>
-                <el-button style="width: 100%;">
+            <div style="margin: 1em auto;width: 95%">
+                <el-button style="width: 100%;" @click="showAddDialog=true">
                     <el-icon>
                         <Plus/>
                     </el-icon>
                 </el-button>
+                <AddDialog v-model="showAddDialog"/>
             </div>
         </el-tab-pane>
     </el-tabs>
@@ -89,12 +99,15 @@
 
 import {onMounted, reactive, ref} from "vue";
 import {Config, DefaultConfig, sendMessage} from "@/Message.ts";
-import {ArrowDown, Delete, Plus} from "@element-plus/icons-vue";
+import {ArrowDown, Delete, Plus, RefreshRight} from "@element-plus/icons-vue";
 import {DictNameWithCount} from "@/Dict.ts";
 import {ElMessage} from "element-plus";
+import {AddDialog} from "@/components/add-dialog";
 
-const nowPane = ref<'card' | 'dict'>('card')
-const nowDict = ref<string>('default')
+const nowPane       = ref<'card' | 'dict'>('card')
+const nowDict       = ref<string>('default')
+const showAddDialog = ref<boolean>(false)
+const loading       = ref<boolean>(false)
 
 let data = reactive<Config>({
     cardColor: DefaultConfig.cardColor,
@@ -103,6 +116,18 @@ let data = reactive<Config>({
 })
 
 let dictNames = reactive<DictNameWithCount[]>([])
+
+function debounce(func: Function, wait: number = 300, immediateFn?: Function) {
+    let timeoutId: ReturnType<typeof setTimeout>
+    return (...args: any[]) => {
+        if (immediateFn)
+            immediateFn()
+        clearTimeout(timeoutId)
+        timeoutId = setTimeout(() => {
+            func(...args)
+        }, wait)
+    }
+}
 
 function sendCard() {
     chrome.runtime.sendMessage({
@@ -133,13 +158,16 @@ function clear() {
     Object.assign(data, DefaultConfig)
 }
 
-function loadDicts() {
+const loadDicts: () => void = debounce(() => {
     sendMessage({
         content: 'get-dicts'
     }, (dicts: DictNameWithCount[]) => {
-        dictNames = dicts
+        dictNames     = dicts
+        loading.value = false
     })
-}
+}, 300, () => {
+    loading.value = true
+})
 
 function changeDict(name: string) {
     sendMessage({

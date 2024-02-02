@@ -72,16 +72,18 @@ async function loadDict(dict: Dict, data: Record<string, WordTranslation>) {
         if (r) {
             r.add(w)
         } else {
+            if (!dict.origin[k])
+                dict.count++
             dict.alias[k] = new Set([w])
         }
-        dict.count++
     }
 
     // 遍历单词
     for (let word in data) {
         let wt            = data[word]
         dict.origin[word] = wt
-        dict.count++
+        if (!dict.alias[word])
+            dict.count++
 
         /**
          * 添加所有词形变化
