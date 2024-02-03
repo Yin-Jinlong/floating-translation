@@ -9,6 +9,7 @@ import {Config, Message} from "@/Message.ts";
     } as Config
 
     let lastWord: string = ''
+    let timeOutId: ReturnType<typeof setTimeout>
 
     /**
      * 单词总框
@@ -152,51 +153,54 @@ import {Config, Message} from "@/Message.ts";
         } as Message<string>, (r?: WordTranslationResultWithConfig) => {
             if (!r) // 没有翻译结果
                 return;
-            // 移出所有翻译
-            while (div.firstChild) {
-                div.removeChild(div.firstChild);
-            }
-            showDiv()
+            clearTimeout(timeOutId)
+            timeOutId = setTimeout(() => {
+                // 移出所有翻译
+                while (div.firstChild) {
+                    div.removeChild(div.firstChild);
+                }
+                showDiv()
 
-            // 显示每个单词
-            for (let word in r) {
-                if (DefaultConfig[word as keyof Config])
-                    continue
-                let t                = r[word]
-                const translationDiv = document.createElement('div')
+                // 显示每个单词
+                for (let word in r) {
+                    if (DefaultConfig[word as keyof Config])
+                        continue
+                    let t                = r[word]
+                    const translationDiv = document.createElement('div')
 
-                translationDiv.className             = 'translation'
-                translationDiv.style.backgroundColor = r.cardColor
-                translationDiv.style.color           = r.fontColor
-                translationDiv.style.boxShadow       = r.showShadow ? `rgba(0, 0, 0, 0.4) 0 0 1em` : ''
+                    translationDiv.className             = 'translation'
+                    translationDiv.style.backgroundColor = r.cardColor
+                    translationDiv.style.color           = r.fontColor
+                    translationDiv.style.boxShadow       = r.showShadow ? `rgba(0, 0, 0, 0.4) 0 0 1em` : ''
 
-                const wordDiv     = document.createElement('div')
-                wordDiv.className = 'word'
-                wordDiv.innerText = word
-                translationDiv.append(wordDiv)
-                div.append(translationDiv)
+                    const wordDiv     = document.createElement('div')
+                    wordDiv.className = 'word'
+                    wordDiv.innerText = word
+                    translationDiv.append(wordDiv)
+                    div.append(translationDiv)
 
-                /**
-                 * 显示释义
-                 * @param name 词性
-                 * @param ts 翻译
-                 */
-                function show(name: string, ts?: Translation) {
-                    if (!ts) {
-                        return
+                    /**
+                     * 显示释义
+                     * @param name 词性
+                     * @param ts 翻译
+                     */
+                    function show(name: string, ts?: Translation) {
+                        if (!ts) {
+                            return
+                        }
+                        let v = document.createElement('div')
+                        setAttrPrefix(v, name)
+                        v.innerText = ts.translation.join('； ')
+                        translationDiv.append(v)
                     }
-                    let v = document.createElement('div')
-                    setAttrPrefix(v, name)
-                    v.innerText = ts.translation.join('； ')
-                    translationDiv.append(v)
-                }
 
-                // 显示所有释义
-                for (let name in t) {
-                    show(name, t[name])
+                    // 显示所有释义
+                    for (let name in t) {
+                        show(name, t[name])
+                    }
                 }
-            }
-            setPos(x, y)
+                setPos(x, y)
+            }, 200)
         })
     }
 
