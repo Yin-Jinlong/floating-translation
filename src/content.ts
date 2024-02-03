@@ -195,6 +195,7 @@ import {Config} from "@/Message.ts";
                         show(name, t[name])
                     }
                 }
+                setPos(x, y)
             }, 200)
             setPos(x, y)
         })
