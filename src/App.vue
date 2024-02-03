@@ -3,16 +3,14 @@
         <el-tab-pane label="卡片设置" name="card">
             <el-form
                     v-model="data"
-                    label-width="80px"
+                    label-width="100px"
                     style="width: calc(100% - 2em)">
                 <h3>悬浮卡片</h3>
-                <el-form-item label="背景色">
+                <el-form-item label="背景/字体色">
                     <el-color-picker
                             v-model="data.cardColor"
                             show-alpha
                             @change="sendCard"/>
-                </el-form-item>
-                <el-form-item label="字体颜色">
                     <el-color-picker v-model="data.fontColor"
                                      show-alpha
                                      @change="sendFont"/>
@@ -25,7 +23,7 @@
                 <el-button type="danger" @click="clear">重置</el-button>
             </div>
         </el-tab-pane>
-        <el-tab-pane label="字典" name="dict">
+        <el-tab-pane label="字典" name="dict" style="min-height: 400px">
             <div style="display:flex;align-items: center">
                 <label style="font-weight: 900">当前字典：</label>
                 <el-dropdown trigger="click" @command="changeDict">
@@ -80,10 +78,10 @@
                         <Plus/>
                     </el-icon>
                 </el-button>
-                <AddDialog v-model="showAddDialog"/>
             </div>
         </el-tab-pane>
     </el-tabs>
+    <AddDialog v-model="showAddDialog"/>
 </template>
 
 <style lang="scss" scoped>

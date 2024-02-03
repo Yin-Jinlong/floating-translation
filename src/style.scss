@@ -35,13 +35,13 @@ $colors: (
   padding : 0;
 }
 
-html {
-  padding : 0.5em;
+body {
+  padding    : 0.5em;
+  min-height : 400px;
 }
 
 html, body {
   width      : 400px;
-  height     : 500px;
   box-sizing : border-box;
   overflow   : hidden;
 }
