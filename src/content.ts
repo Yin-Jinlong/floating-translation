@@ -1,5 +1,5 @@
 import {Translation, WordTranslationResultWithConfig} from "@/WordTranslation.ts";
-import {Config, Message} from "@/Message.ts";
+import {Config} from "@/Message.ts";
 
 (function () {
     const DefaultConfig = {
@@ -146,11 +146,7 @@ import {Config, Message} from "@/Message.ts";
         lastWord = word
 
         // 发送翻译消息
-        chrome.runtime.sendMessage({
-            type: 'client',
-            content: 'word',
-            data: word
-        } as Message<string>, (r?: WordTranslationResultWithConfig) => {
+        chrome.runtime.sendMessage(word, (r?: WordTranslationResultWithConfig) => {
             if (!r) // 没有翻译结果
                 return;
             clearTimeout(timeOutId)

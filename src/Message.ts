@@ -1,7 +1,7 @@
 /**
  * 消息内容
  */
-export type MessageContent = 'word' | 'clear' | 'card-color' | 'font-color' | 'show-shadow' | 'get-config' |
+export type MessageContent = 'clear' | 'card-color' | 'font-color' | 'show-shadow' | 'get-config' |
     'load-dict' | 'remove-dict' | 'get-dicts'
 
 /**
@@ -48,25 +48,18 @@ export const DefaultConfig = {
 /**
  * 发送消息
  * @param content 消息内容
- * @param callback 回调
- */
-export function sendMessage<R = any>(content: MessageContent, callback: (response: R) => void = () => {
-}) {
-    chrome.runtime.sendMessage<Message<void>, R>({
-        content: content
-    }, callback)
-}
-
-/**
- * 发送消息
- * @param content 消息内容
  * @param data 消息数据
  * @param callback 回调
  */
-export function sendMessageData<T, R = any>(content: MessageContent, data: T, callback: (response: R) => void = () => {
+export function sendMessage<T, R = any>(content: MessageContent, data?: T, callback: (response: R) => void = () => {
 }) {
-    chrome.runtime.sendMessage<Message<T>, R>({
+    const port = chrome.runtime.connect({name: ''})
+    port.postMessage({
         content: content,
         data: data
-    }, callback)
+    } as Message<T>)
+    port.onMessage.addListener((response: R) => {
+        callback(response)
+        port.disconnect()
+    })
 }

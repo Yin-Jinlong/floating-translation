@@ -230,63 +230,57 @@ function translate(word: string): WordTranslationResultWithConfig {
     return r;
 }
 
+chrome.runtime.onMessage.addListener((word: string, sender, sendResponse: Function) => {
+    sendResponse(Object.assign(translate(word), settings.config))
+})
+
 /**
  * 监听消息
  * @param message 消息
- * @param sender 发送者
- * @param sendResponse 回复
  */
-function onMessage(message: Message<string | boolean>, sender: chrome.runtime.MessageSender, sendResponse: (r: any) => void) {
+async function onMessage(message: Message<string | boolean>) {
     switch (message.content) {
-        case "word":
-            sendResponse(Object.assign(translate(message.data as string), settings.config))
-            return
         case "card-color":
             settings.config.cardColor = message.data as string
-            saveSettings()
-            break
+            return saveSettings()
         case "font-color":
             settings.config.fontColor = message.data as string
-            saveSettings()
-            break
+            return saveSettings()
         case "show-shadow":
             settings.config.showShadow = message.data as boolean
-            saveSettings()
-            break
+            return saveSettings()
         case "clear":
             settings.config = Object.assign({}, DefaultConfig)
-            saveSettings()
-            break
+            return saveSettings()
         case "get-config":
-            sendResponse(settings.config)
-            break
+            return settings.config
         case "load-dict":
             const d = dicts[message.data as string]
             if (d) {
                 dict = d
             }
-            sendResponse(dict != null)
-            return
+            return dict != null
         case 'remove-dict':
             let name = message.data as string
             if (name != 'default') {
                 delete dicts[name]
-                DB.set('dicts', dicts)
-                sendResponse(true)
-            } else {
-                sendResponse(false)
+                return DB.set('dicts', dicts)
             }
-            return
+            return false
         case "get-dicts":
-            sendResponse(Object.keys(dicts).map((k) => {
+            return Object.keys(dicts).map((k) => {
                 return {
                     name: k,
                     count: dicts[k].count
                 }
-            }))
-            return
+            })
     }
-    sendResponse(void 0)
 }
 
-chrome.runtime.onMessage.addListener(onMessage)
+chrome.runtime.onConnect.addListener((port) => {
+    port.onMessage.addListener((message) => {
+        onMessage(message).then((r) => {
+            port.postMessage(r)
+        })
+    })
+})

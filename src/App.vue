@@ -96,7 +96,7 @@
 <script lang="ts" setup>
 
 import {onMounted, reactive, ref} from "vue";
-import {Config, DefaultConfig, sendMessage, sendMessageData} from "@/Message.ts";
+import {Config, DefaultConfig, sendMessage} from "@/Message.ts";
 import {ArrowDown, Delete, Plus, RefreshRight} from "@element-plus/icons-vue";
 import {DictNameWithCount} from "@/Dict.ts";
 import {ElMessage} from "element-plus";
@@ -128,15 +128,15 @@ function debounce(func: Function, wait: number = 300, immediateFn?: Function) {
 }
 
 function sendCard() {
-    sendMessageData('card-color', data.cardColor)
+    sendMessage('card-color', data.cardColor)
 }
 
 function sendFont() {
-    sendMessageData('font-color', data.fontColor)
+    sendMessage('font-color', data.fontColor)
 }
 
 function sendShowShadow() {
-    sendMessageData('show-shadow', data.showShadow)
+    sendMessage('show-shadow', data.showShadow)
 }
 
 function clear() {
@@ -145,7 +145,7 @@ function clear() {
 }
 
 const loadDicts: () => void = debounce(() => {
-    sendMessage('get-dicts', (dicts: DictNameWithCount[]) => {
+    sendMessage('get-dicts', null, (dicts: DictNameWithCount[]) => {
         dictNames     = dicts
         loading.value = false
     })
@@ -154,7 +154,7 @@ const loadDicts: () => void = debounce(() => {
 })
 
 function changeDict(name: string) {
-    sendMessageData('load-dict', name, (ok: boolean) => {
+    sendMessage('load-dict', name, (ok: boolean) => {
         if (ok) {
             ElMessage.success('加载成功')
         } else {
@@ -164,7 +164,7 @@ function changeDict(name: string) {
 }
 
 onMounted(() => {
-    sendMessage('get-config', (config: Config) => {
+    sendMessage('get-config', null, (config: Config) => {
         Object.assign(data, config)
     })
     loadDicts()
