@@ -98,7 +98,7 @@
 <script lang="ts" setup>
 
 import {onMounted, reactive, ref} from "vue";
-import {Config, DefaultConfig, sendMessage} from "@/Message.ts";
+import {Config, DefaultConfig, sendMessage, sendMessageData} from "@/Message.ts";
 import {ArrowDown, Delete, Plus, RefreshRight} from "@element-plus/icons-vue";
 import {DictNameWithCount} from "@/Dict.ts";
 import {ElMessage} from "element-plus";
@@ -130,38 +130,24 @@ function debounce(func: Function, wait: number = 300, immediateFn?: Function) {
 }
 
 function sendCard() {
-    chrome.runtime.sendMessage({
-        type: 'client',
-        content: 'card-color',
-        data: data.cardColor
-    })
+    sendMessageData('card-color', data.cardColor)
 }
 
 function sendFont() {
-    chrome.runtime.sendMessage({
-        content: 'font-color',
-        data: data.fontColor
-    })
+    sendMessageData('font-color', data.fontColor)
 }
 
 function sendShowShadow() {
-    chrome.runtime.sendMessage({
-        content: 'show-shadow',
-        data: data.showShadow
-    })
+    sendMessageData('show-shadow', data.showShadow)
 }
 
 function clear() {
-    sendMessage({
-        content: 'clear'
-    })
+    sendMessage('clear')
     Object.assign(data, DefaultConfig)
 }
 
 const loadDicts: () => void = debounce(() => {
-    sendMessage({
-        content: 'get-dicts'
-    }, (dicts: DictNameWithCount[]) => {
+    sendMessage('get-dicts', (dicts: DictNameWithCount[]) => {
         dictNames     = dicts
         loading.value = false
     })
@@ -170,10 +156,7 @@ const loadDicts: () => void = debounce(() => {
 })
 
 function changeDict(name: string) {
-    sendMessage({
-        content: 'load-dict',
-        data: name
-    }, (ok: boolean) => {
+    sendMessageData('load-dict', name, (ok: boolean) => {
         if (ok) {
             ElMessage.success('加载成功')
         } else {
@@ -183,9 +166,7 @@ function changeDict(name: string) {
 }
 
 onMounted(() => {
-    sendMessage({
-        content: 'get-config'
-    }, (config: Config) => {
+    sendMessage('get-config', (config: Config) => {
         Object.assign(data, config)
     })
     loadDicts()
