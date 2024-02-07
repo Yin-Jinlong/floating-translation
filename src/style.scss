@@ -6,29 +6,29 @@ $colors: (
 ),
 );
 
-@import 'element-plus/theme-chalk/src/base';
-@import 'element-plus/theme-chalk/src/form';
-@import 'element-plus/theme-chalk/src/form-item';
-@import 'element-plus/theme-chalk/src/button';
-@import 'element-plus/theme-chalk/src/input';
-@import 'element-plus/theme-chalk/src/message';
-@import 'element-plus/theme-chalk/src/color-picker';
-@import 'element-plus/theme-chalk/src/switch';
-@import 'element-plus/theme-chalk/src/tabs';
-@import 'element-plus/theme-chalk/src/tab-pane';
-@import 'element-plus/theme-chalk/src/dropdown';
-@import 'element-plus/theme-chalk/src/dropdown-menu';
-@import 'element-plus/theme-chalk/src/dropdown-item';
-@import 'element-plus/theme-chalk/src/icon';
-@import 'element-plus/theme-chalk/src/loading';
-@import 'element-plus/theme-chalk/src/overlay';
-@import 'element-plus/theme-chalk/src/table';
-@import 'element-plus/theme-chalk/src/table-column';
-@import 'element-plus/theme-chalk/src/message';
-@import 'element-plus/theme-chalk/src/dialog';
-@import 'element-plus/theme-chalk/src/upload';
-@import 'element-plus/theme-chalk/src/input';
-@import 'element-plus/theme-chalk/src/scrollbar';
+@use 'element-plus/theme-chalk/src/base' as *;
+@use 'element-plus/theme-chalk/src/button' as *;
+@use 'element-plus/theme-chalk/src/color-picker' as *;
+@use 'element-plus/theme-chalk/src/dialog' as *;
+@use 'element-plus/theme-chalk/src/dropdown' as *;
+@use 'element-plus/theme-chalk/src/dropdown-item' as *;
+@use 'element-plus/theme-chalk/src/dropdown-menu' as *;
+@use 'element-plus/theme-chalk/src/form' as *;
+@use 'element-plus/theme-chalk/src/form-item' as *;
+@use 'element-plus/theme-chalk/src/icon' as *;
+@use 'element-plus/theme-chalk/src/input' as *;
+@use 'element-plus/theme-chalk/src/input' as *;
+@use 'element-plus/theme-chalk/src/loading' as *;
+@use 'element-plus/theme-chalk/src/message' as *;
+@use 'element-plus/theme-chalk/src/message' as *;
+@use 'element-plus/theme-chalk/src/overlay' as *;
+@use 'element-plus/theme-chalk/src/scrollbar' as *;
+@use 'element-plus/theme-chalk/src/switch' as *;
+@use 'element-plus/theme-chalk/src/tab-pane' as *;
+@use 'element-plus/theme-chalk/src/table' as *;
+@use 'element-plus/theme-chalk/src/table-column' as *;
+@use 'element-plus/theme-chalk/src/tabs' as *;
+@use 'element-plus/theme-chalk/src/upload' as *;
 
 * {
   margin  : 0;
