@@ -10,6 +10,9 @@ import {Config} from "@/Message.ts";
 
     let lastWord: string = ''
     let timeOutId: ReturnType<typeof setTimeout>
+    let animation: Animation
+    let running          = false
+    let x: number, y: number
 
     /**
      * 单词总框
@@ -41,28 +44,77 @@ import {Config} from "@/Message.ts";
         return false
     }
 
+    const SHOW_END_FRAME = {
+        opacity: 1,
+        transform: 'scale(1,1)'
+    }
+
     /**
      * 显示翻译
      * @param s 是否显示
      */
     function showDiv(s: boolean | MouseEvent = true) {
         if (s === true) {
-            if (!isShow())
+            div.style.transformOrigin = 'top left'
+            if (!isShow()) {
                 document.body.append(div)
+                animation = div.animate([{
+                    opacity: 0,
+                    transform: 'scale(0.5,0.5)',
+                    easing: 'ease-out'
+                }, SHOW_END_FRAME], {
+                    duration: 200
+                })
+            } else if (running) {
+                animation = div.animate([SHOW_END_FRAME], {
+                    duration: 150
+                })
+            } else
+                return
+            animation.finished.then().catch()
         } else {
+            clearTimeout(timeOutId)
             lastWord = ''
-            if (isShow()) {
-                document.body.removeChild(div)
+            if (isShow() && !running) {
+                running                   = true
+                div.style.transformOrigin = 'center'
+
+                animation = div.animate([{
+                    opacity: 0,
+                    transform: 'scale(0.9,0.4)',
+                    easing: 'ease-out'
+                }], {
+                    duration: 200,
+                })
+                animation.finished.then(() => {
+                    document.body.removeChild(div)
+                }).catch().finally(() => {
+                    running = false
+                })
             }
         }
     }
 
     /**
-     * 设置位置
-     * @param x 窗口x
-     * @param y 窗口y
+     * 判断是否在元素内
+     * @param rect 元素rect
      */
-    function setPos(x: number, y: number) {
+    function isIn(rect: DOMRect) {
+        return rect.left <= x && x <= rect.right && rect.top <= y && y <= rect.bottom
+    }
+
+    /**
+     * 是否是英文
+     * @param code 字符码
+     */
+    function isWord(code: number) {
+        return code === 45 || (code >= 65 && code <= 90) || (code >= 97 && code <= 122)
+    }
+
+    /**
+     * 设置位置
+     */
+    function setPos() {
         // 防止出界
         let ox = Math.min(x, window.innerWidth - div.clientWidth - 30)
         let oy = Math.min(y, window.innerHeight - div.clientHeight - 10)
@@ -79,23 +131,13 @@ import {Config} from "@/Message.ts";
      * @param e
      */
     function move(e: MouseEvent) {
-        let x = e.clientX
-        let y = e.clientY
-        let r = document.caretRangeFromPoint(x, y)
-        if (!r) {
-            return showDiv(false);
-        }
+        x = e.clientX
+        y = e.clientY
+        setPos()
 
-        /**
-         * 判断是否在元素内
-         * @param rect 元素rect
-         */
-        function isIn(rect: DOMRect) {
-            return rect.left <= x && x <= rect.right && rect.top <= y && y <= rect.bottom
-        }
-
-        let tn = r.startContainer as Text
-        if (tn.nodeType !== Node.TEXT_NODE) { // 非文本节点，跳过
+        // noinspection JSDeprecatedSymbols
+        let tn = document.caretRangeFromPoint(x, y)?.startContainer as Text
+        if (!tn || tn.nodeType !== Node.TEXT_NODE) { // 非文本节点，跳过
             return showDiv(false);
         }
         let rect = tn.parentElement!.getBoundingClientRect()
@@ -106,14 +148,6 @@ import {Config} from "@/Message.ts";
         let word  = ''
         let start = 0
         let end   = 0
-
-        /**
-         * 是否是英文
-         * @param code 字符码
-         */
-        function isWord(code: number) {
-            return code === 45 || (code >= 65 && code <= 90) || (code >= 97 && code <= 122)
-        }
 
         // 遍历单词
         while (start < texts.length) {
@@ -139,10 +173,8 @@ import {Config} from "@/Message.ts";
         }
 
         // 还是当前单词
-        if (lastWord == word) {
-            setPos(x, y)
+        if (lastWord == word)
             return
-        }
         lastWord = word
 
         // 发送翻译消息
@@ -195,14 +227,13 @@ import {Config} from "@/Message.ts";
                         show(name, t[name])
                     }
                 }
-                setPos(x, y)
+                setPos()
             }, 200)
-            setPos(x, y)
         })
     }
 
     window.addEventListener('mousemove', move)
-    window.addEventListener('wheel', move)
+    window.addEventListener('wheel', showDiv)
     window.addEventListener('mouseleave', showDiv)
     window.addEventListener('mouseout', showDiv)
 })()
