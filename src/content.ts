@@ -33,15 +33,7 @@ import {Config} from "@/Message.ts";
      * 是否在显示
      */
     function isShow() {
-        // 获取body子元素
-        // 用contains会遍历所有子元素，性能不好
-        let children = document.body.children
-        for (let i = 0; i < children.length; i++) {
-            if (children[i] === div) {
-                return true
-            }
-        }
-        return false
+        return div.parentElement!== null
     }
 
     const SHOW_END_FRAME = {
@@ -57,7 +49,13 @@ import {Config} from "@/Message.ts";
         if (s === true) {
             div.style.transformOrigin = 'top left'
             if (!isShow()) {
-                document.body.append(div)
+                let dialogs = document.getElementsByTagName('dialog')
+                let topEle  = document.body
+                for (const d of dialogs) {
+                    if (d.open)
+                        topEle = d
+                }
+                topEle.append(div)
                 animation = div.animate([{
                     opacity: 0,
                     transform: 'scale(0.5,0.5)',
@@ -87,7 +85,7 @@ import {Config} from "@/Message.ts";
                     duration: 200,
                 })
                 animation.finished.then(() => {
-                    document.body.removeChild(div)
+                    div.remove()
                 }).catch().finally(() => {
                     running = false
                 })
