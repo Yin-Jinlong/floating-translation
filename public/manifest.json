@@ -1,6 +1,6 @@
 {
   "name": "悬浮翻译",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "manifest_version": 3,
   "description": "悬浮翻译单词，包含词性",
   "action": {

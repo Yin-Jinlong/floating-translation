@@ -7,20 +7,37 @@
                     style="width: calc(100% - 2em)">
                 <h3>悬浮卡片</h3>
                 <el-form-item label="背景/字体色">
-                    <el-color-picker
-                            v-model="data.cardColor"
-                            show-alpha
-                            @change="sendCard"/>
-                    <el-color-picker v-model="data.fontColor"
-                                     show-alpha
-                                     @change="sendFont"/>
+                    <el-tooltip content="卡片背景" placement="top" show-after="300">
+                        <div>
+                            <el-color-picker
+                                    v-model="data.cardColor"
+                                    show-alpha
+                                    @change="sendCard"/>
+                        </div>
+                    </el-tooltip>
+                    <el-tooltip content="字体颜色" placement="top" show-after="300">
+                        <div>
+                            <el-color-picker v-model="data.fontColor"
+                                             show-alpha
+                                             @change="sendFont"/>
+                        </div>
+                    </el-tooltip>
                 </el-form-item>
                 <el-form-item label="显示阴影">
-                    <el-switch v-model="data.showShadow" @change="sendShowShadow"/>
+                    <el-tooltip content="卡片半透明黑色阴影" placement="top" show-after="300">
+                        <el-switch
+                                v-model="data.showShadow"
+                                active-text="开"
+                                inactive-text="关"
+                                inline-prompt
+                                @change="sendShowShadow"/>
+                    </el-tooltip>
                 </el-form-item>
             </el-form>
             <div>
-                <el-button type="danger" @click="clear">重置</el-button>
+                <el-tooltip content="重置为默认" placement="top" show-after="300">
+                    <el-button type="danger" @click="clear">重置</el-button>
+                </el-tooltip>
             </div>
         </el-tab-pane>
         <el-tab-pane label="字典" name="dict" style="min-height: 400px">
@@ -41,14 +58,16 @@
                         </el-dropdown-menu>
                     </template>
                 </el-dropdown>
-                <el-button
-                        plain
-                        text
-                        @click="loadDicts()">
-                    <el-icon>
-                        <RefreshRight/>
-                    </el-icon>
-                </el-button>
+                <el-tooltip content="刷新" placement="top" show-after="300">
+                    <el-button
+                            plain
+                            text
+                            @click="loadDicts()">
+                        <el-icon>
+                            <RefreshRight/>
+                        </el-icon>
+                    </el-button>
+                </el-tooltip>
             </div>
             <el-table
                     v-loading="loading"
@@ -86,10 +105,10 @@
 
 <style lang="scss" scoped>
 .el-dropdown-link {
-  cursor      : pointer;
-  color       : var(--el-color-primary);
-  display     : flex;
   align-items : center;
+  color       : var(--el-color-primary);
+  cursor      : pointer;
+  display     : flex;
 }
 </style>
 
@@ -140,8 +159,10 @@ function sendShowShadow() {
 }
 
 function clear() {
-    sendMessage('clear')
-    Object.assign(data, DefaultConfig)
+    sendMessage('clear', null, () => {
+        Object.assign(data, DefaultConfig)
+        ElMessage.success('重置成功')
+    })
 }
 
 const loadDicts: () => void = debounce(() => {
