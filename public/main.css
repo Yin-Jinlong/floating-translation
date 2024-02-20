@@ -1,5 +1,9 @@
 .translations {
+    font-family: "Microsoft YaHei", Inter, serif;
+    font-size: 14px;
     position: fixed;
+    text-decoration: none;
+    text-shadow: none;
     transform-origin: top left;
     translate: 10px 10px;
     width: max-content;
