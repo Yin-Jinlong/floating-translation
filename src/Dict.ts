@@ -1,4 +1,4 @@
-import {WordTranslation} from "@/WordTranslation.ts";
+import {WordTranslation} from './WordTranslation'
 
 export declare interface Dict {
     origin: Record<string, WordTranslation>

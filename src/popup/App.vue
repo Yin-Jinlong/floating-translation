@@ -115,11 +115,11 @@
 <script lang="ts" setup>
 
 import {onMounted, reactive, ref} from "vue";
-import {Config, DefaultConfig, sendMessage} from "@/Message.ts";
+import {Config, DefaultConfig, sendMessage} from "../Message.ts";
 import {ArrowDown, Delete, Plus, RefreshRight} from "@element-plus/icons-vue";
-import {DictNameWithCount} from "@/Dict.ts";
+import {DictNameWithCount} from "../Dict.ts";
 import {ElMessage} from "element-plus";
-import {AddDialog} from "@/components/add-dialog";
+import {AddDialog} from "./components/add-dialog";
 
 const nowPane       = ref<'card' | 'dict'>('card')
 const nowDict       = ref<string>('default')

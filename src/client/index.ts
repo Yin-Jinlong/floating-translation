@@ -1,23 +1,17 @@
-import {Translation, WordTranslationResultWithConfig} from "@/WordTranslation.ts";
-import {Config} from "@/Message.ts";
+import {Translation, WordTranslationResultWithConfig} from '../WordTranslation.ts'
+import {Config, DefaultConfig} from '../Message.ts'
 
 (function () {
-    const DefaultConfig = {
-        cardColor: 'hsl(22, 68%, 90%)',
-        fontColor: 'hsl(0,0%,10%)',
-        showShadow: true,
-    } as Config
-
     let lastWord: string = ''
     let timeOutId: ReturnType<typeof setTimeout>
     let animation: Animation
-    let running          = false
+    let running = false
     let x: number, y: number
 
     /**
      * 单词总框
      */
-    const div     = document.createElement('div')
+    const div = document.createElement('div')
     div.className = 'translations'
 
     /**
@@ -33,7 +27,7 @@ import {Config} from "@/Message.ts";
      * 是否在显示
      */
     function isShow() {
-        return div.parentElement!== null
+        return div.parentElement !== null
     }
 
     const SHOW_END_FRAME = {
@@ -50,7 +44,7 @@ import {Config} from "@/Message.ts";
             div.style.transformOrigin = 'top left'
             if (!isShow()) {
                 let dialogs = document.getElementsByTagName('dialog')
-                let topEle  = document.body
+                let topEle = document.body
                 for (const d of dialogs) {
                     if (d.open)
                         topEle = d
@@ -74,7 +68,7 @@ import {Config} from "@/Message.ts";
             clearTimeout(timeOutId)
             lastWord = ''
             if (isShow() && !running) {
-                running                   = true
+                running = true
                 div.style.transformOrigin = 'center'
 
                 animation = div.animate([{
@@ -121,7 +115,7 @@ import {Config} from "@/Message.ts";
             ox = x - div.offsetWidth - 20
         }
         div.style.left = ox + 'px'
-        div.style.top  = oy + 'px'
+        div.style.top = oy + 'px'
     }
 
     /**
@@ -136,16 +130,16 @@ import {Config} from "@/Message.ts";
         // noinspection JSDeprecatedSymbols
         let tn = document.caretRangeFromPoint(x, y)?.startContainer as Text
         if (!tn || tn.nodeType !== Node.TEXT_NODE) { // 非文本节点，跳过
-            return showDiv(false);
+            return showDiv(false)
         }
         let rect = tn.parentElement!.getBoundingClientRect()
         if (!isIn(rect)) { // 不是鼠标处的
-            return showDiv(false);
+            return showDiv(false)
         }
-        let texts = tn.textContent ?? ""
-        let word  = ''
+        let texts = tn.textContent ?? ''
+        let word = ''
         let start = 0
-        let end   = 0
+        let end = 0
 
         // 遍历单词
         while (start < texts.length) {
@@ -167,7 +161,7 @@ import {Config} from "@/Message.ts";
             start = end + 1
         }
         if (!word) { // 没有找到单词
-            return showDiv(false);
+            return showDiv(false)
         }
 
         // 还是当前单词
@@ -178,12 +172,12 @@ import {Config} from "@/Message.ts";
         // 发送翻译消息
         chrome.runtime.sendMessage(word, (r?: WordTranslationResultWithConfig) => {
             if (!r) // 没有翻译结果
-                return;
+                return
             clearTimeout(timeOutId)
             timeOutId = setTimeout(() => {
                 // 移出所有翻译
                 while (div.firstChild) {
-                    div.removeChild(div.firstChild);
+                    div.removeChild(div.firstChild)
                 }
                 showDiv()
 
@@ -191,15 +185,15 @@ import {Config} from "@/Message.ts";
                 for (let word in r) {
                     if (DefaultConfig[word as keyof Config])
                         continue
-                    let t                = r[word]
+                    let t = r[word]
                     const translationDiv = document.createElement('div')
 
-                    translationDiv.className             = 'translation'
+                    translationDiv.className = 'translation'
                     translationDiv.style.backgroundColor = r.cardColor
-                    translationDiv.style.color           = r.fontColor
-                    translationDiv.style.boxShadow       = r.showShadow ? `rgba(0, 0, 0, 0.4) 0 0 1em` : ''
+                    translationDiv.style.color = r.fontColor
+                    translationDiv.style.boxShadow = r.showShadow ? `rgba(0, 0, 0, 0.4) 0 0 1em` : ''
 
-                    const wordDiv     = document.createElement('div')
+                    const wordDiv = document.createElement('div')
                     wordDiv.className = 'word'
                     wordDiv.innerText = word
                     translationDiv.append(wordDiv)

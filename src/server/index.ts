@@ -1,18 +1,12 @@
-import {WordTranslation, WordTranslationResultWithConfig} from "./WordTranslation.ts";
-import {Config, Message} from "./Message.ts";
-import {Dict} from "@/Dict.ts";
+import {WordTranslation, WordTranslationResultWithConfig} from '../WordTranslation.ts'
+import {DefaultConfig, Message} from '../Message.ts'
+import {Dict} from '../Dict.ts'
 
 declare interface DB {
     get<T>(key: string): Promise<T>
 
     set<T>(key: string, value: T): Promise<void>
 }
-
-const DefaultConfig = {
-    cardColor: 'hsl(22, 68%, 90%)',
-    fontColor: 'hsl(0,0%,10%)',
-    showShadow: true,
-} as Config
 
 /**
  * 字典
@@ -29,12 +23,12 @@ const DICTS = [
  * 词形变化键
  */
 const WORD_CHANGE_KEYS = [
-    "comparative",
-    "superlative",
-    "plural",
-    "singular",
-    "present",
-    "past"
+    'comparative',
+    'superlative',
+    'plural',
+    'singular',
+    'present',
+    'past'
 ] as const
 
 let dict: Dict = {
@@ -53,8 +47,8 @@ let dicts: Record<string, Dict> = {
 
 function init() {
     const STORE_NAME = 'floating-translation'
-    const request    = indexedDB.open(STORE_NAME, 1)
-    request.onerror  = (ev: Event) => {
+    const request = indexedDB.open(STORE_NAME, 1)
+    request.onerror = (ev: Event) => {
         throw ev
     }
 
@@ -72,22 +66,22 @@ function init() {
         get<T>(key: string) {
             return new Promise<T>((resolve, reject) => {
                 const transaction = db.transaction(STORE_NAME, 'readonly')
-                const os          = transaction.objectStore(STORE_NAME)
-                const request     = os.get(key)
+                const os = transaction.objectStore(STORE_NAME)
+                const request = os.get(key)
                 request.onsuccess = (event) => resolve((event.target as IDBRequest).result)
-                request.onerror   = reject
-            });
+                request.onerror = reject
+            })
         },
         set(key: string, data: any) {
             return new Promise<void>((resolve, reject) => {
                 const transaction = db.transaction(STORE_NAME, 'readonly')
-                const os          = transaction.objectStore(STORE_NAME)
-                const request     = os.put(key, data)
+                const os = transaction.objectStore(STORE_NAME)
+                const request = os.put(key, data)
                 request.onsuccess = () => {
                     resolve()
                     transaction.commit()
                 }
-                request.onerror   = reject
+                request.onerror = reject
             })
         }
     }
@@ -110,7 +104,7 @@ init().then((res) => {
         Object.assign(settings, res?.settings)
         DB.get<Record<string, Dict>>('dicts').then((res) => {
             dicts = Object.assign(dicts, res)
-            dict  = dicts[settings.useDict]
+            dict = dicts[settings.useDict]
         })
     })
 })
@@ -150,7 +144,7 @@ async function loadDict(dict: Dict, data: Record<string, WordTranslation>) {
 
     // 遍历单词
     for (let word in data) {
-        let wt            = data[word]
+        let wt = data[word]
         dict.origin[word] = wt
         if (!dict.alias[word])
             dict.count++
@@ -200,7 +194,7 @@ async function loadDict(dict: Dict, data: Record<string, WordTranslation>) {
  * @return 翻译&配置
  */
 function translate(word: string): WordTranslationResultWithConfig {
-    let r    = {} as WordTranslationResultWithConfig
+    let r = {} as WordTranslationResultWithConfig
     let find = dict.origin[word]
     if (find) // 源词典里有
         r[word] = find
@@ -227,7 +221,7 @@ function translate(word: string): WordTranslationResultWithConfig {
             }
         }
     )
-    return r;
+    return r
 }
 
 chrome.runtime.onMessage.addListener((word: string, sender, sendResponse: Function) => {
@@ -240,21 +234,21 @@ chrome.runtime.onMessage.addListener((word: string, sender, sendResponse: Functi
  */
 async function onMessage(message: Message<string | boolean>) {
     switch (message.content) {
-        case "card-color":
+        case 'card-color':
             settings.config.cardColor = message.data as string
             return saveSettings()
-        case "font-color":
+        case 'font-color':
             settings.config.fontColor = message.data as string
             return saveSettings()
-        case "show-shadow":
+        case 'show-shadow':
             settings.config.showShadow = message.data as boolean
             return saveSettings()
-        case "clear":
+        case 'clear':
             settings.config = Object.assign({}, DefaultConfig)
             return saveSettings()
-        case "get-config":
+        case 'get-config':
             return settings.config
-        case "load-dict":
+        case 'load-dict':
             const d = dicts[message.data as string]
             if (d) {
                 dict = d
@@ -267,7 +261,7 @@ async function onMessage(message: Message<string | boolean>) {
                 return DB.set('dicts', dicts)
             }
             return false
-        case "get-dicts":
+        case 'get-dicts':
             return Object.keys(dicts).map((k) => {
                 return {
                     name: k,

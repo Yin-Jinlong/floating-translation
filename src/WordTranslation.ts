@@ -1,4 +1,4 @@
-import {Config} from "@/Message.ts";
+import {Config} from './Message'
 
 /**
  * 翻译内容
