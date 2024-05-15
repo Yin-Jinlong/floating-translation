@@ -81,21 +81,24 @@ async function buildServer() {
 
 async function buildClient() {
     console.log('build client')
-    let bundle = await rollup({
-        input: 'src/client/index.ts',
-        plugins: [
-            typescript({
-                check: false
-            }),
-            resolve(),
-            commonjs(),
-        ]
+    process.chdir('src/client')
+    await build({
+        build: {
+            outDir: '../../dist',
+            reportCompressedSize: false,
+            minify: 'terser',
+            rollupOptions: {
+                input: 'index.ts',
+                output: {
+                    format: 'iife',
+                    entryFileNames: 'client.js',
+                }
+            }
+        },
+        plugins: [vue()]
     })
-    await bundle.write({
-        file: 'dist/client.js',
-        format: 'iife',
-        sourcemap: false
-    })
+
+    process.chdir('../../')
 }
 
 buildAll().then().catch(e => {

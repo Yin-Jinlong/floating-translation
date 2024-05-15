@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "world": "ISOLATED",
-      "js": ["content.js"],
+      "js": ["client.js"],
       "css": ["main.css"],
       "matches": ["*://*/*"]
     }
